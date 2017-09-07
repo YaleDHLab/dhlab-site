@@ -1,0 +1,12 @@
+<div class='two-column-container one-third-width'>
+  <div class='left-column'>
+    {% assign image_url = include.team_member.image | prepend: site.baseurl %}
+    <div class='square-image background-image'
+      style='background-image:url({{ image_url }})'></div>
+  </div>
+  <div class='right-column'>
+    <h3>{{ include.team_member.name }}</h3>
+    <div class='small-uppercase'>{{ include.team_member.role }}</div>
+    <div>{{ include.team_member.content }}</div>
+  </div>
+</div>

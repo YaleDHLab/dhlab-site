@@ -1,0 +1,24 @@
+<section>
+  <h2>{{ include.label }}</h2>
+  <hr class='no-margin' />
+  {% assign counter = 0 %}
+  <div class='three-spaced-events-container'>
+    <div class='three-spaced-events'>
+      <div class='three-spaced-events-table'>
+        {% for event in include.events %}
+          {% if counter < 3 %}
+            <a href={{ event.url }} class='spaced-event'>
+              {% assign event_image = event.image | prepend: site.baseurl %}
+              <div class='background-image spaced-event-image event-date-container'
+                style='background-image: url({{ event_image }})'>
+                {% include events/event_date.html event=event %}
+              </div>
+              <h3>{{ event.title }}</h3>
+            </a>
+            {% assign counter = counter | plus: 1 %}
+          {% endif %}
+        {% endfor %}
+      </div>
+    </div>
+  </div>
+</section>

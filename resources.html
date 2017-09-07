@@ -1,0 +1,80 @@
+---
+layout: default
+class: resources
+---
+
+<div class='center-column'>
+  {% capture text %}
+    <div>Lorem ipsum dolor sit amet, nullam ut potenti mauris, eu nisl aenean volutpat sodales, luctus accumsan lacus a, pede ipsum amet, a turpis. Lorem et auctor nulla, aliquet netus eget consectetuer lacus ullamcorper. Molestie id porta, morbi etiam tellus molestie nunc id, quam ad neque ultrices.</div>
+  {% endcapture %}
+
+  {% include text/one-third-width/one_third_split_text_block.html
+    title='Resources'
+    text=text
+  %}
+
+  {% include text/center_section_title.html
+    text='WHAT WE OFFER'
+  %}
+
+  {% capture left_text_one %}
+    <p>Lorem ipsum dolor sit amet, turpis odio molestie, lobortis faucibus pharetra et orci auctor, scelerisque sodales turpis ante congue velit eros, orci in, est pulvinar condimentum mi egestas. Arcu curabitur est rutrum inceptos, voluptatem elit lorem, lacus tempor mattis elit penatibus urna, aut cursus quis in et mus.</p>
+    <a href='#consultations' class='white-button'>Learn More</a>
+  {% endcapture %}
+
+  {% capture left_text_two %}
+    <p>Lorem ipsum dolor sit amet, turpis odio molestie, lobortis faucibus pharetra et orci auctor, scelerisque sodales turpis ante congue velit eros, orci in, est pulvinar condimentum mi egestas. Arcu curabitur est rutrum inceptos, voluptatem elit lorem, lacus tempor mattis elit penatibus urna, aut cursus quis in et mus.</p>
+    <p>Eget sollicitudin risus arcu atque ut, ligula suspendisse nunc pulvinar mi. Sit sit egestas metus proin at. Augue hymenaeos magna leo mauris mollis mi. Augue id justo sit ligula urna ullamcorper, magna facilisi neque, vestibulum et nonummy, nulla elit lorem blandit, tincidunt ut cras suscipit lacinia mauris. Est torquent diam suscipit et purus.</p>
+    <a href='#office-hours' class='white-button'>Office Hours</a>
+  {% endcapture %}
+
+  {% capture left_text_three %}
+    <p>Lorem ipsum dolor sit amet, turpis odio molestie, lobortis faucibus pharetra et orci auctor, scelerisque sodales turpis ante congue velit eros, orci in, est pulvinar condimentum mi egestas. Arcu curabitur est rutrum inceptos, voluptatem elit lorem, lacus tempor mattis elit penatibus urna, aut cursus quis in et mus.</p>
+    <p>Eget sollicitudin risus arcu atque ut, ligula suspendisse nunc pulvinar mi. Sit sit egestas metus proin at. Augue hymenaeos magna leo mauris mollis mi. Augue id justo sit ligula urna ullamcorper, magna facilisi neque, vestibulum et nonummy, nulla elit lorem blandit, tincidunt ut cras suscipit lacinia mauris. Est torquent diam suscipit et purus.</p>
+    <a href='#learn-more' class='white-button'>Learn More</a>
+  {% endcapture %}
+
+  {% capture right_text_one %}
+    <p>Lorem ipsum dolor sit amet, turpis odio molestie, lobortis faucibus pharetra et orci auctor, scelerisque sodales turpis ante congue velit eros, orci in, est pulvinar condimentum mi egestas. Arcu curabitur est rutrum inceptos, voluptatem elit lorem, lacus tempor mattis elit penatibus urna, aut cursus quis in et mus.</p>
+    <p>Lorem ipsum dolor sit amet, turpis odio molestie, lobortis faucibus pharetra et orci auctor, scelerisque sodales turpis ante congue velit eros, orci in, est pulvinar condimentum mi egestas. Arcu curabitur est rutrum inceptos, voluptatem elit lorem, lacus tempor mattis elit penatibus urna, aut cursus quis in et mus.</p>
+    <a href='#make-an-appointment' class='white-button'>Make an appointment</a>
+  {% endcapture %}
+
+  {% capture right_text_two %}
+    <p>Lorem ipsum dolor sit amet, turpis odio molestie, lobortis faucibus pharetra et orci auctor, scelerisque sodales turpis ante congue velit eros, orci in, est pulvinar condimentum mi egestas. Arcu curabitur est rutrum inceptos, voluptatem elit lorem, lacus tempor mattis elit penatibus urna, aut cursus quis in et mus.</p>
+    <p>Eget sollicitudin risus arcu atque ut, ligula suspendisse nunc pulvinar mi. Sit sit egestas metus proin at. Augue hymenaeos magna leo mauris mollis mi. Augue id justo sit ligula urna ullamcorper, magna facilisi neque, vestibulum et nonummy, nulla elit lorem blandit, tincidunt ut cras suscipit lacinia mauris. Est torquent diam suscipit et purus.</p>
+    <a href='#view-schedule' class='white-button'>View schedule</a>
+  {% endcapture %}
+
+  {% capture right_text_three %}
+    <p>Lorem ipsum dolor sit amet, turpis odio molestie, lobortis faucibus pharetra et orci auctor, scelerisque sodales turpis ante congue velit eros, orci in, est pulvinar condimentum mi egestas. Arcu curabitur est rutrum inceptos, voluptatem elit lorem, lacus tempor mattis elit penatibus urna, aut cursus quis in et mus.</p>
+    <p>Eget sollicitudin risus arcu atque ut, ligula suspendisse nunc pulvinar mi. Sit sit egestas metus proin at. Augue hymenaeos magna leo mauris mollis mi. Augue id justo sit ligula urna ullamcorper, magna facilisi neque, vestibulum et nonummy, nulla elit lorem blandit, tincidunt ut cras suscipit lacinia mauris. Est torquent diam suscipit et purus.</p>
+    <a href='#github' class='white-button'>Go to GitHub</a>
+  {% endcapture %}
+
+  {% include text/color_half_width.html
+    left_title_one='Consultations'
+    left_text_one=left_text_one
+
+    left_title_two='Office Hours'
+    left_text_two=left_text_two
+
+    left_title_three='Data'
+    left_text_three=left_text_three
+
+    right_title_one='Space & Equipment'
+    right_text_one=right_text_one
+
+    right_title_two='Workshops'
+    right_text_two=right_text_two
+
+    right_title_three='Github Repository'
+    right_text_three=right_text_three
+  %}
+
+  {% assign events = site.events | limit: 3 %}
+  {% include events/text_only_events.html
+    events=events
+    label='WORKSHOPS'
+  %}
+</div>

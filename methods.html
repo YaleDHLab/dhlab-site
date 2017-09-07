@@ -1,0 +1,92 @@
+---
+layout: default
+class: what-is-dh
+---
+
+<div class='center-column'>
+  {% capture text %}
+    <div>Lorem ipsum dolor sit amet, nullam ut potenti mauris, eu nisl aenean volutpat sodales, luctus accumsan lacus a, pede ipsum amet, a turpis. Lorem et auctor nulla, aliquet netus eget consectetuer lacus ullamcorper. Molestie id porta, morbi etiam tellus molestie nunc id, quam ad neque ultrices.</div>
+  {% endcapture %}
+
+  {% include text/one-third-width/one_third_split_text_block.html
+    title='What is Digital Humanities?'
+    text=text
+  %}
+
+  {% include text/center_section_title.html
+    text='START HERE'
+  %}
+
+  {% capture left_text_one %}
+    <p>Lorem ipsum dolor sit amet, turpis odio molestie, lobortis faucibus pharetra et orci auctor, scelerisque sodales turpis ante congue velit eros, orci in, est pulvinar condimentum mi egestas. Arcu curabitur est rutrum inceptos, voluptatem elit lorem, lacus tempor mattis elit penatibus urna, aut cursus quis in et mus.</p>
+    <p>Eget sollicitudin risus arcu atque ut, ligula suspendisse nunc pulvinar mi. Sit sit egestas metus proin at. Augue hymenaeos magna leo mauris mollis mi. Augue id justo sit ligula urna ullamcorper, magna facilisi neque, vestibulum et nonummy, nulla elit lorem blandit, tincidunt ut cras suscipit lacinia mauris. Est torquent diam suscipit et purus.</p>
+  {% endcapture %}
+
+  {% capture left_text_two %}
+    <p>Lorem ipsum dolor sit amet, turpis odio molestie, lobortis faucibus pharetra et orci auctor, scelerisque sodales turpis ante congue velit eros, orci in, est pulvinar condimentum mi egestas. Arcu curabitur est rutrum inceptos, voluptatem elit lorem, lacus tempor mattis elit penatibus urna, aut cursus quis in et mus.</p>
+    <p>Eget sollicitudin risus arcu atque ut, ligula suspendisse nunc pulvinar mi. Sit sit egestas metus proin at. Augue hymenaeos magna leo mauris mollis mi. Augue id justo sit ligula urna ullamcorper, magna facilisi neque, vestibulum et nonummy, nulla elit lorem blandit, tincidunt ut cras suscipit lacinia mauris. Est torquent diam suscipit et purus.</p>
+  {% endcapture %}
+
+  {% capture right_text_one %}
+    <p>Lorem ipsum dolor sit amet, turpis odio molestie, lobortis faucibus pharetra et orci auctor, scelerisque sodales turpis ante congue velit eros, orci in, est pulvinar condimentum mi egestas. Arcu curabitur est rutrum inceptos, voluptatem elit lorem, lacus tempor mattis elit penatibus urna, aut cursus quis in et mus.</p>
+    <p>Eget sollicitudin risus arcu atque ut, ligula suspendisse nunc pulvinar mi. Sit sit egestas metus proin at. Augue hymenaeos magna leo mauris mollis mi. Augue id justo sit ligula urna ullamcorper, magna facilisi neque, vestibulum et nonummy, nulla elit lorem blandit, tincidunt ut cras suscipit lacinia mauris. Est torquent diam suscipit et purus.</p>
+  {% endcapture %}
+
+  {% capture right_text_two %}
+    <p>Lorem ipsum dolor sit amet, turpis odio molestie, lobortis faucibus pharetra et orci auctor, scelerisque sodales turpis ante congue velit eros, orci in, est pulvinar condimentum mi egestas. Arcu curabitur est rutrum inceptos, voluptatem elit lorem, lacus tempor mattis elit penatibus urna, aut cursus quis in et mus.</p>
+    <p>Eget sollicitudin risus arcu atque ut, ligula suspendisse nunc pulvinar mi. Sit sit egestas metus proin at. Augue hymenaeos magna leo mauris mollis mi. Augue id justo sit ligula urna ullamcorper, magna facilisi neque, vestibulum et nonummy, nulla elit lorem blandit, tincidunt ut cras suscipit lacinia mauris. Est torquent diam suscipit et purus.</p>
+  {% endcapture %}
+
+  {% include text/color_half_width.html
+    left_title_one='DH in Research and Practice'
+    left_text_one=left_text_one
+
+    left_title_two='Why Digital Humanities?'
+    left_text_two=left_text_two
+
+    right_title_one='Begin with a Question'
+    right_text_one=right_text_one
+
+    right_title_two='Is DH right for me?'
+    right_text_two=right_text_two
+  %}
+
+  {% capture text %}
+    <div>Lorem ipsum dolor sit amet, nullam ut potenti mauris, eu nisl aenean volutpat sodales, luctus accumsan lacus a, pede ipsum amet, a turpis. Lorem et auctor nulla, aliquet netus eget consectetuer lacus ullamcorper. Molestie id porta, morbi etiam tellus molestie nunc id, quam ad neque ultrices.</div>
+  {% endcapture %}
+
+  {% include text/one-third-width/one_third_split_text_block.html
+    title='What do DH projects look like?'
+    text=text
+  %}
+
+  {% include text/center_section_title.html
+    text='COMPUTATIONAL AREAS IN DH'
+  %}
+
+  {% assign top_left = site.methods | where: 'order', 0 | first %}
+  {% assign top_right = site.methods | where: 'order', 1 | first %}
+  {% assign bottom_left = site.methods | where: 'order', 2 | first %}
+  {% assign bottom_right = site.methods | where: 'order', 3 | first %}
+
+  {% include grids/four_rectangle_image_grid.html  
+
+    top_left_image=top_left.thumbnail
+    top_left_url=top_left.url
+    top_left_title=top_left.title
+    
+    top_right_image=top_right.thumbnail
+    top_right_url=top_right.url
+    top_right_title=top_right.title
+
+    bottom_left_image=bottom_left.thumbnail
+    bottom_left_url=bottom_left.url
+    bottom_left_title=bottom_left.title
+
+    bottom_right_image=bottom_right.thumbnail
+    bottom_right_url=bottom_right.url
+    bottom_right_title=bottom_right.title
+  %}
+
+  {% include bottom_buttons_methods.html %}
+</div>

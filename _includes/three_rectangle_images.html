@@ -1,0 +1,16 @@
+<div class='one-third-rectangle-cards'>
+  {% for item in include.items %}
+    {% if item.order != include.skip_number %}
+      <a href='{{ item.url }}' class='one-third-rectangle-container'>
+        <div class='one-third-rectangle-card background-image'
+          style='background-image:url({{ item.thumbnail }})'>
+          <div class='dark-overlay'></div>
+          {% include centered_image_title.html
+            title=item.title
+            subtitle=item.subtitle
+          %}
+        </div>
+      </a>
+    {% endif %}
+  {% endfor %}
+</div>

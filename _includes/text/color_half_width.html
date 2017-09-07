@@ -1,0 +1,36 @@
+<div class='color-background circle-caret'>
+  <div class='two-column-container one-half-width'>
+    <div class='left-column'>
+      <h3>{{ include.left_title_one }}</h3>
+      {{ include.left_text_one }}
+      
+      {% if include.left_title_two %}
+      <hr/>
+      <h3>{{ include.left_title_two }}</h3>
+      {{ include.left_text_two }}
+      {% endif %}
+
+      {% if include.left_title_three %}
+      <hr/>
+      <h3>{{ include.left_title_three }}</h3>
+      {{ include.left_text_three }}
+      {% endif %}
+    </div>
+    <div class='right-column'>
+      <h3>{{ include.right_title_one }}</h3>
+      {{ include.right_text_one }}
+      
+      {% if include.right_title_two %}
+      <hr/>
+      <h3>{{ include.right_title_two }}</h3>
+      {{ include.right_text_two }}
+      {% endif %}
+
+      {% if include.right_title_three %}
+      <hr/>
+      <h3>{{ include.right_title_three }}</h3>
+      {{ include.right_text_three }}
+      {% endif %}
+    </div>
+  </div>
+</div>

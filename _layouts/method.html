@@ -1,0 +1,28 @@
+---
+layout: default
+---
+
+{% include captioned_hero.html
+  label='WHAT IS DIGITAL HUMANITIES?'
+  title=page.title
+  image=page.image
+  caption=page.caption
+%}
+
+<div class='center-column post'>
+  <div class='two-column-container one-third-width text-top'>
+    <div class='left-column'>
+    
+    </div>
+    <div class='right-column'>
+      {{ content }}
+    </div>
+  </div>
+  {% assign items = site.methods | sort: 'order' %}
+  {% include three_rectangle_images.html
+    items=items
+    skip_number=page.order
+  %}
+
+  {% include bottom_buttons_methods.html %}
+</div>

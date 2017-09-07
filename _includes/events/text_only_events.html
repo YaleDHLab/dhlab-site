@@ -1,0 +1,12 @@
+<section class='text-only-events'>
+  <h2>{{ include.label }}</h2>
+  <hr/>
+  {% for event in include.events limit: 3 %}
+    <div class='text-only-event'>
+      <h3>{{ event.title }}</h3>
+      <div class='small-uppercase'>{{ event.date | date: '%b %d' }}</div>
+      <p>{{ event.content | truncatewords: 30 }}</p>
+      <a href='{{ event.url }}'>Learn More &raquo;</a>
+    </div>
+  {% endfor %}
+</section>

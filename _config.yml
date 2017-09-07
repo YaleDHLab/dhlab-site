@@ -1,0 +1,58 @@
+baseurl: ''
+
+# render posts with dates in the future
+future: true
+
+# minify assets
+sass:
+  style: compressed
+
+# render collections
+collections:
+  events:
+    output: true
+  news:
+    output: true
+  projects:
+    output: true
+  guides:
+    output: true
+  methods:
+    output: true
+  team:
+    output: false
+
+# default layouts
+defaults:
+  - scope:
+      path: ''
+      type: 'news'
+    values:
+      layout: news
+  - scope:
+      path: ''
+      type: 'events'
+    values:
+      layout: event
+  - scope:
+      path: ''
+      type: 'guides'
+    values:
+      layout: guide
+  - scope:
+      path: ''
+      type: 'methods'
+    values:
+      layout: method
+  - scope:
+      path: ''
+      type: 'projects'
+    values:
+      layout: project
+
+# social media
+twitter: YaleDHLab
+instagram: yaledhlab
+facebook: YaleDHLab
+email: dhlab@yale.edu
+phone: 203-432-123

@@ -1,0 +1,78 @@
+---
+layout: default
+class: about
+---
+
+{% capture caption %}
+  The image shown here is kindly made available under a Creative Commons CC-BY-NC license by permission of CIRCSE Research Centre, Università Cattolica del Sacro Cuore, Milan, Italy. For further information, or to request permission for reuse, please contact Marco Passarotti, on marco.passarotti AT unicatt.it, or by post: Largo Gemelli 1, 20123 Milan, Italy.
+{% endcapture %}
+
+{% include captioned_hero.html
+  label='About'
+  title='The Yale Digital Humanities Laboratory'
+  caption=caption
+  image='/assets/images/about/busa.png'
+%}
+
+<div class='center-column'>
+  <div class='two-column-container one-third-width'>
+    <div class='left-column'>
+      <div class='double-line-height'>
+        <div class='color-text'><b>About the Yale DHLab</b></div>
+        <div><b>Our Team</b></div>
+        <div><b>Post-Doctoral Associates</b></div>
+        <div><b>DH Teaching Fellows</b></div>
+        <div><b>DH Executive Committee</b></div>
+      </div>
+      <br>
+      <hr class='no-margin'>
+      <br>
+      <div><b>Office Hours</b> are Tuesdays and Wednesdays from 2-4 pm. Visit us at Sterling Memorial Library, Room 316.</div>
+      <br>
+      <a href='#newsletter' class='color-button'>Sign up for E-News</a>
+    </div>
+    <div class='right-column'>
+      <p>Yale's roots in digital humanities undertakings date back (at least) to Father Roberto Busa's visit to our campus on September 24, 1956.* The 2015 founding of the Yale Digital Humanities Laboratory (DHLab) signifies the University's continued commitment to cutting-edge research and teaching in the humanities. Offering space, community, and resources for Yale faculty and students who are working with digital methods to pursue humanistic inquiries, the DHLab functions as a hub on the Yale campus for digital humanities resarch and teaching. Staff are available to help at any stage in a project, from conceptualization to implementation.</p>
+      <p>Generously funded by the Goizueta Foundation, the DHLab is committed to advancing science, technology, engineering, the arts, and mathematics (STEAM) teaching and research at Yale. In addition to facilitating cross-disciplinary collaborations on campus, the DHLab also promotes faculty and student initiatives that reach beyond the University to engage wider publics.</p>
+      <p>*Father Busa is credited with being the founder of humanities computing. His concordance of the works of Saint Thomas Aquinas is the founding example of digital humanities research.</p>
+    </div>
+  </div>
+  <br/>
+  <h3 class='center-text'>OUR TEAM</h3>
+  <br/>
+  <div class='color-background'>
+    {% assign team_members = site.team | sort: 'order' %}
+    {% for team_member in team_members %}
+      {% include team_member.html team_member=team_member %}
+    {% endfor %}
+  </div>
+  <section>
+    <div class='two-column-container half-width'>
+      <div class='left-column'>
+        <h3>Digital Humanities Lab Assistants</h3>
+        <p>Project Assistants collaborate on digital humanities research undertaken by Yale faculty and students.</p>
+        <br/>
+        <div class='double-line-height'>
+          <div class='small-uppercase'>2016-2017 Project Assistants</div>
+          <div><b>Serena Lau</b>, Environmental Anthropology major</div>
+          <div><b>Brandon Menke</b>, English PhD student</div>
+          <div><b>Abhishek Nayar</b>, Computer Science and Economics major</div>
+          <div><b>Pauli Xu</b>, Applied Math, Humanities, and Computer Science major</div>
+        </div>
+        <br/>
+        <div class='double-line-height'>
+          <div class='small-uppercase'>2015-2016 Project Assistants</div>
+          <div><b>Ye Seul Byeen</b>, History major</div>
+          <div><b>Nicholas Hathaway</b>, Computer Science major</div>
+          <div><b>Michelle Lapadula</b>, Computer and the Arts major</div>
+          <div><b>Abhishek Nayar</b>, Computer Science and Economics major</div>
+        </div>
+      </div>
+      <div class='right-column'>
+        <h3>Work With Us</h3>
+        <p>Are you a programmer or just interested in working in digital humanities? Contact us about how to be a DHLab assistant and explore oure current <a href='#student-jobs'>Student Job Openings</a> for this academic year.</p>
+        <a class='color-button' href='#contact-us'>Contact Us</a>
+      </div>
+    </div>
+  </section>
+</div>

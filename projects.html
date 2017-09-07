@@ -1,0 +1,55 @@
+---
+layout: default
+class: projects
+---
+
+{% for project in site.projects %}
+  {% if project.featured %}
+    {% assign project = project %}
+  {% endif %}
+{% endfor %}
+
+{% include captioned_hero.html
+  label='Feature'
+  title=project.title
+  image=project.image
+  caption=project.caption
+%}
+
+{% assign counter=0 %}
+<div class='center-column'>
+  <div class='projects-container'>
+    {% for project in site.projects %}
+      {% unless project.featured %}
+        {% assign category=project.categories | first %}
+        {% assign mod=counter | modulo:2 %}
+        {% if mod==0 %}
+        <div class='two-column-container half-width'>
+        {% endif %}
+          <div class={% cycle 'left-column', 'right-column' %}>
+            <div class='project-image-container'>
+              <a href='{{ project.url | prepend: site.baseurl }}'>
+                <div class='background-image'
+                  style='background-image:url("{{ project.image | prepend: site.baseurl }}")'>
+                </div>
+                {% include cards/card_title_box.html
+                  label=category
+                  title=project.title
+                %}
+              </a>
+            </div>
+          </div>
+        {% if mod==1 %}
+        </div>
+        {% endif %}
+        {% assign counter=counter | plus: 1 %}
+      {% endunless %}
+    {% endfor %}
+  </div>
+
+  {% assign events = site.events | limit: 3 %}
+  {% include events/text_only_events.html
+    events=events
+    label='FROM THE ARCHIVES'
+  %}
+</div>

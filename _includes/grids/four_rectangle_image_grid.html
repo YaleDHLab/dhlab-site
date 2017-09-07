@@ -1,0 +1,38 @@
+<div class='rectangle-image-grid circle-caret'>
+  <div class='two-column-container one-half-width'>
+    <div class='left-column'>
+      {% include grids/four_rectangle_image_grid_cell.html 
+        url=include.top_left_url
+        image=include.top_left_image
+        title=include.top_left_title
+        subtitle=include.top_left_subtitle
+      %}
+    </div>
+    <div class='right-column'>
+      {% include grids/four_rectangle_image_grid_cell.html 
+        url=include.top_right_url
+        image=include.top_right_image
+        title=include.top_right_title
+        subtitle=include.top_right_subtitle
+      %}
+    </div>
+  </div>
+  <div class='two-column-container one-half-width'>
+    <div class='left-column'>
+      {% include grids/four_rectangle_image_grid_cell.html 
+        url=include.bottom_left_url
+        image=include.bottom_left_image
+        title=include.bottom_left_title
+        subtitle=include.bottom_left_subtitle
+      %}
+    </div>
+    <div class='right-column'>
+      {% include grids/four_rectangle_image_grid_cell.html 
+        url=include.bottom_right_url
+        image=include.bottom_right_image
+        title=include.bottom_right_title
+        subtitle=include.bottom_right_subtitle
+      %}
+    </div>
+  </div>
+</div>

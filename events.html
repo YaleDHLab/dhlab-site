@@ -1,0 +1,44 @@
+---
+layout: default
+class: events
+---
+<div class='center-column'>
+  <section class='upcoming-events'>
+    <h2>UPCOMING EVENTS</h2>
+    <hr/>
+    {% for event in site.events %}
+      {% if event.date and event.time and event.location and event.content %}
+        <div class='upcoming-event'>
+          <a href='{{ event.url | prepend: site.baseurl }}'>
+            <div class='event-stripe'></div>
+            <div class='event-image-container'>
+              <div class='event-image background-image event-date-container'
+                style='background-image: url({{ event.image }})'>
+                {% include events/event_date.html event=event %}
+              </div>
+            </div>
+          </a>
+          <div class='event-text'>
+            <a href='{{ event.url | prepend: site.baseurl }}'>
+              {% include events/event_metadata.html event=event %}
+              <div>{{ event.content | truncatewords: 25 }}</div>
+            </a>
+            <a href='#registration' class='color-button'>Register</a>
+          </div>
+        </div>
+      {% endif %}
+    {% endfor %}
+  </section>
+
+  {% assign events = site.events | limit: 3 %}
+  {% include events/text_only_events.html
+    events=events
+    label='ON CAMPUS'
+  %}
+  
+  {% assign events = site.events | limit: 3 %}
+  {% include events/three_spaced_events.html
+    events=events
+    label='PAST EVENTS'
+  %}
+</div>

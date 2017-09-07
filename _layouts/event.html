@@ -1,0 +1,27 @@
+---
+layout: default
+class: event
+---
+<div class='center-column event'>
+  <section>
+    <h2>EVENTS</h2>
+    <hr class='no-margin'>
+    <div class='two-column-container one-third-width'>
+      <div class='left-column'>
+        {% include events/event_metadata.html event=page %}
+        {% assign image_url = page.image | prepend: site.baseurl %}
+        <div class='square-image background-image'
+          style='background-image:url({{ image_url }})'></div>
+      </div>
+      <div class='right-column'>
+        {{ content }}
+        <a href='#register' class='color-button'>Register</a>
+      </div>
+    </div>
+  </section>
+  {% assign events = site.events | limit: 3 %}
+  {% include events/text_only_events.html
+    label='Related'
+    events=events
+  %}
+</div>

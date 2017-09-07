@@ -1,0 +1,25 @@
+---
+layout: default
+---
+
+{% include captioned_hero.html
+  label='PROJECTS'
+  title=page.title
+  image=page.image
+  caption=page.caption
+%}
+
+<div class='center-column post'>
+  <div class='two-column-container one-third-width'>
+    <div class='left-column'>
+    {% for team_member in page.team %}
+      <div><b>{{ team_member.name }}</b></div>
+      <div>{{ team_member.position }}</div>
+      <br/>
+    {% endfor %}
+    </div>
+    <div class='right-column'>
+      {{ content }}
+    </div>
+  </div>
+</div>

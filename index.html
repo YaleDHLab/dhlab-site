@@ -1,0 +1,112 @@
+---
+layout: default
+class: home
+---
+<div class='hero background-image'>
+  <div>YALE DIGITAL SCHOLARSHIP</div>
+  <h1>Yale Digital Humanities Lab</h1>
+  <a href='{{ site.baseurl }}/methods.html' class='white-button'>What is Digital Humanities?</a>
+</div>
+<div class='center-column'>
+  
+  <!-- HOME EVENTS -->
+  <section>
+    <a href='{{ site.baseurl }}/events.html'>
+      <div class='small-uppercase'>EVENTS CALENDAR</div>
+    </a>
+    <div class='home-events-container'>
+      {% for event in site.events reversed limit: 3 %}
+        <a href='{{ event.url | prepend: site.baseurl }}'>
+          {% assign image_url = event.image | prepend: site.baseurl %}
+          <div class='home-event-image background-image event-date-container'
+              style='background-image: url({{ image_url }})'>
+            {% include events/event_date.html event=event %}
+          </div>
+          {% assign label=event.categories | first %}
+          {% include cards/card_title_box.html
+            label=label
+            title=event.title %}
+        </a>
+      {% endfor %}
+    </div>
+  </section>
+
+  <!-- HOME NEWS -->
+  <section>
+    <a href='{{ site.baseurl }}/news.html'>
+      <div class='small-uppercase'>WHAT'S NEW</div>
+    </a>
+    <div class='full-width-card large-card'>
+      {% assign item = site.news | reverse | first %}
+      <a href='{{ item.url | prepend: site.baseurl }}'>
+        {% assign image_url = item.thumbnail | prepend: site.baseurl %}
+        <div class='full-width-card-image background-image'
+          style='background-image: url({{ image_url }})'>
+        </div>
+        {% assign label = item.categories | first %}
+        {% include cards/card_title_box.html
+          label=label
+          title=item.title %}
+      </a>
+      <div class='large-card-text desktop'>
+        <div class='button-prompt'>
+          <b>Subscribe to our e-newsletter</b> to stay posted on the latest digital humanities news, events, and opportunities.
+        </div>
+        <a href='{{ site.baseurl }}#sign-up' class='color-button'>
+          <b>Sign up for E-News</b>
+        </a>
+      </div>
+    </div>
+  </section>
+
+  <!-- TABLET NEWSLETTER -->
+  <div class='tablet newsletter background-image'>
+    <div class='small-uppercase center-text'>NEWSLETTER</div>
+    <div class='newsletter-text'>
+      <div><b>Subscribe to our e-newsletter</b>to stay posted on the latest digital humanities news, events, and opportunities.</div>
+      <input type='text'>
+      <a href='#newsletter' class='color-button'>Sign up for E-News</a>
+    </div>
+  </div>
+
+  <!-- HOME SPOTLIGHT -->
+  <section>
+    <div class='small-uppercase'>SPOTLIGHT</div>
+    <div class='two-thirds-width-card large-card'>
+      {% for news_item in site.news reversed %}
+        {% if news_item.spotlight %}
+          {% assign item = news_item %}
+        {% endif %}
+      {% endfor %}
+      <div class='height-container'>
+        <a href='{{ item.url | prepend: site.baseurl }}'>
+          {% assign image_url = item.thumbnail | prepend: site.baseurl %}
+          <div class='two-thirds-width-card-image background-image'
+            style='background-image: url({{ image_url }})'>
+          </div>
+        </a>
+        <div class='color-square'>
+          <div><b>Office Hours</b></div>
+          <div class='white-text'><b>Tue &amp; Wed. 2-4 pm</b></div>
+          <p>Offering space, community, and resources, the DHLab supports Yale faculty and students who are working with digital methods to pursue humanistic inquiries</p>
+          <p>We support projects in all stages of development&mdash;from conceptualization through implementation.</p>
+          <a href='{{ site.baseurl }}#plan-visit' class='white-text'><b>Plan your visit &raquo;</b></a>
+        </div>
+      </div>
+      <div>
+        {% assign label = item.categories | first %}
+        {% include cards/card_title_box.html
+          label=label
+          title=item.title %}
+        <div class='large-card-text desktop'>
+          <div class='button-prompt'>
+            <b>Check out our project guidelines</b> for best practices in project design and planning in the digital humanities.
+          </div>
+          <a href='{{ site.baseurl }}/guides.html' class='color-button'>
+            <b>Start Here</b>
+          </a>
+        </div>
+      </div>
+    </div>
+  </section>
+</div>

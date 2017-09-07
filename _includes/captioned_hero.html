@@ -1,0 +1,10 @@
+<div class='hero background-image'
+  style='background-image:url({{ include.image }})'
+  ></div>
+<div class='hero-text-container'>
+  {% assign label = item.categories | first %}
+  {% include cards/card_title_box.html
+    label=include.label
+    title=include.title %}
+  <div class='hero-caption'>{{ include.caption }}</div>
+</div>

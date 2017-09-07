@@ -1,0 +1,6 @@
+_site
+.jekyll-metadata
+*.DS_Store
+*.pem
+*.swp
+*.swo

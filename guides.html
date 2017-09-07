@@ -1,0 +1,94 @@
+---
+layout: default
+class: guides
+---
+
+<div class='center-column'>
+  {% capture text %}
+    <div>Lorem ipsum dolor sit amet, nullam ut potenti mauris, eu nisl aenean volutpat sodales, luctus accumsan lacus a, pede ipsum amet, a turpis. Lorem et auctor nulla, aliquet netus eget consectetuer lacus ullamcorper. Molestie id porta, morbi etiam tellus molestie nunc id, quam ad neque ultrices.</div>
+  {% endcapture %}
+
+  {% include text/one-third-width/one_third_split_text_block.html
+    title='Quick Start Guide'
+    text=text
+  %}
+
+  {% include text/center_section_title.html
+    text='THE BASICS'
+  %}
+
+  {% capture left_text_one %}
+    <p>Lorem ipsum dolor sit amet, turpis odio molestie, lobortis faucibus pharetra et orci auctor, scelerisque sodales turpis ante congue velit eros, orci in, est pulvinar condimentum mi egestas. Arcu curabitur est rutrum inceptos, voluptatem elit lorem, lacus tempor mattis elit penatibus urna, aut cursus quis in et mus.</p>
+  {% endcapture %}
+
+  {% capture left_text_two %}
+    <p>Lorem ipsum dolor sit amet, turpis odio molestie, lobortis faucibus pharetra et orci auctor, scelerisque sodales turpis ante congue velit eros, orci in, est pulvinar condimentum mi egestas. Arcu curabitur est rutrum inceptos, voluptatem elit lorem, lacus tempor mattis elit penatibus urna, aut cursus quis in et mus.</p>
+    <p>Eget sollicitudin risus arcu atque ut, ligula suspendisse nunc pulvinar mi. Sit sit egestas metus proin at. Augue hymenaeos magna leo mauris mollis mi. Augue id justo sit ligula urna ullamcorper, magna facilisi neque, vestibulum et nonummy, nulla elit lorem blandit, tincidunt ut cras suscipit lacinia mauris. Est torquent diam suscipit et purus.</p>
+  {% endcapture %}
+
+  {% capture right_text_one %}
+    <p>Lorem ipsum dolor sit amet, turpis odio molestie, lobortis faucibus pharetra et orci auctor, scelerisque sodales turpis ante congue velit eros, orci in, est pulvinar condimentum mi egestas. Arcu curabitur est rutrum inceptos, voluptatem elit lorem, lacus tempor mattis elit penatibus urna, aut cursus quis in et mus.</p>
+  {% endcapture %}
+
+  {% capture right_text_two %}
+    <p>Lorem ipsum dolor sit amet, turpis odio molestie, lobortis faucibus pharetra et orci auctor, scelerisque sodales turpis ante congue velit eros, orci in, est pulvinar condimentum mi egestas. Arcu curabitur est rutrum inceptos, voluptatem elit lorem, lacus tempor mattis elit penatibus urna, aut cursus quis in et mus.</p>
+    <p>Eget sollicitudin risus arcu atque ut, ligula suspendisse nunc pulvinar mi. Sit sit egestas metus proin at. Augue hymenaeos magna leo mauris mollis mi. Augue id justo sit ligula urna ullamcorper, magna facilisi neque, vestibulum et nonummy, nulla elit lorem blandit, tincidunt ut cras suscipit lacinia mauris. Est torquent diam suscipit et purus.</p>
+  {% endcapture %}
+
+  {% include text/color_half_width.html
+    left_title_one='What is your Research Question?'
+    left_text_one=left_text_one
+
+    left_title_two='What are your Project Goals?'
+    left_text_two=left_text_two
+
+    right_title_one='Define your Data'
+    right_text_one=right_text_one
+
+    right_title_two='Project Timelines and Resources'
+    right_text_two=right_text_two
+  %}
+
+  {% capture text %}
+    <div>Lorem ipsum dolor sit amet, nullam ut potenti mauris, eu nisl aenean volutpat sodales, luctus accumsan lacus a, pede ipsum amet, a turpis. Lorem et auctor nulla, aliquet netus eget consectetuer lacus ullamcorper. Molestie id porta, morbi etiam tellus molestie nunc id, quam ad neque ultrices.</div>
+  {% endcapture %}
+
+  {% include text/one-third-width/one_third_split_text_block.html
+    title='What is involved in creating a digital humanities project?'
+    text=text
+  %}
+
+  {% include text/center_section_title.html
+    text='NEXT STEPS'
+  %}
+
+  {% assign top_left = site.guides | where: 'order', 0 | first %}
+  {% assign top_right = site.guides | where: 'order', 1 | first %}
+  {% assign bottom_left = site.guides | where: 'order', 2 | first %}
+  {% assign bottom_right = site.guides | where: 'order', 3 | first %}
+
+  {% include grids/four_rectangle_image_grid.html  
+
+    top_left_image=top_left.thumbnail
+    top_left_url=top_left.url
+    top_left_title=top_left.title
+    top_left_subtitle=top_left.subtitle
+    
+    top_right_image=top_right.thumbnail
+    top_right_url=top_right.url
+    top_right_title=top_right.title
+    top_right_subtitle=top_right.subtitle
+
+    bottom_left_image=bottom_left.thumbnail
+    bottom_left_url=bottom_left.url
+    bottom_left_title=bottom_left.title
+    bottom_left_subtitle=bottom_left.subtitle
+
+    bottom_right_image=bottom_right.thumbnail
+    bottom_right_url=bottom_right.url
+    bottom_right_title=bottom_right.title
+    bottom_right_subtitle=bottom_right.subtitle
+  %}
+
+  {% include bottom_buttons_guides.html %}
+</div>

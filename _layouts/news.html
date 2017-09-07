@@ -1,0 +1,29 @@
+---
+layout: default
+---
+
+{% if page.image_layout == 'landscape' %}
+  {% include captioned_hero.html
+    label='NEWS'
+    title=page.title
+    image=page.image
+    caption=page.caption
+  %}
+
+  <div class='center-column'>
+    <div class='two-column-container one-third-width'>
+      <div class='left-column no-pad-top'>
+
+      </div>
+      <div class='right-column no-pad-top'>
+      {{ content }}
+      </div>
+    </div>
+    {% assign events = site.events | limit: 3 %}
+    {% include events/text_only_events.html
+      label='RELATED'
+      events=events
+    %}
+  </div>
+
+{% endif %}
