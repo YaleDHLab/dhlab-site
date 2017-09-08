@@ -93,16 +93,17 @@ h3 {
 
 hr {
   height: 1px;
-  padding: 0;
-  margin-bottom: 30px;
   color: #fff;
   display: block;
   border: 0;
-  border-top: 1px solid #666; 
+  border-top: 1px solid #666;
+  margin: 0 $pad;
+  padding: 0 0 $pad 0;
 }
 
-hr.no-margin {
+hr.no-margin-bottom {
   margin-bottom: 0;
+  padding-bottom: 0;
 }
 
 .small-uppercase {
@@ -120,8 +121,8 @@ hr.no-margin {
   color: $color;
 }
 
-.double-line-height {
-  line-height: 2em;
+.center-text {
+  text-align: center;
 }
 
 /**
@@ -178,23 +179,6 @@ hr.no-margin {
 }
 
 /**
-* Backgrounds
-**/
-
-.color-background {
-  background-color: $color;
-  padding: $pad;
-}
-
-.color-background hr {
-  margin: 50px 0;
-}
-
-.color-background .white-button {
-  color: #000;
-}
-
-/**
 * Padding specifiers
 **/
 
@@ -217,19 +201,38 @@ hr.no-margin {
   border-bottom-right-radius: 30px;
   left: 50%;
   margin-left: -30px;
-  background-image: url(/assets/images/caret.png);
+  background-image: url(/assets/images/icons/caret.png);
   background-size: $pad;
   background-position: 10px -10px;
   background-repeat: no-repeat;
 }
 
 /**
-* Helpers
+* Backgrounds
 **/
 
-.center-text {
-  text-align: center;
+.color-background {
+  background-color: $color;
+  padding: $pad;
 }
+
+.color-background hr {
+  margin: 50px 0;
+  padding: 0;
+}
+
+.color-background h3 {
+  padding-top: 0;
+}
+
+.color-background .white-button {
+  color: #000;
+  margin-top: 10px;
+}
+
+/**
+* Helpers
+**/
 
 .clear-both {
   clear: both;
@@ -262,7 +265,7 @@ hr.no-margin {
 
 .two-column-container .left-column,
 .two-column-container .right-column {
-  padding: 50px;
+  padding: $pad;
   display: table-cell;
   vertical-align: top;
 }
@@ -280,7 +283,7 @@ hr.no-margin {
 /* Don't allow transforms on card titles to push the columns */
 .card-title-container + .two-column-container,
 .hero-caption + .two-column-container {
-  margin-top: -50px;
+  margin-top: -$pad;
 }
 
 /**
@@ -336,7 +339,7 @@ footer {
   display: inline-block;
   font-weight: 600;
   margin-left: 60px;
-  margin-left: calc((100% - 1020px)/2);
+  margin-left: calc((100% - 1000px)/2);
   text-decoration: none;
   color: #fff;
   padding: 5px 0;
@@ -361,6 +364,7 @@ footer {
 .nav-links {
   display: table;
   font-size: 15px;
+  line-height: 20px;
   padding: 0 100px;
   position: relative;
 }
@@ -372,6 +376,7 @@ footer {
 .nav-links .link > a {
   padding: 25px 20px;
   display: inline-block;
+  box-sizing: border-box;
 }
 
 .sublinks {
@@ -515,23 +520,23 @@ section {
 }
 
 /**
-* Partials: Text only events
+* Partials: Three text blocks
 **/
 
-.text-only-event {
+.three-text-blocks .block {
   display: inline-block;
   width: 33%;
   vertical-align: top;
   padding: 0 $pad;
 }
 
-.text-only-event h3 {
-  padding-bottom: 10px;
-}
-
-.text-only-event a {
+.three-text-blocks .block a:nth-of-type(2) {
   font-weight: 800;
   color: $color;
+}
+
+.three-text-blocks .block h3 {
+  padding: 0 0 10px;
 }
 
 /**
@@ -571,9 +576,10 @@ section {
   padding: $pad;
 }
 
-.three-spaced-events .spaced-event-image {
-  width: 100%;
+.three-spaced-events .background-image {
   height: 100%;
+  width: 100%;
+  display: table;
 }
 
 @media(max-width: $desktop_breakpoint) {
@@ -662,22 +668,30 @@ section {
   padding-bottom: 25%;
 }
 
-.rectangle-image-grid .left-column .background-image,
-.rectangle-image-grid .left-column .dark-overlay {
-  position: absolute;
-  top: 0;
-  right: 8px;
-  bottom: 16px;
-  left: 0px;
-}
-
-.rectangle-image-grid .right-column .background-image,
-.rectangle-image-grid .right-column .dark-overlay {
+.rectangle-image-grid .four-rectangle-grid-cell {
   position: absolute;
   top: 0;
   right: 0px;
   bottom: 16px;
+  left: 0px;
+  overflow: hidden;
+}
+
+.rectangle-image-grid .left-column .four-rectangle-grid-cell {
+  right: 8px;
+}
+
+.rectangle-image-grid .right-column .four-rectangle-grid-cell {
   left: 8px;
+}
+
+.rectangle-image-grid .background-image,
+.rectangle-image-grid .dark-overlay {
+  position: absolute;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 0;
 }
 
 .rectangle-image-grid.circle-caret:before {
@@ -688,11 +702,6 @@ section {
 .dark-overlay {
   background: rgba(0,0,0,0.55);
   z-index: 1;
-}
-
-.rectangle-image-grid .left-column:hover .dark-overlay,
-.rectangle-image-grid .right-column:hover .dark-overlay {
-  border: 6px solid $color;
 }
 
 .image-title-container {
@@ -706,6 +715,7 @@ section {
   text-align: center;
   left: 0;
   right: 0;
+  transition: top .1s;
 }
 
 .image-title-container .image-title {
@@ -715,6 +725,42 @@ section {
 .image-title-container .image-subtitle {
   font-size: 17px;
   font-weight: 100;
+}
+
+.four-rectangle-grid-cell .teaser {
+  top: 300px;
+  transition: top .1s;
+}
+
+/**
+* Rectangle image grid hover state
+**/
+
+.four-rectangle-grid-cell:hover .dark-overlay {
+  border: 6px solid $color;
+}
+
+.four-rectangle-grid-cell:hover .background-image,
+.four-rectangle-grid-cell:hover .background-image {
+  -webkit-filter: blur(4px);
+  -moz-filter: blur(4px);
+  -o-filter: blur(4px);
+  -ms-filter: blur(4px);
+  filter: blur(4px);
+}
+
+.four-rectangle-grid-cell:hover .image-title-container,
+.four-rectangle-grid-cell:hover .image-title-container {
+  top: 100px;
+}
+
+.four-rectangle-grid-cell:hover .teaser {
+  position: absolute;
+  top: 145px;
+  color: #fff;
+  z-index: 4;
+  width: 80%;
+  left: 10%;
 }
 
 /**
@@ -937,7 +983,7 @@ section {
 }
 
 /**
-* Events page
+* Events Landing Page
 **/
 
 .upcoming-event {
@@ -1007,16 +1053,97 @@ section {
 }
 
 /**
-* Event page
+* Event Detail Page
 **/
 
-.event .square-image {
-  margin-top: 30px;
+.event-detail-page .left-column h3 {
+  padding-top: 0;
 }
 
-.event .two-column-container .left-column,
-.event .two-column-container .right-column {
+.event-detail-page .square-image {
+  margin-bottom: 20px;
+  margin-right: 20%;
+  padding-bottom: 80%;
+}
+
+.event-detail-page .two-column-container .left-column,
+.event-detail-page .two-column-container .right-column {
   padding-bottom: 0;
+}
+
+/**
+* Event detail page social media
+**/
+
+.event-social-media {
+  padding-top: 10px;
+  font-weight: 600;
+  color: #999;
+}
+
+.event-social-media hr {
+  padding: 0;
+  margin: 0;
+  margin: 10px 0;
+  border-top: 1px solid #999;
+}
+
+.event-social-media div {
+  display: inline-block;
+}
+
+.share-icon,
+.marker-icon {
+  margin-right: 10px;
+  background-repeat: no-repeat;
+  background-size: 15px;
+  background-position: 0% 0px;
+  height: 15px;
+  width: 20px;
+  position: relative;
+  top: 3px;
+}
+
+.share-icon {
+  background-image: url('{{ site.baseurl }}/assets/images/icons/share-icon-dark.svg')
+}
+
+.marker-icon {
+  background-image: url('{{ site.baseurl }}/assets/images/icons/marker-icon-dark.svg')
+}
+
+.event-social-media a:hover {
+  color: #000;
+}
+
+.event-social-media a:hover .share-icon {
+  background-image: url('{{ site.baseurl }}/assets/images/icons/share-icon-color.svg')
+}
+
+.event-social-media a:hover .marker-icon {
+  background-image: url('{{ site.baseurl }}/assets/images/icons/marker-icon-color.svg')
+}
+
+/**
+* Event Tags
+**/
+
+.event-tags div,
+.event-tags a {
+  display: inline-block;
+  color: #999;
+}
+
+.event-tags div {
+  font-weight: 600;
+}
+
+.event-tags a {
+  font-weight: 400;
+}
+
+.event-tags a:hover {
+  color: $color;
 }
 
 /**
@@ -1052,7 +1179,7 @@ section {
 }
 
 /**
-* Methods Page
+* Methods Landing Page
 **/
 
 .what-is-dh .two-column-container p:last-of-type {
@@ -1060,12 +1187,12 @@ section {
 }
 
 /**
-* Guides Page
+* Guides Landing Page
 **/
 
 
 /**
-* Projects Page
+* Projects Landing Page
 **/
 
 .projects .hero {

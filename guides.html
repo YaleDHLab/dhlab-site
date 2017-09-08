@@ -1,6 +1,6 @@
 ---
 layout: default
-class: guides
+class: guides-landing-page
 ---
 
 <div class='center-column'>
@@ -9,7 +9,7 @@ class: guides
   {% endcapture %}
 
   {% include text/one-third-width/one_third_split_text_block.html
-    title='Quick Start Guide'
+    title='Start a Project'
     text=text
   %}
 
@@ -35,7 +35,7 @@ class: guides
     <p>Eget sollicitudin risus arcu atque ut, ligula suspendisse nunc pulvinar mi. Sit sit egestas metus proin at. Augue hymenaeos magna leo mauris mollis mi. Augue id justo sit ligula urna ullamcorper, magna facilisi neque, vestibulum et nonummy, nulla elit lorem blandit, tincidunt ut cras suscipit lacinia mauris. Est torquent diam suscipit et purus.</p>
   {% endcapture %}
 
-  {% include text/color_half_width.html
+  {% include text/color_blocks.html
     left_title_one='What is your Research Question?'
     left_text_one=left_text_one
 
@@ -68,26 +68,10 @@ class: guides
   {% assign bottom_right = site.guides | where: 'order', 3 | first %}
 
   {% include grids/four_rectangle_image_grid.html  
-
-    top_left_image=top_left.thumbnail
-    top_left_url=top_left.url
-    top_left_title=top_left.title
-    top_left_subtitle=top_left.subtitle
-    
-    top_right_image=top_right.thumbnail
-    top_right_url=top_right.url
-    top_right_title=top_right.title
-    top_right_subtitle=top_right.subtitle
-
-    bottom_left_image=bottom_left.thumbnail
-    bottom_left_url=bottom_left.url
-    bottom_left_title=bottom_left.title
-    bottom_left_subtitle=bottom_left.subtitle
-
-    bottom_right_image=bottom_right.thumbnail
-    bottom_right_url=bottom_right.url
-    bottom_right_title=bottom_right.title
-    bottom_right_subtitle=bottom_right.subtitle
+    top_left=top_left
+    top_right=top_right
+    bottom_left=bottom_left
+    bottom_right=bottom_right
   %}
 
   {% include bottom_buttons_guides.html %}

@@ -1,10 +1,14 @@
-<a href='{{ include.url | prepend: site.baseurl }}'>
-  <div class='dark-overlay'></div>
-  <div class='background-image'
-    style='background-image:url("{{ include.image | prepend: site.baseurl }}")'>  
+<a href='{{ include.item.url | prepend: site.baseurl }}'>
+  <div class='four-rectangle-grid-cell'>
+    <div class='dark-overlay'></div>
+    <div class='background-image'
+      style='background-image:url("{{ include.item.thumbnail | prepend: site.baseurl }}")'>
+    </div>
+    {% include centered_image_title.html
+      title=include.item.title
+      subtitle=include.item.subtitle
+      teaser=include.item.teaser
+    %}
+    <div class='teaser'>{{ include.item.teaser }}</div>
   </div>
-  {% include centered_image_title.html
-    title=include.title
-    subtitle=include.subtitle
-  %}
 </a>
