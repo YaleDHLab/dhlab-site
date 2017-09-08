@@ -1,6 +1,4 @@
 <div class='small-uppercase'>{{ include.event.categories | first }}</div>
 <h3>{{ include.event.title }}</h3>
 <br/>
-<div><b>{{ include.event.date | date: '%A, %B %-d, %Y' }}</b></div>
-<div><b>{{ include.event.time }}</b></div>
-<div><b>{{ include.event.location }}</b></div>
+{% include events/event_timestamp.html event=include.event %}

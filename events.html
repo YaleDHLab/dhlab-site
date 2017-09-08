@@ -31,8 +31,8 @@ class: events
   </section>
 
   {% assign events = site.events | limit: 3 %}
-  {% include events/text_only_events.html
-    events=events
+  {% include text/three_text_blocks.html
+    items=events
     label='ON CAMPUS'
   %}
   

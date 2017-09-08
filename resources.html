@@ -1,6 +1,6 @@
 ---
 layout: default
-class: resources
+class: resources-landing-page
 ---
 
 <div class='center-column'>
@@ -9,12 +9,12 @@ class: resources
   {% endcapture %}
 
   {% include text/one-third-width/one_third_split_text_block.html
-    title='Resources'
+    title='WHAT WE OFFER'
     text=text
   %}
 
   {% include text/center_section_title.html
-    text='WHAT WE OFFER'
+    text='RESOURCES'
   %}
 
   {% capture left_text_one %}
@@ -52,7 +52,7 @@ class: resources
     <a href='#github' class='white-button'>Go to GitHub</a>
   {% endcapture %}
 
-  {% include text/color_half_width.html
+  {% include text/color_blocks.html
     left_title_one='Consultations'
     left_text_one=left_text_one
 
@@ -73,8 +73,8 @@ class: resources
   %}
 
   {% assign events = site.events | limit: 3 %}
-  {% include events/text_only_events.html
-    events=events
+  {% include text/three_text_blocks.html
+    items=events
     label='WORKSHOPS'
   %}
 </div>

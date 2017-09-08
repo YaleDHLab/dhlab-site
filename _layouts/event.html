@@ -1,17 +1,38 @@
 ---
 layout: default
-class: event
+class: event-detail-page
 ---
-<div class='center-column event'>
+<div class='center-column event-detail-page'>
   <section>
     <h2>EVENTS</h2>
-    <hr class='no-margin'>
+    <hr class='no-margin-bottom'>
     <div class='two-column-container one-third-width'>
       <div class='left-column'>
-        {% include events/event_metadata.html event=page %}
+        <h3>{{ page.title }}</h3>
         {% assign image_url = page.image | prepend: site.baseurl %}
-        <div class='square-image background-image'
-          style='background-image:url({{ image_url }})'></div>
+        <div class='square-image background-image event-date-container'
+          style='background-image:url({{ image_url }})'>
+            {% include events/event_date.html event=page %}
+          </div>
+        {% include events/event_timestamp.html event=page %}
+        <div class='event-social-media'>
+          <hr/>
+          <a href='#share'>
+            <div>Share</div>
+            <div class='share-icon'></div>
+          </a>
+          <a href='#map'>
+            <div>Maps & Directions</div>
+            <div class='marker-icon'></div>
+          </a>
+          <hr/>
+        </div>
+        <div class='event-tags'>
+          <div>Tags:</div>
+          {% for tag in page.tags %}
+            <a href='{{ site.baseurl }}/events.html?tag={{ tag }}'>{{ tag }}</a>
+          {% endfor %}
+        </div>
       </div>
       <div class='right-column'>
         {{ content }}
@@ -20,8 +41,8 @@ class: event
     </div>
   </section>
   {% assign events = site.events | limit: 3 %}
-  {% include events/text_only_events.html
-    label='Related'
-    events=events
+  {% include text/three_text_blocks.html
+    items=events
+    label='RELATED NEWS'
   %}
 </div>
