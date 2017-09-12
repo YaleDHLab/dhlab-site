@@ -27,12 +27,11 @@ class: news-landing-page
 
       {% capture button_prompt %}
       <div class='button-prompt'>
-          Subscribe to our e-newsletter for the latest news and events.
-        </div>
-        <a href='{{ site.baseurl }}/guides.html' class='color-button'>
-          <b>Sign up for E-News</b>
-        </a>
+        Subscribe to our e-newsletter for the latest news and events.
       </div>
+      <a href='{{ site.baseurl }}/guides.html' class='color-button'>
+        <b>Sign up for E-News</b>
+      </a>
       {% endcapture %}
 
       {% include cards/news_card.html
