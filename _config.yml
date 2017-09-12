@@ -78,3 +78,9 @@ facebook: YaleDHLab
 github: YaleDHLab
 email: dhlab@yale.edu
 phone: 203-432-123
+
+# configure gems
+plugins:
+  - octopress-minify-html
+
+minify_html: true
