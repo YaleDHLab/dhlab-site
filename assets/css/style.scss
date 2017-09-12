@@ -247,7 +247,7 @@ hr.no-margin-bottom {
   border-bottom-right-radius: 30px;
   left: 50%;
   margin-left: -30px;
-  background-image: url(/assets/images/icons/caret.png);
+  background-image: url('{{ site.baseurl }}/assets/images/icons/caret.png');
   background-size: $pad;
   background-position: 10px -10px;
   background-repeat: no-repeat;
@@ -1117,11 +1117,11 @@ section {
 * Home page
 **/
 
-.home .hero {
-  background-image: url({{ site.baseurl }}/assets/images/home/hero.jpg);
+.home-page .hero {
+  background-image: url('{{ site.baseurl }}/assets/images/home/hero.jpg');
 }
 
-.home .hero div {
+.home-page .hero div {
   padding-top: 185px;
   font-family: 'yalenewroman', serif;
   font-size: 1.4em;
@@ -1130,7 +1130,7 @@ section {
   text-shadow: 2px 2px 4px #222222;
 }
 
-.home .hero h1 {
+.home-page .hero h1 {
   margin: 15px;
   font-family: 'yalenewroman', serif;
   font-weight: normal;
@@ -1138,7 +1138,7 @@ section {
   text-shadow: 2px 2px 8px #222222;
 }
 
-.home .hero a {
+.home-page .hero a {
   margin-top: 5px;
   background: rgba(0,0,0,0.15);
 }
@@ -1162,15 +1162,15 @@ section {
 }
 
 /* evenly space events in table */
-.home .home-events-container a:nth-child(1) {
+.home-page .home-events-container a:nth-child(1) {
   padding-right: 40px;
 }
 
-.home .home-events-container a:nth-child(2) {
+.home-page .home-events-container a:nth-child(2) {
   padding: 0 20px;
 }
 
-.home .home-events-container a:nth-child(3) {
+.home-page .home-events-container a:nth-child(3) {
   padding-left: 40px;
 }
 
@@ -1188,28 +1188,28 @@ section {
 * Home large cards
 **/
 
-.home .full-width-card-image {
+.home-page .full-width-card-image {
   padding-bottom: 40%;
 }
 
-.home .two-thirds-width-card-image {
+.home-page .two-thirds-width-card-image {
   padding-bottom: 33%;
   width: 65%;
   display: block;
 }
 
-.home .large-card-text {
+.home-page .large-card-text {
   float: right;
   margin: 20px 80px 0 0;
   width: 570px;
 }
 
-.home .color-button {
+.home-page .color-button {
   display: inline-block;
   float: right;
 }
 
-.home .button-prompt {
+.home-page .button-prompt {
   display: inline-block;
   width: 380px;
   font-weight: 400;
@@ -1221,7 +1221,7 @@ section {
 * Home page yellow square
 **/
 
-.home .color-square {
+.home-page .color-square {
   width: 33%;
   background: $color;
   display: inline-block;
@@ -1233,17 +1233,17 @@ section {
   overflow: auto;
 }
 
-.home .color-square p {
+.home-page .color-square p {
   font-size: 1em;
   font-weight: 400;
 }
 
-.home .color-square h3 {
+.home-page .color-square h3 {
   font-size: 1.25em;
   padding: 0px;
 }
 
-.home .color-square b:nth-child(1) {
+.home-page .color-square b:nth-child(1) {
   font-size: 14px;
 }
 
@@ -1279,8 +1279,8 @@ section {
 **/
 
 @media(max-width: 1050px) {
-  .home .two-thirds-width-card-image,
-  .home .color-square {
+  .home-page .two-thirds-width-card-image,
+  .home-page .color-square {
     width: 49%;
   }
 
@@ -1288,14 +1288,14 @@ section {
     max-width: 49%;
   }
 
-  .home .color-square {
+  .home-page .color-square {
     padding: 25px;
   }
 }
 
 @media(max-width: 860px) {
-  .home .full-width-card-image,
-  .home .two-thirds-width-card-image {
+  .home-page .full-width-card-image,
+  .home-page .two-thirds-width-card-image {
     padding-bottom: 46%;
   }
 }

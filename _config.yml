@@ -1,4 +1,4 @@
-baseurl: ''
+baseurl: '/dhlab-site'
 
 # render posts with dates in the future
 future: true
@@ -9,6 +9,8 @@ sass:
 
 # render collections
 collections:
+  resources:
+    output: true
   events:
     output: true
   news:
@@ -18,8 +20,6 @@ collections:
   guides:
     output: true
   methods:
-    output: true
-  resources:
     output: true
   awards:
     output: true
@@ -55,6 +55,21 @@ defaults:
       type: 'projects'
     values:
       layout: project
+  - scope:
+      path: ''
+      type: 'resources'
+    values:
+      layout: resource
+  - scope:
+      path: ''
+      type: 'awards'
+    values:
+      layout: award
+  - scope:
+      path: ''
+      type: 'opportunities'
+    values:
+      layout: opportunity
 
 # social media
 twitter: YaleDHLab
