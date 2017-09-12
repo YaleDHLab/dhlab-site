@@ -411,7 +411,6 @@ footer {
 .site-brand img {
   background: $color;
   position: relative;
-
 }
 
 @media(max-width: $desktop_breakpoint) {
@@ -420,7 +419,10 @@ footer {
   }
 }
 
-/* Gray Header */
+/**
+* Gray Header
+**/
+
 header.gray-header {
   background-color: #efefef;
 }
@@ -432,6 +434,33 @@ header.gray-header .nav-links .link {
 header.gray-header .nav-links .link:hover .sublinks {
   background: #efefef;
   color: #555;
+}
+
+/**
+* Header active routes
+**/
+
+.container.about-page .link.about > a {
+  color: $color;
+}
+
+.container.opportunities-page .link.opportunities > a,
+.container.awards-page        .link.opportunities > a {
+  color: $color;
+}
+
+.container.events-page .link.events > a,
+.container.news-page   .link.events > a {
+  color: $color;
+}
+
+.container.projects-page .link.projects > a {
+  color: $color;
+}
+
+.container.guides-page  .link.guides > a,
+.container.methods-page .link.guides > a {
+  color: $color;
 }
 
 /**
@@ -872,7 +901,7 @@ section {
 }
 
 /* Methods page overrides */
-.methods-landing-page .image-title-container {
+.methods-page .image-title-container {
   margin-top: -15px;
 }
 
@@ -908,11 +937,11 @@ section {
 }
 
 /* Methods page overrides */
-.methods-landing-page .four-rectangle-grid-cell:hover .image-title-container {
+.methods-page .four-rectangle-grid-cell:hover .image-title-container {
   top: 115px;
 }
 
-.methods-landing-page .four-rectangle-grid-cell:hover .teaser {
+.methods-page .four-rectangle-grid-cell:hover .teaser {
   top: 140px;
 }
 
@@ -951,6 +980,10 @@ section {
 
 .one-third-rectangle-cards .one-third-rectangle-card:nth-of-type(3) {
   left: 20px;
+}
+
+.one-third-rectangle-cards .one-third-rectangle-card:hover {
+  outline: 4px solid $color;
 }
 
 /**
@@ -1365,31 +1398,31 @@ section {
 * About page
 **/
 
-.about .two-column-container .right-column {
+.about-page .two-column-container .right-column {
   padding-bottom: 0;
 }
 
-.about .color-background {
+.about-page .color-background {
   background-image: url({{ site.baseurl }}/assets/images/about/circuit.png);
   background-repeat: no-repeat;
   background-size: cover;
   background-position: -650px;
 }
 
-.about .color-background .two-column-container:last-of-type {
+.about-page .color-background .two-column-container:last-of-type {
   padding-bottom: $pad;
 }
 
-.about .two-column-container h3 {
+.about-page .two-column-container h3 {
   padding-top: 0;
   padding-bottom: 10px;
 }
 
-.about .two-column-container .small-uppercase {
+.about-page .two-column-container .small-uppercase {
   color: #000;
 }
 
-.about .double-line-height .small-uppercase {
+.about-page .double-line-height .small-uppercase {
   margin-bottom: 0;
 }
 
