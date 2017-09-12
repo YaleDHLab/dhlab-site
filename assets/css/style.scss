@@ -66,39 +66,35 @@ body {
 **/
 
 @font-face {
-    font-family: 'yalenewbold';
-    src: url('{{ site.baseurl }}/assets/fonts/yalenew-bold-webfont.woff2') format('woff2'),
-         url('{{ site.baseurl }}/assets/fonts/yalenew-bold-webfont.woff') format('woff');
-    font-weight: normal;
-    font-style: normal;
-
+  font-family: 'yalenewbold';
+  src: url('{{ site.baseurl }}/assets/fonts/yalenew-bold-webfont.woff2') format('woff2'),
+       url('{{ site.baseurl }}/assets/fonts/yalenew-bold-webfont.woff') format('woff');
+  font-weight: normal;
+  font-style: normal;
 }
 
 @font-face {
-    font-family: 'yalenewbold_italic';
-    src: url('{{ site.baseurl }}/assets/fonts/yalenew-bolditalic-webfont.woff2') format('woff2'),
-         url('{{ site.baseurl }}/assets/fonts/yalenew-bolditalic-webfont.woff') format('woff');
-    font-weight: normal;
-    font-style: normal;
-
+  font-family: 'yalenewbold_italic';
+  src: url('{{ site.baseurl }}/assets/fonts/yalenew-bolditalic-webfont.woff2') format('woff2'),
+       url('{{ site.baseurl }}/assets/fonts/yalenew-bolditalic-webfont.woff') format('woff');
+  font-weight: normal;
+  font-style: normal;
 }
 
 @font-face {
-    font-family: 'yalenewitalic';
-    src: url('{{ site.baseurl }}/assets/fonts/yalenew-italic-webfont.woff2') format('woff2'),
-         url('{{ site.baseurl }}/assets/fonts/yalenew-italic-webfont.woff') format('woff');
-    font-weight: normal;
-    font-style: normal;
-
+  font-family: 'yalenewitalic';
+  src: url('{{ site.baseurl }}/assets/fonts/yalenew-italic-webfont.woff2') format('woff2'),
+       url('{{ site.baseurl }}/assets/fonts/yalenew-italic-webfont.woff') format('woff');
+  font-weight: normal;
+  font-style: normal;
 }
 
 @font-face {
-    font-family: 'yalenewroman';
-    src: url('{{ site.baseurl }}/assets/fonts/yalenew-roman-webfont.woff2') format('woff2'),
-         url('{{ site.baseurl }}/assets/fonts/yalenew-roman-webfont.woff') format('woff');
-    font-weight: normal;
-    font-style: normal;
-
+  font-family: 'yalenewroman';
+  src: url('{{ site.baseurl }}/assets/fonts/yalenew-roman-webfont.woff2') format('woff2'),
+       url('{{ site.baseurl }}/assets/fonts/yalenew-roman-webfont.woff') format('woff');
+  font-weight: normal;
+  font-style: normal;
 }
 
 a {
@@ -389,8 +385,8 @@ hr.no-margin-bottom {
 header {
   height: 70px;
   color: #fff;
-  background: $color;
   position: fixed;
+  top: 0;
   z-index: 10;
   width: 100%;
 }
@@ -404,13 +400,10 @@ footer {
   height: 60px;
   width: 180px;
   background: $color;
-  font-size: 34px;
   display: inline-block;
-  font-weight: 600;
   margin-left: 60px;
   margin-left: calc((100% - 1000px)/2);
   text-decoration: none;
-  color: #fff;
   padding: 5px 0px;
   float: left;
 }
@@ -425,6 +418,20 @@ footer {
   .site-brand {
     margin-left: 50px;
   }
+}
+
+/* Gray Header */
+header.gray-header {
+  background-color: #efefef;
+}
+
+header.gray-header .nav-links .link {
+  color: #555;
+}
+
+header.gray-header .nav-links .link:hover .sublinks {
+  background: #efefef;
+  color: #555;
 }
 
 /**
@@ -470,6 +477,7 @@ footer {
   background: rgba(0,0,0,0.9);
   padding: 0 20px 20px;
   line-height: 25px;
+  white-space: nowrap;
 }
 
 .nav-links a:hover{
