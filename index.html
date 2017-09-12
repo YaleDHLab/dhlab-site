@@ -12,7 +12,7 @@ class: home
   <!-- HOME EVENTS -->
   <section>
     <a href='{{ site.baseurl }}/events.html'>
-      <div class='small-uppercase'>EVENTS CALENDAR</div>
+      <div class='section-title'>EVENTS CALENDAR</div>
     </a>
     <div class='home-events-container'>
       {% for event in site.events reversed limit: 3 %}
@@ -34,7 +34,7 @@ class: home
   <!-- HOME NEWS -->
   <section>
     <a href='{{ site.baseurl }}/news.html'>
-      <div class='small-uppercase'>WHAT'S NEW</div>
+      <div class='section-title'>WHAT'S NEW</div>
     </a>
     <div class='full-width-card large-card'>
       {% assign item = site.news | reverse | first %}
@@ -65,13 +65,13 @@ class: home
     <div class='newsletter-text'>
       <div><b>Subscribe to our e-newsletter</b>to stay posted on the latest digital humanities news, events, and opportunities.</div>
       <input type='text'>
-      <a href='#newsletter' class='color-button'>Sign up for E-News</a>
+      <a href='#newsletter' class='color-button'><b>Sign up for E-News</b></a>
     </div>
   </div>
 
   <!-- HOME SPOTLIGHT -->
   <section>
-    <div class='small-uppercase'>SPOTLIGHT</div>
+    <div class='section-title'>SPOTLIGHT</div>
     <div class='two-thirds-width-card large-card'>
       {% for news_item in site.news reversed %}
         {% if news_item.spotlight %}
@@ -86,9 +86,9 @@ class: home
           </div>
         </a>
         <div class='color-square'>
-          <div><b>Office Hours</b></div>
-          <div class='white-text'><b>Tue &amp; Wed. 2-4 pm</b></div>
-          <p>Offering space, community, and resources, the DHLab supports Yale faculty and students who are working with digital methods to pursue humanistic inquiries</p>
+          <div><h3>Office Hours</h3></div>
+          <div class='white-text'><h3>Tue &amp; Wed. 2-4 pm</h3></div>
+          <p>Offering space, community, and resources, the DHLab supports Yale faculty and students who are working with digital methods to pursue humanistic inquiries.</p>
           <p>We support projects in all stages of development&mdash;from conceptualization through implementation.</p>
           <a href='{{ site.baseurl }}#plan-visit' class='white-text'><b>Plan your visit &raquo;</b></a>
         </div>
@@ -103,7 +103,7 @@ class: home
             <b>Check out our project guidelines</b> for best practices in project design and planning in the digital humanities.
           </div>
           <a href='{{ site.baseurl }}/guides.html' class='color-button'>
-            <b>Start Here</b>
+          <b>Start Here</b>
           </a>
         </div>
       </div>
