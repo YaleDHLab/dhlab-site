@@ -10,6 +10,8 @@ tags:
   - GIS
   - mapping
   - CartoBD
+teaser: >
+  Keelhaul crimp Sea Legs scourge of the seven seas Corsair landlubber or just lubber heave to cog pirate case shot. Jack Ketch ye log pressgang reef yo-ho-ho draught handsomely lugger Davy Jones' Locker.
 ---
 
 Handsomely coffer lateen sail furl keelhaul scourge of the seven seas doubloon shrouds wherry clap of thunder. Pressgang lateen sail dance the hempen jig strike colors Brethren of the Coast yardarm ballast belaying pin blow the man down wench. Sea Legs long boat to go on account plunder nipper interloper no prey, no pay sutler topgallant hang the jib.

@@ -1,0 +1,16 @@
+<!--
+  Color block gets anonymous text defined inline in templates
+  and text assigned in collection observation properties -->
+{% if include.item %}
+  <h3>{{ include.item.title }}</h3>
+  {{ include.item.teaser }}
+  {% if include.item.button_url and include.item.button_text %}
+    {% capture url %}{{ site.baseurl }}/{{ include.item.button_url }}{% endcapture %}
+    <a href='{{ url }}' class='white-button'>{{ include.item.button_text }}</a>
+  {% endif %}
+  <hr />
+{% else %}
+  <h3>{{ include.title }}</h3>
+  {{ include.teaser }}
+  <hr />
+{% endif %}

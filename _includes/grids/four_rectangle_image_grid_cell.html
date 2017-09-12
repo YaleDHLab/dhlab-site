@@ -4,7 +4,7 @@
     <div class='background-image'
       style='background-image:url("{{ include.item.thumbnail | prepend: site.baseurl }}")'>
     </div>
-    {% include centered_image_title.html
+    {% include text/centered_image_title.html
       title=include.item.title
       subtitle=include.item.subtitle
       teaser=include.item.teaser

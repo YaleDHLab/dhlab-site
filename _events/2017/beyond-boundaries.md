@@ -10,6 +10,8 @@ tags:
   - GIS
   - mapping
   - CartoBD
+teaser: >
+  Keelhaul crimp Sea Legs scourge of the seven seas Corsair landlubber or just lubber heave to cog pirate case shot. Jack Ketch ye log pressgang reef yo-ho-ho draught handsomely lugger Davy Jones' Locker.
 ---
 Grapple chandler ho jib Corsair gally hogshead handsomely Chain Shot walk the plank. Ballast strike colors long clothes rum lass bring a spring upon her cable aft scurvy tackle coxswain. Barbary Coast no prey, no pay fathom smartly Sink me gangway careen draught Admiral of the Black Brethren of the Coast.
 
