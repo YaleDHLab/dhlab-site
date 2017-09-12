@@ -66,39 +66,35 @@ body {
 **/
 
 @font-face {
-    font-family: 'yalenewbold';
-    src: url('{{ site.baseurl }}/assets/fonts/yalenew-bold-webfont.woff2') format('woff2'),
-         url('{{ site.baseurl }}/assets/fonts/yalenew-bold-webfont.woff') format('woff');
-    font-weight: normal;
-    font-style: normal;
-
+  font-family: 'yalenewbold';
+  src: url('{{ site.baseurl }}/assets/fonts/yalenew-bold-webfont.woff2') format('woff2'),
+       url('{{ site.baseurl }}/assets/fonts/yalenew-bold-webfont.woff') format('woff');
+  font-weight: normal;
+  font-style: normal;
 }
 
 @font-face {
-    font-family: 'yalenewbold_italic';
-    src: url('{{ site.baseurl }}/assets/fonts/yalenew-bolditalic-webfont.woff2') format('woff2'),
-         url('{{ site.baseurl }}/assets/fonts/yalenew-bolditalic-webfont.woff') format('woff');
-    font-weight: normal;
-    font-style: normal;
-
+  font-family: 'yalenewbold_italic';
+  src: url('{{ site.baseurl }}/assets/fonts/yalenew-bolditalic-webfont.woff2') format('woff2'),
+       url('{{ site.baseurl }}/assets/fonts/yalenew-bolditalic-webfont.woff') format('woff');
+  font-weight: normal;
+  font-style: normal;
 }
 
 @font-face {
-    font-family: 'yalenewitalic';
-    src: url('{{ site.baseurl }}/assets/fonts/yalenew-italic-webfont.woff2') format('woff2'),
-         url('{{ site.baseurl }}/assets/fonts/yalenew-italic-webfont.woff') format('woff');
-    font-weight: normal;
-    font-style: normal;
-
+  font-family: 'yalenewitalic';
+  src: url('{{ site.baseurl }}/assets/fonts/yalenew-italic-webfont.woff2') format('woff2'),
+       url('{{ site.baseurl }}/assets/fonts/yalenew-italic-webfont.woff') format('woff');
+  font-weight: normal;
+  font-style: normal;
 }
 
 @font-face {
-    font-family: 'yalenewroman';
-    src: url('{{ site.baseurl }}/assets/fonts/yalenew-roman-webfont.woff2') format('woff2'),
-         url('{{ site.baseurl }}/assets/fonts/yalenew-roman-webfont.woff') format('woff');
-    font-weight: normal;
-    font-style: normal;
-
+  font-family: 'yalenewroman';
+  src: url('{{ site.baseurl }}/assets/fonts/yalenew-roman-webfont.woff2') format('woff2'),
+       url('{{ site.baseurl }}/assets/fonts/yalenew-roman-webfont.woff') format('woff');
+  font-weight: normal;
+  font-style: normal;
 }
 
 a {
@@ -254,7 +250,7 @@ hr.no-margin-bottom {
   border-bottom-right-radius: 30px;
   left: 50%;
   margin-left: -30px;
-  background-image: url(/assets/images/icons/caret.png);
+  background-image: url('{{ site.baseurl }}/assets/images/icons/caret.png');
   background-size: $pad;
   background-position: 10px -10px;
   background-repeat: no-repeat;
@@ -392,8 +388,8 @@ hr.no-margin-bottom {
 header {
   height: 70px;
   color: #fff;
-  background: $color;
   position: fixed;
+  top: 0;
   z-index: 10;
   width: 100%;
 }
@@ -407,13 +403,10 @@ footer {
   height: 60px;
   width: 180px;
   background: $color;
-  font-size: 34px;
   display: inline-block;
-  font-weight: 600;
   margin-left: 60px;
   margin-left: calc((100% - 1080px)/2);
   text-decoration: none;
-  color: #fff;
   padding: 5px 0px;
   float: left;
 }
@@ -421,13 +414,56 @@ footer {
 .site-brand img {
   background: $color;
   position: relative;
-
 }
 
 @media(max-width: $desktop_breakpoint) {
   .site-brand {
     margin-left: 50px;
   }
+}
+
+/**
+* Gray Header
+**/
+
+header.gray-header {
+  background-color: #efefef;
+}
+
+header.gray-header .nav-links .link {
+  color: #555;
+}
+
+header.gray-header .nav-links .link:hover .sublinks {
+  background: #efefef;
+  color: #555;
+}
+
+/**
+* Header active routes
+**/
+
+.container.about-page .link.about > a {
+  color: $color;
+}
+
+.container.opportunities-page .link.opportunities > a,
+.container.awards-page        .link.opportunities > a {
+  color: $color;
+}
+
+.container.events-page .link.events > a,
+.container.news-page   .link.events > a {
+  color: $color;
+}
+
+.container.projects-page .link.projects > a {
+  color: $color;
+}
+
+.container.guides-page  .link.guides > a,
+.container.methods-page .link.guides > a {
+  color: $color;
 }
 
 /**
@@ -473,6 +509,7 @@ footer {
   background: rgba(0,0,0,0.9);
   padding: 0 20px 20px;
   line-height: 25px;
+  white-space: nowrap;
 }
 
 .nav-links a:hover{
@@ -869,7 +906,7 @@ section {
 }
 
 /* Methods page overrides */
-.methods-landing-page .image-title-container {
+.methods-page .image-title-container {
   margin-top: -15px;
 }
 
@@ -905,11 +942,11 @@ section {
 }
 
 /* Methods page overrides */
-.methods-landing-page .four-rectangle-grid-cell:hover .image-title-container {
+.methods-page .four-rectangle-grid-cell:hover .image-title-container {
   top: 115px;
 }
 
-.methods-landing-page .four-rectangle-grid-cell:hover .teaser {
+.methods-page .four-rectangle-grid-cell:hover .teaser {
   top: 140px;
 }
 
@@ -948,6 +985,10 @@ section {
 
 .one-third-rectangle-cards .one-third-rectangle-card:nth-of-type(3) {
   left: 20px;
+}
+
+.one-third-rectangle-cards .one-third-rectangle-card:hover {
+  outline: 4px solid $color;
 }
 
 /**
@@ -1081,11 +1122,11 @@ section {
 * Home page
 **/
 
-.home .hero {
-  background-image: url({{ site.baseurl }}/assets/images/home/hero.jpg);
+.home-page .hero {
+  background-image: url('{{ site.baseurl }}/assets/images/home/hero.jpg');
 }
 
-.home .hero div {
+.home-page .hero div {
   padding-top: 185px;
   font-family: 'yalenewroman', serif;
   font-size: 1.4em;
@@ -1094,7 +1135,7 @@ section {
   text-shadow: 2px 2px 4px #222222;
 }
 
-.home .hero h1 {
+.home-page .hero h1 {
   margin: 15px;
   font-family: 'yalenewroman', serif;
   font-weight: normal;
@@ -1102,7 +1143,7 @@ section {
   text-shadow: 2px 2px 8px #222222;
 }
 
-.home .hero a {
+.home-page .hero a {
   margin-top: 5px;
   background: rgba(0,0,0,0.15);
 }
@@ -1126,15 +1167,15 @@ section {
 }
 
 /* evenly space events in table */
-.home .home-events-container a:nth-child(1) {
+.home-page .home-events-container a:nth-child(1) {
   padding-right: 40px;
 }
 
-.home .home-events-container a:nth-child(2) {
+.home-page .home-events-container a:nth-child(2) {
   padding: 0 20px;
 }
 
-.home .home-events-container a:nth-child(3) {
+.home-page .home-events-container a:nth-child(3) {
   padding-left: 40px;
 }
 
@@ -1152,28 +1193,28 @@ section {
 * Home large cards
 **/
 
-.home .full-width-card-image {
+.home-page .full-width-card-image {
   padding-bottom: 40%;
 }
 
-.home .two-thirds-width-card-image {
+.home-page .two-thirds-width-card-image {
   padding-bottom: 33%;
   width: 65%;
   display: block;
 }
 
-.home .large-card-text {
+.home-page .large-card-text {
   float: right;
   margin: 20px 80px 0 0;
   width: 570px;
 }
 
-.home .color-button {
+.home-page .color-button {
   display: inline-block;
   float: right;
 }
 
-.home .button-prompt {
+.home-page .button-prompt {
   display: inline-block;
   width: 380px;
   font-weight: 400;
@@ -1185,7 +1226,7 @@ section {
 * Home page yellow square
 **/
 
-.home .color-square {
+.home-page .news-card-square {
   width: 33%;
   background: $color;
   display: inline-block;
@@ -1197,17 +1238,17 @@ section {
   overflow: auto;
 }
 
-.home .news-card-square p {
+.home-page .news-card-square p {
   font-size: 1em;
   font-weight: 400;
 }
 
-.home .news-card-square h3 {
+.home-page .news-card-square h3 {
   font-size: 1.25em;
   padding: 0px;
 }
 
-.home .news-card-square b:nth-child(1) {
+.home-page .news-card-square b:nth-child(1) {
   font-size: 14px;
 }
 
@@ -1243,8 +1284,8 @@ section {
 **/
 
 @media(max-width: 1050px) {
-  .home .two-thirds-width-card-image,
-  .home .color-square {
+  .home-page .two-thirds-width-card-image,
+  .home-page .news-card-square {
     width: 49%;
   }
 
@@ -1252,14 +1293,14 @@ section {
     max-width: 49%;
   }
 
-  .home .color-square {
+  .home-page .news-card-square {
     padding: 25px;
   }
 }
 
 @media(max-width: 860px) {
-  .home .full-width-card-image,
-  .home .two-thirds-width-card-image {
+  .home-page .full-width-card-image,
+  .home-page .two-thirds-width-card-image {
     padding-bottom: 46%;
   }
 }
@@ -1362,31 +1403,31 @@ section {
 * About page
 **/
 
-.about .two-column-container .right-column {
+.about-page .two-column-container .right-column {
   padding-bottom: 0;
 }
 
-.about .color-background {
+.about-page .color-background {
   background-image: url({{ site.baseurl }}/assets/images/about/circuit.png);
   background-repeat: no-repeat;
   background-size: cover;
   background-position: -650px;
 }
 
-.about .color-background .two-column-container:last-of-type {
+.about-page .color-background .two-column-container:last-of-type {
   padding-bottom: $pad;
 }
 
-.about .two-column-container h3 {
+.about-page .two-column-container h3 {
   padding-top: 0;
   padding-bottom: 10px;
 }
 
-.about .two-column-container .small-uppercase {
+.about-page .two-column-container .small-uppercase {
   color: #000;
 }
 
-.about .double-line-height .small-uppercase {
+.about-page .double-line-height .small-uppercase {
   margin-bottom: 0;
 }
 

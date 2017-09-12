@@ -1,6 +1,6 @@
 ---
 layout: default
-class: projects
+class: projects-page
 ---
 
 {% for project in site.projects %}
@@ -9,10 +9,11 @@ class: projects
   {% endif %}
 {% endfor %}
 
+{% assign image_url = project.image | prepend: site.baseurl %}
 {% include captioned_hero.html
   label='Feature'
   title=project.title
-  image=project.image
+  image=image_url
   caption=project.caption
 %}
 
