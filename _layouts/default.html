@@ -3,14 +3,22 @@
   <head>{% include head.html %}</head>
   <body>
     <div class='content'>
-      {% include header.html %}
       {% if page.class %}
-      <div class='container {{ page.class }}'>{{ content }}</div>
+      <div class='container {{ page.class }}'>
+      {% elsif layout.class %}
+      <div class='container {{ layout.class }}'>
       {% else %}
       <div class='container'>
+      {% endif %}
+        {% if page.header_color %}
+          {% include header.html header_color=page.header_color %}
+        {% elsif layout.header_color %}
+          {% include header.html header_color=layout.header_color %}
+        {% else %}
+          {% include header.html %}
+        {% endif %}
         {{ content }}
       </div>
-      {% endif %}
     </div>
     {% include footer.html %}
   </body>
