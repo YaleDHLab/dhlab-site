@@ -9,10 +9,11 @@ class: projects-page
   {% endif %}
 {% endfor %}
 
+{% assign image_url = project.image | prepend: site.baseurl %}
 {% include captioned_hero.html
   label='Feature'
   title=project.title
-  image=project.image
+  image=image_url
   caption=project.caption
 %}
 

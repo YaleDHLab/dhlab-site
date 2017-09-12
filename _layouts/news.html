@@ -4,10 +4,11 @@ class: news-detail-page
 ---
 
 {% if page.image_layout == 'landscape' %}
+  {% assign image_url = page.image | prepend: site.baseurl %}
   {% include captioned_hero.html
     label='NEWS'
     title=page.title
-    image=page.image
+    image=image_url
     caption=page.caption
   %}
 

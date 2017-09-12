@@ -3,10 +3,11 @@ layout: default
 class: guide-detail-page
 ---
 
+{% assign image_url = page.image | prepend: site.baseurl %}
 {% include captioned_hero.html
   label='QUICK START GUIDE'
   title=page.title
-  image=page.image
+  image=image_url
   caption=page.caption
 %}
 
