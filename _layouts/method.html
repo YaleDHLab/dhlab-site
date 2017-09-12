@@ -19,7 +19,7 @@ layout: default
     </div>
   </div>
   {% assign items = site.methods | sort: 'order' %}
-  {% include three_rectangle_images.html
+  {% include grids/three_rectangle_images.html
     items=items
     skip_number=page.order
   %}

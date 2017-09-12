@@ -1,0 +1,51 @@
+---
+layout: default
+class: news-landing-page
+---
+
+<div class='center-column'>
+  <section>
+    <h2>WHAT'S NEW</h2>
+    <hr />
+
+    <!-- NEWS CARD -->
+    <div class='two-thirds-width-card large-card'>
+      {% for news_item in site.news reversed %}
+        {% if news_item.featured %}
+          {% assign item = news_item %}
+        {% endif %}
+      {% endfor %}
+
+      {% capture square_html %}
+      <div class='news-card-square texture-background'>
+        <div><b>Got Something To Share?</b></div>
+        <div class='color-text'><b>Tell Us Your Story</b></div>
+        <p>Tell us about your DH project, submit an event, or ask a question. We want to shaer your experiences in the digital humanities.</p>
+        <a href='{{ site.baseurl }}#submit-news' class='color-text'><b>Submit News &raquo;</b></a>
+      </div>
+      {% endcapture %}
+
+      {% capture button_prompt %}
+      <div class='button-prompt'>
+          Subscribe to our e-newsletter for the latest news and events.
+        </div>
+        <a href='{{ site.baseurl }}/guides.html' class='color-button'>
+          <b>Sign up for E-News</b>
+        </a>
+      </div>
+      {% endcapture %}
+
+      {% include cards/news_card.html
+        item=item
+        square_html=square_html
+        button_prompt=button_prompt
+      %}
+    </div>
+  </section>
+
+  <section class='upcoming-events'>
+    {% for item in site.news %}
+      {% include cards/horizontal_card.html item=item %}
+    {% endfor %}
+  </section>
+</div>

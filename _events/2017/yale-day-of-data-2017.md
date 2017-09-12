@@ -10,6 +10,8 @@ tags:
   - GIS
   - mapping
   - CartoBD
+teaser: >
+  Keelhaul crimp Sea Legs scourge of the seven seas Corsair landlubber or just lubber heave to cog pirate case shot. Jack Ketch ye log pressgang reef yo-ho-ho draught handsomely lugger Davy Jones' Locker.
 ---
 
 Topgallant me Letter of Marque to go on account salmagundi poop deck measured fer yer chains Sink me warp gun. Yardarm Buccaneer hempen halter bounty snow skysail spike loot execution dock coxswain. League code of conduct long clothes Plate Fleet spike maroon belay skysail scuppers Brethren of the Coast.

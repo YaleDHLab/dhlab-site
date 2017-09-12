@@ -19,6 +19,12 @@ collections:
     output: true
   methods:
     output: true
+  resources:
+    output: true
+  awards:
+    output: true
+  opportunities:
+    output: true
   team:
     output: false
 
@@ -54,5 +60,6 @@ defaults:
 twitter: YaleDHLab
 instagram: yaledhlab
 facebook: YaleDHLab
+github: YaleDHLab
 email: dhlab@yale.edu
 phone: 203-432-123

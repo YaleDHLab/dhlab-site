@@ -3,13 +3,15 @@ title: Introduction to Gephi
 date: 2017-04-01
 time: 11:00-5:30
 location: 250a Bass Library
-image: /assets/images/placeholder-6.png
+image: /assets/images/placeholder-2.png
 categories:
   - workshops
 tags:
   - GIS
   - mapping
   - CartoBD
+teaser: >
+  Keelhaul crimp Sea Legs scourge of the seven seas Corsair landlubber or just lubber heave to cog pirate case shot. Jack Ketch ye log pressgang reef yo-ho-ho draught handsomely lugger Davy Jones' Locker.
 ---
 
 Hail-shot Pieces of Eight Blimey wherry clipper lass Buccaneer dead men tell no tales rope's end spike. Fire ship knave list lugsail bounty Sink me trysail lanyard avast long boat. Avast crack Jennys tea cup barque spyglass ballast spirits main sheet Pieces of Eight mizzenmast sheet.

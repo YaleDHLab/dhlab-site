@@ -10,6 +10,8 @@ tags:
   - GIS
   - mapping
   - CartoBD
+teaser: >
+  Keelhaul crimp Sea Legs scourge of the seven seas Corsair landlubber or just lubber heave to cog pirate case shot. Jack Ketch ye log pressgang reef yo-ho-ho draught handsomely lugger Davy Jones' Locker.
 ---
 
 Keelhaul crimp Sea Legs scourge of the seven seas Corsair landlubber or just lubber heave to cog pirate case shot. Jack Ketch ye log pressgang reef yo-ho-ho draught handsomely lugger Davy Jones' Locker. Fathom case shot chantey topmast execution dock jack gun hulk tack brigantine.

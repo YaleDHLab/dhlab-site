@@ -72,41 +72,36 @@ class: home
   <!-- HOME SPOTLIGHT -->
   <section>
     <div class='small-uppercase'>SPOTLIGHT</div>
-    <div class='two-thirds-width-card large-card'>
-      {% for news_item in site.news reversed %}
-        {% if news_item.spotlight %}
-          {% assign item = news_item %}
-        {% endif %}
-      {% endfor %}
-      <div class='height-container'>
-        <a href='{{ item.url | prepend: site.baseurl }}'>
-          {% assign image_url = item.thumbnail | prepend: site.baseurl %}
-          <div class='two-thirds-width-card-image background-image'
-            style='background-image: url({{ image_url }})'>
-          </div>
-        </a>
-        <div class='color-square'>
-          <div><b>Office Hours</b></div>
-          <div class='white-text'><b>Tue &amp; Wed. 2-4 pm</b></div>
-          <p>Offering space, community, and resources, the DHLab supports Yale faculty and students who are working with digital methods to pursue humanistic inquiries</p>
-          <p>We support projects in all stages of development&mdash;from conceptualization through implementation.</p>
-          <a href='{{ site.baseurl }}#plan-visit' class='white-text'><b>Plan your visit &raquo;</b></a>
-        </div>
-      </div>
-      <div>
-        {% assign label = item.categories | first %}
-        {% include cards/card_title_box.html
-          label=label
-          title=item.title %}
-        <div class='large-card-text desktop'>
-          <div class='button-prompt'>
-            <b>Check out our project guidelines</b> for best practices in project design and planning in the digital humanities.
-          </div>
-          <a href='{{ site.baseurl }}/guides.html' class='color-button'>
-            <b>Start Here</b>
-          </a>
-        </div>
-      </div>
+    {% for news_item in site.news reversed %}
+      {% if news_item.spotlight %}
+        {% assign item = news_item %}
+      {% endif %}
+    {% endfor %}
+
+    {% capture square_html %}
+    <div class='news-card-square color-background'>
+      <div><b>Office Hours</b></div>
+      <div class='white-text'><b>Tue &amp; Wed. 2-4 pm</b></div>
+      <p>Offering space, community, and resources, the DHLab supports Yale faculty and students who are working with digital methods to pursue humanistic inquiries</p>
+      <p>We support projects in all stages of development&mdash;from conceptualization through implementation.</p>
+      <a href='{{ site.baseurl }}#plan-visit' class='white-text'><b>Plan your visit &raquo;</b></a>
     </div>
+    {% endcapture %}
+
+    {% capture button_prompt %}
+    <div class='button-prompt'>
+        <b>Check out our project guidelines</b> for best practices in project design and planning in the digital humanities.
+      </div>
+      <a href='{{ site.baseurl }}/guides.html' class='color-button'>
+        <b>Start Here</b>
+      </a>
+    </div>
+    {% endcapture %}
+
+    {% include cards/news_card.html
+      item=item
+      square_html=square_html
+      button_prompt=button_prompt
+    %}
   </section>
 </div>

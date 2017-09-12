@@ -1,0 +1,27 @@
+<section>
+  <h2>{{ include.label }}</h2>
+  <hr />
+  {% assign counter = 0 %}
+  <div class='three-spaced-squares-container'>
+    <div class='three-spaced-squares'>
+      <div class='three-spaced-squares-table'>
+        {% for item in include.items %}
+          {% if counter < 3 %}
+            <a href={{ item.url }} class='spaced-square'>
+              {% assign image_url = item.image | prepend: site.baseurl %}
+              <div class='background-image event-date-container'
+                style='background-image: url({{ image_url }})'>
+                <!-- Only show dates on event cards -->
+                {% if item.date and item.time %}
+                  {% include events/event_date.html event=item %}
+                {% endif %}
+              </div>
+              <h3>{{ item.title }}</h3>
+            </a>
+            {% assign counter = counter | plus: 1 %}
+          {% endif %}
+        {% endfor %}
+      </div>
+    </div>
+  </div>
+</section>
