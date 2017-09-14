@@ -4,6 +4,7 @@ date: 2017-02-20
 time: 1:00-5:30
 location: 300a Hapsburg Library
 image: /assets/images/placeholder-8.png
+registerurl: http://schedule.yale.edu/event/3580229
 categories:
   - workshops
 tags:

@@ -4,6 +4,7 @@ date: 2017-11-01
 time: 4:00-5:30
 location: 250a Bass Library
 image: /assets/images/placeholder-3.png
+registerurl:
 categories:
   - talks
 tags:

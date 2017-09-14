@@ -4,6 +4,7 @@ date: 2017-09-10
 time: 12:00-5:30
 location: 50a Sterling Library
 image: /assets/images/placeholder-7.png
+registerurl: http://schedule.yale.edu/event/3580229
 categories:
   - workshops
 tags:
