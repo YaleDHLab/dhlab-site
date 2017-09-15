@@ -14,10 +14,10 @@
       <!-- News items and events have different content -->
       {% if include.item.date and include.item.time %}
         {% include events/event_metadata.html event=include.item %}
-        <div>{{ include.item.teaser | truncatewords: 25 }}</div>
+        <div><p>{{ include.item.teaser | truncatewords: 50 }}</p></div>
       {% else %}
         {% include news/news_metadata.html item=include.item %}
-        <div>{{ include.item.teaser | truncatewords: 25 }}</div>
+        <div><p>{{ include.item.teaser | truncatewords: 50 }}</p></div>
       {% endif %}
     </a>
     <a href='#registration' class='color-button'>Register</a>

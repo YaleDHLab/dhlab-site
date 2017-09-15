@@ -36,7 +36,10 @@ class: event-detail-page
       </div>
       <div class='right-column'>
         {{ content }}
-        <a href='#register' class='color-button'>Register</a>
+
+        {% if  page.registerurl %}
+        <a href='{{ page.registerurl }}' class='color-button'>Register</a>
+        {% endif %}
       </div>
     </div>
   </section>

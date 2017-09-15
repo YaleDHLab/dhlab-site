@@ -4,6 +4,7 @@ date: 2017-07-01
 time: 4:00-5:30
 location: 150 Sterling Library
 image: /assets/images/placeholder-2.png
+registerurl: http://schedule.yale.edu/event/3580229
 categories:
   - workshops
 tags:

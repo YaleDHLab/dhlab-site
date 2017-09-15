@@ -71,7 +71,7 @@ class: home-page
 
   <!-- HOME SPOTLIGHT -->
   <section>
-    <div class='small-uppercase'>SPOTLIGHT</div>
+    <div class='section-title'>SPOTLIGHT</div>
     {% for news_item in site.news reversed %}
       {% if news_item.spotlight %}
         {% assign item = news_item %}
@@ -83,7 +83,7 @@ class: home-page
       <div class='white-text'><b>Tue &amp; Wed. 2-4 pm</b></div>
       <p>Offering space, community, and resources, the DHLab supports Yale faculty and students who are working with digital methods to pursue humanistic inquiries</p>
       <p>We support projects in all stages of development&mdash;from conceptualization through implementation.</p>
-      <a href='{{ site.baseurl }}#plan-visit' class='white-text'><h3>Plan your visit &raquo;</h3></a>
+      <a href='{{ site.baseurl }}#plan-visit' class='white-text'><b>Plan your visit &raquo;</b></a>
     </div>
     {% endcapture %}
     {% capture button_prompt %}
