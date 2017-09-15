@@ -110,6 +110,8 @@ p {
   margin: 1em 0;
   line-height: 1.5em;
   font-size: 1.1em;
+  font-weight: 400;
+  color: #333;
 }
 
 h2 {
@@ -216,7 +218,8 @@ hr.no-margin-bottom {
   letter-spacing: .5px;
   transition: color .1s, background-color .1s;
   display: inline-block;
-  font-weight: 600;
+  font-weight: 700;
+  font-size: .9em;
 }
 
 .color-button:hover {
@@ -402,7 +405,7 @@ footer {
   background: $color;
   display: inline-block;
   margin-left: 60px;
-  margin-left: calc((100% - 1000px)/2);
+  margin-left: calc((100% - 1080px)/2);
   text-decoration: none;
   padding: 5px 0px;
   float: left;
@@ -517,25 +520,27 @@ header.gray-header .nav-links .link:hover .sublinks {
   display: block;
 }
 
-.nav-links .link:hover .sublinks a {
-  padding-left: 14px;
-}
 
 .nav-links .link:hover .sublinks a:hover {
   color: $color;
 }
 
 .nav-links .link:hover .sublinks a.subheader {
-  padding-left: 0;
+  padding-left: 0px;
   padding-top: 20px;
 }
 
 .sublinks > a:first-of-type {
+  padding-left: 0px;
   padding-top: 20px;
 }
 
 .sublinks > a.subheader {
   padding-top: 0;
+}
+
+a.subheader ~ a {
+  padding-left: 14px;
 }
 
 
@@ -796,12 +801,12 @@ section {
 **/
 
 .card-title-container {
-  transform: translate(0, -45px);
+  transform: translate(0, -50px);
   text-align: left;
   width: 100%;
-  padding: 0 15px;
+  padding: 0 15 0 0px;
   margin-bottom: -45px;
-  max-width: 350px;
+  max-width: 320px;
   display: inline-block;
 }
 
@@ -823,7 +828,7 @@ section {
 }
 
 .card-title-container .card-title {
-  font-size: 1.25em;
+  font-size: 1.3em;
 }
 
 /**
@@ -1053,7 +1058,7 @@ section {
 
 .horizontal-card h3 {
   padding: 0;
-  font-size: 21px;
+  font-size: 1.5em;
   transition: color .1s;
 }
 
@@ -1233,17 +1238,18 @@ section {
   overflow: auto;
 }
 
-.home-page .color-square p {
+
+.home-page .news-card-square p {
   font-size: 1em;
   font-weight: 400;
 }
 
-.home-page .color-square h3 {
+.home-page .news-card-square h3 {
   font-size: 1.25em;
   padding: 0px;
 }
 
-.home-page .color-square b:nth-child(1) {
+.home-page .news-card-square b:nth-child(1) {
   font-size: 14px;
 }
 
