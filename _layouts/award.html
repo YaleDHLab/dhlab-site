@@ -2,3 +2,41 @@
 layout: default
 class: award-detail-page
 ---
+
+{% assign image_url = page.image | prepend: site.baseurl %}
+{% include captioned_hero.html
+  label='AWARDS'
+  title=page.title
+  image=image_url
+  caption=page.caption
+%}
+
+<div class='center-column post'>
+  <div class='two-column-container one-third-width'>
+    <div class='left-column'>
+    {% for award in site.awards %}
+      {% if award.url == page.url %}
+        {% assign class = 'active' %}
+      {% else %}
+        {% assign class = '' %}
+      {% endif %}
+      <a href='{{ award.url | prepend: site.baseurl }}'
+        class='{{ class }}'>
+        <b>{{ award.title }}</b>
+      </a>
+      <br/>
+    {% endfor %}
+
+    {% if page.deadline %}
+      <hr />
+      <b>Deadline: {{ page.deadline }}</b>
+      <div>{{ page.application_text }}</div>
+      <a href='{{ page.application_url }}' class='color-button'>Apply Now</a>
+
+    {% endif %}
+    </div>
+    <div class='right-column'>
+      {{ content }}
+    </div>
+  </div>
+</div>

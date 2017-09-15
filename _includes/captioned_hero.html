@@ -2,7 +2,7 @@
   style='background-image:url({{ include.image }})'
   ></div>
 <div class='hero-text-container'>
-  {% assign label = item.categories | first %}
+  {% assign label = include.item.categories | first %}
   {% include cards/card_title_box.html
     label=include.label
     title=include.title %}
