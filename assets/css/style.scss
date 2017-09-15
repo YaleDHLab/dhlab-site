@@ -16,7 +16,7 @@ html, body {
   height: 100%;
   font-family: 'Open Sans';
   font-size: 14px;
-  font-weight: 100;
+  font-weight: 400;
 }
 
 /**
@@ -108,19 +108,19 @@ b {
 
 p {
   margin: 1em 0;
-  line-height: 1.5em;
-  font-size: 1.1em;
+  line-height: 1.6em;
   font-weight: 400;
-  color: #333;
+  font-size: 1.1em;
 }
 
 h2 {
-  font-size: 20px;
+  font-size: 1.125em;
+  letter-spacing: .5px;
   padding: 20px $pad 20px 0;
 }
 
 h3 {
-  font-size: 1.25em;
+  font-size: 1.5em;
   transition: color .1s;
   padding: 20px 0;
 }
@@ -130,7 +130,7 @@ hr {
   color: #fff;
   display: block;
   border: 0;
-  border-top: 1px solid #666;
+  border-top: 1px solid #ccc;
   margin: 0;
   padding: 0 0 $pad 0;
 }
@@ -149,13 +149,19 @@ hr.no-margin-bottom {
   font-size: 12px;
 }
 
-.section-title {
-  color: #333;
+.section-title {;
   margin-bottom: 20px;
   text-transform: uppercase;
   font-weight: 700;
   letter-spacing: .5px;
-  font-size: 14px;
+  font-size: 1.2em;
+}
+
+.list-heading {
+  margin-bottom: 8px;
+  letter-spacing: .5px;
+  text-transform: uppercase;
+  font-weight: 700;
 }
 
 .white-text {
@@ -168,6 +174,19 @@ hr.no-margin-bottom {
 
 .center-text {
   text-align: center;
+  font-size: 1.125em;
+  letter-spacing: .5px;
+  margin-bottom: -18px;
+}
+
+.sidebar-text {
+  width: 85%;
+  line-height: 1.5;
+}
+
+.sidebar-links {
+  width: 85%;
+  line-height: 2;
 }
 
 /**
@@ -195,12 +214,12 @@ hr.no-margin-bottom {
   text-decoration: none;
   display: inline-block;
   background: transparent;
-  padding: 8px 30px;
+  padding: 5px 15px;
   color: #fff;
   border: 2px solid #fff;
   border-radius: 20px;
-  font-weight: 600;
-  letter-spacing: 1px;
+  font-weight: 700;
+  letter-spacing: .5px;
   transition: background .1s;
 }
 
@@ -272,6 +291,7 @@ hr.no-margin-bottom {
 .color-background hr {
   margin: 50px 0;
   padding: 0;
+  border-color: #BF8D2D;
 }
 
 .color-background h3 {
@@ -357,8 +377,14 @@ hr.no-margin-bottom {
 
 /* Two column sizes: ~33% and 66% vs 50% 50% */
 .two-column-container.one-third-width .left-column {
-  width: 380px;
+  width: 360px;
 }
+
+.two-column-container.one-third-width {
+ width: 95%; 
+ padding-left: 5%;
+}
+
 
 .two-column-container.half-width .left-column {
   width: 50%;
@@ -414,6 +440,7 @@ footer {
 .site-brand img {
   background: $color;
   position: relative;
+  box-shadow: -2px 2px 8px rgba(0, 0, 0, 0.3);
 }
 
 @media(max-width: $desktop_breakpoint) {
@@ -466,6 +493,7 @@ header.gray-header .nav-links .link:hover .sublinks {
   color: $color;
 }
 
+
 /**
 * Header links
 **/
@@ -474,7 +502,7 @@ header.gray-header .nav-links .link:hover .sublinks {
   display: table;
   font-size: 14px;
   font-weight: 600;
-  letter-spacing: 1px;
+  letter-spacing: .5px;
   line-height: 20px;
   padding: 0 50px;
   position: relative;
@@ -482,7 +510,7 @@ header.gray-header .nav-links .link:hover .sublinks {
 
 .nav-links .link {
   display: table-cell;
-  color: #9f9f9f;
+  color: #ccc;
 }
 
 .nav-links .link > a {
@@ -549,7 +577,7 @@ a.subheader ~ a {
 **/
 
 footer {
-  padding: 60px;
+  padding: 60px 7%;
   display: table;
   color: #fff;
   width: 100%;
@@ -645,6 +673,10 @@ section {
   overflow: hidden;
 }
 
+.projects-page .hero {
+  height: 600px;
+}
+
 /**
 * Partials: Three text blocks
 **/
@@ -695,7 +727,8 @@ section {
 }
 
 .three-spaced-squares h3 {
-  padding-top: 10px;
+  padding-top: 18px;
+  font-size: 1.25em;
 }
 
 .three-spaced-squares-table {
@@ -762,6 +795,10 @@ section {
   margin-top: 0
 }
 
+.color-block-container h3 { 
+  font-size: 1.25em;
+}
+
 /**
 * Partials: Event card dates
 **/
@@ -793,7 +830,6 @@ section {
 .event-date-container .event-day {
   font-size: 20px;
   font-weight: 700;
-  letter-spacing: .5px;
 }
 
 /**
@@ -803,19 +839,20 @@ section {
 .card-title-container {
   transform: translate(0, -50px);
   text-align: left;
-  width: 100%;
-  padding: 0 15 0 0px;
+  width: 90%;
+  padding: 0 15 0 15px;
   margin-bottom: -45px;
   max-width: 320px;
   display: inline-block;
 }
+
 
 .hero-text-container .card-title-container {
   float: left;
 }
 
 .card-title-container .card-title-text {
-  padding: 15px;
+  padding: 18px;
   text-decoration: none;
   color: #000;
   background: rgba(256,256,256,0.9);
@@ -828,7 +865,15 @@ section {
 }
 
 .card-title-container .card-title {
-  font-size: 1.3em;
+  font-size: 1.5em;
+}
+
+.projects-container .card-title-container {
+  margin-left: 15px;
+}
+
+.news-page .card-title-container {
+  margin-left: 15px;
 }
 
 /**
@@ -1058,13 +1103,12 @@ section {
 
 .horizontal-card h3 {
   padding: 0;
-  font-size: 1.5em;
   transition: color .1s;
 }
 
 .horizontal-card .stripe {
   position: absolute;
-  left: -20px;
+  left: 0px;
   top: 0;
   bottom: 0;
   width: 10px;
@@ -1079,6 +1123,7 @@ section {
   padding-right: 60px;
   display: inline-block;
   float: left;
+  margin-left: 15px;
 }
 
 .horizontal-card .image {
@@ -1226,7 +1271,7 @@ section {
 * Home page yellow square
 **/
 
-.home-page .color-square {
+.home-page .news-card-square {
   width: 33%;
   background: $color;
   display: inline-block;
@@ -1238,14 +1283,12 @@ section {
   overflow: auto;
 }
 
-
 .home-page .news-card-square p {
   font-size: 1em;
   font-weight: 400;
 }
 
 .home-page .news-card-square h3 {
-  font-size: 1.25em;
   padding: 0px;
 }
 
@@ -1286,7 +1329,7 @@ section {
 
 @media(max-width: 1050px) {
   .home-page .two-thirds-width-card-image,
-  .home-page .color-square {
+  .home-page .news-card-square {
     width: 49%;
   }
 
@@ -1294,7 +1337,7 @@ section {
     max-width: 49%;
   }
 
-  .home-page .color-square {
+  .home-page .news-card-square {
     padding: 25px;
   }
 }
@@ -1409,10 +1452,10 @@ section {
 }
 
 .about-page .color-background {
-  background-image: url({{ site.baseurl }}/assets/images/about/circuit.png);
-  background-repeat: no-repeat;
-  background-size: cover;
-  background-position: -650px;
+  background-image: url({{ site.baseurl }}/assets/images/background-texture.svg);
+  background-repeat: repeat-y;
+  background-size: 62%;
+  background-position: -248px;
 }
 
 .about-page .color-background .two-column-container:last-of-type {
@@ -1421,11 +1464,12 @@ section {
 
 .about-page .two-column-container h3 {
   padding-top: 0;
-  padding-bottom: 10px;
+  padding-bottom: 6px;
 }
 
 .about-page .two-column-container .small-uppercase {
   color: #000;
+  padding-bottom: 10px;
 }
 
 .about-page .double-line-height .small-uppercase {
@@ -1453,14 +1497,18 @@ section {
   padding-bottom: 600px;
 }
 
-.projects-container .left-column,
+.projects-container .left-column, {
+  padding-right: 20px;
+}
+
 .projects-container .right-column {
-  padding: 10px;
+  padding-left: 20px;
 }
 
 .projects-container .background-image {
   display: block;
   padding-bottom: 50%;
+  border: 1px solid #ddd;
 }
 
 .projects-container .left-column .background-image {
