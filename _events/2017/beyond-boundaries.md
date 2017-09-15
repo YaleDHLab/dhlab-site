@@ -4,6 +4,7 @@ date: 2017-01-02
 time: 3:00-5:30
 location: 350a Hapsburg Library
 image: /assets/images/placeholder-7.png
+registerurl: http://schedule.yale.edu/event/3580229
 categories:
   - conferences
 tags:

@@ -4,6 +4,7 @@ date: 2017-04-01
 time: 11:00-5:30
 location: 250a Bass Library
 image: /assets/images/placeholder-2.png
+registerurl: http://schedule.yale.edu/event/3580229
 categories:
   - workshops
 tags:
