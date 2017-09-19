@@ -15,37 +15,26 @@
         <div class='about-links sublinks'>
           <a class='subheader' href='{{ site.baseurl }}/about.html'>Yale DHLab</a>
           <a href='{{ site.baseurl }}/about.html#team'>Our Team</a>
-          <a href='{{ site.baseurl }}/about.html#fellows'>DH Teaching Fellows</a>
-          <a href='{{ site.baseurl }}/about.html#postdocs'>Post-Doctoral Associates</a>
-          <a href='{{ site.baseurl }}/about.html#committee'>DH Executive Committee</a>
+          {% include header_links.html items=site.about %}
           <a class='subheader' href='{{ site.baseurl }}/resources.html'>What We Offer</a>
-          <a href='{{ site.baseurl }}/resources/consultations.html'>Consultations</a>
-          <a href='{{ site.baseurl }}/resources/space.html'>Space & Equipment</a>
-          <a href='{{ site.baseurl }}/resources/workshops.html'>Workshops</a>
-          <a href='{{ site.baseurl }}/resources/data.html'>Data Resources</a>
-          <a href='http://github.com/YaleDHLab'>GitHub Repository</a>
+          {% include header_links.html items=site.resources %}
         </div>
       </div>
       <div class='link opportunities'>
         <a href='{{ site.baseurl }}/opportunities.html'>Opportunities</a>
         <div class='opportunities-links sublinks'>
           <a class='subheader' href='{{ site.baseurl }}/awards.html'>Awards</a>
-          <a href='{{ site.baseurl }}/awards/rapid-prototyping.html'>Rapid Prototyping Grant</a>
-          <a href='{{ site.baseurl }}/awards/seed-grant.html'>Seed Grant</a>
-          <a href='{{ site.baseurl }}/awards/dh-training-scholarship.html'>DH Training Scholarship</a>
-          <a href='{{ site.baseurl }}/awards/additional-funding.html'>In the Field</a>
+          {% include header_links.html items=site.awards %}
           <a class='subheader' href='{{ site.baseurl }}/opportunities.html'>Employment</a>
-          <a href='{{ site.baseurl }}/opportunities/student-jobs.html'>Student Jobs</a>
-          <a href='{{ site.baseurl }}/opportunities/dh-teaching-fellows.html'>DH Teaching Fellows</a>
-          <a href='{{ site.baseurl }}/opportunities/postdoctoral-associates.html'>Post-Doctoral Associates</a>
+          {% include header_links.html items=site.opportunities %}
         </div>
       </div>
       <div class='link events'>
         <a href='{{ site.baseurl }}/events.html'>News & Events</a>
         <div class='events-links sublinks'>
           <a href='{{ site.baseurl }}/news.html'>Current News</a>
-          <a href='{{ site.baseurl }}/events.html#upcoming'>Upcoming Events</a>
-          <a href='{{ site.baseurl }}/events.html#workshops'>Workshops</a>
+          <a href='{{ site.baseurl }}/events.html?q=upcoming'>Upcoming Events</a>
+          <a href='{{ site.baseurl }}/events.html?q=workshops'>Workshops</a>
         </div>
       </div>
       <div class='link projects'>
@@ -55,15 +44,9 @@
         <a href='guides.html'>Get Started</a>
         <div class='guide-links sublinks'>
           <a class='subheader' href='{{ site.baseurl }}/methods.html'>What Is DH?</a>
-          <a href='{{ site.baseurl }}/methods/textual_analysis.html'>Textual Analysis</a>
-          <a href='{{ site.baseurl }}/methods/visual_analysis.html'>Visual Analysis</a>
-          <a href='{{ site.baseurl }}/methods/network_analysis.html'>Network Analysis</a>
-          <a href='{{ site.baseurl }}/methods/geospatial_analysis.html'>Geospatial Analysis</a>
+          {% include header_links.html items=site.methods %}
           <a class='subheader' href='{{ site.baseurl }}/guides.html'>How to Get Started</a>
-          <a href='{{ site.baseurl }}/guides/project-planning.html'>Project Planning</a>
-          <a href='{{ site.baseurl }}/guides/corpus-creation.html'>Corpus Creation</a>
-          <a href='{{ site.baseurl }}/guides/tools-and-methods.html'>Tools & Methods</a>
-          <a href='{{ site.baseurl }}/guides/digital-dissemination.html'>Project Dissemination</a>
+          {% include header_links.html items=site.guides %}
         </div>
       </div>
     </div>
