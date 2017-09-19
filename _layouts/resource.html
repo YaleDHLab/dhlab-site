@@ -2,3 +2,25 @@
 layout: default
 class: resource-detail-page
 ---
+
+{% assign image_url = page.image | prepend: site.baseurl %}
+{% include captioned_hero.html
+  label='RESOURCES'
+  title=page.title
+  image=image_url
+  caption=page.caption
+%}
+
+<div class='center-column post'>
+  <div class='two-column-container one-third-width'>
+    <div class='left-column'>
+    {% include text/detail_page_links.html
+      items=site.resources
+      page=page
+    %}
+    </div>
+    <div class='right-column'>
+      {{ content }}
+    </div>
+  </div>
+</div>

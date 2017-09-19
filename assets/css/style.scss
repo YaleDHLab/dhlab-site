@@ -36,7 +36,7 @@ body {
 .hero-text-container {
   margin: 0 auto;
   max-width: $desktop_breakpoint;
-  padding: 100px 60px 80px;
+  padding: 100px 60px 40px;
 }
 
 .hero-text-container {
@@ -241,6 +241,10 @@ hr.no-margin-bottom {
   font-size: .9em;
 }
 
+.two-column-container .color-button {
+  margin-top: 15px;
+}
+
 .color-button:hover {
   background: $color;
   color: #fff;
@@ -385,9 +389,13 @@ hr.no-margin-bottom {
  padding-left: 5%;
 }
 
-
 .two-column-container.half-width .left-column {
   width: 50%;
+}
+
+.two-column-container.one-third-width hr {
+  padding: 0;
+  margin: 20px 0;
 }
 
 @media(max-width: $desktop_breakpoint) {
@@ -668,7 +676,7 @@ section {
 }
 
 .hero-caption {
-  padding: 20px 30px 20px 80px;
+  padding: 20px 30px 20px 130px;
   font-size: 0.8em;
   overflow: hidden;
 }
@@ -714,6 +722,7 @@ section {
   display: block;
   padding-bottom: 33%;
   position: relative;
+  margin-bottom: 60px;
 }
 
 .three-spaced-squares {
@@ -936,6 +945,10 @@ section {
   transition: top .1s;
 }
 
+.one-third-rectangle-card .image-title-container {
+  margin-top: -1em;
+}
+
 .image-title-container .image-title {
   font-size: 20px;
 }
@@ -1146,7 +1159,7 @@ section {
 
 .horizontal-card,
 .horizontal-card:hover .stripe {
-  height: 260px;
+  min-height: 260px;
 }
 
 .horizontal-card:hover h3 {
@@ -1157,6 +1170,18 @@ section {
   .horizontal-card {
     height: auto;
   }
+}
+
+/**
+* Partials: Detail page links
+**/
+
+.detail-page-links a {
+  line-height: 2em;
+}
+
+.detail-page-links a.active {
+  color: $color;
 }
 
 /************************************************************

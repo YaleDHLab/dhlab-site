@@ -7,7 +7,8 @@
       <div class='three-spaced-squares-table'>
         {% for item in include.items %}
           {% if counter < 3 %}
-            <a href={{ item.url }} class='spaced-square'>
+            {% assign item_url = item.url | prepend: site.baseurl %}
+            <a href='{{ item_url }}' class='spaced-square'>
               {% assign image_url = item.image | prepend: site.baseurl %}
               <div class='background-image event-date-container'
                 style='background-image: url({{ image_url }})'>
