@@ -8,7 +8,6 @@
   {% if item.deeplink %}
     {% assign url = item.deeplink %}
     {% assign truncated = url | truncate: 4 %}
-
     {% if truncated == '/...' %}
       {% assign url = url | prepend: site.baseurl %}
     {% endif %}
