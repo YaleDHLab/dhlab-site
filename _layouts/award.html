@@ -14,26 +14,12 @@ class: award-detail-page
 <div class='center-column post'>
   <div class='two-column-container one-third-width'>
     <div class='left-column'>
-    {% for award in site.awards %}
-      {% if award.url == page.url %}
-        {% assign class = 'active' %}
-      {% else %}
-        {% assign class = '' %}
-      {% endif %}
-      <a href='{{ award.url | prepend: site.baseurl }}'
-        class='{{ class }}'>
-        <b>{{ award.title }}</b>
-      </a>
-      <br/>
-    {% endfor %}
+    {% include text/detail_page_links.html
+      items=site.awards
+      page=page
+    %}
 
-    {% if page.deadline %}
-      <hr />
-      <b>Deadline: {{ page.deadline }}</b>
-      <div>{{ page.application_text }}</div>
-      <a href='{{ page.application_url }}' class='color-button'>Apply Now</a>
-
-    {% endif %}
+    {% include text/apply_link.html page=page %}
     </div>
     <div class='right-column'>
       {{ content }}
