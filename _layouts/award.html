@@ -25,4 +25,16 @@ class: award-detail-page
       {{ content }}
     </div>
   </div>
+
+  {% if page.application_overview == 'seed_grant' %}
+    {% include awards/seed_grant_overview.html %}
+  {% elsif page.application_overview == 'training_scholarship' %}
+    {% include awards/training_scholarship_overview.html %}
+  {% endif %}
+
+  {% assign items = site.projects | limit: 3 %}
+  {% include grids/three_spaced_squares.html
+    items=items
+    label='FUNDED PROJECTS'
+  %}
 </div>

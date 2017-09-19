@@ -4,6 +4,7 @@ order: 2
 image: '/assets/images/placeholder-hero.jpg'
 caption: >
   "Lorem ipsum dolor sit amet, sollicitudin non quas libero dictum nulla vel. Quam porttitor lacus a wisi. Duis congue, ut quam elit at a. Orci fermentum mattis accusantium. Libero fermentum condimentum sed, vel"
+application_overview: training_scholarship
 ---
 
 <h3>Overview</h3>
