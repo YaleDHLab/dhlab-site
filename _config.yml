@@ -27,6 +27,8 @@ collections:
     output: true
   team:
     output: false
+  about:
+    output: true
 
 # default layouts
 defaults:

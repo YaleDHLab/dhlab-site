@@ -50,49 +50,20 @@ class: about-page
     {% endfor %}
   </div>
   <section>
-    <div class='two-column-container half-width'>
+    <div class='two-column-container half-width pad-sides'>
       <div class='left-column'>
         <h3>Digital Humanities Lab Assistants</h3>
-        <p>Project Assistants collaborate on digital humanities research undertaken by Yale faculty and students.</p>
+        <div>Project Assistants collaborate on digital humanities research undertaken by Yale faculty and students.</div>
         <br/>
-        <div class='double-line-height'>
-          <div class='list-heading'>2017-2018 Digital Scholarship Consultant</div>
-          <div><b>Kevin Anderson</b>, Psychology</div>
-        </div>
-        <br/><br/>
-        <div class='double-line-height'>
-          <div class='list-heading'>2017-2018 Project Assistants</div>
-          <div><b>Aaron Orbey</b>, English and Computer Science major</div>
-        </div>
-        <br/><br/>
-        <div class='double-line-height'>
-          <div class='list-heading'>2016-2017 Project Assistants</div>
-          <div><b>Serena Lau</b>, Environmental Anthropology major</div>
-          <div><b>Abhishek Nayar</b>, Computer Science and Economics major</div>
-          <div><b>Pauli Xu</b>, Applied Math, Humanities, and Computer Science major</div>
-        </div>
-        <br/><br/>
-        <div class='double-line-height'>
-          <div class='list-heading'>2015-2016 Project Assistants</div>
-          <div><b>Ye Seul Byeen</b>, History major</div>
-          <div><b>Nicholas Hathaway</b>, Computer Science major</div>
-          <div><b>Michelle Lapadula</b>, Computer and the Arts major</div>
-          <div><b>Abhishek Nayar</b>, Computer Science and Economics major</div>
-        </div>
+        {% include text/personnel_list.html items=site.data.assistants.left %}
       </div>
       <div class='right-column'>
         <h3>Digital Scholarship Consultants at the DHLab</h3>
-        <p>Consultants meet with Yale scholars who are working with quantitative or computational methods.</p>
+        <div>Consultants meet with Yale scholars who are working with quantitative or computational methods.</div>
         <br/>
-        <div class='double-line-height'>
-          <div class='small-uppercase'>2017-2018 Digital Scholarship Consultants</div>
-          <div><b>Kevin Anderson</b>, Psychology</div>
-        </div>
-        <br/>
-        <br/>
-        <br/>
+        {% include text/personnel_list.html items=site.data.assistants.right %}
         <h3>Work With Us</h3>
-        <p>Are you a programmer or designer interested in working in digital humanities? Contact us for information on becoming a DHLab assistant and explore our current <a href='#student-jobs'>Student Job Openings</a> for this academic year.</p>
+        <div>Are you a programmer or designer interested in working in digital humanities? Contact us for information on becoming a DHLab assistant and explore our current <a href='#student-jobs'>Student Job Openings</a> for this academic year.</div>
         <a class='color-button' href='#contact-us'>Contact Us</a>
       </div>
     </div>

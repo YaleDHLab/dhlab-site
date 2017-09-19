@@ -25,4 +25,12 @@ class: opportunity-detail-page
       {{ content }}
     </div>
   </div>
+
+  {% if page.overview == 'student_jobs' %}
+    {% include opportunities/student_jobs_overview.html %}
+  {% elsif page.overview == 'teaching_fellows' %}
+    {% include opportunities/teaching_fellows_overview.html %}
+  {% elsif page.overview == 'postdoctoral_associates' %}
+    {% include opportunities/postdoctoral_associates_overview.html %}
+  {% endif %}
 </div>

@@ -158,7 +158,6 @@ hr.no-margin-bottom {
 }
 
 .list-heading {
-  margin-bottom: 8px;
   letter-spacing: .5px;
   text-transform: uppercase;
   font-weight: 700;
@@ -371,6 +370,11 @@ hr.no-margin-bottom {
   margin-top: -$pad;
 }
 
+.two-column-container.pad-sides {
+  padding-left: 60px;
+  padding-right: 60px;
+}
+
 /**
 * Column sizes
 **/
@@ -427,7 +431,7 @@ footer {
 .site-brand {
   height: 60px;
   width: 180px;
-  background: $color;
+  margin-top: -5px;
   display: inline-block;
   margin-left: 60px;
   margin-left: calc((100% - 1080px)/2);
@@ -491,7 +495,6 @@ header.gray-header .nav-links .link:hover .sublinks {
 .container.methods-page .link.guides > a {
   color: $color;
 }
-
 
 /**
 * Header links
@@ -1167,7 +1170,7 @@ section {
 * Partials: Detail page links
 **/
 
-.two-column-container.one-third-width a.color-button {
+.two-column-container a.color-button {
   margin: 20px 0;
 }
 
@@ -1182,6 +1185,14 @@ section {
 
 .detail-page-links a.active {
   color: $color;
+}
+
+/**
+* Partials: Personnel list
+**/
+
+.personnel-list {
+  line-height: 1.7em;
 }
 
 /************************************************************
@@ -1489,7 +1500,7 @@ section {
 
 .about-page .two-column-container h3 {
   padding-top: 0;
-  padding-bottom: 6px;
+  padding-bottom: 15px;
 }
 
 .about-page .two-column-container .small-uppercase {

@@ -1,0 +1,3 @@
+{% for item in include.items %}
+  <a href='{{ item.url | prepend: site.baseurl }}'>{{ item.title }}</a>
+{% endfor %}
