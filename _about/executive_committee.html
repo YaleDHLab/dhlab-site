@@ -30,23 +30,30 @@ group: committee
       {% include team_member.html team_member=team_member %}
     {% endfor %}
   </div>
-  <section>
-    <div class='two-column-container half-width pad-sides'>
-      <div class='left-column'>
-        <h3>Digital Humanities Lab Assistants</h3>
-        <div>Project Assistants collaborate on digital humanities research undertaken by Yale faculty and students.</div>
-        <br/>
-        {% include text/personnel_list.html items=site.data.assistants.left %}
-      </div>
-      <div class='right-column'>
-        <h3>Digital Scholarship Consultants at the DHLab</h3>
-        <div>Consultants meet with Yale scholars who are working with quantitative or computational methods.</div>
-        <br/>
-        {% include text/personnel_list.html items=site.data.assistants.right %}
-        <h3>Work With Us</h3>
-        <div>Are you a programmer or designer interested in working in digital humanities? Contact us for information on becoming a DHLab assistant and explore our current <a href='#student-jobs'>Student Job Openings</a> for this academic year.</div>
-        <a class='color-button' href='#contact-us'>Contact Us</a>
-      </div>
-    </div>
-  </section>
+
+  {% capture left_text %}
+    {% include text/personnel_list.html items=site.data.postdoctoral_associates %}
+    <div>Eleifend tellus pulvinar nunc sed metus, praesent nunc tortor, eget ante risus at eget et, pulvinar congue sociis felis imperdiet mauris. Mauris integer ligula, quis lacinia urna facilisis aliquam taciti. Quis pulvinar nunc nec incididunt cursus.</div>
+  {% endcapture %}
+
+  {% capture right_text %}
+    <div>Eleifend tellus pulvinar nunc sed metus, praesent nunc tortor, eget ante risus at eget et, pulvinar congue sociis felis imperdiet mauris. Mauris integer ligula, quis lacinia urna facilisis aliquam taciti. Quis pulvinar nunc nec incididunt cursus, turpis et nullam donec amet, vivamus convallis lectus pellentesque tristique vel, venenatis mattis luctus, rutrum at quam eget. Urna vel. Imperdiet in integer felis eget ac quis. Sed donec quis sollicitudin amet, adipiscing ac justo proin orci. Commodi venenatis, lectus ligula integer mus velit nulla, commodo tempor non duis, sem quam lorem etiam vitae suscipit.</div>
+    <br/>
+    <div>Integer tincidunt porta, et posuere nulla maecenas sapien lectus. Nibh justo suscipit ipsam laboriosam, mauris nunc. Praesent nisl donec eius donec quam adipiscing, metus libero quis velit, sollicitudin nunc accumsan, felis dictum et dui nam senectus tellus. Habitasse ac viverra, velit ut, malesuada ut sed ac mauris eu. Est duis nec a leo natoque, curabitur pellentesque tellus vestibulum amet, pede volutpat tortor quam aliquam, dignissim eros. Magna adipiscing laoreet arcu cras nullam, accumsan luctus.</div>
+  {% endcapture %}
+
+  {% assign left_button_url = '/projects.html' | prepend: site.baseurl %}
+  {% assign right_button_url = '/resources.html' | prepend: site.baseurl %}
+
+  {% include text/half-width/two_column_text.html
+    left_title = 'Former Postdoctoral Associates'
+    left_text = left_text
+    left_button_url = left_button_url
+    left_button_label = 'View Projects'
+
+    right_title = 'Resources'
+    right_text = right_text
+    right_button_url = right_button_url
+    right_button_label = 'What We Offer'
+  %}
 </div>

@@ -37,23 +37,34 @@ class: about-page
       {% include team_member.html team_member=team_member %}
     {% endfor %}
   </div>
-  <section>
-    <div class='two-column-container half-width pad-sides'>
-      <div class='left-column'>
-        <h3>Digital Humanities Lab Assistants</h3>
-        <div>Project Assistants collaborate on digital humanities research undertaken by Yale faculty and students.</div>
-        <br/>
-        {% include text/personnel_list.html items=site.data.assistants.left %}
-      </div>
-      <div class='right-column'>
-        <h3>Digital Scholarship Consultants</h3>
-        <div>Consultants meet with Yale scholars who are working with quantitative or computational methods.</div>
-        <br/>
-        {% include text/personnel_list.html items=site.data.assistants.right %}
-        <h3>Work With Us</h3>
-        <div>Are you a programmer or designer interested in working in digital humanities? Contact us for information on becoming a DHLab assistant and explore our current <a href='#student-jobs'>Student Job Openings</a> for this academic year.</div>
-        <a class='color-button' href='#contact-us'>Contact Us</a>
-      </div>
-    </div>
-  </section>
+
+  {% capture left_text %}
+    <div>Project Assistants collaborate on digital humanities research undertaken by Yale faculty and students.</div>
+    <br/>
+    {% include text/personnel_list.html items=site.data.assistants.left %}
+  {% endcapture %}
+
+  {% capture right_text %}
+    <div>Consultants meet with Yale scholars who are working with quantitative or computational methods.</div>
+    <br/>
+    {% include text/personnel_list.html items=site.data.assistants.right %}
+    <h3>Work With Us</h3>
+    <div>Are you a programmer or designer interested in working in digital humanities? Contact us for information on becoming a DHLab assistant and explore our current <a href='#student-jobs'>Student Job Openings</a> for this academic year.</div>
+  {% endcapture %}
+
+  {% assign left_button_url = '/projects.html' | prepend: site.baseurl %}
+  {% assign right_button_url = '/#' | prepend: site.baseurl %}
+
+  {% include text/half-width/two_column_text.html
+    left_title = 'Former Postdoctoral Associates'
+    left_text = left_text
+    left_button_url = left_button_url
+    left_button_label = 'View Projects'
+
+    right_title = 'Resources'
+    right_text = right_text
+    right_button_url = right_button_url
+    right_button_label = 'Contact Us'
+  %}
+
 </div>
