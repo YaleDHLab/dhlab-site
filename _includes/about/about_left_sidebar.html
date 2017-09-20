@@ -1,0 +1,19 @@
+<div class='detail-page-links sidebar-links'>
+  {% assign about_url = '/about.html' %}
+  {% if about_url == include.page.url %}
+    {% assign about_class = 'active' %}
+  {% endif %}
+
+  <a href='{{ about_url | prepend: site.baseurl }}' class='{{ about_class }}'>
+    <b>About the Yale DH Lab</b>
+  </a>
+
+  {% assign items = site.about | sort: 'order' %}
+  {% include text/detail_page_links.html
+    items=items
+    page=include.page
+  %}
+</div>
+<hr class='no-margin-bottom'>
+<div class ='sidebar-text'><b>Office Hours</b> are Tuesdays and Wednesdays from 2—4 pm. Visit us at Sterling Memorial Library, Room 316.</div>
+<a href='#newsletter' class='color-button'>Sign up for E-News</a>

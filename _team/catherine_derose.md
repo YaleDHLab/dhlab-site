@@ -3,6 +3,7 @@ name: Catherine DeRose
 role: Outreach Manager
 image: /assets/images/about/team/CD-sq.jpg
 order: 2
+group: core_team
 ---
 
 Catherine DeRose is the Engagement and Outreach Manager for the DHLab. Catherine comes to Yale from the University of Wisconsin-Madison, where she received a PhD in British literature, with a minor in Humanities Computing and Design. Her current research considers how Victorian authors thought about text preservation during the print explosion in the nineteenth-century and how the concerns (and solutions) they raised resonate with today's issues surrounding archives and mass digitization.

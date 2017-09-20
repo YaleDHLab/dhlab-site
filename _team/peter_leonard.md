@@ -3,6 +3,7 @@ name: Peter Leonard
 role: DHLab Director
 image: /assets/images/about/team/PL-sq.jpg
 order: 1
+group: core_team
 ---
 
 Peter received his B.A. in art history from the University of Chicago and his Ph.D. in Scandinavian literature from the University of Washington. He came to Yale in 2013 as the first Librarian for Digital Humanities Research.

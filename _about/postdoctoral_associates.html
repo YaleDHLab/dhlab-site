@@ -1,19 +1,11 @@
 ---
-layout: default
-class: about-page
----
-
-{% capture caption %}
+title: Postdoctoral Associates
+layout: about
+order: 1
+image: /assets/images/about/busa.png
+caption: >
   The image shown here is kindly made available under a Creative Commons CC-BY-NC license by permission of CIRCSE Research Centre, Università Cattolica del Sacro Cuore, Milan, Italy. For further information, or to request permission for reuse, please contact Marco Passarotti, on marco.passarotti AT unicatt.it, or by post: Largo Gemelli 1, 20123 Milan, Italy.
-{% endcapture %}
-
-{% assign image_url = '/assets/images/about/busa.png' | prepend: site.baseurl %}
-{% include captioned_hero.html
-  label='About'
-  title='The Yale Digital Humanities Laboratory'
-  caption=caption
-  image=image_url
-%}
+---
 
 <div class='center-column'>
   <div class='two-column-container one-third-width'>
@@ -32,28 +24,25 @@ class: about-page
     %}
 
   <div class='color-background'>
-    {% assign team_members = site.team | where:'group','core_team' | sort: 'order' %}
+    {% assign team_members = site.team | where:'group','postdoc' | sort: 'order' %}
     {% for team_member in team_members %}
       {% include team_member.html team_member=team_member %}
     {% endfor %}
   </div>
 
   {% capture left_text %}
-    <div>Project Assistants collaborate on digital humanities research undertaken by Yale faculty and students.</div>
-    <br/>
-    {% include text/personnel_list.html items=site.data.assistants.left %}
+    {% include text/personnel_list.html items=site.data.postdoctoral_associates %}
+    <div>Eleifend tellus pulvinar nunc sed metus, praesent nunc tortor, eget ante risus at eget et, pulvinar congue sociis felis imperdiet mauris. Mauris integer ligula, quis lacinia urna facilisis aliquam taciti. Quis pulvinar nunc nec incididunt cursus.</div>
   {% endcapture %}
 
   {% capture right_text %}
-    <div>Consultants meet with Yale scholars who are working with quantitative or computational methods.</div>
+    <div>Eleifend tellus pulvinar nunc sed metus, praesent nunc tortor, eget ante risus at eget et, pulvinar congue sociis felis imperdiet mauris. Mauris integer ligula, quis lacinia urna facilisis aliquam taciti. Quis pulvinar nunc nec incididunt cursus, turpis et nullam donec amet, vivamus convallis lectus pellentesque tristique vel, venenatis mattis luctus, rutrum at quam eget. Urna vel. Imperdiet in integer felis eget ac quis. Sed donec quis sollicitudin amet, adipiscing ac justo proin orci. Commodi venenatis, lectus ligula integer mus velit nulla, commodo tempor non duis, sem quam lorem etiam vitae suscipit.</div>
     <br/>
-    {% include text/personnel_list.html items=site.data.assistants.right %}
-    <h3>Work With Us</h3>
-    <div>Are you a programmer or designer interested in working in digital humanities? Contact us for information on becoming a DHLab assistant and explore our current <a href='#student-jobs'>Student Job Openings</a> for this academic year.</div>
+    <div>Integer tincidunt porta, et posuere nulla maecenas sapien lectus. Nibh justo suscipit ipsam laboriosam, mauris nunc. Praesent nisl donec eius donec quam adipiscing, metus libero quis velit, sollicitudin nunc accumsan, felis dictum et dui nam senectus tellus. Habitasse ac viverra, velit ut, malesuada ut sed ac mauris eu. Est duis nec a leo natoque, curabitur pellentesque tellus vestibulum amet, pede volutpat tortor quam aliquam, dignissim eros. Magna adipiscing laoreet arcu cras nullam, accumsan luctus.</div>
   {% endcapture %}
 
   {% assign left_button_url = '/projects.html' | prepend: site.baseurl %}
-  {% assign right_button_url = '/#' | prepend: site.baseurl %}
+  {% assign right_button_url = '/resources.html' | prepend: site.baseurl %}
 
   {% include text/half-width/two_column_text.html
     left_title = 'Former Postdoctoral Associates'
@@ -64,7 +53,6 @@ class: about-page
     right_title = 'Resources'
     right_text = right_text
     right_button_url = right_button_url
-    right_button_label = 'Contact Us'
+    right_button_label = 'What We Offer'
   %}
-
 </div>
