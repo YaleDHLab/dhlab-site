@@ -5,6 +5,7 @@ order: 3
 image: /assets/images/about/busa.png
 caption: >
   The image shown here is kindly made available under a Creative Commons CC-BY-NC license by permission of CIRCSE Research Centre, Università Cattolica del Sacro Cuore, Milan, Italy. For further information, or to request permission for reuse, please contact Marco Passarotti, on marco.passarotti AT unicatt.it, or by post: Largo Gemelli 1, 20123 Milan, Italy.
+group: committee
 ---
 
 <div class='center-column'>
@@ -24,7 +25,7 @@ caption: >
     %}
 
   <div class='color-background'>
-    {% assign team_members = site.team | sort: 'order' %}
+    {% assign team_members = site.team | where:'group','committee' | sort: 'order' %}
     {% for team_member in team_members %}
       {% include team_member.html team_member=team_member %}
     {% endfor %}

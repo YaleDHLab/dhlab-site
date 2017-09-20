@@ -32,7 +32,7 @@ class: about-page
     %}
 
   <div class='color-background'>
-    {% assign team_members = site.team | sort: 'order' %}
+    {% assign team_members = site.team | where:'group','core_team' | sort: 'order' %}
     {% for team_member in team_members %}
       {% include team_member.html team_member=team_member %}
     {% endfor %}
