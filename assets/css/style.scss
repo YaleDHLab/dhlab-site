@@ -45,10 +45,6 @@ body {
   margin-bottom: -75px;
 }
 
-.home .center-column {
-  padding-top: 30px;
-}
-
 @media(max-width: $desktop_breakpoint) {
   .hero-text-container {
     max-width: 100%;
@@ -59,6 +55,12 @@ body {
     padding-left: 30px;
     padding-right: 30px;
   }
+}
+
+.home-center-column {
+  margin: 0 auto;
+  max-width: $desktop_breakpoint;
+  padding: 40px 60px;
 }
 
 /**
@@ -160,6 +162,7 @@ hr.no-margin-bottom {
 .list-heading {
   letter-spacing: .5px;
   text-transform: uppercase;
+  font-size: .9em;
   font-weight: 700;
 }
 
@@ -199,6 +202,7 @@ hr.no-margin-bottom {
   -moz-background-size: cover;
   -o-background-size: cover;
   background-size: cover;
+  z-index: -2
 }
 
 .square-image {
@@ -303,7 +307,7 @@ hr.no-margin-bottom {
 }
 
 .texture-background {
-  background-image: url({{ site.baseurl}}/assets/images/background-texture.png)
+  background-image: url({{ site.baseurl}}/assets/images/backgrounds/background-texture.png)
 }
 
 /**
@@ -443,7 +447,7 @@ footer {
 .site-brand img {
   background: $color;
   position: relative;
-  box-shadow: -2px 2px 8px rgba(0, 0, 0, 0.3);
+  box-shadow: -4px 4px 4px rgba(0, 0, 0, 0.3);
 }
 
 @media(max-width: $desktop_breakpoint) {
@@ -663,10 +667,13 @@ section {
 * Hero
 **/
 
+
 .hero {
   height: 450px;
   color: #fff;
   text-align: center;
+  z-index: -2;
+
 }
 
 .hero-caption {
@@ -921,8 +928,8 @@ section {
 }
 
 .dark-overlay {
-  background: rgba(0,0,0,0.55);
-  z-index: 1;
+  background: rgba(0,0,0,0.6);
+  z-index: 0;
 }
 
 .image-title-container {
@@ -1205,6 +1212,7 @@ section {
 
 .home-page .hero {
   background-image: url('{{ site.baseurl }}/assets/images/home/hero.jpg');
+  height: 600px;
 }
 
 .home-page .hero div {
@@ -1488,7 +1496,7 @@ section {
 }
 
 .about-page .color-background {
-  background-image: url({{ site.baseurl }}/assets/images/background-texture.svg);
+  background-image: url({{ site.baseurl }}/assets/images/backgrounds/background-texture.svg);
   background-repeat: repeat-y;
   background-size: 62%;
   background-position: -248px;
