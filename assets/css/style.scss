@@ -850,7 +850,7 @@ section {
   transform: translate(0, -50px);
   text-align: left;
   width: 90%;
-  padding: 0 15 0 15px;
+  padding: 0 15px 0 15px;
   margin-bottom: -45px;
   max-width: 320px;
   display: inline-block;
@@ -960,8 +960,9 @@ section {
 }
 
 .four-rectangle-grid-cell .teaser {
-  top: 300px;
   transition: top .1s;
+  top: 400px;
+  position: relative;
 }
 
 /* Methods page overrides */
@@ -1275,7 +1276,7 @@ section {
 }
 
 .home-events-container .card-title-container {
-  max-width: 100%;
+  width: 100%;
 }
 
 /**
@@ -1435,7 +1436,7 @@ section {
 
 .share-icon,
 .marker-icon {
-  margin-right: 10px;
+  margin: 0 10px 0 5px;
   background-repeat: no-repeat;
   background-size: 15px;
   background-position: 0% 0px;
