@@ -42,7 +42,7 @@ body {
 .hero-text-container {
   padding-top: 0;
   padding-bottom: 0;
-  margin-bottom: -75px;
+  margin-bottom: -100px;
 }
 
 @media(max-width: $desktop_breakpoint) {
@@ -677,7 +677,7 @@ section {
 }
 
 .hero-caption {
-  padding: 20px 30px 20px 130px;
+  padding: 20px 30px 20px 135px;
   font-size: 0.8em;
   overflow: hidden;
 }
