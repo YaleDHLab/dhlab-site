@@ -5,6 +5,7 @@ process: true
 $color: #FFB600;
 $desktop_breakpoint: 1200px;
 $pad: 40px;
+$pad_sides: 60px;
 
 * {
   margin: 0;
@@ -310,6 +311,10 @@ hr.no-margin-bottom {
   background-image: url({{ site.baseurl}}/assets/images/backgrounds/background-texture.png)
 }
 
+.color-background .two-column-container.one-third-width .left-column {
+  width: 280px;
+}
+
 /**
 * Helpers
 **/
@@ -375,8 +380,18 @@ hr.no-margin-bottom {
 }
 
 .two-column-container.pad-sides {
-  padding-left: 60px;
-  padding-right: 60px;
+  padding-left: $pad_sides;
+  padding-right: $pad_sides;
+}
+
+.color-background + .two-column-container {
+  padding-top: 20px;
+  padding-left: $pad_sides;
+  padding-right: $pad_sides;
+}
+
+.post .color-background + .two-column-container h3 {
+  padding: 20px 0;
 }
 
 /**
@@ -667,13 +682,12 @@ section {
 * Hero
 **/
 
-
 .hero {
   height: 450px;
   color: #fff;
   text-align: center;
   z-index: -2;
-
+  background-color: #555;
 }
 
 .hero-caption {
@@ -1218,6 +1232,7 @@ section {
 .home-page .hero {
   background-image: url('{{ site.baseurl }}/assets/images/home/hero.jpg');
   height: 600px;
+  background-color: #3f2157;
 }
 
 .home-page .hero div {
