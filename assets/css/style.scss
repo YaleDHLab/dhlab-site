@@ -1230,13 +1230,30 @@ section {
 **/
 
 .home-page .hero {
-  background-image: url('{{ site.baseurl }}/assets/images/home/hero.jpg');
   height: 600px;
-  background-color: #3f2157;
+  background-color: #000;
+  overflow: hidden;
+  position: relative;
+}
+
+.home-page .hero .hero-image {
+  background-image: url('{{ site.baseurl }}/assets/images/home/hero.jpg');
+  position: absolute;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 0;
+}
+
+.home-page .hero-text {
+  position: absolute;
+  top: 220px;
+  z-index: 1;
+  right: 0;
+  left: 0;
 }
 
 .home-page .hero div {
-  padding-top: 250px;
   font-family: 'yalenewroman', serif;
   font-size: 1.4em;
   font-weight: normal;
@@ -1255,6 +1272,15 @@ section {
 .home-page .hero a {
   margin-top: 5px;
   background: rgba(0,0,0,0.15);
+}
+
+.home-page .hero video {
+  position: absolute;
+  top: 0;
+  right: 0;
+  left: 0;
+  width: 100%;
+  height: auto;
 }
 
 /**
