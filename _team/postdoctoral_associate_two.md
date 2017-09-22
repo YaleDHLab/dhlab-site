@@ -1,11 +1,9 @@
 ---
-name: Postdoctoral Associate Two
-role: Role Information
-image: /assets/images/about/placeholder_person.jpg
+name: Damon Crockett
+role: Philosophy and Cognitive Science PhD, Yale appointment in Computer Science
+image: /assets/images/about/crockett.jpg
 order: 2
 group: postdoc
 ---
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Massa ultricies mi quis hendrerit dolor magna eget est. Ultricies lacus sed turpis tincidunt id aliquet. Aliquet risus feugiat in ante metus dictum at. Ut sem nulla pharetra diam sit amet nisl. Non tellus orci ac auctor augue mauris augue neque. Nisi scelerisque eu ultrices vitae auctor eu augue ut lectus. Rhoncus dolor purus non enim praesent elementum facilisis leo vel. Congue nisi vitae suscipit tellus mauris a diam maecenas sed. Ut sem nulla pharetra diam sit amet. Egestas sed tempus urna et pharetra pharetra massa. A diam sollicitudin tempor id.
-
-Aliquam etiam erat velit scelerisque. Eu turpis egestas pretium aenean pharetra magna. Sit amet nisl suscipit adipiscing bibendum est. Eu scelerisque felis imperdiet proin fermentum leo vel orci porta. Mauris in aliquam sem fringilla ut morbi. Dui vivamus arcu felis bibendum ut tristique et egestas quis. Dictumst vestibulum rhoncus est pellentesque. Curabitur vitae nunc sed velit. Aliquam vestibulum morbi blandit cursus risus at. Non curabitur gravida arcu ac tortor dignissim convallis. Massa sed elementum tempus egestas sed.
+Damon Crockett's present work concerns the role of visual evidence in the social sciences. In particular, he considers the ways in which image data can be used to ground substantive explanations in fields like media studies, cultural studies, and digital art history. During his appointment with the Yale Digital Humanities Lab, Damon plans to develop a set of flexible software tools for the direct visualization of image data. Additionally, he will conduct an in-depth user study aimed at making the tools as useful and learnable as possible.
