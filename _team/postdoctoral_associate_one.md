@@ -1,11 +1,9 @@
 ---
-name: Postdoctoral Associate One
-role: Role Information
-image: /assets/images/about/placeholder_person.jpg
+name: Nadya Bair
+role: Art History PhD, Yale appointment in American Studies
+image: /assets/images/about/bair.jpg
 order: 2
 group: postdoc
 ---
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Massa ultricies mi quis hendrerit dolor magna eget est. Ultricies lacus sed turpis tincidunt id aliquet. Aliquet risus feugiat in ante metus dictum at. Ut sem nulla pharetra diam sit amet nisl. Non tellus orci ac auctor augue mauris augue neque. Nisi scelerisque eu ultrices vitae auctor eu augue ut lectus. Rhoncus dolor purus non enim praesent elementum facilisis leo vel. Congue nisi vitae suscipit tellus mauris a diam maecenas sed. Ut sem nulla pharetra diam sit amet. Egestas sed tempus urna et pharetra pharetra massa. A diam sollicitudin tempor id.
-
-Aliquam etiam erat velit scelerisque. Eu turpis egestas pretium aenean pharetra magna. Sit amet nisl suscipit adipiscing bibendum est. Eu scelerisque felis imperdiet proin fermentum leo vel orci porta. Mauris in aliquam sem fringilla ut morbi. Dui vivamus arcu felis bibendum ut tristique et egestas quis. Dictumst vestibulum rhoncus est pellentesque. Curabitur vitae nunc sed velit. Aliquam vestibulum morbi blandit cursus risus at. Non curabitur gravida arcu ac tortor dignissim convallis. Massa sed elementum tempus egestas sed.
+A historian of photography and the press, Nadya Bair holds a Ph.D. in Art History from the University of Southern California. Her book project, The Decisive Network: Magnum Photos and the Postwar Image Market, examines the role of photo agencies in shaping postwar visual culture. Based on years of research in over a dozen archives around the world, The Decisive Network looks beyond heroic photographers and their iconic images to demonstrate how a range of professionals brought the aesthetic and production mode of news images into multiple markets for photography. Bair has published articles in the journals History of Photography and American Art, and in the edited volumes Getting the Picture: The Visual Culture of the News and Visualizing Fascism (forthcoming). At Yale’s Digital Humanities Lab, Bair will be mining data from thousands of pages of Magnum business correspondence in order to visualize and analyze the full scope of the agency’s networks. Working on a scale that exceeds the limits of chronological and linear narrative, this project will model new ways to study image saturation and the collaborative labor that yielded it.
