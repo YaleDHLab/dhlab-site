@@ -105,12 +105,16 @@ a {
   color: inherit;
 }
 
+a.inline-link {
+  color: #e6a400;
+}
+
 b {
   font-weight: 700;
 }
 
 p {
-  margin: .8em 0;
+  margin: 1em 0;
   line-height: 1.6em;
   font-weight: 400;
   font-size: 1.1em;
@@ -120,6 +124,11 @@ h2 {
   font-size: 1.125em;
   letter-spacing: .5px;
   padding: 20px $pad 20px 0;
+}
+
+h2.subheading {
+  padding-top: 0;
+  padding-bottom: 8px;
 }
 
 h3 {
@@ -141,6 +150,12 @@ hr {
 hr.no-margin-bottom {
   margin-bottom: 0;
   padding-bottom: 0;
+}
+
+hr.sidebar {
+  margin: 20px 0;
+  padding-bottom: 0;
+  width: 90%;
 }
 
 .small-uppercase {
@@ -206,6 +221,7 @@ hr.no-margin-bottom {
 
 .square-image {
   padding-bottom: 100%;
+  border: 1px solid #ddd;
 }
 
 /**
@@ -672,6 +688,7 @@ footer .hours {
 
 section {
   padding-top: 30px;
+  padding-bottom: 30px;
 }
 
 /************************************************************
@@ -1197,11 +1214,6 @@ section {
   margin: 20px 0;
 }
 
-.two-column-container.one-third-width hr {
-  padding: 0;
-  margin: 25px 0;
-}
-
 .detail-page-links a {
   line-height: 2em;
 }
@@ -1449,10 +1461,12 @@ section {
 
 .event-detail-page .left-column h3 {
   padding-top: 0;
+  padding-bottom: 30px;
+  margin-top: -2px;
 }
 
 .event-detail-page .square-image {
-  margin-bottom: 20px;
+  margin-bottom: 24px;
   margin-right: 20%;
   padding-bottom: 80%;
 }
@@ -1462,21 +1476,26 @@ section {
   padding-bottom: 0;
 }
 
+.event-detail-page .two-column-container {
+  padding-left: 0;
+}
+
+
 /**
 * Event detail page social media
 **/
 
 .event-social-media {
-  padding-top: 10px;
+  padding-top: 12px;
   font-weight: 600;
   color: #999;
 }
 
 .event-social-media hr {
   padding: 0;
-  margin: 0;
   margin: 10px 0;
-  border-top: 1px solid #999;
+  width: 80%;
+  border-top: 1px solid #ddd;
 }
 
 .event-social-media div {
@@ -1527,10 +1546,12 @@ section {
 
 .event-tags div {
   font-weight: 600;
+  padding-top: 20px;
 }
 
 .event-tags a {
   font-weight: 400;
+  padding-bottom: 4px;
 }
 
 .event-tags a:hover {
@@ -1612,4 +1633,3 @@ section {
 .projects-container .right-column .background-image {
   right: 0;
 }
-
