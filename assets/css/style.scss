@@ -5,6 +5,7 @@ process: true
 $color: #FFB600;
 $desktop_breakpoint: 1200px;
 $pad: 40px;
+$pad_sides: 60px;
 
 * {
   margin: 0;
@@ -109,7 +110,7 @@ b {
 }
 
 p {
-  margin: 1em 0;
+  margin: .8em 0;
   line-height: 1.6em;
   font-weight: 400;
   font-size: 1.1em;
@@ -124,7 +125,7 @@ h2 {
 h3 {
   font-size: 1.5em;
   transition: color .1s;
-  padding: 20px 0;
+  padding: 0;
 }
 
 hr {
@@ -178,7 +179,6 @@ hr.no-margin-bottom {
   text-align: center;
   font-size: 1.125em;
   letter-spacing: .5px;
-  margin-bottom: -18px;
 }
 
 .sidebar-text {
@@ -202,7 +202,6 @@ hr.no-margin-bottom {
   -moz-background-size: cover;
   -o-background-size: cover;
   background-size: cover;
-  z-index: -2
 }
 
 .square-image {
@@ -215,15 +214,17 @@ hr.no-margin-bottom {
 
 .white-button {
   text-decoration: none;
+  font-family: OpenSans;
   display: inline-block;
   background: transparent;
   padding: 5px 15px;
   color: #fff;
   border: 2px solid #fff;
   border-radius: 20px;
-  font-weight: 700;
+  font-weight: 600;
   letter-spacing: .5px;
   transition: background .1s;
+  font-size: .9em;
 }
 
 .white-button:hover {
@@ -298,7 +299,7 @@ hr.no-margin-bottom {
 }
 
 .color-background h3 {
-  padding-top: 0;
+  padding-bottom: 18px;
 }
 
 .color-background .white-button {
@@ -308,6 +309,10 @@ hr.no-margin-bottom {
 
 .texture-background {
   background-image: url({{ site.baseurl}}/assets/images/backgrounds/background-texture.png)
+}
+
+.color-background .two-column-container.one-third-width .left-column {
+  width: 280px;
 }
 
 /**
@@ -375,8 +380,18 @@ hr.no-margin-bottom {
 }
 
 .two-column-container.pad-sides {
-  padding-left: 60px;
-  padding-right: 60px;
+  padding-left: $pad_sides;
+  padding-right: $pad_sides;
+}
+
+.color-background + .two-column-container {
+  padding-top: 20px;
+  padding-left: $pad_sides;
+  padding-right: $pad_sides;
+}
+
+.post .color-background + .two-column-container h3 {
+  padding: 20px 0;
 }
 
 /**
@@ -667,17 +682,17 @@ section {
 * Hero
 **/
 
-
 .hero {
   height: 450px;
   color: #fff;
   text-align: center;
   z-index: -2;
-
+  background-color: #555;
 }
 
 .hero-caption {
   padding: 20px 30px 20px 135px;
+  position: relative;
   font-size: 0.8em;
   overflow: hidden;
 }
@@ -737,7 +752,7 @@ section {
 }
 
 .three-spaced-squares h3 {
-  padding-top: 18px;
+  padding-top: 20px;
   font-size: 1.25em;
 }
 
@@ -915,11 +930,6 @@ section {
 
 .rectangle-image-grid .background-image,
 .rectangle-image-grid .dark-overlay {
-  position: absolute;
-  top: 0;
-  right: 0;
-  bottom: 0;
-  left: 0;
 }
 
 .rectangle-image-grid.circle-caret:before {
@@ -928,8 +938,13 @@ section {
 }
 
 .dark-overlay {
-  background: rgba(0,0,0,0.6);
+  background: rgba(0,0,0,0.3);
+  position: absolute;
   z-index: 0;
+  top: 0;
+  bottom: 0;
+  right: 0;
+  left: 0;
 }
 
 .image-title-container {
@@ -1216,30 +1231,60 @@ section {
 **/
 
 .home-page .hero {
-  background-image: url('{{ site.baseurl }}/assets/images/home/hero.jpg');
   height: 600px;
+  background-color: #000;
+  overflow: hidden;
+  position: relative;
+}
+
+.home-page .hero .hero-image {
+  background-image: url('{{ site.baseurl }}/assets/images/home/hero.jpg');
+  position: absolute;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 0;
+}
+
+.home-page .hero-text {
+  position: absolute;
+  top: 220px;
+  z-index: 1;
+  right: 0;
+  left: 0;
 }
 
 .home-page .hero div {
-  padding-top: 250px;
   font-family: 'yalenewroman', serif;
-  font-size: 1.4em;
   font-weight: normal;
-  letter-spacing: 3px;
+  letter-spacing: 2px;
   text-shadow: 2px 2px 4px #222222;
+}
+
+.home-page .subhead {
+  font-size: 1.3em;
 }
 
 .home-page .hero h1 {
   margin: 15px;
   font-family: 'yalenewroman', serif;
   font-weight: normal;
-  font-size: 4.5em;
+  font-size: 5em;
   text-shadow: 2px 2px 8px #222222;
 }
 
 .home-page .hero a {
   margin-top: 5px;
   background: rgba(0,0,0,0.15);
+}
+
+.home-page .hero video {
+  position: absolute;
+  top: 0;
+  right: 0;
+  left: 0;
+  width: 100%;
+  height: auto;
 }
 
 /**
@@ -1513,7 +1558,7 @@ section {
 
 .about-page .two-column-container h3 {
   padding-top: 0;
-  padding-bottom: 15px;
+  padding-bottom: 6px;
 }
 
 .about-page .two-column-container .small-uppercase {
@@ -1567,3 +1612,4 @@ section {
 .projects-container .right-column .background-image {
   right: 0;
 }
+
