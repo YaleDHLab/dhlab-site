@@ -1,6 +1,7 @@
 ---
 name: Damon Crockett
-role: Philosophy and Cognitive Science PhD, Yale appointment in Computer Science
+phd: Philosophy and Cognitive Science PhD
+role: Yale appointment in Computer Science
 image: /assets/images/about/crockett.jpg
 order: 2
 group: postdoc
