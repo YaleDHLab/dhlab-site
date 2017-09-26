@@ -3,12 +3,12 @@ layout: default
 class: event-detail-page
 ---
 
-{% assign bottom_items = site.events | limit: 3 %}
+{% assign bottom_items = site.projects | limit: 3 %}
 
 {% include simple.html 
   page=page 
   content=content
-  label='EVENTS'
-  bottom_label='RELATED NEWS' 
+  label='ARCHIVE'
+  bottom_label='FROM THE ARCHIVE' 
   bottom_items=bottom_items
 %}
