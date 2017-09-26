@@ -1,7 +1,7 @@
 ---
 title: Geospatial Analysis
 order: 3
-image: '/assets/images/placeholder-hero.jpg'
+image: '/assets/images/banners/globe.jpg'
 caption: "Lorem ipsum dolor sit amet, sollicitudin non quas libero dictum nulla vel. Quam porttitor lacus a wisi. Duis congue, ut quam elit at a. Orci fermentum mattis accusantium. Libero fermentum condimentum sed, vel"
 thumbnail: '/assets/images/placeholder-4.png'
 teaser: "Lorem ipsum dolor sit amet, sollicitudin non quas libero dictum nulla vel. Quam porttitor lacus a wisi. Duis congue, ut quam elit at a. Orci fermentum mattis accusantium. Libero fermentum condimentum sed, vel"

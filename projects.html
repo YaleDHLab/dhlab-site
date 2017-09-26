@@ -48,9 +48,10 @@ class: projects-page
     {% endfor %}
   </div>
 
-    {% assign archive = site.projects | where: 'layout', 'archive' | limit: 3 %}
-      {% include text/three_text_blocks.html
-        items=archive
-        label='FROM THE ARCHIVES'
-      %}
+  {% assign items = site.projects | limit: 3 %}
+  {% include grids/three_spaced_squares.html
+    items=items
+    label='FROM THE ARCHIVES'
+  %}
+
 </div>
