@@ -48,9 +48,9 @@ class: projects-page
     {% endfor %}
   </div>
 
-  {% assign events = site.events | limit: 3 %}
-  {% include text/three_text_blocks.html
-    items=events
-    label='FROM THE ARCHIVES'
-  %}
+    {% assign archive = site.projects | where: 'layout', 'archive' | limit: 3 %}
+      {% include text/three_text_blocks.html
+        items=archive
+        label='FROM THE ARCHIVES'
+      %}
 </div>
