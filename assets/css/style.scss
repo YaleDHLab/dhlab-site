@@ -2,7 +2,7 @@
 process: true
 ---
 
-$color: #FFB600;
+$color: #FFC426;
 $desktop_breakpoint: 1200px;
 $pad: 40px;
 $pad_sides: 60px;
@@ -325,7 +325,12 @@ hr.sidebar {
 }
 
 .texture-background {
-  background-image: url({{ site.baseurl}}/assets/images/backgrounds/background-texture.png)
+  background-image: url({{ site.baseurl}}/assets/images/backgrounds/background-texture.svg)
+}
+
+.news-background {
+  background-image: url({{ site.baseurl}}/assets/images/backgrounds/vector-texture.png);
+  background-size: cover;
 }
 
 .color-background .two-column-container.one-third-width .left-column {
@@ -479,7 +484,7 @@ footer {
 .site-brand img {
   background: $color;
   position: relative;
-  box-shadow: -4px 4px 4px rgba(0, 0, 0, 0.3);
+  box-shadow: -4px 4px 4px rgba(0, 0, 0, 0.15);
 }
 
 @media(max-width: $desktop_breakpoint) {
@@ -1121,7 +1126,7 @@ section {
 
 .large-card-text {
   float: right;
-  margin: 20px 80px 0 0;
+  margin: 24px 135px 0 0;
   width: 570px;
 }
 
@@ -1135,7 +1140,7 @@ section {
 }
 
 .two-thirds-width-card a {
-  vertical-align: top;
+  vertical-align: middle;
 }
 
 /**
