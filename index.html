@@ -24,11 +24,11 @@ class: home-page
           <div class='home-event-image background-image event-date-container'
               style='background-image: url({{ image_url }})'>
             {% include events/event_date.html event=event %}
+            {% assign label=event.categories | first %}
+            {% include cards/card_title_box.html
+              label=label
+              title=event.title %}
           </div>
-          {% assign label=event.categories | first %}
-          {% include cards/card_title_box.html
-            label=label
-            title=event.title %}
         </a>
       {% endfor %}
     </div>
