@@ -22,7 +22,7 @@ caption: >
       text='CURRENT POSTDOCTORAL ASSOCIATES'
     %}
 
-  <div class='color-background'>
+  <div class='color-background circle-caret'>
     {% assign team_members = site.team | where:'group','postdoc' | sort: 'order' %}
     {% for team_member in team_members %}
       {% include team_member.html team_member=team_member %}
