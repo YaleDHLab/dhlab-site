@@ -325,11 +325,11 @@ hr.sidebar {
 }
 
 .texture-background {
-  background-image: url({{ site.baseurl}}/assets/images/backgrounds/background-texture.svg)
+  background-image: url({{ site.baseurl }}/assets/images/backgrounds/background-texture.svg)
 }
 
 .news-background {
-  background-image: url({{ site.baseurl}}/assets/images/backgrounds/vector-texture.png);
+  background-image: url({{ site.baseurl }}/assets/images/backgrounds/vector-texture.png);
   background-size: cover;
 }
 
@@ -888,7 +888,7 @@ section {
   transform: translate(0, -50px);
   text-align: left;
   width: 90%;
-  padding: 0 15px 0 15px;
+  padding: 0 15px 0 0;
   margin-bottom: -45px;
   max-width: 320px;
   display: inline-block;
@@ -1124,6 +1124,10 @@ section {
   float: right;
 }
 
+.two-thirds-width-card .card-title-container {
+  padding-left: 15px;
+}
+
 .large-card-text {
   float: right;
   margin: 24px 135px 0 0;
@@ -1296,12 +1300,12 @@ section {
 .home-page .hero div {
   font-family: 'yalenewroman', serif;
   font-weight: normal;
-  letter-spacing: 2px;
   text-shadow: 2px 2px 4px #222222;
 }
 
 .home-page .subhead {
-  font-size: 1.3em;
+  font-size: 1.5em;
+  letter-spacing: 3px;
 }
 
 .home-page .hero h1 {
@@ -1309,6 +1313,7 @@ section {
   font-family: 'yalenewroman', serif;
   font-weight: normal;
   font-size: 5em;
+  letter-spacing: 2px;
   text-shadow: 2px 2px 8px #222222;
 }
 
