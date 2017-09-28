@@ -2,7 +2,7 @@
 title: Corpus Creation
 subtitle: Collecting Data & Materials
 order: 1
-image: http://via.placeholder.com/1050x550
+image: '/assets/images/banners/beinecke.jpg'
 caption: "Lorem ipsum dolor sit amet, sollicitudin non quas libero dictum nulla vel. Quam porttitor lacus a wisi. Duis congue, ut quam elit at a. Orci fermentum mattis accusantium. Libero fermentum condimentum sed, vel"
 thumbnail: '/assets/images/placeholder-2.png'
 teaser: "Lorem ipsum dolor sit amet, sollicitudin non quas libero dictum nulla vel. Quam porttitor lacus a wisi. Duis congue, ut quam elit at a. Orci fermentum mattis accusantium. Libero fermentum condimentum sed, vel"
