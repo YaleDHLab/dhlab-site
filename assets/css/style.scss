@@ -18,6 +18,7 @@ html, body {
   font-family: 'Open Sans';
   font-size: 14px;
   font-weight: 400;
+  background-attachment: fixed;
 }
 
 /**
@@ -891,22 +892,39 @@ section {
   margin-bottom: -45px;
   max-width: 320px;
   display: inline-block;
+  overflow: hidden;
 }
 
+/* overrides */
+.background-image .card-title-container {
+  position: absolute;
+  left: 14px;
+  right: 14px;
+  top: 100%;
+  width: auto;
+  background: inherit;
+  padding: 0;
+}
 
 .hero-text-container .card-title-container {
   float: left;
+}
+
+.news-page .card-title-container,
+.projects-container .card-title-container {
+  margin-left: 15px;
 }
 
 .card-title-container .card-title-text {
   padding: 18px;
   text-decoration: none;
   color: #000;
-  background: rgba(256,256,256,0.9);
+  background: rgba(256,256,256,0.86);
   border: 1px solid lightgray;
   position: relative;
 }
 
+/* card title container children */
 .card-title-container .card-category {
   text-transform: uppercase;
 }
@@ -915,10 +933,17 @@ section {
   font-size: 1.5em;
 }
 
-.projects-container .card-title-container {
-  margin-left: 15px;
+.card-title-container .card-title-blur {
+  position: absolute;
+  top: -10px;
+  right: -10px;
+  bottom: -10px;
+  left: -10px;
+  background: inherit;
+  z-index: 0;
+  filter: blur(4px);
+  background-position-y: -240px;
 }
-
 
 /**
 * Partials: Rectangle image grid
@@ -1345,6 +1370,10 @@ section {
 
 .home-events-container .card-title-container {
   width: 100%;
+}
+
+.home-events-container .background-image .card-title-container {
+  width: auto;
 }
 
 /**
