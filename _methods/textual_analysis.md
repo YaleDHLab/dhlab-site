@@ -1,7 +1,7 @@
 ---
 title: Textual Analysis
 order: 0
-image: '/assets/images/projects/transcribe.jpg'
+image: '/assets/images/banners/text-mining.jpg'
 caption: "Lorem ipsum dolor sit amet, sollicitudin non quas libero dictum nulla vel. Quam porttitor lacus a wisi. Duis congue, ut quam elit at a. Orci fermentum mattis accusantium. Libero fermentum condimentum sed, vel"
 thumbnail: '/assets/images/placeholder-1.png'
 teaser: "Lorem ipsum dolor sit amet, sollicitudin non quas libero dictum nulla vel. Quam porttitor lacus a wisi. Duis congue, ut quam elit at a. Orci fermentum mattis accusantium. Libero fermentum condimentum sed, vel"
