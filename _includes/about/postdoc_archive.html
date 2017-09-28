@@ -1,0 +1,20 @@
+<div class='two-column-container one-third-width postdoc-archive'>
+  <div class='left-column'>
+    <h3>Postdoctoral Associate Alumni</h3>
+    {% for postdoc_year in site.data.postdoctoral_associates %}
+      <a href='#postdocs-{{ postdoc_year[0] }}'>{{ postdoc_year[0] }}</a>
+    {% endfor %}
+  </div>
+  <div class='right-column'>
+    {% for postdoc_year in site.data.postdoctoral_associates %}
+      <h3 id='postdocs-{{ postdoc_year[0] }}'>{{ postdoc_year[0] }}</h3>
+      {% for postdoc in postdoc_year[1] %}
+        <div class='postdoc'>
+          <b>{{ postdoc.name }}</b>:
+          <b>{{ postdoc.short_affiliation }}</b>.
+          <span>{{ postdoc.bio }}</span>
+        </div>
+      {% endfor %}
+    {% endfor %}
+  </div>
+</div>
