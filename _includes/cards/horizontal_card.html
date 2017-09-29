@@ -22,6 +22,8 @@
         <div>{{ include.item.teaser | truncatewords: 50 }}</div>
       {% endif %}
     </a>
-    <a href='#registration' class='color-button'>Register</a>
+    {% if include.item.registerurl %}
+      <a href='#registration' class='color-button'>Register</a>
+    {% endif %}
   </div>
 </div>

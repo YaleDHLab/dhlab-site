@@ -484,7 +484,7 @@ footer {
 .site-brand img {
   background: $color;
   position: relative;
-  box-shadow: -4px 4px 4px rgba(0, 0, 0, 0.15);
+  box-shadow: -4px 4px 8px rgba(0, 0, 0, 0.1);
 }
 
 @media(max-width: $desktop_breakpoint) {
@@ -857,26 +857,27 @@ section {
 
 .event-date-container .card-date {
   position: absolute;
-  top: 15px;
-  left: 15px;
-  padding: 5px;
-  width: 44px;
+  top: 12px;
+  left: 12px;
+  padding: 6px 6px 8px 6px;
+  width: 48px;
   text-align: center;
   text-decoration: none;
-  line-height: 18px;
+  line-height: 17px;
   color: #000;
   background: #fff;
+  box-shadow: -2px 2px 4px rgba(0, 0, 0, 0.1);
 }
 
 .event-date-container .event-month {
-  font-size: 12px;
+  font-size: 13px;
   font-weight: 700;
   text-transform: uppercase;
 
 }
 
 .event-date-container .event-day {
-  font-size: 20px;
+  font-size: 22px;
   font-weight: 700;
 }
 
@@ -1207,6 +1208,7 @@ section {
 .horizontal-card .image {
   width: 100%;
   height: 100%;
+  border: 1px solid #ddd;
 }
 
 .horizontal-card .text {
@@ -1371,6 +1373,10 @@ section {
   width: 30%;
   position: relative;
   vertical-align: top;
+}
+
+.home-page .card-title-container {
+  padding-left: 15px;
 }
 
 /* evenly space events in table */
