@@ -17,38 +17,48 @@ class: projects-page
   caption=project.caption
 %}
 
-{% assign counter=0 %}
+{% assign n_projects = 0 %}
+{% for project in site.projects %}
+  {% unless project.featured or project.funded or project.layout == 'archive' %}
+    {% assign n_projects = n_projects | plus: 1 %}
+  {% endunless %}
+{% endfor %}
+
+{% assign counter = 0 %}
 <div class='center-column'>
   <div class='projects-container'>
     {% for project in site.projects %}
-      {% unless project.featured %}
-        {% assign category=project.categories | first %}
-        {% assign mod=counter | modulo:2 %}
-        {% if mod==0 %}
+      {% unless project.featured or project.funded or project.layout == 'archive' %}
+        {% assign category = project.categories | first %}
+        {% assign mod = counter | modulo:2 %}
+        {% if mod == 0 %}
         <div class='two-column-container half-width'>
         {% endif %}
           <div class={% cycle 'left-column', 'right-column' %}>
             <div class='project-image-container'>
               <a href='{{ project.url | prepend: site.baseurl }}'>
-                <div class='background-image'
+                <div class='background-image blur-container'
                   style='background-image:url("{{ project.image | prepend: site.baseurl }}")'>
+                  {% include cards/card_title_box.html
+                    label=category
+                    title=project.title
+                  %}
                 </div>
-                {% include cards/card_title_box.html
-                  label=category
-                  title=project.title
-                %}
               </a>
             </div>
           </div>
+          {% assign counter = counter | plus: 1 %}
+          {% if counter == n_projects %}
+            <div class='right-column'></div>
+          {% endif %}
         {% if mod==1 %}
         </div>
         {% endif %}
-        {% assign counter=counter | plus: 1 %}
       {% endunless %}
     {% endfor %}
   </div>
 
-  {% assign items = site.projects | limit: 3 %}
+  {% assign items = site.projects | where: 'layout', 'archive' | limit: 3 %}
   {% include grids/three_spaced_squares.html
     items=items
     label='FROM THE ARCHIVES'

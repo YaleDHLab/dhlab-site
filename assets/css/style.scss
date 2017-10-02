@@ -44,7 +44,14 @@ body {
 .hero-text-container {
   padding-top: 0;
   padding-bottom: 0;
-  margin-bottom: -100px;
+  position: relative;
+  top: 100%;
+  background: inherit;
+  background-size: 285px 100%;
+  background-color: #fff;
+  background-position: 60px -80px;
+  z-index: -1;
+  overflow: visible;
 }
 
 @media(max-width: $desktop_breakpoint) {
@@ -168,7 +175,7 @@ hr.sidebar {
   font-size: 12px;
 }
 
-.section-title {;
+.section-title {
   margin-bottom: 20px;
   text-transform: uppercase;
   font-weight: 700;
@@ -231,7 +238,7 @@ hr.sidebar {
 
 .white-button {
   text-decoration: none;
-  font-family: OpenSans;
+  font-family: 'Open Sans';
   display: inline-block;
   background: transparent;
   padding: 5px 15px;
@@ -695,6 +702,7 @@ footer .hours {
 section {
   padding-top: 30px;
   padding-bottom: 30px;
+  overflow: auto;
 }
 
 /************************************************************
@@ -710,14 +718,16 @@ section {
   color: #fff;
   text-align: center;
   z-index: -2;
-  background-color: #555;
+  background-color: #efefef;
+  position: relative;
 }
 
 .hero-caption {
-  padding: 20px 30px 20px 135px;
+  padding: 20px 30px 20px 150px;
   position: relative;
   font-size: 0.8em;
   overflow: hidden;
+  text-align: left;
 }
 
 .projects-page .hero {
@@ -885,35 +895,37 @@ section {
 * Partials: Card title overlays
 **/
 
-.card-title-container {
-  transform: translate(0, -50px);
-  text-align: left;
-  width: 90%;
-  padding: 0 15px 0 0;
-  margin-bottom: -45px;
-  max-width: 320px;
-  display: inline-block;
-  overflow: hidden;
+/* Class applied to card-title-container's container */
+.blur-container {
+  position: relative;
 }
 
-/* overrides */
-.background-image .card-title-container {
+.blur-container .card-title-container {
   position: absolute;
   left: 14px;
   right: 14px;
   top: 100%;
   width: auto;
-  background: inherit;
   padding: 0;
+  background: inherit;
+  background-position-y: -75px;
+  background-size: 100% 125px;
+}
+
+.card-title-container {
+  transform: translate(0, -50px);
+  text-align: left;
+  width: 90%;
+  max-width: 300px;
+  display: inline-block;
+  overflow: hidden;
+  background-size: 100% 120px;
 }
 
 .hero-text-container .card-title-container {
   float: left;
-}
-
-.news-page .card-title-container,
-.projects-container .card-title-container {
-  margin-left: 15px;
+  background: inherit;
+  background-position: 0px -80px;
 }
 
 .card-title-container .card-title-text {
@@ -943,7 +955,13 @@ section {
   background: inherit;
   z-index: 0;
   filter: blur(4px);
-  background-position-y: -240px;
+  background-size: 100% 140px;
+}
+
+.hero-text-container .card-title-container .card-title-blur {
+  z-index: 0;
+  filter: blur(4px);
+  background-size: 200% 140px;
 }
 
 /**
@@ -963,6 +981,7 @@ section {
   bottom: 16px;
   left: 0px;
   overflow: hidden;
+  color: #fff;
 }
 
 .rectangle-image-grid .left-column .four-rectangle-grid-cell {
@@ -1023,6 +1042,8 @@ section {
   transition: top .1s;
   top: 400px;
   position: relative;
+  color: #fff;
+  width: 80%;
 }
 
 /* Methods page overrides */
@@ -1055,10 +1076,7 @@ section {
 .four-rectangle-grid-cell:hover .teaser {
   position: absolute;
   top: 145px;
-  color: #fff;
   z-index: 4;
-  width: 80%;
-  left: 10%;
 }
 
 /* Methods page overrides */
@@ -1123,10 +1141,6 @@ section {
 
 .two-thirds-width-card-image .color-button {
   float: right;
-}
-
-.two-thirds-width-card .card-title-container {
-  padding-left: 15px;
 }
 
 .large-card-text {
@@ -1268,12 +1282,7 @@ section {
 }
 
 /**
-* Partials: Postdoc archive
-**/
-
-
-/**
-* About: Postdocs
+* Partials: About Page Postdocs
 **/
 
 .postdoc-archive h3 {
@@ -1366,6 +1375,7 @@ section {
   display: table;
   width: 100%;
   table-layout: fixed;
+  margin-bottom: 40px;
 }
 
 .home-events-container a {
@@ -1373,10 +1383,6 @@ section {
   width: 30%;
   position: relative;
   vertical-align: top;
-}
-
-.home-page .card-title-container {
-  padding-left: 15px;
 }
 
 /* evenly space events in table */
@@ -1395,7 +1401,6 @@ section {
 .home-events-container .home-event-image {
   width: 100%;
   padding-bottom: 100%;
-  position: relative;
 }
 
 .home-events-container .card-title-container {
@@ -1546,7 +1551,6 @@ section {
   padding-left: 0;
 }
 
-
 /**
 * Event detail page social media
 **/
@@ -1674,15 +1678,21 @@ section {
 * Projects Landing Page
 **/
 
-.projects .hero {
-  padding-bottom: 600px;
+.projects-page .project-image-container {
+  margin-bottom: 100px;
 }
 
-.projects-container .left-column, {
+.projects-container .two-column-container .left-column,
+.projects-container .two-column-container .right-column {
+  padding-top: 20px;
+  padding-bottom: 20px;
+}
+
+.projects-container .two-column-container .left-column, {
   padding-right: 20px;
 }
 
-.projects-container .right-column {
+.projects-container .two-column-container .right-column {
   padding-left: 20px;
 }
 
