@@ -85,4 +85,4 @@ phone: 203-432-123
 plugins:
   - octopress-minify-html
 
-minify_html: true
+minify_html: false
