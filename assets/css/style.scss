@@ -116,20 +116,19 @@ b {
 
 p {
   margin: 1em 0;
-  line-height: 1.6em;
+  line-height: 24px;
   font-weight: 400;
-  font-size: 1.1em;
+  font-size: 15px;
 }
 
 h2 {
-  font-size: 1.125em;
+  font-size: 18px;
   letter-spacing: .5px;
   padding: 20px $pad 20px 0;
 }
 
 h2.subheading {
-  padding-top: 0;
-  padding-bottom: 8px;
+  padding:0;
 }
 
 h3 {
@@ -168,6 +167,11 @@ hr.sidebar {
   font-size: 12px;
 }
 
+.color-background .small-uppercase {
+  color: #333;
+  margin-bottom: 18px;
+}
+
 .section-title {;
   margin-bottom: 20px;
   text-transform: uppercase;
@@ -200,6 +204,7 @@ hr.sidebar {
 .sidebar-text {
   width: 85%;
   line-height: 1.5;
+  margin-bottom: 14px;
 }
 
 .sidebar-links {
@@ -222,7 +227,7 @@ hr.sidebar {
 
 .square-image {
   padding-bottom: 100%;
-  border: 1px solid #ddd;
+  border: 1px solid #ccc;
 }
 
 /**
@@ -255,11 +260,12 @@ hr.sidebar {
   border: 2px solid $color;
   border-radius: 20px;
   background: transparent;
-  letter-spacing: .5px;
+  letter-spacing: .25px;
   transition: color .1s, background-color .1s;
   display: inline-block;
   font-weight: 700;
-  font-size: .9em;
+  font-size: 12px;
+  line-height: 18px;
 }
 
 .color-button:hover {
@@ -316,7 +322,7 @@ hr.sidebar {
 }
 
 .color-background h3 {
-  padding-bottom: 18px;
+  padding-bottom: 8px;
 }
 
 .color-background .white-button {
@@ -1076,6 +1082,7 @@ section {
 
 .one-third-rectangle-cards {
   width: 100%;
+  margin: 20px 0;
   display: table;
 }
 
@@ -1244,8 +1251,9 @@ section {
 **/
 
 .two-column-container a.color-button {
-  margin: 20px 0;
+  margin: 4px 0 20px 0;
 }
+
 
 .detail-page-links a {
   line-height: 2em;
@@ -1286,9 +1294,13 @@ section {
   padding-bottom: 10px;
 }
 
+.postdoc-archive .dept {
+  font-weight: 600;
+}
+
 .postdoc-archive .postdoc {
   padding-bottom: 15px;
-  letter-spacing: 0.04em;
+  line-height: 1.5em;
 }
 
 /************************************************************
@@ -1646,11 +1658,6 @@ section {
 .about-page .two-column-container h3 {
   padding-top: 0;
   padding-bottom: 6px;
-}
-
-.about-page .two-column-container .small-uppercase {
-  color: #000;
-  padding-bottom: 10px;
 }
 
 .about-page .double-line-height .small-uppercase {

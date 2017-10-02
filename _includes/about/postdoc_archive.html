@@ -7,11 +7,11 @@
   </div>
   <div class='right-column'>
     {% for postdoc_year in site.data.postdoctoral_associates %}
-      <h3 id='postdocs-{{ postdoc_year[0] }}'>{{ postdoc_year[0] }}</h3>
+      <h2 id='postdocs-{{ postdoc_year[0] }}'>{{ postdoc_year[0] }}</h2>
       {% for postdoc in postdoc_year[1] %}
         <div class='postdoc'>
-          <b>{{ postdoc.name }}</b>:
-          <b>{{ postdoc.short_affiliation }}</b>.
+          <b>{{ postdoc.name }}</b>,
+          <span class='dept'>{{ postdoc.short_affiliation }}</span>.
           <span>{{ postdoc.bio }}</span>
         </div>
       {% endfor %}
