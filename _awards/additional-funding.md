@@ -1,7 +1,7 @@
 ---
 title: Additional Funding
 order: 3
-image: '/assets/images/placeholder-hero.jpg'
+image: '/assets/images/banners/sterling-nave.jpg'
 caption: >
   "Lorem ipsum dolor sit amet, sollicitudin non quas libero dictum nulla vel. Quam porttitor lacus a wisi. Duis congue, ut quam elit at a. Orci fermentum mattis accusantium. Libero fermentum condimentum sed, vel"
 ---

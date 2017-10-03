@@ -1,9 +1,9 @@
 ---
 title: Postoctoral Associates
 order: 2
-image: '/assets/images/placeholder-hero.jpg'
+image: '/assets/images/banners/sterling-ext.jpg'
 caption: "Lorem ipsum dolor sit amet, sollicitudin non quas libero dictum nulla vel. Quam porttitor lacus a wisi. Duis congue, ut quam elit at a. Orci fermentum mattis accusantium. Libero fermentum condimentum sed, vel"
-deadline: October 24 2018
+deadline: October 24, 2018
 application_text: Apply now to become one of our 2018 Digital Humanities Postdoctoral Fellows.
 application_url: http://google.com
 overview: postdoctoral_associates

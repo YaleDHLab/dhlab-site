@@ -1,7 +1,6 @@
 ---
 name: Nadya Bair
-phd: Art History PhD
-role: Yale appointment in American Studies
+role: Yale appointment in American Studies<br/>Art History PhD
 image: /assets/images/about/bair.jpg
 order: 2
 group: postdoc

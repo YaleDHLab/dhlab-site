@@ -1,7 +1,7 @@
 ---
 title: Rapid Prototyping Grant
 order: 0
-image: '/assets/images/placeholder-hero.jpg'
+image: '/assets/images/banners/beinecke-ext.jpg'
 caption: >
   "Lorem ipsum dolor sit amet, sollicitudin non quas libero dictum nulla vel. Quam porttitor lacus a wisi. Duis congue, ut quam elit at a. Orci fermentum mattis accusantium. Libero fermentum condimentum sed, vel"
 deadline: October 24 2018
