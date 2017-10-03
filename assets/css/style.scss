@@ -113,6 +113,10 @@ a {
   color: inherit;
 }
 
+p a {
+  color: #FFC426;
+}
+
 a.inline-link {
   color: #e6a400;
 }
@@ -164,6 +168,11 @@ hr.sidebar {
   margin: 20px 0;
   padding-bottom: 0;
   width: 90%;
+}
+
+.news-detail-page hr {
+  padding: 0;
+  margin: 30px 0;
 }
 
 .small-uppercase {
@@ -1375,7 +1384,7 @@ section {
   display: table;
   width: 100%;
   table-layout: fixed;
-  margin-bottom: 40px;
+  margin-bottom: 60px;
 }
 
 .home-events-container a {

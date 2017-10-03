@@ -1,0 +1,15 @@
+---
+title: "DH at Yale"
+date: December 14, 2016
+image: /assets/images/placeholder-hero.jpg
+thumbnail: /assets/images/placeholder-1.png
+caption: ""
+categories: 
+  - announcements
+spotlight: false 
+image_layout: landscape
+teaser: |
+  "What does digital humanities research look like at Yale? See YaleNews's recent article for projects involving the reconstruction of Depression-era film strips, topic models of the Slavic Review..."
+---
+
+What does digital humanities research look like at Yale? See <a href="http://news.yale.edu/2016/12/12/space-share-ideas-and-experiment-digital-humanities" target="_blank"> YaleNews</a>'s recent article for projects involving the reconstruction of Depression-era film strips, topic models of the <em>Slavic Review</em>journal, a digital archive of buildings in New Haven, and more.
