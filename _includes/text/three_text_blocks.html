@@ -7,7 +7,7 @@
         <h3>{{ item.title }}</h3>
       </a>
       <div class='small-uppercase'>{{ item.date | date: '%b %d' }}</div>
-      <p>{{ item.content | truncatewords: 30 }}</p>
+      <p>{{ item.content | strip_html | truncatewords: 30 }}</p>
       <a href='{{ item.url }}'>Learn More &raquo;</a>
     </div>
   {% endfor %}

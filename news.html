@@ -10,11 +10,7 @@ class: news-page
 
     <!-- NEWS CARD -->
     <div class='two-thirds-width-card large-card'>
-      {% for news_item in site.news reversed %}
-        {% if news_item.featured %}
-          {% assign item = news_item %}
-        {% endif %}
-      {% endfor %}
+      {% include get_featured_news.html %}
 
       {% capture square_html %}
       <div class='news-card-square news-background'>
@@ -42,9 +38,13 @@ class: news-page
     </div>
   </section>
 
-  <section class='upcoming-events'>
-    {% for item in site.news %}
-      {% include cards/horizontal_card.html item=item %}
+  <section>
+    {% assign counter = 0%}
+    {% for item in site.news reversed %}
+      {% if counter < 5 %}
+        {% include cards/horizontal_card.html item=item %}
+        {% assign counter = counter | plus: 1 %}
+      {% endif %}
     {% endfor %}
   </section>
 </div>

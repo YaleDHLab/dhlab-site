@@ -9,7 +9,7 @@ class: events-page
     {% capture now %}{{ 'now' | date: '%s' | plus: 0 }}{% endcapture %}
     {% for event in site.events %}
       {% if event.date and event.time and event.location and event.content %}
-      {% capture date %}{{ event.date | date: '%s' | plus: 0 }}{% endcapture %}
+        {% capture date %}{{ event.date | date: '%s' }}{% endcapture %}
         {% if date > now %}
           {% include cards/horizontal_card.html item=event %}
         {% endif %}
