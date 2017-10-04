@@ -13,6 +13,7 @@ tags:
 teaser: >
   Join the Digital Humanities Lab for an Office Hours talk on DH training opportunities. Graduate students and staff will give lightning talk presentations on courses they participated in this past summer.
 ---
+
 Join the Digital Humanities Lab for an Office Hours talk on DH training opportunities. Graduate students and staff will give lightning talk presentations on courses they participated in this past summer, including:
 
 Text Processing: Techniques and Traditions (Digital Humanities Summer Institute)

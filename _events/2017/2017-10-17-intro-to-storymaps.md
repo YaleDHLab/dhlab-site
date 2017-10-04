@@ -16,6 +16,7 @@ tags:
 teaser: >
   Learn how to combine texts, images, and videos alongside maps using Esri's free Story Maps platform. In this workshop, participants will design a web-map, explore different Story Maps templates for showcasing research, and develop best practices to avoid copyright infringement. 
 ---
+
 Learn how to combine texts, images, and videos alongside maps using Esri's free Story Maps platform. In this workshop, participants will design a web-map, explore different Story Maps templates for showcasing research, and develop best practices to avoid copyright infringement. 
 
 Computers and sample data will be available for use. Participants are also welcome to bring their own data.

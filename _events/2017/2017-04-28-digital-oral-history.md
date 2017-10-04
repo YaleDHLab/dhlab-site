@@ -14,6 +14,7 @@ tags:
 teaser: >
   This workshop will familiarize participants with the fundamentals of Git and GitHub. Git—a free, open source version control system—and GitHub—a popular repository for sharing code—are key for web development projects and programming more broadly. Together, ​they provide a robust system for collaborating with team members and finding existing code that you might adopt and adapt for your own projects. 
 ---
+
 This workshop will familiarize participants with the fundamentals of Git and GitHub. Git—a free, open source version control system—and GitHub—a popular repository for sharing code—are key for web development projects and programming more broadly. Together, ​they provide a robust system for collaborating with team members and finding existing code that you might adopt and adapt for your own projects. Participants will gain hands-on experience creating repositories and branches, managing pull requests, and committing changes.
 
 The workshop is open to Yale students, faculty, and staff, but space is limited. Windows computers will be available for use, but participants are encouraged to bring their own laptops (Mac or Windows).
