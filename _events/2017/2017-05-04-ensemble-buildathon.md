@@ -12,6 +12,7 @@ tags:
 teaser: >
   Put that end-of-the-semester procrastination to good use and help us create a database of Yale theater history with Ensemble @ Yale! This new tool leverages the power of crowdsourcing (that’s you!) to identify and transcribe titles and dates of plays, as well as the names of actors, directors, playwrights, set and costume designers, etc. from historical programs dating back to 1925.
 ---
+
 Put that end-of-the-semester procrastination to good use and help us create a database of Yale theater history with Ensemble @ Yale! This new tool leverages the power of crowdsourcing (that’s you!) to identify and transcribe titles and dates of plays, as well as the names of actors, directors, playwrights, set and costume designers, etc. from historical programs dating back to 1925. Lindsay King will present an overview of the project, along with information on how you can participate.
 
 Inspired by the original Ensemble project from NYPL Labs, Ensemble @ Yale is an experiment that aims to transform historic programs from Yale’s archives into searchable text through crowdsourced transcription. Rather than reproducing all of the words in a digitized document, as with optical character recognition (OCR), crowdsourced transcription relies on human judgment to pull out features of interest to scholars and create structured data.

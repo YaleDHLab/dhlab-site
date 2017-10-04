@@ -14,6 +14,7 @@ tags:
 teaser: >
   The Yale Open Music Initiative, Digital Humanities Lab, and Center for Collaborative Arts and Media are happy to present a workshop on the OMIPOD, a wireless musical instrument that uses wi-fi to relay information from different sensors (light, touch, tilt) to any computer on the Yale network. 
 ---
+
 The Yale Open Music Initiative, Digital Humanities Lab, and Center for Collaborative Arts and Media are happy to present a workshop on the OMIPOD, a wireless musical instrument that uses wi-fi to relay information from different sensors (light, touch, tilt) to any computer on the Yale network. In this interactive workshop, participants will be able to experiment with the OMIPOD and learn about the hardware configuration, sensors, and software necessary to program it.
  
 For more information please contact Scott Petersen scott.petersen@yale.edu.

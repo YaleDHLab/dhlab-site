@@ -12,6 +12,7 @@ tags:
 teaser: >
   This presentation responds directly to the policy and cultural shift towards “data sharing” in the humanities and social sciences. Funding agencies in North America and Europe are now committed to the promotion of a culture of sharing of qualitative interview data.  
 ---
+
 Go beyond the "Juicey Quotes Syndrome" in digital oral history. This presentation responds directly to the policy and cultural shift towards “data sharing” in the humanities and social sciences. Funding agencies in North America and Europe are now committed to the promotion of a culture of sharing of qualitative interview data.  This shifting perspective has proven to be controversial in some disciplines, especially where group authority and identity rest on fieldwork rather than on the secondary reuse or analysis of “other people’s data.” The presentation will consider the ways in which recorded oral history interviews with survivors of mass violence can be ethically shared, combined, and creatively reused.
  
 This talk is open to the public and entire Yale community. Participants are welcome to bring their lunches.
