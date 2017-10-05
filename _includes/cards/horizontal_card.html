@@ -4,8 +4,11 @@
     <div class='stripe'></div>
     <div class='image-container'>
       <div class='image background-image event-date-container'
-        style='background-image: url({{ include.item.image | prepend: site.baseurl }})'>
-        {% include events/event_date.html event=include.item %}
+        style='background-image: url({{ include.item.thumbnail | prepend: site.baseurl }})'>
+        {% if include.item.time %}
+          {% include events/event_date.html event=include.item %}
+        {% endif %}
+
       </div>
     </div>
   </a>

@@ -14,10 +14,10 @@ class: news-detail-page
 
   <div class='center-column'>
     <div class='two-column-container one-third-width'>
-      <div class='left-column no-pad-top'>
+      <div class='left-column'>
 
       </div>
-      <div class='right-column no-pad-top'>
+      <div class='right-column'>
       {{ content }}
       </div>
     </div>
@@ -27,5 +27,15 @@ class: news-detail-page
       label='RELATED'
     %}
   </div>
+{% endif %}
 
+{% if page.image_layout == 'simple' %}
+  {% assign bottom_items = site.news | limit: 3 %}
+  {% include simple.html 
+    page=page 
+    content=content
+    label='NEWS'
+    bottom_label='RELATED NEWS' 
+    bottom_items=bottom_items
+  %}
 {% endif %}
