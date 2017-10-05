@@ -1,5 +1,0 @@
-{%- for js in site.static_files %}
-  {%- if js.path contains '/assets/js/' %}
-    <script src='{{ js.path | prepend: site.baseurl }}'></script>
-  {%- endif %}
-{%- endfor %}
