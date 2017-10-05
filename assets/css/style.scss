@@ -1,6 +1,7 @@
 ---
 process: true
 ---
+@import url('https://fonts.googleapis.com/css?family=Open+Sans:300,400,600,700');
 
 $color: #FFC426;
 $desktop_breakpoint: 1200px;
@@ -167,6 +168,30 @@ hr.sidebar {
   margin: 20px 0;
   padding-bottom: 0;
   width: 90%;
+}
+
+select {
+  border-radius: 0;
+  border: none;
+  -webkit-appearance: none;
+  -moz-appearance: none;
+  appearance: none;
+  -moz-box-sizing: border-box;
+  -webkit-box-sizing: border-box;
+  box-sizing: border-box;
+  -webkit-user-select: none;
+  -moz-user-select: -moz-none;
+  -ms-user-select: none;
+  user-select: none;
+  cursor: pointer;
+  padding: 10px 30px 10px 10px;
+  font-size: 1em;
+  background-image: url({{ '/assets/images/icons/gray-triangle.png' | prepend: site.baseurl }});
+  background-size: 11px;
+  background-repeat: no-repeat;
+  background-position: 90% 50%;
+  background-color: #efefef;
+  max-width: 120px;
 }
 
 .news-detail-page hr {
@@ -584,7 +609,6 @@ header.gray-header .nav-links .link:hover .sublinks {
   box-sizing: border-box;
 }
 
-
 .sublinks {
   display: none;
 }
@@ -613,7 +637,6 @@ header.gray-header .nav-links .link:hover .sublinks {
   display: block;
 }
 
-
 .nav-links .link:hover .sublinks a:hover {
   color: $color;
 }
@@ -635,7 +658,6 @@ header.gray-header .nav-links .link:hover .sublinks {
 a.subheader ~ a {
   padding-left: 14px;
 }
-
 
 /**
 * Footer
@@ -717,7 +739,6 @@ footer .hours {
 section {
   padding-top: 30px;
   padding-bottom: 30px;
-  overflow: auto;
 }
 
 /************************************************************
@@ -1270,6 +1291,14 @@ section {
 }
 
 /**
+* Partials: Large card
+**/
+
+.large-card {
+  padding-bottom: 60px;
+}
+
+/**
 * Partials: Detail page links
 **/
 
@@ -1675,6 +1704,38 @@ section {
 
 .about-page .double-line-height .small-uppercase {
   margin-bottom: 0;
+}
+
+/**
+* News Landing Page
+**/
+
+.news-page .large-card {
+  padding-bottom: 40px;
+}
+
+/**
+* Events Landing Page
+**/
+
+.events-page .previous-events h2 {
+  display: inline-block;
+}
+
+.events-page select {
+  float: right;
+  margin-top: 10px;
+  margin-left: 10px;
+}
+
+.past-event {
+  width: 20%;
+  padding: 10px;
+  vertical-align: top;
+}
+
+.past-event .background-image {
+  padding-bottom: 100%;
 }
 
 /**
