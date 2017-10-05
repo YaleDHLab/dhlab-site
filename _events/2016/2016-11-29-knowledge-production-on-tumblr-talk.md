@@ -2,7 +2,7 @@
 title: "Knowledge Production on Tumblr Talk"
 date: November 29, 2016
 image: /assets/images/placeholder-hero.jpg
-thumbnail: /assets/images/placeholder-4.png
+thumbnail: /assets/images/events/networks.jpg
 caption: ""
 categories: 
   - announcements

@@ -2,12 +2,12 @@
 title: "Apply for a DH Seed Grant"
 date: November 4, 2016
 image: /assets/images/placeholder-hero.jpg
-thumbnail: /assets/images/placeholder-3.png
+thumbnail: /assets/images/news/grant.jpg
 caption: ""
 categories: 
   - announcements
 spotlight: false 
-image_layout: landscape
+image_layout: simple
 teaser: |
   "The Digital Humanities Lab is excited to announce a new round of Seed Grants to support digital humanities research over the spring semester. These grants may be used to hire a developer, create a..."
 ---

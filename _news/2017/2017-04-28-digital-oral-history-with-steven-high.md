@@ -2,17 +2,15 @@
 title: "Digital Oral History with Steven High"
 date: April 28, 2017
 image: /assets/images/placeholder-hero.jpg
-thumbnail: /assets/images/placeholder-5.png
+thumbnail: /assets/images/news/audio-waves.jpg
 caption: ""
 categories: 
   - announcements
 spotlight: false 
-image_layout: landscape
+image_layout: simple
 teaser: |
   "Beyond the 'Juicy Quotes Syndrome': Digital Oral History and the Politics of Secondary Analysis April 28 at 12:00pm in Bass Library, L01 This presentation responds directly to the policy and cultural..."
 ---
-
-<h2>Beyond the 'Juicy Quotes Syndrome': Digital Oral History and the Politics of Secondary Analysis</h2>
    
 <em>April 28 at 12:00pm in Bass Library, L01</em>
    

@@ -2,17 +2,16 @@
 title: "Project Grant Recipients, 2017"
 date: June 5, 2017
 image: /assets/images/placeholder-hero.jpg
-thumbnail: /assets/images/placeholder-5.png
+thumbnail: /assets/images/news/grantees.jpg
 caption: ""
 categories: 
   - announcements
 spotlight: false 
-image_layout: landscape
+image_layout: simple
 teaser: |
   "Award Recipients The Digital Humanities Lab is pleased to announce the recipients of our 2017 Project Grants. These awards support both the initial planning phases and also the continued development..."
 ---
 
-<h3>Award Recipients</h3>
    
 The Digital Humanities Lab is pleased to announce the recipients of our 2017 Project Grants. These awards support both the initial planning phases and also the continued development of Yale faculty projects that pursue innovation and excellence in the humanities by way of digital methods.
    

@@ -2,12 +2,12 @@
 title: "TEI Workshops with Medieval Manuscripts"
 date: July 15, 2016
 image: /assets/images/placeholder-hero.jpg
-thumbnail: /assets/images/placeholder-8.png
+thumbnail: /assets/images/events/medieval-manuscripts.jpg
 caption: ""
 categories: 
   - announcements
 spotlight: false 
-image_layout: landscape
+image_layout: simple
 teaser: |
   "Applications are now open for two TEI workshops at Yale: Digital Editing and the Medieval Manuscripts Roll and Digital Editing and the Medieval Manuscript Fragment. Both workshops will cover the..."
 ---

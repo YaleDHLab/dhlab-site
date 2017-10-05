@@ -2,7 +2,7 @@
 title: "Yale Day of Data "
 date: September 15, 2016
 image: /assets/images/placeholder-hero.jpg
-thumbnail: /assets/images/placeholder-6.png
+thumbnail: /assets/images/events/day-of-data.jpg
 caption: ""
 categories: 
   - announcements

@@ -2,12 +2,12 @@
 title: "Yale DHLab Welcomes Gideon Fink Shapiro as Postdoctoral Associate"
 date: November 23, 2015
 image: /assets/images/placeholder-hero.jpg
-thumbnail: /assets/images/placeholder-9.png
+thumbnail: /assets/images/news/shapiro.jpg
 caption: "Gideon Fink Shapiro, Yale Digital Humanities Lab"
 categories: 
   - announcements
 spotlight: false 
-image_layout: landscape
+image_layout: simple
 teaser: |
   "The Digital Humanities Lab (DHLab) is excited to share that Gideon Fink Shapiro has joined on as one of our Postdoctoral Associates. Gideon earned a Ph.D. in Architecture (history and theory) from..."
 ---

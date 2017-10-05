@@ -3,7 +3,7 @@ title: Intro to Networks with Gephi
 date: 2017-04-12
 time: 2:00 - 3:30 pm
 location: Bass Library, L06
-image: /assets/images/events/networks2.jpg
+thumbnail: /assets/images/events/networks2.jpg
 registerurl: http://schedule.yale.edu/event/3217695
 categories:
   - workshop

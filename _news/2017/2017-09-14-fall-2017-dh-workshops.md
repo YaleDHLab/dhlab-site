@@ -1,19 +1,17 @@
 ---
 title: "Fall 2017 DH Workshops"
 date: September 14, 2017
-image: /assets/images/placeholder-hero.jpg
-thumbnail: /assets/images/placeholder-2.png
+image: /assets/images/banners/workshop.jpg
+thumbnail: /assets/images/news/workshop.jpg
 caption: ""
 categories: 
   - announcements
-spotlight: false 
+spotlight: false
 image_layout: landscape
 teaser: |
-  "Fall 2017 Workshops Looking for new ways to collect, analyze, and present humanities data? Try one or more of these DH-related workshops this fall! Offerings include hands-on introductions to popular..."
+  "Looking for new ways to collect, analyze, and present humanities data? Try one or more of these DH-related workshops this fall!"
 ---
 
-<h3>Fall 2017 Workshops</h3>
-   
 Looking for new ways to collect, analyze, and present humanities data? Try one or more of these DH-related workshops this fall! Offerings include hands-on introductions to popular programming languages and tools for creating dynamic visualizations and web applications.
    
    

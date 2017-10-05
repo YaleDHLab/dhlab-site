@@ -2,12 +2,12 @@
 title: "Digital Editing with Medieval Manuscript Rolls"
 date: October 16, 2015
 image: /assets/images/placeholder-hero.jpg
-thumbnail: /assets/images/placeholder-5.png
+thumbnail: /assets/images/events/medieval-manuscripts.jpg
 caption: "Manuscript "
 categories: 
   - announcements
 spotlight: false 
-image_layout: landscape
+image_layout: simple
 teaser: |
   "The Yale Working Group in Digital Manuscript Studies and the Beinecke Rare Book and Manuscript Library are pleased to announce a call for expressions of interest in the Fall 2015 Digital Manuscript..."
 ---

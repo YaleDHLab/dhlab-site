@@ -2,12 +2,12 @@
 title: "Open Office Hours "
 date: September 22, 2015
 image: /assets/images/placeholder-hero.jpg
-thumbnail: /assets/images/placeholder-9.png
+thumbnail: /assets/images/news/office-hours.jpg
 caption: "Digital Humanities Lab"
 categories: 
   - announcements
 spotlight: false 
-image_layout: landscape
+image_layout: simple
 teaser: |
   "The Digital Humanities Lab invites you to Digital Humanities Office Hours this (and every!) Tuesday, from 2:00pm-3:30pm. We meet in the new DHLab space in Sterling Memorial Library, room 316. Office..."
 ---

@@ -2,12 +2,12 @@
 title: "Text Analysis Workshop with Matthew Jockers "
 date: December 5, 2014
 image: /assets/images/placeholder-hero.jpg
-thumbnail: /assets/images/placeholder-2.png
+thumbnail: /assets/images/events/jockers.jpg
 caption: "Matthew Jockers, Digital Humanities Lab"
 categories: 
   - announcements
 spotlight: false 
-image_layout: landscape
+image_layout: simple
 teaser: |
   "The Digital Humanities Lab sponsored a text analysis workshop with Matthew Jockers, Associate Professor of English at the University of Nebraska-Lincoln. Jockers based the workshop on the first few..."
 ---

@@ -2,7 +2,7 @@
 title: "DH, STEAM Spring Symposium "
 date: April 8, 2016
 image: /assets/images/placeholder-hero.jpg
-thumbnail: /assets/images/placeholder-2.png
+thumbnail: /assets/images/events/beyond-boundaries-2017.jpg
 caption: ""
 categories: 
   - announcements

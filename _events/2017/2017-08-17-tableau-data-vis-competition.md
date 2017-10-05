@@ -2,7 +2,7 @@
 title: "Tableau Data Vis Competition"
 date: August 17, 2017
 image: /assets/images/placeholder-hero.jpg
-thumbnail: /assets/images/placeholder-7.png
+thumbnail: /assets/images/events/dataviz.jpg
 caption: ""
 categories: 
   - announcements

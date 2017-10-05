@@ -3,7 +3,7 @@ title: Yale Open Music Initiative
 date: 2017-09-21
 time: 4:00 pm
 location: Center for Collaborative Arts and Media (CCAM), 149 York Street
-image: /assets/images/events/omipod.jpg
+thumbnail: /assets/images/events/omipod.jpg
 registerurl: http://web.library.yale.edu/dhlab/omi17
 categories:
   - workshop

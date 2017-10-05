@@ -1,0 +1,12 @@
+<div class='detail-page-links'>
+{% for item in include.items %}
+ {% for category in item.categories %}
+    {% if category == include.project_category %}
+      <a href='{{ url }}'>
+        <b>{{ item.title }}</b>
+      </a>
+      <br/>
+    {% endif %}
+  {% endfor %}
+{% endfor %}
+</div>

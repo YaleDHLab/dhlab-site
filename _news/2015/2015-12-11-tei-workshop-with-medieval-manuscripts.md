@@ -2,12 +2,12 @@
 title: "TEI Workshop with Medieval Manuscripts"
 date: December 11, 2015
 image: /assets/images/placeholder-hero.jpg
-thumbnail: /assets/images/placeholder-9.png
+thumbnail: /assets/images/events/medieval-manuscripts.jpg
 caption: "Medieval Manuscript Roll, Beinecke and DHLab"
 categories: 
   - announcements
 spotlight: false 
-image_layout: landscape
+image_layout: simple
 teaser: |
   "With support from the Beinecke Rare Book and Manuscript Library and the Digital Humanities Lab, graduate students launched a two-day workshop series on digital editions. The lead instructors included..."
 ---

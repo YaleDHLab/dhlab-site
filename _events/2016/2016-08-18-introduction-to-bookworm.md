@@ -2,7 +2,7 @@
 title: "Introduction to Bookworm"
 date: August 18, 2016
 image: /assets/images/placeholder-hero.jpg
-thumbnail: /assets/images/placeholder-8.png
+thumbnail: /assets/images/events/bookworm.jpg
 caption: ""
 categories: 
   - announcements

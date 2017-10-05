@@ -2,7 +2,7 @@
 title: "Workshop with Jessica Marie Johnson"
 date: November 29, 2016
 image: /assets/images/placeholder-hero.jpg
-thumbnail: /assets/images/placeholder-2.png
+thumbnail: /assets/images/events/radical-meida.jpg
 caption: ""
 categories: 
   - announcements

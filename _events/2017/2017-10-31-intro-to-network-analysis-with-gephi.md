@@ -3,7 +3,7 @@ title: Intro to Network Analysis with Gephi
 date: 2017-10-31
 time: 2:00 - 3:30 pm
 location: Bass Library, L06
-image: /assets/images/events/networks3.jpg
+thumbnail: /assets/images/events/networks3.jpg
 registerurl: http://schedule.yale.edu/event/3629405
 categories:
   - workshop

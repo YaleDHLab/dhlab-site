@@ -2,7 +2,7 @@
 title: "DH Course [Re]Design Workshop"
 date: May 25, 2016
 image: /assets/images/placeholder-hero.jpg
-thumbnail: /assets/images/placeholder-1.png
+thumbnail: /assets/images/events/students.jpg
 caption: ""
 categories: 
   - announcements

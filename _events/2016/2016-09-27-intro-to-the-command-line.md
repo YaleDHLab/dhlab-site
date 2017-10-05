@@ -2,7 +2,7 @@
 title: "Intro to the Command Line"
 date: September 27, 2016
 image: /assets/images/placeholder-hero.jpg
-thumbnail: /assets/images/placeholder-0.png
+thumbnail: /assets/images/events/code.jpg
 caption: ""
 categories: 
   - announcements

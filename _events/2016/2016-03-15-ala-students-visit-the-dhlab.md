@@ -2,7 +2,7 @@
 title: "ALA Students Visit the DHLab"
 date: March 15, 2016
 image: /assets/images/placeholder-hero.jpg
-thumbnail: /assets/images/placeholder-4.png
+thumbnail: /assets/images/events/sterling-library.jpg
 caption: ""
 categories: 
   - announcements

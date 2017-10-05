@@ -3,7 +3,7 @@ title: Managing Digital Photographs Meet-up
 date: 2017-09-11
 time: 3:00 pm
 location: Digital Humanities Lab, SML 316
-image: /assets/images/events/photo-data.jpg
+thumbnail: /assets/images/events/photo-data.jpg
 categories:
   - talk
 tags:

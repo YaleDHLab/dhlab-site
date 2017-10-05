@@ -2,7 +2,7 @@
 title: "Digital Editing Workshop"
 date: March 11, 2016
 image: /assets/images/placeholder-hero.jpg
-thumbnail: /assets/images/placeholder-2.png
+thumbnail: /assets/images/events/manuscript.jpg
 caption: ""
 categories: 
   - announcements

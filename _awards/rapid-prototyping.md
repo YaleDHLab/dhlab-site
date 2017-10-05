@@ -9,7 +9,7 @@ application_text: Apply now to become one of our 2018 rapid prototyping grant re
 application_url: http://google.com
 ---
 
-<h3>Overview</h3>
+<h2 class="subheading">Overview</h2>
 
 Lorem ipsum dolor sit amet, ut pretium natoque a, ipsum suspendisse, turpis ac. Ut urna ornare elit. Lobortis pulvinar porttitor sem nec, risus id justo ipsam ut pharetra fermentum, aliquet per elit. Augue praesent, sapien eget, sed erat montes quam aliquam. Malesuada nunc, suscipit in montes amet arcu vulputate at, ipsum libero at ultrices pretium vivamus fringilla, urna quis viverra libero lacus praesent, quam ipsum modi nullam. Vitae lobortis massa fusce. Aliquet rutrum laoreet tincidunt ut. Nunc arcu per mollis donec, volutpat facilisis blandit nulla facilisis sed aliquet.
 

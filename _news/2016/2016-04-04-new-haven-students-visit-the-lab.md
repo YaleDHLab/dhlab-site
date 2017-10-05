@@ -2,12 +2,12 @@
 title: "New Haven Students Visit the Lab"
 date: April 4, 2016
 image: /assets/images/placeholder-hero.jpg
-thumbnail: /assets/images/placeholder-8.png
+thumbnail: /assets/images/news/office-hours.jpg
 caption: "New Haven students interact with Photogrammar "
 categories: 
   - announcements
 spotlight: false 
-image_layout: landscape
+image_layout: simple
 teaser: |
   "The Digital Humanities Lab welcomed junior high and high school students from around the New Haven area for a workshop on DH. Following a tour of the lab and a discussion of old and new media,..."
 ---

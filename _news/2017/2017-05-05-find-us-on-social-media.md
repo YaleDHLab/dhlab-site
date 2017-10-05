@@ -2,12 +2,12 @@
 title: "Find us on Social Media"
 date: May 5, 2017
 image: /assets/images/placeholder-hero.jpg
-thumbnail: /assets/images/placeholder-1.png
+thumbnail: /assets/images/events/dh-lab.jpg
 caption: ""
 categories: 
   - announcements
 spotlight: false 
-image_layout: landscape
+image_layout: simple
 teaser: |
   "Stay connected to the Digital Humanities Lab over break and all year long by following us on Twitter, Instagram, and Facebook! In addition to sharing updates about funding opportunities and DH events..."
 ---

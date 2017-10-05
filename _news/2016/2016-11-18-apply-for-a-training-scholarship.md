@@ -2,12 +2,12 @@
 title: "Apply for a Training Scholarship"
 date: November 18, 2016
 image: /assets/images/placeholder-hero.jpg
-thumbnail: /assets/images/placeholder-3.png
+thumbnail: /assets/images/news/workshop.jpg
 caption: ""
 categories: 
   - announcements
 spotlight: false 
-image_layout: landscape
+image_layout: simple
 teaser: |
   "Training Scholarships for 2017 Interested in learning how to build a database or code with R? Apply for a Digital Humanities Training Scholarship! Yale undergraduates, graduate students, and..."
 ---

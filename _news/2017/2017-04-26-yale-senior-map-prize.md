@@ -2,12 +2,12 @@
 title: "Yale Senior Map Prize"
 date: April 26, 2017
 image: /assets/images/placeholder-hero.jpg
-thumbnail: /assets/images/placeholder-0.png
+thumbnail: /assets/images/news/library-map.jpg
 caption: ""
 categories: 
   - announcements
 spotlight: false 
-image_layout: landscape
+image_layout: simple
 teaser: |
   "The Library Map Prize is awarded to a Yale College senior for the best use of maps in a senior essay or its equivalent. Essays submitted for consideration must be supported by one or more maps...."
 ---
