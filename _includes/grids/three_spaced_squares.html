@@ -9,7 +9,7 @@
           {%- if counter < 3 %}
             {%- assign item_url = item.url | prepend: site.baseurl %}
             <a href='{{ item_url }}' class='spaced-square'>
-              {% assign image_url = item.thumbnail | prepend: site.baseurl %}
+              {%- assign image_url = item.thumbnail | prepend: site.baseurl %}
               <div class='background-image event-date-container'
                 style='background-image: url({{ image_url }})'>
                 <!-- Only show dates on event cards -->

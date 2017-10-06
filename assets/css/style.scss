@@ -1718,7 +1718,7 @@ section {
 * Events Landing Page
 **/
 
-.events-page .previous-events h2 {
+.events-page .past-events h2 {
   display: inline-block;
 }
 
@@ -1729,6 +1729,7 @@ section {
 }
 
 .past-event {
+  display: inline-block;
   width: 20%;
   padding: 10px;
   vertical-align: top;
