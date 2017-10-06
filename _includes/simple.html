@@ -12,17 +12,17 @@
           {% if include.label == 'EVENTS' %}  
             {% include events/event_date.html event=include.page %}
           {% endif %}
-          </div>
+        </div>
         {% if include.label == 'EVENTS' %} 
           {% include events/event_timestamp.html event=include.page %}
         {% endif %}
 
         {% if include.label == 'EVENTS' %}
-          {% include events/event_actions.html event=include.page %}
+          {% include events/event_actions.html page=include.page %}
         {% endif %}
 
         {% if include.label == 'NEWS' %}
-          {% include events/event_actions.html event=include.page %}
+          {% include events/event_actions.html page=include.page %}
         {% endif %}
 
         {% if include.label == 'ARCHIVE' %}
@@ -37,7 +37,11 @@
         <div class='event-tags'>
           <div>Tags:</div>
           {% for tag in include.page.tags %}
-            <a href='{{ site.baseurl }}/events.html?tag={{ tag }}'>{{ tag }},</a>
+            {% if forloop.last %}
+              <a href='{{ site.baseurl }}/events.html?tag={{ tag }}'>{{ tag }}</a>
+            {% else %}
+              <a href='{{ site.baseurl }}/events.html?tag={{ tag }}'>{{ tag }},</a>
+            {% endif %}
           {% endfor %}
         </div>
       </div>

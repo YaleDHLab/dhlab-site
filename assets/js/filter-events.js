@@ -77,6 +77,9 @@ import _ from 'lodash';
   * Main
   **/
 
+  if (!document.querySelector('#categories') ||
+      !document.querySelector('#tags')) return;
+
   findExtantValues();
   bindEventListeners();
   addOptions('#categories', values.categories);

@@ -1,12 +1,20 @@
-<div class='event-social-media'>
+<div class='social-media-container'>
   <hr/>
-  <a href='#share'>
+  <div class='share-container'>
     <div>Share</div>
     <div class='share-icon'></div>
-  </a>
-  <a href='#map'>
-    <div>Maps & Directions</div>
-    <div class='marker-icon'></div>
-  </a>
+    {% include social_media_icons.html page=page %}
+  </div>
+
+  {% if include.page.location %}
+    {% capture location %}{{ include.page.location }}' New Haven'{% endcapture %}
+    {% assign encoded_location = location | url_encode %}
+    <a class='directions-container'
+      target='_blank'
+      href='https://www.google.com/maps/place/{{ encoded_location }}'>
+      <div>Maps & Directions</div>
+      <div class='marker-icon'></div>
+    </a>
+  {% endif %}
   <hr/>
 </div>
