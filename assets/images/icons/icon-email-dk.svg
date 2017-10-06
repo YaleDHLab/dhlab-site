@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="-5902 104 16 11">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #333;
+      }
+    </style>
+  </defs>
+  <g id="Group_384" data-name="Group 384" transform="translate(-5902 104)">
+    <path id="Path_706" data-name="Path 706" class="cls-1" d="M0,0V11H16V0ZM13.7,1,7.9,6.8,2.2,1ZM15,8.9,12.1,6l-.7.7L14.7,10H1.4L4.7,6.7,3.9,6,1,8.9V1.2L7.2,7.4l.7.7.7-.7L15,1.1Z"/>
+  </g>
+</svg>
