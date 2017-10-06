@@ -47,9 +47,8 @@ body {
   padding-bottom: 0;
   position: relative;
   top: 100%;
-  background: inherit;
+  background: none;
   background-size: 285px 100%;
-  background-color: #fff;
   background-position: 60px -80px;
   z-index: -1;
   overflow: visible;
@@ -756,6 +755,11 @@ section {
   z-index: -2;
   background-color: #efefef;
   position: relative;
+}
+
+.hero.background-image {
+  background-attachment: fixed;
+  background-position-y: -100px;
 }
 
 .hero-caption {
