@@ -2,17 +2,15 @@
 title: "Spring 2017 DH Courses"
 date: January 19, 2017
 image: /assets/images/placeholder-hero.jpg
-thumbnail: /assets/images/placeholder-1.png
+thumbnail: /assets/images/events/sterling-student.jpg
 caption: ""
 categories: 
   - announcements
 spotlight: false 
-image_layout: landscape
+image_layout: simple
 teaser: |
   "Spring Courses Still looking for classes to take this spring? Check out a few exciting DH-related courses below! If you are teaching a course connected to DH and would like it included, please email..."
 ---
-
-<h2>Spring Courses</h2>
    
 Still looking for classes to take this spring? Check out a few exciting DH-related courses below!
 

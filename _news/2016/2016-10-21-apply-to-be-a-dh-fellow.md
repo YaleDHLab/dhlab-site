@@ -2,12 +2,12 @@
 title: "Apply to be a DH Fellow"
 date: October 21, 2016
 image: /assets/images/placeholder-hero.jpg
-thumbnail: /assets/images/placeholder-2.png
+thumbnail: /assets/images/news/dh-fellows.jpg
 caption: ""
 categories: 
   - announcements
 spotlight: false 
-image_layout: landscape
+image_layout: simple
 teaser: |
   "Each semester, the Digital Humanities Lab appoints one or more Digital Humanities Fellows to assist with courses that have a strong digital humanities component. These positions provide semester-long..."
 ---

@@ -2,12 +2,12 @@
 title: "Spring Training Scholarships"
 date: January 23, 2017
 image: /assets/images/placeholder-hero.jpg
-thumbnail: /assets/images/placeholder-7.png
+thumbnail: /assets/images/news/students.jpg
 caption: ""
 categories: 
   - announcements
 spotlight: false 
-image_layout: landscape
+image_layout: simple
 teaser: |
   "Interested in learning how to build a database or code with R? Apply for a Digital Humanities Training Scholarship! Yale undergraduates, graduate students, and librarians are eligible to apply...."
 ---

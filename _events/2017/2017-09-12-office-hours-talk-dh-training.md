@@ -2,7 +2,7 @@
 title: "Office Hours Talk: DH Training"
 date: September 12, 2017
 image: /assets/images/placeholder-hero.jpg
-thumbnail: /assets/images/placeholder-2.png
+thumbnail: /assets/images/news/office-hours.jpg
 caption: ""
 categories: 
   - announcements

@@ -2,17 +2,16 @@
 title: "DH Summer Group: Jekyll Web Dev "
 date: June 6, 2017
 image: /assets/images/placeholder-hero.jpg
-thumbnail: /assets/images/placeholder-4.png
+thumbnail: /assets/images/news/coffee_code.jpg
 caption: ""
 categories: 
   - announcements
 spotlight: false 
-image_layout: landscape
+image_layout: simple
 teaser: |
   "Call for Participants The Digital Humanities Lab and Center for Teaching and Learning are putting together an informal working group to brainstorm, design, and build a Jekyll-based web application..."
 ---
 
-<h3>Call for Participants</h3>
    
 The Digital Humanities Lab and Center for Teaching and Learning are putting together an informal working group to brainstorm, design, and build a Jekyll-based web application this summer. Our goal is to gather a group interested in digital work in order to collectively construct a fun proof of concept application using Jekyll and JavaScript.
    

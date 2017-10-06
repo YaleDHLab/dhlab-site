@@ -2,7 +2,7 @@
 title: "12/4 Book Talk: Humanities Data in R"
 date: December 4, 2015
 image: /assets/images/placeholder-hero.jpg
-thumbnail: /assets/images/placeholder-0.png
+thumbnail: /assets/images/events/humanities-in-r.jpg
 caption: "Humanities Data in R"
 categories: 
   - announcements

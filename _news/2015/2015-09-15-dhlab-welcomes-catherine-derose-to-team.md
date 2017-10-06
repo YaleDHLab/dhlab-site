@@ -2,12 +2,12 @@
 title: "DHLab Welcomes Catherine DeRose to Team "
 date: September 15, 2015
 image: /assets/images/placeholder-hero.jpg
-thumbnail: /assets/images/placeholder-4.png
+thumbnail: /assets/images/about/team/CD-sq.jpg
 caption: "Cathy DeRose, Yale University "
 categories: 
   - announcements
 spotlight: false 
-image_layout: landscape
+image_layout: simple
 teaser: |
   "The Digital Humanities Lab is excited to announce that Catherine DeRose has joined on as our Engagement and Outreach Manager. Catherine is coming to Yale from the University of Wisconsin-Madison,..."
 ---

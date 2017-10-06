@@ -2,7 +2,7 @@
 title: "Software, Source Code, and Skills Migration"
 date: January 20, 2017
 image: /assets/images/placeholder-hero.jpg
-thumbnail: /assets/images/placeholder-9.png
+thumbnail: /assets/images/events/coffee_code.jpg
 caption: ""
 categories: 
   - announcements

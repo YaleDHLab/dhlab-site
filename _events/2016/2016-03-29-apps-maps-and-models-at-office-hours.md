@@ -2,7 +2,7 @@
 title: "Apps, Maps, and Models at Office Hours "
 date: March 29, 2016
 image: /assets/images/placeholder-hero.jpg
-thumbnail: /assets/images/placeholder-3.png
+thumbnail: /assets/images/events/digital-map.jpg
 caption: ""
 categories: 
   - announcements

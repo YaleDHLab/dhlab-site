@@ -18,21 +18,24 @@ class: home-page
       <div class='section-title'>EVENTS CALENDAR</div>
     </a>
     <div class='home-events-container'>
-      {% assign counter = 0 %}
-      {% for event in site.events reversed %}
-        {% if counter < 3 %}
-          <a href='{{ event.url | prepend: site.baseurl }}'>
-            {% assign image_url = event.image | prepend: site.baseurl %}
-            <div class='home-event-image background-image event-date-container blur-container'
-                style='background-image: url({{ image_url }})'>
-              {% include events/event_date.html event=event %}
-              {% assign label=event.categories | first %}
-              {% include cards/card_title_box.html
-                label=label
-                title=event.title %}
-            </div>
-          </a>
-        {% assign counter = counter | plus: 1 %}
+
+     {% capture now %}{{ 'now' | date: '%s' | plus: 0 }}{% endcapture %}
+      {% for event in site.events %}
+        {% if event.date and event.time and event.location and event.content %}
+          {% capture date %}{{ event.date | date: '%s' }}{% endcapture %}
+          {% if date > now %}
+            <a href='{{ event.url | prepend: site.baseurl }}'>
+              {% assign image_url = event.thumbnail | prepend: site.baseurl %}
+              <div class='home-event-image background-image event-date-container blur-container'
+                  style='background-image: url({{ image_url }})'>
+                {% include events/event_date.html event=event %}
+                {% assign label=event.categories | first %}
+                {% include cards/card_title_box.html
+                  label=label
+                  title=event.title %}
+              </div>
+            </a>
+          {% endif %}
         {% endif %}
       {% endfor %}
     </div>
@@ -46,7 +49,7 @@ class: home-page
     <div class='full-width-card large-card'>
       {% assign item = site.news | reverse | first %}
       <a href='{{ item.url | prepend: site.baseurl }}'>
-        {% assign image_url = item.thumbnail | prepend: site.baseurl %}
+        {% assign image_url = item.image | prepend: site.baseurl %}
         <div class='full-width-card-image background-image blur-container'
           style='background-image: url({{ image_url }})'>
           {% assign label = item.categories | first %}

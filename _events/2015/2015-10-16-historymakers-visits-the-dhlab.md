@@ -2,7 +2,7 @@
 title: "HistoryMakers Visits the DHLab"
 date: October 16, 2015
 image: /assets/images/placeholder-hero.jpg
-thumbnail: /assets/images/placeholder-2.png
+thumbnail: /assets/images/events/photogrammar.jpg
 caption: "Julieanna Richardson, The HistoryMakers "
 categories: 
   - announcements

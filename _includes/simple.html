@@ -21,6 +21,10 @@
           {% include events/event_actions.html event=include.page %}
         {% endif %}
 
+        {% if include.label == 'NEWS' %}
+          {% include events/event_actions.html event=include.page %}
+        {% endif %}
+
         {% if include.label == 'ARCHIVE' %}
           {% for team_member in include.page.team %}
            <div><b>{{ team_member.name }}</b></div>

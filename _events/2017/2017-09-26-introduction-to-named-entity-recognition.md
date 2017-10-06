@@ -3,7 +3,7 @@ title: Named Entity Recognition
 date: 2017-09-26
 time: 2:00 - 4:00 pm
 location: Bass Library, L06
-image: /assets/images/events/ner.jpg
+thumbnail: /assets/images/events/ner.jpg
 registerurl: http://schedule.yale.edu/event/3569740
 categories:
   - workshop

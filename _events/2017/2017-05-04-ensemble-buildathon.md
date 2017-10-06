@@ -3,7 +3,7 @@ title: Ensemble @ Yale
 date: 2017-05-04
 time: 2:00 pm
 location: Digital Humanities Lab, SML 316
-image: /assets/images/events/ensemble.jpg
+thumbnail: /assets/images/events/ensemble.jpg
 categories:
   - talk
 tags:

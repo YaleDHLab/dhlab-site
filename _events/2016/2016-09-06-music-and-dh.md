@@ -2,7 +2,7 @@
 title: "Music and DH"
 date: September 6, 2016
 image: /assets/images/placeholder-hero.jpg
-thumbnail: /assets/images/placeholder-7.png
+thumbnail: /assets/images/events/music.jpg
 caption: ""
 categories: 
   - announcements

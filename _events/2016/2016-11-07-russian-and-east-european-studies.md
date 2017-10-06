@@ -2,7 +2,7 @@
 title: "Russian and East European Studies"
 date: November 7, 2016
 image: /assets/images/placeholder-hero.jpg
-thumbnail: /assets/images/placeholder-2.png
+thumbnail: /assets/images/events/dh-rees.jpg
 caption: ""
 categories: 
   - announcements

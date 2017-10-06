@@ -2,12 +2,12 @@
 title: "Photogrammar Wins ACLS Grant!"
 date: May 6, 2016
 image: /assets/images/placeholder-hero.jpg
-thumbnail: /assets/images/placeholder-9.png
+thumbnail: /assets/images/events/photogrammer.jpg
 caption: ""
 categories: 
   - announcements
 spotlight: false 
-image_layout: landscape
+image_layout: simple
 teaser: |
   "Congratulations to Yale's Photogrammar team on receiving one of ACLS's first-ever Digital Extension Grants! ACLS developed the new program to foster diverse communities of users around the most..."
 ---

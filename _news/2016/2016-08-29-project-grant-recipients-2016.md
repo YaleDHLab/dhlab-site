@@ -2,12 +2,12 @@
 title: "Project Grant Recipients, 2016"
 date: August 29, 2016
 image: /assets/images/placeholder-hero.jpg
-thumbnail: /assets/images/placeholder-0.png
+thumbnail: /assets/images/events/sterling-library.jpg
 caption: ""
 categories: 
   - announcements
 spotlight: false 
-image_layout: landscape
+image_layout: simple
 teaser: |
   "Award Recipients The Digital Humanities Lab is delighted to announce the recipients of our 2016 Project Grants. These awards support the initial phases of faculty projects that pursue innovation..."
 ---

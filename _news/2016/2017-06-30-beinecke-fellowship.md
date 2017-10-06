@@ -2,12 +2,12 @@
 title: "Beinecke Fellowship"
 date: June 30, 2017
 image: /assets/images/placeholder-hero.jpg
-thumbnail: /assets/images/placeholder-4.png
+thumbnail: /assets/images/news/beinecke2.jpg
 caption: ""
 categories: 
   - announcements
 spotlight: false 
-image_layout: landscape
+image_layout: simple
 teaser: |
   "Fellowship opportunity to digitize Dickens The Beinecke Rare Book & Manuscript Library will be funding a graduate student fellowship, the official announcement of which is on the Graduate School'..."
 ---

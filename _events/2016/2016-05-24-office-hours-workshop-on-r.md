@@ -2,7 +2,7 @@
 title: "Office Hours Workshop on R"
 date: May 24, 2016
 image: /assets/images/placeholder-hero.jpg
-thumbnail: /assets/images/placeholder-4.png
+thumbnail: /assets/images/events/office-hours.jpg
 caption: ""
 categories: 
   - announcements
