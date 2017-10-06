@@ -2,7 +2,7 @@
 title: "Information Literacy and DH"
 date: June 21, 2016
 image: /assets/images/placeholder-hero.jpg
-thumbnail: /assets/images/placeholder-6.png
+thumbnail: /assets/images/events/photogrammar.jpg
 caption: ""
 categories: 
   - announcements

@@ -3,7 +3,7 @@ title: DH Training Highlights
 date: 2017-09-12
 time: 2:00 pm
 location: Digital Humanities Lab, SML 316
-image: /assets/images/events/data-circle.jpg
+thumbnail: /assets/images/events/data-circle.jpg
 categories:
   - talk
 tags:

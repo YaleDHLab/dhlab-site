@@ -3,7 +3,7 @@ title: Javascript for Humanists
 date: 2017-10-25
 time: 2:00 - 4:00 pm
 location: Bass Library, L06
-image: /assets/images/events/code.jpg
+thumbnail: /assets/images/events/code.jpg
 registerurl: http://schedule.yale.edu/event/3606999
 categories:
   - workshop

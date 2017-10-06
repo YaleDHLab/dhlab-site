@@ -6,7 +6,7 @@ caption: >
   "Lorem ipsum dolor sit amet, sollicitudin non quas libero dictum nulla vel. Quam porttitor lacus a wisi. Duis congue, ut quam elit at a. Orci fermentum mattis accusantium. Libero fermentum condimentum sed, vel"
 ---
 
-<h3>Overview</h3>
+<h2 class="subheading">Overview</h2>
 
 Lorem ipsum dolor sit amet, ut pretium natoque a, ipsum suspendisse, turpis ac. Ut urna ornare elit. Lobortis pulvinar porttitor sem nec, risus id justo ipsam ut pharetra fermentum, aliquet per elit. Augue praesent, sapien eget, sed erat montes quam aliquam. Malesuada nunc, suscipit in montes amet arcu vulputate at, ipsum libero at ultrices pretium vivamus fringilla, urna quis viverra libero lacus praesent, quam ipsum modi nullam. Vitae lobortis massa fusce. Aliquet rutrum laoreet tincidunt ut. Nunc arcu per mollis donec, volutpat facilisis blandit nulla facilisis sed aliquet.
 

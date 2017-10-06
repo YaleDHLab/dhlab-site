@@ -2,17 +2,15 @@
 title: "Seed Grant Awardee Tracks Musical Perception in New Study"
 date: June 20, 2017
 image: /assets/images/placeholder-hero.jpg
-thumbnail: /assets/images/placeholder-1.png
+thumbnail: /assets/images/news/dialogue.jpg
 caption: ""
 categories: 
   - announcements
 spotlight: false 
-image_layout: landscape
+image_layout: simple
 teaser: |
   "Call for Participants Earn extra money while benefiting music cognition research at Yale. Subjects are needed for an EEG study of musical perception. Participants should be 18 years old or older and..."
 ---
-
-<h3>Call for Participants</h3>
    
 Earn extra money while benefiting music cognition research at Yale. Subjects are needed for an EEG study of musical perception. Participants should be 18 years old or older and should have no hearing loss or history of neurological injury or disease. Musicians and non-musicians are welcome.
     

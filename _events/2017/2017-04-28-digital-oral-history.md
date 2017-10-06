@@ -3,7 +3,7 @@ title: Intro to Git/Hub
 date: 2017-04-18
 time: 4:00 - 5:00 pm
 location: Bass Library, L06
-image: /assets/images/events/git.jpg
+thumbnail: /assets/images/events/git.jpg
 registerurl: http://schedule.yale.edu/event/3217695
 categories:
   - workshop

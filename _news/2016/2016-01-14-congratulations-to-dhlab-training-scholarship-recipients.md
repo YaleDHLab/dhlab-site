@@ -2,12 +2,12 @@
 title: "Congratulations to DHLab Training Scholarship Recipients "
 date: January 14, 2016
 image: /assets/images/placeholder-hero.jpg
-thumbnail: /assets/images/placeholder-2.png
+thumbnail: /assets/images/about/team/MO-sq.jpg
 caption: "Yale Digital Humanities Lab"
 categories: 
   - announcements
 spotlight: false 
-image_layout: landscape
+image_layout: simple
 teaser: |
   "The Digital Humanities Lab would like to congratulate the recipients from the inaugural round of DHLab Training Scholarships: Andrew Wang (first-year PhD student in English), Masha Shpolberg (third-..."
 ---

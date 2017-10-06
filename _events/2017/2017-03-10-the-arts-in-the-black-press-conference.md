@@ -2,7 +2,7 @@
 title: "The Arts in the Black Press Conference"
 date: March 10, 2017
 image: /assets/images/placeholder-hero.jpg
-thumbnail: /assets/images/placeholder-2.png
+thumbnail: /assets/images/events/black-press.jpg
 caption: ""
 categories: 
   - announcements

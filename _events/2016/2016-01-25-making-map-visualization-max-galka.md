@@ -2,7 +2,7 @@
 title: "Making Map Visualization, Max Galka "
 date: January 25, 2016
 image: /assets/images/placeholder-hero.jpg
-thumbnail: /assets/images/placeholder-6.png
+thumbnail: /assets/images/events/GIS-globe.jpg
 caption: "Every hurricane of the past 150 years: Metrocosm"
 categories: 
   - announcements

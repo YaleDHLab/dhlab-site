@@ -2,7 +2,7 @@
 title: "Literary History of Word Processing"
 date: June 20, 2016
 image: /assets/images/placeholder-hero.jpg
-thumbnail: /assets/images/placeholder-5.png
+thumbnail: /assets/images/events/vintage-computer.jpg
 caption: ""
 categories: 
   - announcements

@@ -2,12 +2,12 @@
 title: "Fall 2016 DH courses "
 date: August 19, 2016
 image: /assets/images/placeholder-hero.jpg
-thumbnail: /assets/images/placeholder-2.png
+thumbnail: /assets/images/news/data-circle.jpg
 caption: ""
 categories: 
   - announcements
 spotlight: false 
-image_layout: landscape
+image_layout: simple
 teaser: |
   "Upcoming Courses Still looking for classes to take this fall? Check out a few exciting DH-related courses below! If you are teaching a course connected to DH and would like it included, please email..."
 ---

@@ -2,7 +2,7 @@
 title: "Digital Discussions with Alan Galey "
 date: February 18, 2016
 image: /assets/images/placeholder-hero.jpg
-thumbnail: /assets/images/placeholder-9.png
+thumbnail: /assets/images/events/text-mining.jpg
 caption: ""
 categories: 
   - announcements

@@ -2,12 +2,12 @@
 title: "Yale DHLab Welcomes Monica Ong Reed to the Team"
 date: January 14, 2016
 image: /assets/images/placeholder-hero.jpg
-thumbnail: /assets/images/placeholder-6.png
+thumbnail: /assets/images/about/team/MO-sq.jpg
 caption: "Monica Ong Reed, Yale Digital Humanities Lab "
 categories: 
   - announcements
 spotlight: false 
-image_layout: landscape
+image_layout: simple
 teaser: |
   "The Digital Humanities Lab (DHLab) is excited to share that Monica Ong Reed has joined on as our User Experience Designer. An M.F.A. graduate in Digital Media from the Rhode Island School of Design,..."
 ---

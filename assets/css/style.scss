@@ -135,7 +135,7 @@ p {
 
 h2 {
   font-size: 18px;
-  letter-spacing: .5px;
+  letter-spacing: .25px;
   padding: 20px $pad 20px 0;
 }
 
@@ -1506,7 +1506,7 @@ section {
   top: 0;
   right: 0;
   bottom: 0;
-  padding: $pad;
+  padding: 36px;
   overflow: auto;
 }
 
@@ -1736,6 +1736,17 @@ section {
 
 .past-event .background-image {
   padding-bottom: 100%;
+}
+
+/*
+* Personnel Pages
+**/
+
+.personnel .color-background {
+  background-image: url({{ site.baseurl }}/assets/images/backgrounds/background-texture.svg);
+  background-repeat: repeat-y;
+  background-size: 62%;
+  background-position: -248px;
 }
 
 /**

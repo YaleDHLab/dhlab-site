@@ -2,12 +2,12 @@
 title: "Public Humanities Working Group Visit"
 date: October 13, 2015
 image: /assets/images/placeholder-hero.jpg
-thumbnail: /assets/images/placeholder-2.png
+thumbnail: /assets/images/events/sterling-library.jpg
 caption: "Yale Digital Humanities Lab, Public Humanities, Ensemble project"
 categories: 
   - announcements
 spotlight: false 
-image_layout: landscape
+image_layout: simple
 teaser: |
   "The Yale Public Humanities Working Group visited the DHLab on October 13 to tour the space and discuss productive crossovers in digital humanities and public humanities initiatives. DHLab Director,..."
 ---

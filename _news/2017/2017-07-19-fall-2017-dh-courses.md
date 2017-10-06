@@ -2,17 +2,15 @@
 title: "Fall 2017 DH Courses"
 date: July 19, 2017
 image: /assets/images/placeholder-hero.jpg
-thumbnail: /assets/images/placeholder-1.png
+thumbnail: /assets/images/events/sterling-student.jpg
 caption: ""
 categories: 
   - announcements
 spotlight: false 
-image_layout: landscape
+image_layout: simple
 teaser: |
   "Upcoming Courses Looking for classes to take this fall? Check out a few exciting DH-related courses below! If you are teaching a course connected to DH and would like it included, please email the ..."
 ---
-
-<h3>Upcoming Courses</h3>
    
 Looking for classes to take this fall? Check out a few exciting DH-related courses below!
    

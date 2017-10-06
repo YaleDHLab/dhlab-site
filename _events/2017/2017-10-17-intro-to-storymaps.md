@@ -3,7 +3,7 @@ title: Intro to Story Maps
 date: 2017-10-17
 time: 2:00 - 3:30 pm
 location: Bass Library, L06
-image: /assets/images/events/map-road.jpg
+thumbnail: /assets/images/events/map-road.jpg
 registerurl: http://schedule.yale.edu/event/3592547
 categories:
   - workshop

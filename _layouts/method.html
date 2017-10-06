@@ -14,6 +14,13 @@ class: method-detail-page
 <div class='center-column post'>
   <div class='two-column-container one-third-width text-top'>
     <div class='left-column'>
+    <div class='small-uppercase'>selected Projects</div>
+
+    {% include text/project_page_links.html
+      items=site.projects
+      page=page
+      project_category=page.project_category
+    %}
     
     </div>
     <div class='right-column'>

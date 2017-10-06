@@ -2,7 +2,7 @@
 title: "Gathering a Building Talk"
 date: October 10, 2017
 image: /assets/images/placeholder-hero.jpg
-thumbnail: /assets/images/placeholder-6.png
+thumbnail: /assets/images/events/gathering.jpg
 caption: ""
 categories: 
   - announcements

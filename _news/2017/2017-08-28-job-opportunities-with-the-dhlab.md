@@ -2,17 +2,18 @@
 title: "Job Opportunities with the DHLab"
 date: August 28, 2017
 image: /assets/images/placeholder-hero.jpg
-thumbnail: /assets/images/placeholder-1.png
+thumbnail: /assets/images/news/office-hours.jpg
 caption: ""
 categories: 
   - announcements
+tags: 
+  - student jobs
 spotlight: false 
-image_layout: landscape
+image_layout: simple
 teaser: |
   "Job Opportunities with the DHLab If you have programming skills and an interest in humanistic data, apply to work in the Digital Humanities Lab! We are looking to hire Yale undergraduate and graduate..."
 ---
 
-<h3>Job Opportunities with the DHLab</h3>
    
 If you have programming skills and an interest in humanistic data, apply to work in the Digital Humanities Lab! We are looking to hire Yale undergraduate and graduate students to work on a variety of exciting projects that are underway in the lab.
 

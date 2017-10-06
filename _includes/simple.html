@@ -6,7 +6,7 @@
     <div class='two-column-container one-third-width'>
       <div class='left-column'>
         <h3>{{ page.title }}</h3>
-        {% assign image_url = include.page.image | prepend: site.baseurl %}
+        {% assign image_url = include.page.thumbnail | prepend: site.baseurl %}
         <div class='square-image background-image event-date-container'
           style='background-image:url({{ image_url }})'>
           {% if include.label == 'EVENTS' %}  
@@ -18,6 +18,10 @@
         {% endif %}
 
         {% if include.label == 'EVENTS' %}
+          {% include events/event_actions.html event=include.page %}
+        {% endif %}
+
+        {% if include.label == 'NEWS' %}
           {% include events/event_actions.html event=include.page %}
         {% endif %}
 

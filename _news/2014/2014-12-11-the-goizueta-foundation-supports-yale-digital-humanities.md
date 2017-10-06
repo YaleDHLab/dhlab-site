@@ -2,12 +2,12 @@
 title: "The Goizueta Foundation Supports Yale Digital Humanities "
 date: December 11, 2014
 image: /assets/images/placeholder-hero.jpg
-thumbnail: /assets/images/placeholder-8.png
+thumbnail: /assets/images/events/dhlab.jpg
 caption: "Yale Digital Humanities Lab"
 categories: 
   - announcements
 spotlight: false 
-image_layout: landscape
+image_layout: simple
 teaser: |
   "Yale University Library received a $3 million award from The Goizueta Foundation to fund the creation of the Digital Humanities Laboratory (DHLab) in Sterling Memorial Library. Yale’s world-class..."
 ---

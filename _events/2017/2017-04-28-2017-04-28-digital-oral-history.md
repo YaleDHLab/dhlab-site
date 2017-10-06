@@ -3,7 +3,7 @@ title: Digital Oral History
 date: 2017-04-28
 time: 12:00 pm
 location: Bass Library, L01
-image: /assets/images/events/audio-waves.jpg
+thumbnail: /assets/images/events/audio-waves.jpg
 categories:
   - talk
 tags:

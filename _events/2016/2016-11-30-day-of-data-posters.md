@@ -2,7 +2,7 @@
 title: "Day of Data Posters"
 date: November 30, 2016
 image: /assets/images/placeholder-hero.jpg
-thumbnail: /assets/images/placeholder-1.png
+thumbnail: /assets/images/events/day-of-data.jpg
 caption: ""
 categories: 
   - announcements

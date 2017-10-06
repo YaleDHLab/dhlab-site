@@ -2,7 +2,7 @@
 title: "Digital Poetry and Politics Talk"
 date: November 16, 2016
 image: /assets/images/placeholder-hero.jpg
-thumbnail: /assets/images/placeholder-3.png
+thumbnail: /assets/images/events/sterling-student.jpg
 caption: ""
 categories: 
   - announcements

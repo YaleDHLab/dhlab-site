@@ -2,7 +2,7 @@
 title: "Talk+Workshop with Heather Froehlich"
 date: May 3, 2016
 image: /assets/images/placeholder-hero.jpg
-thumbnail: /assets/images/placeholder-5.png
+thumbnail: /assets/images/events/old-books.jpg
 caption: ""
 categories: 
   - announcements

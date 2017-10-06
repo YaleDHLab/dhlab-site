@@ -2,7 +2,7 @@
 title: "2015 Yale Technology Summit "
 date: October 30, 2015
 image: /assets/images/placeholder-hero.jpg
-thumbnail: /assets/images/placeholder-3.png
+thumbnail: /assets/images/events/tech-summit-2015.jpg
 caption: "2015 Yale Technology Summit, Digital Humanities Lab"
 categories: 
   - announcements
