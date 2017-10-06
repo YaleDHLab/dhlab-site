@@ -1,0 +1,1 @@
+import './js/filter-events.js';

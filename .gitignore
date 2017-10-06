@@ -1,6 +1,8 @@
 _site
 .jekyll-metadata
+.ruby-version
 *.DS_Store
 *.pem
 *.swp
 *.swo
+node_modules

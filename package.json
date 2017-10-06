@@ -1,0 +1,35 @@
+{
+  "name": "lab-site",
+  "version": "0.1.0",
+  "description": "Yale University's Digital Humanities Lab Website",
+  "main": "index.js",
+  "repository": "https://github.com/YaleDHLab/dhlab-site.git",
+  "author": "duhaime <douglas.duhaime@gmail.com>",
+  "license": "MIT",
+  "babel": {
+    "presets": [
+      "env"
+    ]
+  },
+  "scripts": {
+    "compress": "./node_modules/webpack/bin/webpack.js"
+  },
+  "dependencies": {
+    "d3": "^4.11.0",
+    "lodash": "^4.17.4"
+  },
+  "devDependencies": {
+    "babel-core": "^6.26.0",
+    "babel-loader": "^7.1.2",
+    "babel-preset-env": "^1.6.0",
+    "clean-webpack-plugin": "^0.1.17",
+    "copy-webpack-plugin": "^4.1.0",
+    "css-loader": "^0.28.7",
+    "extract-text-webpack-plugin": "^3.0.1",
+    "html-webpack-plugin": "^2.30.1",
+    "optimize-css-assets-webpack-plugin": "^3.2.0",
+    "style-loader": "^0.19.0",
+    "webpack": "^3.6.0",
+    "webpack-dev-server": "^2.9.1"
+  }
+}
