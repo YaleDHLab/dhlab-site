@@ -1,0 +1,35 @@
+<div class='social-media-icons'>
+  {%- assign url = include.page.url | prepend: site.url %}
+  {%- assign title = include.page.title %}
+  {%- capture share_text %}Dig this: {{ title }} -- {{ url }}{% endcapture %}
+  {% assign encoded_text = share_text | url_encode %} 
+  <div class='social-media-icon' id='clipboard-target'>
+    <textarea id='clipboard-content'>{{ url }}</textarea>
+    <img src='{{ site.baseurl }}/assets/images/icons/icon-link.svg' class='light-icon'>
+    <img src='{{ site.baseurl }}/assets/images/icons/icon-link-dark.svg' class='dark-icon'>
+    <div id='clipboard-notification'><b>Copied</b> {{ url }} <b>to your clipboard!</b></div>
+  </div>
+  <a class='social-media-icon'
+      href='mailto:?to=&subject={{ title }}'>
+    <img src='{{ site.baseurl }}/assets/images/icons/icon-email.svg' class='light-icon'>
+    <img src='{{ site.baseurl }}/assets/images/icons/icon-email-dark.svg' class='dark-icon'>
+  </a>
+  <a class='social-media-icon'
+      target='_blank'
+      href='https://www.facebook.com/sharer/sharer.php?u={{ url }}'>
+    <img src='{{ site.baseurl }}/assets/images/icons/icon-facebook.svg' class='light-icon'>
+    <img src='{{ site.baseurl }}/assets/images/icons/icon-facebook-dark.svg' class='dark-icon'> 
+  </a>
+  <a class='social-media-icon' 
+      target='_blank'
+      href='https://twitter.com/intent/tweet?text={{ encoded_text }}'>
+    <img src='{{ site.baseurl }}/assets/images/icons/icon-twitter.svg' class='light-icon'>
+    <img src='{{ site.baseurl }}/assets/images/icons/icon-twitter-dark.svg' class='dark-icon'>
+  </a>
+  <a class='social-media-icon' 
+      target='_blank'
+      href='https://plus.google.com/share?url={{ url }}'>
+    <img src='{{ site.baseurl }}/assets/images/icons/icon-google.svg' class='light-icon'>
+    <img src='{{ site.baseurl }}/assets/images/icons/icon-google-dark.svg' class='dark-icon'>
+  </a>
+</div>

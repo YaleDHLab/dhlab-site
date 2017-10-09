@@ -746,7 +746,7 @@ section {
 /***********************************************************/
 
 /**
-* Hero
+* Partials: Hero
 **/
 
 .hero {
@@ -1350,6 +1350,148 @@ section {
   line-height: 1.5em;
 }
 
+/**
+* Partials: Social media share icons
+**/
+
+.social-media-container {
+  padding-top: 12px;
+  font-weight: 600;
+  color: #999;
+}
+
+.social-media-container hr {
+  margin: 0;
+  padding: 0;
+  width: 80%;
+  border-top: 1px solid #ddd;
+}
+
+.social-media-container hr:first-of-type {
+  padding: 0;
+  margin: 10px 0;
+}
+
+.social-media-container .share-container,
+.social-media-container .directions-container {
+  padding-bottom: 10px;
+}
+
+.social-media-container .share-container {
+  cursor: initial;
+}
+
+.social-media-container div {
+  display: inline-block;
+  position: relative;
+  white-space: nowrap;
+}
+
+.share-icon,
+.marker-icon {
+  margin: 0 10px 0 5px;
+  background-repeat: no-repeat;
+  background-size: 15px;
+  background-position: 0% 0px;
+  height: 15px;
+  width: 20px;
+  position: relative;
+  top: 3px;
+}
+
+.share-icon {
+  background-image: url('{{ site.baseurl }}/assets/images/icons/share-icon-dark.svg');
+  transform: rotate(180deg);
+  margin-left: -2px;
+}
+
+.marker-icon {
+  background-image: url('{{ site.baseurl }}/assets/images/icons/marker-icon-dark.svg');
+}
+
+.social-media-container .share-container:hover,
+.social-media-container .direction-container:hover {
+  color: #000;
+}
+
+.social-media-container .share-container:hover .share-icon {
+  background-image: url('{{ site.baseurl }}/assets/images/icons/share-icon-color.svg');
+}
+
+.social-media-container .direction-container:hover .marker-icon {
+  background-image: url('{{ site.baseurl }}/assets/images/icons/marker-icon-color.svg');
+}
+
+/**
+* Partials: Social media icons
+**/
+
+.social-media-container .social-media-icons {
+  position: absolute;
+  display: none;
+  top: 29px;
+  padding: 10px 16px;
+  background: #fff;
+  border: 1px solid #ccc;
+}
+
+.social-media-container .share-container:hover .social-media-icons,
+.social-media-container .social-media-icons:hover {
+  display: block;
+}
+
+.social-media-icons .social-media-icon {
+  padding: 5px 0.82em;
+  cursor: pointer;
+}
+
+.social-media-icons textarea {
+  border: none;
+  position: fixed;
+  top: -1000px;
+}
+
+.social-media-icons img {
+  width: 17px;
+  max-height: 15px;
+}
+
+.social-media-icons img.light-icon {
+  display: inline-block;
+}
+
+.social-media-icons img.dark-icon {
+  display: none;
+}
+
+.social-media-icon:hover img.light-icon {
+  display: none;
+}
+
+.social-media-icon:hover img.dark-icon {
+  display: inline-block;
+}
+
+
+#clipboard-notification {
+  position: fixed;
+  top: 100px;
+  text-align: center;
+  padding: 15px 20px;
+  background: #aed880;
+  margin: 20px;
+  color: #075207;
+  font-size: 1.2em;
+  font-weight: 400;
+  width: auto;
+  width: 50%;
+  left: 50%;
+  height: auto;
+  white-space: normal;
+  margin-left: -25%;
+  display: none;
+}
+
 /************************************************************
 *                           Pages                           *
 /***********************************************************/
@@ -1599,59 +1741,6 @@ section {
 
 .event-detail-page .two-column-container {
   padding-left: 0;
-}
-
-/**
-* Event detail page social media
-**/
-
-.event-social-media {
-  padding-top: 12px;
-  font-weight: 600;
-  color: #999;
-}
-
-.event-social-media hr {
-  padding: 0;
-  margin: 10px 0;
-  width: 80%;
-  border-top: 1px solid #ddd;
-}
-
-.event-social-media div {
-  display: inline-block;
-}
-
-.share-icon,
-.marker-icon {
-  margin: 0 10px 0 5px;
-  background-repeat: no-repeat;
-  background-size: 15px;
-  background-position: 0% 0px;
-  height: 15px;
-  width: 20px;
-  position: relative;
-  top: 3px;
-}
-
-.share-icon {
-  background-image: url('{{ site.baseurl }}/assets/images/icons/share-icon-dark.svg')
-}
-
-.marker-icon {
-  background-image: url('{{ site.baseurl }}/assets/images/icons/marker-icon-dark.svg')
-}
-
-.event-social-media a:hover {
-  color: #000;
-}
-
-.event-social-media a:hover .share-icon {
-  background-image: url('{{ site.baseurl }}/assets/images/icons/share-icon-color.svg')
-}
-
-.event-social-media a:hover .marker-icon {
-  background-image: url('{{ site.baseurl }}/assets/images/icons/marker-icon-color.svg')
 }
 
 /**
