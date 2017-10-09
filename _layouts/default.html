@@ -11,11 +11,11 @@
       <div class='container'>
       {% endif %}
         {% if page.header_color %}
-          {% include header.html header_color=page.header_color %}
+          {% include header/header.html header_color=page.header_color %}
         {% elsif layout.header_color %}
-          {% include header.html header_color=layout.header_color %}
+          {% include header/header.html header_color=layout.header_color %}
         {% else %}
-          {% include header.html %}
+          {% include header/header.html %}
         {% endif %}
         {{ content }}
       </div>
