@@ -45,8 +45,6 @@ module.exports = {
     ]
   },
   plugins: [
-    new webpack.optimize.UglifyJsPlugin(uglifyConfig),
-    new ExtractTextPlugin('style.css'),
-    new OptimizeCssAssetsPlugin(),
+    new webpack.optimize.UglifyJsPlugin(uglifyConfig)
   ]
 };
