@@ -9,24 +9,29 @@
     </div>
   </a>
   <div class='nav-links-container'>
+    {% include header/navicon.html %}
     <div class='nav-links'>
+      <div class='nav-links-mobile'>
+        <img src='{{ site.baseurl }}/assets/images/branding/DHLab-Logo.svg'>
+        <span>✕</span>
+      </div>
       <div class='link about'>
         <a href='{{ site.baseurl }}/about.html'>About</a>
         <div class='about-links sublinks'>
           <a class='subheader' href='{{ site.baseurl }}/about.html'>Yale DHLab</a>
           <a href='{{ site.baseurl }}/about.html#team'>Our Team</a>
-          {% include header_links.html items=site.about %}
+          {% include header/header_links.html items=site.about %}
           <a class='subheader' href='{{ site.baseurl }}/resources.html'>What We Offer</a>
-          {% include header_links.html items=site.resources %}
+          {% include header/header_links.html items=site.resources %}
         </div>
       </div>
       <div class='link opportunities'>
         <a href='{{ site.baseurl }}/opportunities.html'>Opportunities</a>
         <div class='opportunities-links sublinks'>
           <a class='subheader' href='{{ site.baseurl }}/awards.html'>Awards</a>
-          {% include header_links.html items=site.awards %}
+          {% include header/header_links.html items=site.awards %}
           <a class='subheader' href='{{ site.baseurl }}/opportunities.html'>Employment</a>
-          {% include header_links.html items=site.opportunities %}
+          {% include header/header_links.html items=site.opportunities %}
         </div>
       </div>
       <div class='link events'>
@@ -44,10 +49,15 @@
         <a href='guides.html'>Get Started</a>
         <div class='guide-links sublinks'>
           <a class='subheader' href='{{ site.baseurl }}/methods.html'>What Is DH?</a>
-          {% include header_links.html items=site.methods %}
+          {% include header/header_links.html items=site.methods %}
           <a class='subheader' href='{{ site.baseurl }}/guides.html'>How to Get Started</a>
-          {% include header_links.html items=site.guides %}
+          {% include header/header_links.html items=site.guides %}
         </div>
+      </div>
+      <div class='nav-links-mobile bottom'>
+        <a href='{{ site.baseurl }}/resources/events.html'>Events Calendar</a>
+        <a href='{{ site.baseurl }}/resources/office-hours.html'>Office Hours</a>
+        <a href='https://www.google.com/maps/place/Sterling+Memorial+Library/'>Directions</a>
       </div>
     </div>
   </div>
