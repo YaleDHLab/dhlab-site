@@ -12,19 +12,18 @@ class: home-page
 </div>
 <div class='home-center-column'>
   
-  <!-- HOME EVENTS -->
+  <!-- HOME EVENTS DESKTOP -->
   <section>
     <a href='{{ site.baseurl }}/events.html'>
       <div class='section-title'>EVENTS CALENDAR</div>
     </a>
-    <div class='home-events-container'>
-
-     {% capture now %}{{ 'now' | date: '%s' | plus: 0 }}{% endcapture %}
+    <div class='home-events-container desktop'>
+      {% capture now %}{{ 'now' | date: '%s' | plus: 0 }}{% endcapture %}
       {% for event in site.events %}
         {% if event.date and event.time and event.location and event.content %}
           {% capture date %}{{ event.date | date: '%s' }}{% endcapture %}
           {% if date > now %}
-            <a href='{{ event.url | prepend: site.baseurl }}'>
+            <a href='{{ event.url | prepend: site.baseurl }}' class='desktop'>
               {% assign image_url = event.thumbnail | prepend: site.baseurl %}
               <div class='home-event-image background-image event-date-container blur-container'
                   style='background-image: url({{ image_url }})'>
@@ -39,6 +38,17 @@ class: home-page
         {% endif %}
       {% endfor %}
     </div>
+    <div class='mobile-home-events'>
+      {% capture now %}{{ 'now' | date: '%s' | plus: 0 }}{% endcapture %}
+      {% for event in site.events %}
+        {% if event.date and event.time and event.location and event.content %}
+          {% capture date %}{{ event.date | date: '%s' }}{% endcapture %}
+          {% if date > now %}
+            {%- include cards/horizontal_card.html item=event -%}
+          {% endif %}
+        {% endif %}
+      {% endfor %}
+    </div>
   </section>
 
   <!-- HOME NEWS -->
@@ -46,7 +56,7 @@ class: home-page
     <a href='{{ site.baseurl }}/news.html'>
       <div class='section-title'>WHAT'S NEW</div>
     </a>
-    <div class='full-width-card large-card'>
+    <div class='large-card'>
       {% assign item = site.news | reverse | first %}
       <a href='{{ item.url | prepend: site.baseurl }}'>
         {% assign image_url = item.image | prepend: site.baseurl %}
@@ -58,7 +68,7 @@ class: home-page
             title=item.title %}
         </div>
       </a>
-      <div class='large-card-text desktop'>
+      <div class='large-card-text'>
         <div class='button-prompt'>
           <b>Subscribe to our e-newsletter</b> to stay posted on the latest digital humanities news, events, and opportunities.
         </div>
@@ -69,8 +79,8 @@ class: home-page
     </div>
   </section>
 
-  <!-- TABLET NEWSLETTER -->
-  <div class='tablet newsletter background-image'>
+  <!-- MOBILE NEWSLETTER -->
+  <div class='mobile newsletter background-image'>
     <div class='small-uppercase center-text'>NEWSLETTER</div>
     <div class='newsletter-text'>
       <div><b>Subscribe to our e-newsletter</b>to stay posted on the latest digital humanities news, events, and opportunities.</div>

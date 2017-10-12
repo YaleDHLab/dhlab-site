@@ -2,7 +2,7 @@
 title: "Web Scraping Workshop"
 date: July 14, 2016
 image: /assets/images/placeholder-hero.jpg
-thumbnail: /assets/images/events/jcoffee-code.jpg
+thumbnail: /assets/images/events/coffee_code.jpg
 caption: ""
 categories: 
   - announcements
