@@ -1,12 +1,17 @@
 <div class='personnel-list'>
-{% for item in include.items %}
-  <div class='double-line-height'>
-    <div class='list-heading'>{{ item[0] }}</div>
-  {% for person in item[1] %}
-    <div><b>{{ person.name }}</b> 
-    	<br>{{ person.affiliation }}</br></div>
+  {% for item in include.items %}
+    <div class='double-line-height'>
+      <div class='list-heading'>{{ item[0] }}</div>
+      {% for person in item[1] %}
+        {% if person.name and person.affiliation %}
+          <div class='person'>
+            <b>{{ person.name }}</b>
+            {{ person.affiliation }}
+            <br/>
+          </div>
+        {% endif %}
+      {% endfor %}
+      <br/>
+    </div>
   {% endfor %}
-  </div>
-  <br/>
-{% endfor %}
 </div>

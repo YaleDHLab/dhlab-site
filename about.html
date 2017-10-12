@@ -16,11 +16,15 @@ class: about-page
 %}
 
 <div class='center-column'>
-  <div class='two-column-container one-third-width'>
+  <div class='two-column-container one-third-width hide-left'>
     <div class='left-column'>
       {% include about/about_left_sidebar.html page=page %}
     </div>
     <div class='right-column'>
+      <div class='mobile mobile-title center-text'>
+        <div class='small-uppercase center-section-title'>About</div>
+        <h3>The Yale Digital Humanities Laboratory</h3>
+      </div>
       <p>The 2015 founding of the Yale Digital Humanities Laboratory (DHLab) signifies the University's continued commitment to cutting-edge research and teaching in the humanities. Offering space, community, and resources for Yale faculty and students who are working with digital methods to pursue humanistic inquiries, the DHLab functions as a hub on the Yale campus for digital humanities resarch and teaching. Staff are available to help at any stage in a project, from conceptualization to implementation.</p>
       <p>Yale's roots in digital humanities undertakings date back (at least) to Father Roberto Busa's visit to our campus on September 24, 1956. Father Busa is credited with being the founder of humanities computing. His concordance of the works of Saint Thomas Aquinas is the founding example of digital humanities research. </p>
       <p>Generously funded by the Goizueta Foundation, the DHLab is committed to advancing science, technology, engineering, the arts, and mathematics (STEAM) teaching and research at Yale. In addition to facilitating cross-disciplinary collaborations on campus, the DHLab also promotes faculty and student initiatives that reach beyond the University to engage wider publics.</p>
@@ -47,7 +51,8 @@ class: about-page
   {% capture right_text %}
     <div>Consultants meet with Yale scholars who are working with quantitative or computational methods.</div>
     <br/>
-    {% include text/personnel_list.html items=site.data.assistants.right %}<br/>
+    {% include text/personnel_list.html items=site.data.assistants.right %}
+    <br/>
     <h2 class='subheading'>Work With Us</h2>
     <p>Are you a programmer or designer interested in working in digital humanities? Contact us for information on becoming a DHLab assistant and explore our current <a href='#student-jobs'>Student Job Openings</a> for this academic year.</p>
   {% endcapture %}
@@ -66,5 +71,4 @@ class: about-page
     right_button_url = right_button_url
     right_button_label = 'Contact Us'
   %}
-
 </div>
