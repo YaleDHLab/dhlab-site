@@ -970,6 +970,10 @@ section {
   padding-bottom: 30px;
 }
 
+section.no-padding {
+  padding: 0;
+}
+
 @media (max-width: 1000px) {
   section  {
     padding: 0;
@@ -1020,8 +1024,9 @@ section {
   }
 
   .hero .hero-caption {
-    background: rgba(255,255,255,0.7);
-    padding: 30px;
+    padding: 20px;
+    font-size: 14px;
+    color: #fff;
   }
 
   .hero .card-title-container {
@@ -1032,10 +1037,6 @@ section {
     background-attachment: initial;
     background-position-y: 0;
     background-size: cover;
-  }
-
-  .projects-page .hero {
-    height: 600px;
   }
 }
 
@@ -1087,22 +1088,8 @@ section {
 * Partials: Three spaced squares
 **/
 
-.three-spaced-squares-container {
-  width: 100%;
-  display: block;
-  padding-bottom: 33%;
-  position: relative;
-  margin-bottom: 60px;
-}
-
 .three-spaced-squares {
-  position: absolute;
-  top: 0;
-  right: 0;
-  bottom: 0;
-  left: 0;
-  height: auto;
-  width: auto;
+  padding-top: 20px;
 }
 
 .three-spaced-squares h3 {
@@ -1138,9 +1125,8 @@ section {
 }
 
 .three-spaced-squares .background-image {
-  height: 100%;
+  padding-bottom: 100%;
   width: 100%;
-  display: table;
 }
 
 @media(max-width: $breakpoint) {
@@ -1331,6 +1317,11 @@ section {
 
   .large-card .card-title-container {
     max-width: 100%;
+  }
+
+  .card-title-container .card-title-blur {
+    background-position-y: 86%;
+    background-size: 100%;
   }
 }
 
@@ -2021,6 +2012,7 @@ section {
 @media (max-width: 1000px) {
   .home-page .hero {
     height: 400px;
+    background-position-y: 0px;
   }
 
   .home-page .hero-text {
@@ -2456,4 +2448,99 @@ section {
 
 .projects-container .right-column .background-image {
   right: 0;
+}
+
+.mobile-project {
+  display: none;
+}
+
+@media (max-width: 1000px) {
+  .projects-page .hero {
+    height: 400px;
+  }
+
+  .projects-page .projects-container .left-column,
+  .projects-page .projects-container .right-column {
+    width: 100%;
+    display: block;
+    padding: 20px 0;
+  }
+
+  .projects-page .project-image-container {
+    margin-bottom: 0;
+  }
+
+  .projects-page .two-column-container.half-width {
+    max-width: initial;
+    padding: 0;
+  }
+}
+
+@media (max-width: 700px) {
+  /* Toggle desktop mobile project views */
+  .desktop-project {
+    display: none;
+  }
+
+  .mobile-project {
+    display: block;
+    overflow: auto;
+  }
+
+  /* Remove container padding */
+  .projects-container {
+    padding: 0;
+  }
+
+  .projects-page .hero.background-image+.center-column {
+    padding: 0;
+  }
+
+  /* Style mobile projects */
+  .mobile-project .background-image {
+    width: 30%;
+    padding-bottom: 30%;
+    display: inline-block;
+    float: left;
+    margin-right: 20px;
+  }
+
+  .mobile-project .mobile-project-text {
+    text-align: left;
+  }
+
+  .mobile-project .small-uppercase {
+    margin-top: 20px;
+  }
+
+  .mobile-project .project-title {
+    font-size: 18px;
+    font-weight: 600;
+  }
+
+  .projects-page .projects-container .left-column,
+  .projects-page .projects-container .right-column {
+    padding: 0;
+  }
+}
+
+@media (max-width: 500px) {
+  .projects-page .hero {
+    height: 300px;
+  }
+
+  .mobile-project .background-image {
+    width: 38%;
+    padding-bottom: 38%;
+    margin-right: 10px;
+  }
+
+  .mobile-project .small-uppercase {
+    margin-top: 10px;
+    margin-bottom: 3px;
+  }
+
+  .mobile-project .project-title {
+    font-size: 16px;
+  }
 }

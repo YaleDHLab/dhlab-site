@@ -35,10 +35,11 @@ class: projects-page
         <div class='two-column-container half-width'>
         {% endif %}
           <div class={% cycle 'left-column', 'right-column' %}>
-            <div class='project-image-container'>
+            <div class='project-image-container desktop-project'>
               <a href='{{ project.url | prepend: site.baseurl }}'>
+                {% assign image_url = project.image | prepend: site.baseurl %}
                 <div class='background-image blur-container'
-                  style='background-image:url("{{ project.image | prepend: site.baseurl }}")'>
+                  style='background-image:url("{{ image_url }}")'>
                   {% include cards/card_title_box.html
                     label=category
                     title=project.title
@@ -46,6 +47,15 @@ class: projects-page
                 </div>
               </a>
             </div>
+            <a href='{{ project.url | prepend: site.baseurl }}'>
+              <div class='mobile-project'>
+                <div class='background-image' style='background-image:url("{{ image_url }}")'></div>
+                <div class='mobile-project-text'>
+                  <div class='small-uppercase'>{{ category }}</div>
+                  <div class='project-title'>{{ project.title }}</div>
+                </div>
+              </div>
+            </a>
           </div>
           {% assign counter = counter | plus: 1 %}
           {% if counter == n_projects %}
