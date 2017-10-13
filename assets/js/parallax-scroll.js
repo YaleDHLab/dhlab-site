@@ -9,7 +9,7 @@
     var y = window.scrollY;
     hero.style.backgroundPositionY = window.innerWidth < 1000 ?
         0
-      : (-(y/4) - 100) + 'px';
+      : (-(y*1.5) - 120) + 'px';
   }
 
 })();
