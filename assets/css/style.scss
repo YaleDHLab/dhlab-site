@@ -1073,6 +1073,14 @@ section {
     width: 100%;
     padding: 0 0 20px;
   }
+
+  .three-text-blocks h2 {
+    padding: 15px 0;
+  }
+
+  .three-text-blocks hr {
+    padding-bottom: 15px;
+  }
 }
 
 /**
@@ -1168,6 +1176,38 @@ section {
 
 .color-block-container h3 { 
   font-size: 1.25em;
+}
+
+@media (max-width: 1000px) {
+  .color-block-container.color-background {
+    padding: 20px 30px;
+    margin-bottom: 30px;
+  }
+
+  .color-block-container.color-background.circle-caret:before {
+    margin-top: -20px;
+  }
+
+  .color-block-container .two-column-container .left-column,
+  .color-block-container .two-column-container .right-column {
+    display: block;
+    position: relative;
+  }
+
+  /* Create a pseudo-hr after the last left column box */
+  .color-block-container .two-column-container .left-column:after {
+    content: '';
+    position: absolute;
+    bottom: -2px;
+    left: 25px;
+    right: 25px;
+    width: auto;
+    border-bottom: 1px solid #BF8D2D;
+  }
+
+  .color-block-container hr {
+    margin: 30px 0;
+  }
 }
 
 /**
