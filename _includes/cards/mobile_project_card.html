@@ -1,0 +1,11 @@
+<a href='{{ include.item.url | prepend: site.baseurl }}'>
+  <div class='mobile-project'>
+    {% assign image_url = include.item.thumbnail | prepend: site.baseurl %}
+    <div class='background-image' style='background-image:url("{{ image_url }}")'></div>
+    <div class='mobile-project-text'>
+      {% assign category = include.item.categories | first %}
+      <div class='small-uppercase'>{{ category }}</div>
+      <div class='project-title'>{{ include.item.title }}</div>
+    </div>
+  </div>
+</a>
