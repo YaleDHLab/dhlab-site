@@ -1,22 +1,20 @@
 <div class='three-spaced-squares'>
   <h2>{{ include.label }}</h2>
   <hr />
-  {% assign counter = 0 %}
-  <div class='three-spaced-squares-table'>
+  <div class='three-spaced-squares-table desktop'>
+    {% assign counter = 0 %}
     {%- for item in include.items %}
       {%- if counter < 3 %}
-        {%- assign item_url = item.url | prepend: site.baseurl %}
-        <a href='{{ item_url }}' class='spaced-square'>
-          {%- assign image_url = item.thumbnail | prepend: site.baseurl %}
-          <div class='background-image event-date-container'
-            style='background-image: url({{ image_url }})'>
-            <!-- Only show dates on event cards -->
-            {%- if item.date and item.time %}
-              {%- include events/event_date.html event=item %}
-            {%- endif %}
-          </div>
-          <h3>{{ item.title }}</h3>
-        </a>
+        {% include cards/desktop_project_card.html item=item %}
+        {%- assign counter = counter | plus: 1 %}
+      {%- endif %}
+    {%- endfor %}
+  </div>
+  <div>
+    {% assign counter = 0 %}
+    {%- for item in include.items %}
+      {%- if counter < 3 %}
+        {% include cards/mobile_project_card.html item=item %}
         {%- assign counter = counter | plus: 1 %}
       {%- endif %}
     {%- endfor %}

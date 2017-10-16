@@ -48,15 +48,7 @@ class: projects-page
                 </div>
               </a>
             </div>
-            <a href='{{ project.url | prepend: site.baseurl }}'>
-              <div class='mobile-project'>
-                <div class='background-image' style='background-image:url("{{ image_url }}")'></div>
-                <div class='mobile-project-text'>
-                  <div class='small-uppercase'>{{ category }}</div>
-                  <div class='project-title'>{{ project.title }}</div>
-                </div>
-              </div>
-            </a>
+            {% include cards/mobile_project_card.html item=project %}
           </div>
           {% assign counter = counter | plus: 1 %}
           {% if counter == n_projects %}
