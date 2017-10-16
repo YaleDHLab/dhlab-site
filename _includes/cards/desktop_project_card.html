@@ -2,7 +2,7 @@
 <a href='{{ item_url }}' class='spaced-square desktop'>
   {%- assign image_url = include.item.thumbnail | prepend: site.baseurl %}
   <div class='background-image event-date-container'
-    style='background-image: url({{ include.image_url }})'>
+    style='background-image: url({{ image_url }})'>
     <!-- Only show dates on event cards -->
     {%- if include.item.date and item.time %}
       {%- include events/event_date.html event=include.item %}

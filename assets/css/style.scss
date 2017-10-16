@@ -4,7 +4,7 @@ process: true
 @import url('https://fonts.googleapis.com/css?family=Open+Sans:300,400,600,700');
 
 $color: #FFC426;
-$breakpoint: 1000px;
+$desktop_breakpoint: 1000px;
 $mobile_breakpoint: 700px;
 $pad: 40px;
 $pad_sides: 60px;
@@ -65,7 +65,7 @@ body {
   padding: 40px 60px;
 }
 
-@media (max-width: 1000px) {
+@media (max-width: $desktop_breakpoint) {
   .hero-text-container {
     max-width: 100%;
     padding: 0px 20px 40px;
@@ -105,7 +105,7 @@ body {
   display: initial;
 }
 
-@media (max-width: 1000px) {
+@media (max-width: $desktop_breakpoint) {
   .mobile {
     display: initial;
   }
@@ -292,18 +292,23 @@ select {
   line-height: 2;
 }
 
-@media (max-width: 1000px) {
+@media (max-width: $desktop_breakpoint) {
   .section-title {
     padding-top: 20px;
     background: #efefef;
     text-align: center;
     display: block;
   }
+
+  .center-section-title {
+    padding-top: 20px;
+  }
 }
 
 @media (max-width: $mobile_breakpoint) {
   .center-section-title {
     font-size: 1.5em;
+    padding-top: 15px;
   }
 }
 
@@ -531,7 +536,7 @@ select {
   width: 50%;
 }
 
-@media (max-width: $breakpoint) {
+@media (max-width: $desktop_breakpoint) {
   .two-column-container .left-column,
   .two-column-container .right-column {
     padding: 25px;
@@ -540,7 +545,7 @@ select {
   }
 }
 
-@media (max-width: 1000px) {
+@media (max-width: $desktop_breakpoint) {
   .two-column-container.one-third-width {
     width: 100%;
   }
@@ -757,7 +762,7 @@ header.gray-header svg {
   fill: #777;
 }
 
-@media (max-width: 1000px) {
+@media (max-width: $desktop_breakpoint) {
   .nav-links {
     display: none;
   }
@@ -788,8 +793,8 @@ header.gray-header svg {
     color: #999;
     font-size: 24px;
     float: right;
-    margin-top: 5px;
-    margin-bottom: 20px;
+    padding: 10px 20px 10px;
+    margin-bottom: 10px;
     cursor: pointer;
   }
 
@@ -884,6 +889,7 @@ header.gray-header svg {
     background: #fff;
     padding: 0;
     display: none;
+    box-shadow: none;
   }
 
   .navicon.active + .nav-links .link > a.active + .sublinks {
@@ -991,7 +997,7 @@ section.no-padding {
   padding: 0;
 }
 
-@media (max-width: 1000px) {
+@media (max-width: $desktop_breakpoint) {
   section  {
     padding: 0;
   }
@@ -1029,7 +1035,7 @@ section.no-padding {
   color: #000;
 }
 
-@media (max-width: 1000px) {
+@media (max-width: $desktop_breakpoint) {
   .hero .hero-text-container {
     position: absolute;
     top: initial;
@@ -1054,6 +1060,18 @@ section.no-padding {
     background-attachment: initial;
     background-position-y: 0;
     background-size: cover;
+  }
+}
+
+@media (max-width: $mobile_breakpoint) {
+  .hero {
+    height: 300px;
+    background-position: center center;
+    background-size: cover;
+  }
+
+  .hero .hero-caption {
+    font-size: 10px;
   }
 }
 
@@ -1085,7 +1103,7 @@ section.no-padding {
   padding: 0 0 10px;
 }
 
-@media (max-width: 1000px) {
+@media (max-width: $desktop_breakpoint) {
   .three-text-blocks .block {
     display: block;
     width: 100%;
@@ -1098,6 +1116,12 @@ section.no-padding {
 
   .three-text-blocks hr {
     padding-bottom: 15px;
+  }
+}
+
+@media (max-width: $mobile_breakpoint) {
+  .three-text-blocks {
+    padding: 20px;
   }
 }
 
@@ -1146,7 +1170,7 @@ section.no-padding {
   width: 100%;
 }
 
-@media(max-width: $breakpoint) {
+@media(max-width: $desktop_breakpoint) {
   .three-spaced-squares-container {
     margin: 30px 0;
   }
@@ -1204,7 +1228,7 @@ section.no-padding {
   font-size: 1.25em;
 }
 
-@media (max-width: 1000px) {
+@media (max-width: $desktop_breakpoint) {
   .color-block-container.color-background {
     padding: 20px 30px;
     margin-bottom: 30px;
@@ -1355,7 +1379,7 @@ section.no-padding {
   background-size: 200% 140px;
 }
 
-@media (max-width: 1000px) {
+@media (max-width: $desktop_breakpoint) {
   .blur-container .card-title-container {
     top: initial;
     right: 0;
@@ -1547,7 +1571,7 @@ section.no-padding {
 * Partials: One third split text block (Opportunities pages)
 **/
 
-@media (max-width: $mobile_breakpoint) {
+@media (max-width: $desktop_breakpoint) {
   .one-third-split-text-block .left-column,
   .one-third-split-text-block .right-column {
     display: block;
@@ -1685,7 +1709,7 @@ section.no-padding {
   color: $color;
 }
 
-@media (max-width: 1000px) {
+@media (max-width: $desktop_breakpoint) {
   .horizontal-card {
     height: auto;
     margin-bottom: 0;
@@ -1772,7 +1796,7 @@ section.no-padding {
   padding-bottom: 40%;
 }
 
-@media (max-width: 1000px) {
+@media (max-width: $desktop_breakpoint) {
   .large-card {
     padding-bottom: 0;
   }
@@ -2043,6 +2067,7 @@ section.no-padding {
   right: 0;
   bottom: 0;
   left: 0;
+  display: none;
 }
 
 .home-page .hero-text {
@@ -2087,7 +2112,7 @@ section.no-padding {
   height: auto;
 }
 
-@media (max-width: 1000px) {
+@media (max-width: $desktop_breakpoint) {
   .home-page .hero {
     height: 400px;
     background-position-y: 0px;
@@ -2113,6 +2138,14 @@ section.no-padding {
 
   .home-page .hero h1 {
     font-size: 2.5em;
+  }
+
+  .home-page video {
+    display: none;
+  }
+
+  .home-page .hero .hero-image {
+    display: block;
   }
 }
 
@@ -2179,7 +2212,7 @@ section.no-padding {
   display: none;
 }
 
-@media (max-width: 1000px) {
+@media (max-width: $desktop_breakpoint) {
   .home-events-container.desktop {
     display: none;
   }
@@ -2254,7 +2287,7 @@ section.no-padding {
   float: none;
 }
 
-@media (max-width: 1000px) {
+@media (max-width: $desktop_breakpoint) {
   .mobile.newsletter {
     display: none;
   }
@@ -2278,7 +2311,7 @@ section.no-padding {
 @media (max-width: 860px) {
   .full-width-card-image,
   .two-thirds-width-card-image {
-    padding-bottom: 46%;
+    padding-bottom: 60%;
   }
 }
 
@@ -2393,7 +2426,7 @@ section.no-padding {
   margin-bottom: 0;
 }
 
-@media (max-width: 1000px) {
+@media (max-width: $desktop_breakpoint) {
   .about-page .color-background {
     padding: 30px;
     margin-left: -30px;
@@ -2532,7 +2565,7 @@ section.no-padding {
   display: none;
 }
 
-@media (max-width: 1000px) {
+@media (max-width: $desktop_breakpoint) {
   .projects-page .hero {
     height: 400px;
   }
