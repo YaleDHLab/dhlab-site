@@ -284,10 +284,11 @@ select {
 }
 
 @media (max-width: 1000px) {
-  .home-page .section-title {
+  .section-title {
     padding-top: 20px;
     background: #efefef;
     text-align: center;
+    display: block;
   }
 }
 
@@ -1145,6 +1146,17 @@ section.no-padding {
 
   .three-spaced-squares .spaced-square:nth-of-type(3) {
     padding-left: 20px;
+  }
+}
+
+@media (max-width: 700px) {
+  .three-spaced-squares hr {
+    display: none;
+  }
+
+  .three-spaced-squares h2 {
+    background: #efefef;
+    text-align: center;
   }
 }
 
@@ -2521,6 +2533,16 @@ section.no-padding {
   .projects-page .projects-container .left-column,
   .projects-page .projects-container .right-column {
     padding: 0;
+  }
+
+  .projects-page h2.mobile {
+    display: block;
+    background: #efefef;
+    text-align: center;
+  }
+
+  .projects-page .three-spaced-squares {
+    padding-top: 0;
   }
 }
 
