@@ -1124,10 +1124,28 @@ section.no-padding {
 @media (max-width: $mobile_breakpoint) {
   .three-text-blocks {
     padding: 0px;
+    padding-bottom: 30px;
+  }
+
+  .three-text-blocks hr {
+    display: none;
+  }
+
+  .three-text-blocks h2 {
+    display: block;
+    background: #efefef;
+    text-align: center;
+    margin: 0;
   }
 
   .three-text-blocks .block {
-    padding: 0 20px;
+    padding: 30px 30px 0;
+    text-align: center;
+    border-bottom: none;
+  }
+
+  .three-text-blocks .block p {
+    font-size: 13px;
   }
 
   .three-text-blocks .block:nth-of-type(1) {
@@ -1546,7 +1564,7 @@ section.no-padding {
 * Partials: Rectangle image grid hover state
 **/
 
-@media (min-width: $desktop_breakpoint) {
+@media (min-width: $mobile_breakpoint) {
   .four-rectangle-grid-cell:hover .dark-overlay {
     border: 6px solid $color;
     background: rgba(0,0,0,0.5);
@@ -2633,21 +2651,8 @@ section.no-padding {
     margin-bottom: 0;
   }
 
-  .events-page .three-text-blocks .block {
-    padding: 30px 30px 0;
-    text-align: center;
-    border-bottom: none;
-  }
-
-  .events-page .three-text-blocks .block p {
-    font-size: 13px;
-  }
-
   /* Past Events */
   .events-page .past-events h2 {
-    width: 100%;
-    display: block;
-    text-align: center;
     margin: 30px 0 10px;
   }
 
@@ -2657,10 +2662,6 @@ section.no-padding {
     width: 100%;
     margin: 7px 0;
     max-width: none;
-    display: none;
-  }
-
-  .events-page .past-events hr {
     display: none;
   }
 
