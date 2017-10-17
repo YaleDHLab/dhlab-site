@@ -1,5 +1,0 @@
-{% assign events = site.events | sort: 'date' %}
-{% assign upcoming_events = '' | split: '' %}
-{% for event in events reversed %}
-  {% assign upcoming_events = upcoming_events | push: event %}
-{% endfor %}

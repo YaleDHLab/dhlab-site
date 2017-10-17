@@ -18,8 +18,8 @@ class: home-page
       <div class='section-title'>EVENTS CALENDAR</div>
     </a>
     <div class='home-events-container desktop'>
-      {% include events/get_upcoming_events.html %}
-      {% for event in upcoming_events reversed limit:3 %}
+      {% include events/get_sorted_events.html %}
+      {% for event in sorted_events reversed limit:3 %}
         <a href='{{ event.url | prepend: site.baseurl }}' class='desktop'>
           {% assign image_url = event.thumbnail | prepend: site.baseurl %}
           <div class='home-event-image background-image event-date-container blur-container'
@@ -34,7 +34,7 @@ class: home-page
       {% endfor %}
     </div>
     <div class='mobile-home-events'>
-      {% for event in upcoming_events reversed limit:3 %}
+      {% for event in sorted_events reversed limit:3 %}
         {%- include cards/horizontal_card.html item=event -%}
       {% endfor %}
     </div>
