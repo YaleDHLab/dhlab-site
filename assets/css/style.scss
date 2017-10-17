@@ -1539,6 +1539,29 @@ section.no-padding {
   top: 140px;
 }
 
+@media (max-width: $mobile_breakpoint) {
+  /* Image grid */
+  .rectangle-image-grid .two-column-container .left-column,
+  .rectangle-image-grid .two-column-container .right-column {
+    width: 100%;
+    display: block;
+    padding: 0;
+    padding-bottom: 50%;
+  }
+
+  .rectangle-image-grid .right-column .four-rectangle-grid-cell,
+  .rectangle-image-grid .left-column .four-rectangle-grid-cell {
+    top: 4px;
+    right: 0;
+    bottom: 0;
+    left: 0;
+  }
+
+  .rectangle-image-grid .image-title-container .image-title {
+    font-size: 23px;
+  }
+}
+
 /**
 * Partials: One third width rectangle cards
 **/
@@ -2754,5 +2777,32 @@ section.no-padding {
 
   .mobile-project .project-title {
     font-size: 16px;
+  }
+}
+
+/**
+* Guides & Methods landing pages
+**/
+
+@media (max-width: $mobile_breakpoint) {
+  /* Bottom page text */
+  .guides-page .two-column-container:last-of-type h2,
+  .methods-page .two-column-container:last-of-type h2 {
+    margin-top: 20px;
+    text-align: center;
+  }
+
+  .page-bottom-buttons .two-column-container .left-column,
+  .page-bottom-buttons .two-column-container .right-column {
+    padding: 0 20px;
+  }
+
+  .page-bottom-buttons .two-column-container .left-column p,
+  .page-bottom-buttons .two-column-container .right-column p {
+    text-align: left;
+  }
+
+  .page-bottom-buttons .two-column-container a.color-button {
+    margin-top: 20px;
   }
 }

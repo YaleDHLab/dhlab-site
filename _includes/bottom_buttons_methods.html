@@ -8,14 +8,16 @@
   <p>The standard chunk of Lorem Ipsum used since the 1500s is reproduced below for those interested. Sections 1.10.32 and 1.10.33 from "de Finibus Bonorum et Malorum" by Cicero are also reproduced in their exact original form, accompanied by English versions from the 1914 translation by H. Rackham.</p>
 {% endcapture %}
 
-{% include text/half-width/two_column_text.html
-  left_title='How do I get started?'
-  left_text=left_text
-  left_button_label='Start a Project'
-  left_button_url='#start-a-project'
+<div class='page-bottom-buttons'>
+  {% include text/half-width/two_column_text.html
+    left_title='How do I get started?'
+    left_text=left_text
+    left_button_label='Start a Project'
+    left_button_url='#start-a-project'
 
-  right_title='What we offer'
-  right_text=right_text
-  right_button_label='Contact Us'
-  left_button_url='#contact-us'
-%}
+    right_title='What we offer'
+    right_text=right_text
+    right_button_label='Contact Us'
+    left_button_url='#contact-us'
+  %}
+</div>
