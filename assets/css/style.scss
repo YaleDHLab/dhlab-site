@@ -1123,7 +1123,19 @@ section.no-padding {
 
 @media (max-width: $mobile_breakpoint) {
   .three-text-blocks {
-    padding: 20px;
+    padding: 0px;
+  }
+
+  .three-text-blocks .block {
+    padding: 0 20px;
+  }
+
+  .three-text-blocks .block:nth-of-type(1) {
+    padding-left: 20px;
+  }
+
+  .three-text-blocks .block:nth-of-type(3) {
+    padding-right: 20px;
   }
 }
 
@@ -1821,6 +1833,10 @@ section.no-padding {
   margin: 20px 0;
 }
 
+.two-column-container p + a.color-button {
+  margin: 5px 0;
+}
+
 .detail-page-links a {
   line-height: 2em;
 }
@@ -2363,6 +2379,11 @@ section.no-padding {
   padding-right: 0;
 }
 
+.event-detail-page .right-column hr {
+  margin: 30px 0;
+  padding: 0;
+}
+
 /**
 * Event Tags
 **/
@@ -2500,6 +2521,36 @@ section.no-padding {
 
 .past-event .background-image {
   padding-bottom: 100%;
+}
+
+@media (max-width: 800px) {
+  .events-page .teaser {
+    display: none;
+  }
+}
+
+@media (max-width: $mobile_breakpoint) {
+  .events-page .mobile.mobile-hero.background-image {
+    width: 100%;
+    height: 300px;
+    display: block;
+  }
+
+  .events-page .center-column {
+    padding-top: 0;
+  }
+
+  .events-page header {
+    background: none;
+  }
+
+  .events-page h2 {
+    padding: 20px;
+    background: #efefef;
+    text-align: center;
+    display: block;
+    margin: 0;
+  }
 }
 
 /*
