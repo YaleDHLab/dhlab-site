@@ -1455,11 +1455,12 @@ section.no-padding {
 .rectangle-image-grid .dark-overlay {
   background: rgba(0,0,0,0.3);
   position: absolute;
-  z-index: 0;
+  z-index: 1;
   top: 0;
   bottom: 0;
   right: 0;
   left: 0;
+  transition: all .1s;
 }
 
 .rectangle-image-grid .image-title-container {
@@ -1474,6 +1475,15 @@ section.no-padding {
   left: 0;
   right: 0;
   transition: top .1s;
+}
+
+.rectangle-image-grid .background-image {
+  position: absolute;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  transition: all .1s;
 }
 
 .rectangle-image-grid .one-third-rectangle-card .image-title-container {
@@ -1495,6 +1505,9 @@ section.no-padding {
   position: relative;
   color: #fff;
   width: 80%;
+  width: 80%;
+  left: 10%;
+  display: inline-block;
 }
 
 /* Methods page overrides */
@@ -1508,6 +1521,7 @@ section.no-padding {
 
 .four-rectangle-grid-cell:hover .dark-overlay {
   border: 6px solid $color;
+  background: rgba(0,0,0,0.5);
 }
 
 .four-rectangle-grid-cell:hover .background-image,
@@ -1517,6 +1531,7 @@ section.no-padding {
   -o-filter: blur(4px);
   -ms-filter: blur(4px);
   filter: blur(4px);
+  transform: scale(1.05);
 }
 
 .four-rectangle-grid-cell:hover .image-title-container,
@@ -1860,6 +1875,10 @@ section.no-padding {
   margin: 5px 0;
 }
 
+.two-column-container .two-column-text-block p + a.color-button {
+  margin: 20px 0;
+}
+
 .detail-page-links a {
   line-height: 2em;
 }
@@ -2083,6 +2102,26 @@ section.no-padding {
   border: 3px solid;
   border-radius: 3px;
   display: none;
+}
+
+/**
+* Partials: Page bottom buttons
+**/
+
+@media (max-width: $mobile_breakpoint) {
+  .page-bottom-buttons .two-column-container .left-column,
+  .page-bottom-buttons .two-column-container .right-column {
+    padding: 0 20px;
+  }
+
+  .page-bottom-buttons .two-column-container .left-column p,
+  .page-bottom-buttons .two-column-container .right-column p {
+    text-align: left;
+  }
+
+  .page-bottom-buttons .two-column-container a.color-button {
+    margin-top: 20px;
+  }
 }
 
 /************************************************************
@@ -2790,19 +2829,5 @@ section.no-padding {
   .methods-page .two-column-container:last-of-type h2 {
     margin-top: 20px;
     text-align: center;
-  }
-
-  .page-bottom-buttons .two-column-container .left-column,
-  .page-bottom-buttons .two-column-container .right-column {
-    padding: 0 20px;
-  }
-
-  .page-bottom-buttons .two-column-container .left-column p,
-  .page-bottom-buttons .two-column-container .right-column p {
-    text-align: left;
-  }
-
-  .page-bottom-buttons .two-column-container a.color-button {
-    margin-top: 20px;
   }
 }
