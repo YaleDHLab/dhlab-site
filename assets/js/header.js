@@ -52,4 +52,15 @@
       : elem.className + ' active ';
   }
 
+  /**
+  * Close mobile header
+  **/
+
+  var mobileClose = document.querySelector('.close-mobile-header');
+  mobileClose.addEventListener('click', handleMobileCloseClick)
+
+  function handleMobileCloseClick(e) {
+    navicon.className = 'navicon';
+  }
+
 })();
