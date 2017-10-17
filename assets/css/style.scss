@@ -2551,6 +2551,45 @@ section.no-padding {
     display: block;
     margin: 0;
   }
+
+  .events-page .horizontal-card {
+    margin-bottom: 0;
+  }
+
+  .events-page .three-text-blocks .block {
+    padding: 30px 30px 0;
+    text-align: center;
+    border-bottom: none;
+  }
+
+  .events-page .three-text-blocks .block p {
+    font-size: 13px;
+  }
+
+  /* Past Events */
+  .events-page .past-events h2 {
+    width: 100%;
+    display: block;
+    text-align: center;
+    margin: 30px 0 10px;
+  }
+
+  .events-page .past-events select {
+    float: none;
+    display: block;
+    width: 100%;
+    margin: 7px 0;
+    max-width: none;
+    display: none;
+  }
+
+  .events-page .past-events hr {
+    display: none;
+  }
+
+  .events-page .past-events .past-event {
+    width: 50%;
+  }
 }
 
 /*
