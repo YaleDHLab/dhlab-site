@@ -10,7 +10,7 @@ overview: postdoctoral_associates
 ---
 
 <div class='center-column post'>
-  <div class='two-column-container one-third-width'>
+  <div class='two-column-container one-third-width hide-left'>
     <div class='left-column'>
       {% include text/detail_page_links.html
         items=site.opportunities
