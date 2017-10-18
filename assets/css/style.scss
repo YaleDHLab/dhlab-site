@@ -1471,14 +1471,14 @@ section.no-padding {
 }
 
 .rectangle-image-grid .dark-overlay {
-  background: rgba(0,0,0,0.4);
+  background: rgba(0,0,0,0.3);
   position: absolute;
   z-index: 1;
   top: 0;
   bottom: 0;
   right: 0;
   left: 0;
-  transition: all .1s;
+  transition: all .2s;
 }
 
 .rectangle-image-grid .image-title-container {
@@ -1492,7 +1492,7 @@ section.no-padding {
   text-align: center;
   left: 0;
   right: 0;
-  transition: top .1s;
+  transition: top .2s;
 }
 
 .rectangle-image-grid .background-image {
@@ -1501,7 +1501,7 @@ section.no-padding {
   right: 0;
   bottom: 0;
   left: 0;
-  transition: all .1s;
+  transition: all .2s;
 }
 
 .rectangle-image-grid .one-third-rectangle-card .image-title-container {
@@ -1510,22 +1510,26 @@ section.no-padding {
 
 .rectangle-image-grid .image-title-container .image-title {
   font-size: 20px;
+  text-transform: uppercase;
+  letter-spacing: 1px;
+  font-weight: 600;
+  text-shadow: -2px 2px 4px rgba(0,0,0,0.5);
 }
 
 .rectangle-image-grid .image-title-container .image-subtitle {
-  font-size: 17px;
-  font-weight: 100;
+  font-size: 16px;
+  font-weight: 400;
 }
 
 .rectangle-image-grid .four-rectangle-grid-cell .teaser {
-  transition: top .1s;
+  transition: top .2s;
   top: 400px;
   position: relative;
   color: #fff;
-  width: 80%;
-  width: 80%;
-  left: 10%;
+  width: 70%;
+  left: 15%;
   display: inline-block;
+  margin-top: 6px;
 }
 
 /* Methods page overrides */
@@ -1572,12 +1576,12 @@ section.no-padding {
 
   .four-rectangle-grid-cell:hover .background-image,
   .four-rectangle-grid-cell:hover .background-image {
-    -webkit-filter: blur(4px);
-    -moz-filter: blur(4px);
-    -o-filter: blur(4px);
-    -ms-filter: blur(4px);
-    filter: blur(4px);
-    transform: scale(1.05);
+    -webkit-filter: blur(2px);
+    -moz-filter: blur(2px);
+    -o-filter: blur(2px);
+    -ms-filter: blur(2px);
+    filter: blur(2px);
+    transform: scale(1.2);
   }
 
   .four-rectangle-grid-cell:hover .image-title-container,
@@ -2109,12 +2113,12 @@ section.no-padding {
 
 #clipboard-notification {
   position: fixed;
-  top: 100px;
+  top: 25%;
   text-align: center;
-  padding: 15px 20px;
-  background: #aed880;
+  padding: 40px;
+  background: #fff;
   margin: 20px;
-  color: #075207;
+  color: #333;
   font-size: 1.2em;
   font-weight: 400;
   width: auto;
@@ -2124,8 +2128,9 @@ section.no-padding {
   white-space: normal;
   margin-left: -25%;
   border: 3px solid;
-  border-radius: 3px;
+  border-radius: 2px;
   display: none;
+  box-shadow: -4px 4px 8px rgba(0,0,0,0.2);
 }
 
 /**
