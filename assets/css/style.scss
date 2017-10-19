@@ -102,7 +102,7 @@ body {
 }
 
 .desktop {
-  display: initial;
+  display: block;
 }
 
 @media (max-width: $desktop_breakpoint) {
