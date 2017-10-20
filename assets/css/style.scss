@@ -102,12 +102,12 @@ body {
 }
 
 .desktop {
-  display: block;
+  display: inherit;
 }
 
 @media (max-width: $desktop_breakpoint) {
   .mobile {
-    display: initial;
+    display: block;
   }
 
   .desktop {
@@ -156,12 +156,16 @@ a {
   color: inherit;
 }
 
+a.inline-link {
+  color: #e6a400;
+}
+
 p a {
   color: $color;
 }
 
-a.inline-link {
-  color: #e6a400;
+.color-background p a {
+  color: #fff;
 }
 
 b {
@@ -234,6 +238,19 @@ select {
   background-position: 90% 50%;
   background-color: #efefef;
   max-width: 120px;
+}
+
+ul {
+  list-style-position: inside;
+  padding-left: 20px;
+  text-indent: -20px;
+  line-height: 24px;
+  font-weight: 400;
+  font-size: 15px;
+}
+
+ul ul {
+  margin: 10px 20px;
 }
 
 .small-uppercase {
@@ -560,6 +577,10 @@ select {
 
   .two-column-container.one-third-width.hide-left .right-column {
     padding: 25px 0;
+  }
+
+  .color-background+.two-column-container {
+    padding: 20px 0 0 0;
   }
 }
 
@@ -925,18 +946,18 @@ footer {
   font-weight: 400;
 }
 
-.footer-column {
+footer .footer-column {
   display: table-cell;
   vertical-align: top;
   padding: 0 20px;
   margin-bottom: 20px;
 }
 
-.footer-text div {
+footer .footer-text div {
   max-width: 280px;
 }
 
-.footer-logo {
+footer .footer-logo {
   width: 300px;
   height: 70px;
   margin-bottom: 60px;
@@ -947,37 +968,33 @@ footer .hours {
   margin-left: 10px;
 }
 
-@media(max-width: 1100px) {
+@media (max-width: 1100px) {
   footer {
     display: block;
   }
 
-  .footer-column {
+  footer .footer-column {
     display: block;
   }
 
-  .footer-text {
+  footer .footer-text {
     display: table-cell;
   }
 }
 
-@media(max-width: $mobile_breakpoint) {
-  .footer-logo {
-    margin: 0 auto 60px;
-  }
-
-  .footer-column,
-  .footer-text {
+@media (max-width: $mobile_breakpoint) {
+  footer .footer-column,
+  footer .footer-text {
     display: block;
   }
 }
 
-@media(max-width: 450px) {
+@media (max-width: 450px) {
   footer {
     padding: 30px 5px;
   }
 
-  .footer-logo {
+  footer .footer-logo {
     max-width: 100%;
     height: auto;
     margin: 0;
@@ -1792,6 +1809,12 @@ section.no-padding {
 @media (max-width: $desktop_breakpoint) {
   .horizontal-card {
     height: auto;
+    margin-bottom: 0;
+    outline: 1px solid #ddd;
+  }
+
+  .horizontal-card .image {
+    border: none;
   }
 
   .horizontal-card a.color-button {
@@ -1959,26 +1982,32 @@ section.no-padding {
 }
 
 /**
-* Partials: About Page Postdocs
+* Partials: About Page Postdocs + Teaching Fellows
 **/
 
-.postdoc-archive h3 {
+.personnel-archive h3 {
   padding: 15px 0;
 }
 
-.postdoc-archive .left-column a {
+.personnel-archive .left-column a {
   display: block;
   font-weight: 800;
   padding-bottom: 10px;
 }
 
-.postdoc-archive .dept {
+.personnel-archive .dept {
   font-weight: 600;
 }
 
-.postdoc-archive .postdoc {
+.personnel-archive .person {
   padding-bottom: 15px;
   line-height: 1.5em;
+}
+
+@media (max-width: $desktop_breakpoint) {
+  .personnel-archive.two-column-container.one-third-width .left-column {
+    width: 280px;
+  }
 }
 
 /**
