@@ -953,7 +953,7 @@ footer .footer-column {
   margin-bottom: 20px;
 }
 
-footer .footer-text div {
+footer .footer-bottom div {
   max-width: 280px;
 }
 
@@ -973,18 +973,19 @@ footer .hours {
     display: block;
   }
 
-  footer .footer-column {
+  footer .footer-top {
     display: block;
   }
 
-  footer .footer-text {
-    display: table-cell;
+  footer .footer-bottom {
+    display: inline-block;
+    width: 49%;
   }
 }
 
 @media (max-width: $mobile_breakpoint) {
-  footer .footer-column,
-  footer .footer-text {
+  footer .footer-top,
+  footer .footer-bottom {
     display: block;
   }
 }
