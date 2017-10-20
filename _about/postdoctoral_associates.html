@@ -32,6 +32,8 @@ class: about-page
     {% endfor %}
   </div>
 
-  {% include about/postdoc_archive.html %}
-
+  {% include about/personnel_archive.html
+    data = site.data.postdoctoral_associates
+    title = 'Postdoctoral Associate Alumni'
+  %}
 </div>
