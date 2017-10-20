@@ -14,6 +14,11 @@ class: personnel about-page
       {% include about/about_left_sidebar.html page=page %}
     </div>
     <div class='right-column'>
+      {% include text/mobile_section_title.html
+        title = 'About'
+        subtitle = page.title
+      %}
+
       <p>Each semester, the Digital Humanities Lab appoints a cohort of Digital Humanities Fellows to assist with courses that have a strong digital humanities component. What that component looks like depends on the course's objectives and the Fellow's interests.</p>
       <p>During the semester, DH Fellows work closely with each other and DHLab staff to design and integrate digital humanities assignments and demonstrations into their classrooms. Prior projects include a network graph of course syllabi, an Omeka exhibition on Latin American History, and a Story Map that charts Paui Murray's life.</p>
     </div>
