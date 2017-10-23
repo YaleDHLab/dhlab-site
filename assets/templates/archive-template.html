@@ -1,0 +1,6 @@
+<% _.forEach(items, function(item) { %>
+  <a class='archive-item' href='<%= item.url %>'>
+    <div class='background-image' style='background-image: url(<%= baseurl %><%= item.thumbnail %>)'></div>
+    <div class='title'><%= item.title %></div>
+  </a>
+<% }); %>

@@ -42,6 +42,15 @@ module.exports = {
           fallback: 'style-loader',
           use: 'css-loader'
         })
+      },
+      {
+        test: /\.html$/,
+        use: [
+          {
+            loader: 'underscore-template-loader',
+            options: {}
+          }
+        ]
       }
     ]
   },

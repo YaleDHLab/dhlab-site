@@ -1,13 +1,17 @@
 <section id='archive-grid' class='archive-grid'>
-  <h2>{{ include.label }}</h2>
-  <select id='categories'>
-    <option value='ALL'>All Types</option>
-  </select>
-  <select id='tags'>
-    <option value='ALL'>All Topics</option>
-  </select>
+  <div class='filters'>
+    <h2>{{ include.label }}</h2>
+    <select id='categories'>
+      <option value='ALL'>All Types</option>
+    </select>
+    <select id='tags'>
+      <option value='ALL'>All Topics</option>
+    </select>
+  </div>
   <hr/>
-  <div>
+  {% if include.render == 'json' %}
+    {% include json/jsonify_items.html items=items %}
+  {% else %}
     {% for item in include.items %}
       <a href='{{ item.url | prepend: site.baseurl }}' class='archive-item'
         data-categories='{{ item.categories | jsonify }}'
@@ -18,5 +22,5 @@
         <div class='title'>{{ item.title }}</div>
       </a>
     {% endfor %}
-  </div>
+  {% endif %}
 </section>
