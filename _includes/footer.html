@@ -4,17 +4,19 @@
   </div>
   <div class='footer-column footer-bottom'>
     <div>
-      <span>
+      <div>
         <b>TODAY'S HOURS</b>
-      </span>
-      <span class='hours'>10:00 am - 4:00 pm</span>
+      </div>
+      <div class='hours'>10:00 am - 4:00 pm</div>
     </div>
     <br/>
     <div>Sterling Memorial Library, Room 316</div>
     <div>149 High Street, New Haven, CT 06511</div>
     <br/>
-    <div>Email: {{ site.email }}</div>
-    <div>Phone: {{ site.phone }}</div>
+    <div>
+      <a href='{{ site.email }}'>{{ site.email }}</a>
+    </div>
+    <div>{{ site.phone }}</div>
     <br/>
     <div><b>TERMS OF USE</b></div>
   </div>

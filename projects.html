@@ -61,8 +61,8 @@ class: projects-page
     {% endfor %}
   </div>
 
-  {% assign items = site.projects | where: 'layout', 'archive' | limit: 3 %}
-  {% include grids/three_spaced_squares.html
+  {% assign items = site.projects | where: 'layout', 'archive' %}
+  {% include grids/archive_grid.html
     items=items
     label='FROM THE ARCHIVES'
   %}

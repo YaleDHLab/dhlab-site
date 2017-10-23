@@ -1,0 +1,22 @@
+<section id='archive-grid' class='archive-grid'>
+  <h2>{{ include.label }}</h2>
+  <select id='categories'>
+    <option value='ALL'>All Types</option>
+  </select>
+  <select id='tags'>
+    <option value='ALL'>All Topics</option>
+  </select>
+  <hr/>
+  <div>
+    {% for item in include.items %}
+      <a href='{{ item.url | prepend: site.baseurl }}' class='archive-item'
+        data-categories='{{ item.categories | jsonify }}'
+        data-tags='{{ item.tags | jsonify }}'>
+        {% assign image_url = item.thumbnail | prepend: site.baseurl %}
+        <div class='background-image'
+          style='background-image: url({{ image_url }})'></div>
+        <div class='title'>{{ item.title }}</div>
+      </a>
+    {% endfor %}
+  </div>
+</section>

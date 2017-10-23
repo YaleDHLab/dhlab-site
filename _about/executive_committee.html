@@ -15,8 +15,12 @@ class: about-page
       {% include about/about_left_sidebar.html page=page %}
     </div>
     <div class='right-column'>
-      <h2 class='subheading'>2017–2018</h2>
+      {% include text/mobile_section_title.html
+        title = 'About'
+        subtitle = page.title
+      %}
 
+      <h2 class='subheading'>2017–2018</h2>
       <p>The Digital Humanities Executive Committee focuses on advancing digital humanities broadly at Yale. The committee serves as the advisory board for the Digital Humanities Lab. </p>
       <br/>
       <p><b>Amy Hungerford</b> — (Chair) Dean of Humanities, Bird White Housum Professor of English, Professor of American Studies </p>

@@ -3,7 +3,7 @@
     {% if item.order != include.skip_number %}
       {% assign item_url = item.url | prepend: site.baseurl %}
       <a href='{{ item_url }}' class='one-third-rectangle-container'>
-        {% assign image_url = item.thumbnail | prepend: site.baseurl %}
+        {% assign image_url = item.image | prepend: site.baseurl %}
         <div class='one-third-rectangle-card background-image'
           style='background-image:url({{ image_url }})'>
           <div class='dark-overlay'></div>

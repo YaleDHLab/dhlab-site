@@ -24,33 +24,9 @@ header_color: gray
     label='ON CAMPUS'
   %}
 
-  <section id='past-events' class='past-events'>
-    <h2>PAST EVENTS</h2>
-    <select id='categories'>
-      <option value='ALL'>All Types</option>
-    </select>
-    <select id='tags'>
-      <option value='ALL'>All Topics</option>
-    </select>
-    <hr/>
-    <div id='previous-events-target'>
-      {% include events/get_sorted_events.html %}
-      {%- capture now %}{{ 'now' | date: '%d' | plus: 0 }}{% endcapture -%}
-      {%- for event in sorted_events %}
-        {%- if event.thumbnail %}
-          {%- capture date %}{{ event.date | date: '%d' }}{% endcapture -%}
-          {%- if date < now -%}
-            <a href='{{ event.url | prepend: site.baseurl }}' class='past-event'
-              data-categories='{{ event.categories | jsonify }}'
-              data-tags='{{ event.tags | jsonify }}'>
-              {% assign image_url = event.thumbnail | prepend: site.baseurl %}
-              <div class='background-image'
-                style='background-image: url({{ image_url }})'></div>
-              <div class='title'>{{ event.title }}</div>
-            </a>
-          {%- endif -%}
-        {%- endif %}
-      {%- endfor %}
-    </div>
-  </section>
+  {% include events/get_past_events.html %}
+  {% include grids/archive_grid.html
+    items=past_events
+    label='PAST EVENTS'
+  %}
 </div>
