@@ -12,25 +12,30 @@ class: method-detail-page
 %}
 
 <div class='center-column post'>
-  <div class='two-column-container one-third-width text-top'>
+  <div class='two-column-container one-third-width text-top hide-left'>
     <div class='left-column'>
-    <div class='small-uppercase'>selected Projects</div>
+    <div class='small-uppercase'>Selected Projects</div>
 
     {% include text/project_page_links.html
-      items=site.projects
-      page=page
-      project_category=page.project_category
+      items = site.projects
+      page = page
+      project_category = page.project_category
     %}
     
     </div>
     <div class='right-column'>
+      {% include text/mobile_section_title.html
+        title = 'Methods'
+        subtitle = page.title
+      %}
+
       {{ content }}
     </div>
   </div>
   {% assign items = site.methods | sort: 'order' %}
   {% include grids/three_rectangle_images.html
-    items=items
-    skip_number=page.order
+    items = items
+    skip_number = page.order
   %}
 
   {% include bottom_buttons_methods.html %}
