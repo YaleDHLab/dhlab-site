@@ -438,6 +438,10 @@ ul ul {
   border-color: #BF8D2D;
 }
 
+.training_page .color-background hr {
+  display: none;
+}
+
 .color-background h3 {
   padding-bottom: 8px;
 }
@@ -638,6 +642,12 @@ footer {
   background: $color;
   position: relative;
   box-shadow: -3px 3px 6px rgba(0, 0, 0, 0.05);
+}
+
+@media (min-width: 1001px) and (max-width: 1200px) {
+  .site-brand {
+    margin-left: 60px;
+  }
 }
 
 @media (max-width: 1000px) {
@@ -1034,7 +1044,7 @@ section.no-padding {
   color: #fff;
   text-align: center;
   z-index: -2;
-  background-color: #efefef;
+  background-color: #333;
   position: relative;
 }
 
@@ -1261,6 +1271,42 @@ section.no-padding {
     display: block;
   }
 }
+
+/**
+* Partials: Archive Grid
+**/
+
+.archive-grid h2 {
+  display: inline-block;
+}
+
+.archive-grid select {
+  float: right;
+  margin-top: 10px;
+  margin-left: 10px;
+}
+
+.archive-grid .archive-item {
+  display: inline-block;
+  width: 20%;
+  padding: 10px;
+  vertical-align: top;
+}
+
+.archive-grid .archive-item .background-image {
+  padding-bottom: 100%;
+}
+
+.archive-grid .archive-item .title {
+  font-size: .9em;
+  padding-top: 4px;
+  font-weight: 600;
+}
+
+.archive-grid a.archive-item:hover {
+  color: $color;
+}
+
 
 /**
 * Color Blocks
@@ -2632,26 +2678,7 @@ section.no-padding {
 * Events Landing Page
 **/
 
-.events-page .past-events h2 {
-  display: inline-block;
-}
 
-.events-page select {
-  float: right;
-  margin-top: 10px;
-  margin-left: 10px;
-}
-
-.past-event {
-  display: inline-block;
-  width: 20%;
-  padding: 10px;
-  vertical-align: top;
-}
-
-.past-event .background-image {
-  padding-bottom: 100%;
-}
 
 @media (max-width: 800px) {
   .events-page .teaser {
@@ -2687,11 +2714,11 @@ section.no-padding {
   }
 
   /* Past Events */
-  .events-page .past-events h2 {
+  .events-page .archive-grid h2 {
     margin: 30px 0 10px;
   }
 
-  .events-page .past-events select {
+  .events-page .archive-grid select {
     float: none;
     display: block;
     width: 100%;
@@ -2700,7 +2727,7 @@ section.no-padding {
     display: none;
   }
 
-  .events-page .past-events .past-event {
+  .events-page .archive-grid .archive-item {
     width: 50%;
   }
 }
