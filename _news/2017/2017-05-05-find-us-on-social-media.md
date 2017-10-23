@@ -2,7 +2,7 @@
 title: "Find us on Social Media"
 date: May 5, 2017
 image: /assets/images/placeholder-hero.jpg
-thumbnail: /assets/images/events/dh-lab.jpg
+thumbnail: /assets/images/news/dh-lab.jpg
 caption: ""
 categories: 
   - announcements
