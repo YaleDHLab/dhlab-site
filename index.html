@@ -15,7 +15,7 @@ class: home-page
   <!-- HOME EVENTS DESKTOP -->
   <section>
     <a href='{{ site.baseurl }}/events.html'>
-      <div class='section-title'>EVENTS CALENDAR</div>
+      <div class='home-section-title'>EVENTS CALENDAR</div>
     </a>
     <div class='home-events-container desktop'>
       {% include events/get_sorted_events.html %}
@@ -43,7 +43,7 @@ class: home-page
   <!-- HOME NEWS -->
   <section>
     <a href='{{ site.baseurl }}/news.html'>
-      <div class='section-title'>WHAT'S NEW</div>
+      <div class='home-section-title'>WHAT'S NEW</div>
     </a>
     <div class='large-card'>
       {% assign item = site.news | reverse | first %}
@@ -80,7 +80,7 @@ class: home-page
 
   <!-- HOME SPOTLIGHT -->
   <section>
-    <div class='section-title'>SPOTLIGHT</div>
+    <div class='home-section-title'>SPOTLIGHT</div>
     {% include news/get_featured_news.html %}
 
     {% capture square_html %}
