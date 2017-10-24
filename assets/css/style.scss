@@ -22,28 +22,6 @@ html, body {
 }
 
 /**
-* Device helpers
-**/
-
-.mobile {
-  display: none;
-}
-
-.desktop {
-  display: inherit;
-}
-
-@media (max-width: $desktop_breakpoint) {
-  .mobile {
-    display: block;
-  }
-
-  .desktop {
-    display: none;
-  }
-}
-
-/**
 * App Containers
 **/
 
@@ -222,6 +200,14 @@ ul ul {
   text-align: center;
 }
 
+.section-title {
+  padding-bottom: 20px;
+  text-transform: uppercase;
+  font-weight: 700;
+  letter-spacing: .5px;
+  font-size: 1.2em;
+}
+
 .center-section-title {
   letter-spacing: .5px;
   font-size: 1.125em;
@@ -246,6 +232,13 @@ ul ul {
 }
 
 @media (max-width: $mobile_breakpoint) {
+  .section-title {
+    padding-top: 20px;
+    background: #efefef;
+    text-align: center;
+    display: block;
+  }
+
   .center-section-title {
     font-size: 1.5em;
     padding-top: 15px;
@@ -296,10 +289,6 @@ ul ul {
   .center-column {
     padding: 0;
     padding-top: 70px;
-  }
-
-  .hero.background-image + .center-column {
-    padding: 0;
   }
 }
 
@@ -1160,6 +1149,8 @@ section {
     background: #efefef;
     text-align: center;
     margin: 0;
+    margin-left: -100%;
+    margin-right: -100%;
   }
 
   .three-text-blocks .block {
@@ -1282,6 +1273,12 @@ section {
   margin-left: 10px;
 }
 
+@media (max-width: $mobile_breakpoint) {
+  .filters {
+    display: none;
+  }
+}
+
 /**
 * Partials: Archive Grid
 **/
@@ -1305,6 +1302,13 @@ section {
 
 .archive-grid .archive-item .background-image {
   padding-bottom: 100%;
+}
+
+@media (max-width: $mobile_breakpoint) {
+  .archive-grid .archive-item {
+    width: 32%;
+    padding: 4px;
+  }
 }
 
 /**
@@ -1359,11 +1363,11 @@ section {
 @media (max-width: $mobile_breakpoint) {
   .color-block-container.color-background {
     margin-bottom: 0;
-    padding: 20px 0;
+    padding: 0;
   }
 
   .color-block-container.color-background.circle-caret:before {
-    margin-top: -20px;
+    margin-top: 0px;
   }
 }
 
@@ -1587,7 +1591,7 @@ section {
     width: 100%;
     display: block;
     padding: 0;
-    padding-bottom: 50%;
+    padding-bottom: 60%;
   }
 
   .rectangle-image-grid .left-column .four-rectangle-grid-cell,
@@ -1863,7 +1867,6 @@ section {
   .horizontal-card {
     height: auto;
     margin-bottom: 0;
-    outline: 1px solid #ddd;
   }
 
   .horizontal-card .image {
@@ -1897,6 +1900,7 @@ section {
   .horizontal-card {
     overflow: hidden;
     min-height: initial;
+    border-top: 1px solid #ddd;
   }
 
   .horizontal-card .image-container {
@@ -1904,7 +1908,7 @@ section {
     width: 38%;
     padding-bottom: 38%;
     padding-right: 0;
-    margin-right: 10px;
+    margin-right: 20px;
     position: relative;
   }
 
@@ -1913,12 +1917,13 @@ section {
   }
 
   .horizontal-card .text {
-    padding-right: 10px;
+    padding-right: 20px;
   }
 
   .horizontal-card h3 {
-    margin-top: 10px;
-    font-size: 1.2em;
+    margin-top: 20px;
+    margin-bottom: 15px;
+    font-size: 1.4em;
   }
 
   .horizontal-card br {
@@ -1927,6 +1932,22 @@ section {
 
   .horizontal-card div b {
     font-weight: 400;
+  }
+}
+
+@media (max-width: 500px) {
+  .horizontal-card .image-container {
+    margin-right: 10px;
+  }
+
+  .horizontal-card .text {
+    padding-right: 10px;
+  }
+
+  .horizontal-card h3 {
+    font-size: 1.2em;
+    margin-top: 10px;
+    margin-bottom: 3px;
   }
 }
 
@@ -2365,6 +2386,10 @@ section {
 }
 
 @media (max-width: 500px) {
+  .home-page .hero-text {
+    top: 132px;
+  }
+
   .home-page .hero .subhead {
     font-size: 14px;
   }
@@ -2455,6 +2480,17 @@ section {
 
   .mobile-home-events {
     display: block;
+  }
+}
+
+@media (max-width: $mobile_breakpoint) {
+  .card-title-container .card-title-blur {
+    background-position-y: 100%;
+  }
+
+  .card-title-container .card-title-text {
+    background: rgba(255,255,255,0.75);
+    border: none;
   }
 }
 
@@ -2558,14 +2594,14 @@ section {
 @media (max-width: 860px) {
   .two-thirds-width-card-image,
   .home-page .full-width-card-image {
-    padding-bottom: 60%;
+    padding-bottom: 50%;
   }
 }
 
 @media (max-width: $mobile_breakpoint) {
   .two-thirds-width-card-image,
   .home-page .full-width-card-image {
-    padding-bottom: 70%;
+    padding-bottom: 65%;
   }
 
   .two-thirds-width-card-image,
@@ -2575,7 +2611,7 @@ section {
   }
 
   .news-card-square {
-    margin: 10px 0;
+    margin-bottom: -5px;
   }
 }
 
@@ -2738,8 +2774,22 @@ section {
   padding-bottom: 40px;
 }
 
-.news-page .horizontal-card {
-  outline: none;
+@media (max-width: $mobile_breakpoint) {
+  .news-page .large-card {
+    padding-bottom: 0;
+  }
+
+  .news-page .teaser {
+    display: none;
+  }
+
+  .news-page .center-column {
+    padding-top: 0;
+  }
+
+  .news-page header {
+    background: none;
+  }
 }
 
 /**
@@ -2782,19 +2832,6 @@ section {
   /* Past Events */
   .events-page .archive-grid h2 {
     margin: 30px 0 10px;
-  }
-
-  .events-page .archive-grid select {
-    float: none;
-    display: block;
-    width: 100%;
-    margin: 7px 0;
-    max-width: none;
-    display: none;
-  }
-
-  .events-page .archive-grid .archive-item {
-    width: 50%;
   }
 }
 
@@ -2885,6 +2922,10 @@ section {
 }
 
 @media (max-width: $mobile_breakpoint) {
+  .projects-page .hero.background-image+.center-column {
+    padding: 0;
+  }
+
   /* Toggle desktop mobile project views */
   .desktop-project {
     display: none;
@@ -2895,12 +2936,11 @@ section {
     overflow: auto;
   }
 
-  /* Remove container padding */
   .projects-container {
     padding: 0;
+    padding-bottom: 30px;
   }
 
-  /* Style mobile projects */
   .mobile-project .background-image {
     width: 30%;
     padding-bottom: 30%;
@@ -2977,20 +3017,7 @@ section {
   .methods-page .rectangle-image-grid .image-title-container {
     margin-top: -10px;
   }
-
-  .methods-page .four-rectangle-grid-cell:hover .image-title-container {
-    top: 115px;
-  }
-
-  .methods-page .four-rectangle-grid-cell:hover .teaser {
-    top: 120px;
-  }
 }
-
-/**
-* Methods Detail Page
-**/
-
 
 /**
 * Training Page
@@ -2998,4 +3025,46 @@ section {
 
 .training-page .color-background hr {
   display: none;
+}
+
+/**
+* Awards Detail Page
+**/
+
+@media (max-width: 700px) {
+  .awards-detail-page .color-background {
+    margin-right: -30px;
+    margin-left: -30px;
+  }
+
+  .awards-detail-page .three-spaced-squares {
+    margin-left: -30px;
+    margin-right: -30px;
+  }
+}
+
+/**
+* Device helpers
+**/
+
+.mobile {
+  display: none;
+}
+
+@media (max-width: $desktop_breakpoint) {
+  .mobile {
+    display: block;
+  }
+}
+
+@media (max-width: $desktop_breakpoint) {
+  .hide-tablet {
+    display: none !important;
+  }
+}
+
+@media (max-width: $mobile_breakpoint) {
+  .hide-mobile {
+    display: none !important;
+  }
 }

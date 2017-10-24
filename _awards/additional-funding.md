@@ -4,6 +4,7 @@ order: 3
 image: '/assets/images/banners/sterling-nave.jpg'
 caption: >
   'Lorem ipsum dolor sit amet, sollicitudin non quas libero dictum nulla vel. Quam porttitor lacus a wisi. Duis congue, ut quam elit at a. Orci fermentum mattis accusantium. Libero fermentum condimentum sed, vel'
+class: awards-detail-page
 ---
 
 <h2 class='subheading'>Overview</h2>

@@ -11,7 +11,7 @@ header_color: gray
 <div class='center-column'>
   <section>
     <h2>EVENTS CALENDAR</h2>
-    <hr class='desktop' />
+    <hr class='hide-tablet' />
     {% include events/get_sorted_events.html %}
     {% for event in sorted_events reversed limit:3 %}
       {%- include cards/horizontal_card.html item=event -%}

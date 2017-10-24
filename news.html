@@ -21,12 +21,16 @@ header_color: gray
     <!-- NEWS CARD -->
     {% include news/get_featured_news.html %}
 
-    {% capture square_html %}
-    <div class='news-card-square news-background'>
+    {% capture submit_news %}
       <div><b>Got Something To Share?</b></div>
       <div class='color-text'><b>Tell Us Your Story</b></div>
       <p>Tell us about your DH project, submit an event, or ask a question. We want to shaer your experiences in the digital humanities.</p>
       <a href='{{ site.baseurl }}#submit-news' class='color-text'><b>Submit News &raquo;</b></a>
+    {% endcapture %}
+
+    {% capture square_html %}
+    <div class='news-card-square news-background hide-mobile'>
+      {{ submit_news }}
     </div>
     {% endcapture %}
 
