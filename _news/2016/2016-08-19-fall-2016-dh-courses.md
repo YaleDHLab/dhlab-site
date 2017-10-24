@@ -2,7 +2,7 @@
 title: "Fall 2016 DH courses "
 date: August 19, 2016
 image: /assets/images/placeholder-hero.jpg
-thumbnail: /assets/images/news/data-circle.jpg
+thumbnail: /assets/images/events/data-circle.jpg
 caption: ""
 categories: 
   - announcements

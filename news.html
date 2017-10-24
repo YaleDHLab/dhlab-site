@@ -6,8 +6,17 @@ header_color: gray
 
 <div class='center-column'>
   <section>
-    <h2>WHAT'S NEW</h2>
-    <hr />
+    <div class='filters'>
+      <h2>WHAT'S NEW</h2>
+      <select id='sort-by'>
+        <option value='date' disabled selected>Sort by</option>
+        <option value='date'>Date</option>
+      </select>
+      <select id='tags'>
+        <option value='ALL'>All Topics</option>
+      </select>
+      <hr />
+    </div>
 
     <!-- NEWS CARD -->
     {% include news/get_featured_news.html %}
@@ -37,13 +46,5 @@ header_color: gray
     %}
   </section>
 
-  <section>
-    {% assign counter = 0%}
-    {% for item in site.news reversed %}
-      {% if counter < 5 %}
-        {% include cards/horizontal_card.html item=item %}
-        {% assign counter = counter | plus: 1 %}
-      {% endif %}
-    {% endfor %}
-  </section>
+  {% include json/jsonify_items.html items=site.news %}
 </div>

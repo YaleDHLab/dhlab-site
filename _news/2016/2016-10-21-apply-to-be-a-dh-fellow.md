@@ -6,6 +6,8 @@ thumbnail: /assets/images/news/dh-fellows.jpg
 caption: ""
 categories: 
   - announcements
+tags:
+  - student jobs
 spotlight: false 
 image_layout: simple
 teaser: |

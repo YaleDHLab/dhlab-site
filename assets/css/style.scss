@@ -1305,22 +1305,26 @@ section.no-padding {
 }
 
 /**
-* Partials: Archive Grid
+* Partials: Filters
 **/
 
-.archive-grid h2 {
+.filters h2 {
   display: inline-block;
 }
 
-.archive-grid select {
+.filters select {
   float: right;
   margin-top: 10px;
   margin-left: 10px;
 }
 
+/**
+* Partials: Archive Grid
+**/
+
 .archive-grid .archive-item {
   display: inline-block;
-  width: 20%;
+  width: 19.5%;
   padding: 10px;
   vertical-align: top;
 }
@@ -2732,11 +2736,13 @@ section.no-padding {
   padding-bottom: 40px;
 }
 
+.news-page .horizontal-card {
+  outline: none;
+}
+
 /**
 * Events Landing Page
 **/
-
-
 
 @media (max-width: 800px) {
   .events-page .teaser {
