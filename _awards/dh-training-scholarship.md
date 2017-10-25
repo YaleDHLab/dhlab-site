@@ -5,7 +5,7 @@ image: '/assets/images/banners/campus.jpg'
 caption: >
   Photo by Michael Marsland
 overview: training_scholarship
-class: training-page
+class: awards-detail-page training-page
 ---
 
 <h2 class='subheading'>Overview</h2>

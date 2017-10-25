@@ -1,7 +1,7 @@
 <div class='three-spaced-squares'>
   <h2>{{ include.label }}</h2>
   <hr />
-  <div class='three-spaced-squares-table desktop'>
+  <div class='three-spaced-squares-table hide-tablet'>
     {% assign counter = 0 %}
     {%- for item in include.items %}
       {%- if counter < 3 %}

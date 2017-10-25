@@ -7,8 +7,9 @@
     <select id='tags'>
       <option value='ALL'>All Topics</option>
     </select>
+    <hr/>
   </div>
-  <hr/>
+  <div class='mobile section-title'>{{ include.label }}</div>
   {% if include.render == 'json' %}
     {% include json/jsonify_items.html items=items %}
   {% else %}

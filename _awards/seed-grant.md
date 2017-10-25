@@ -8,6 +8,7 @@ deadline: March 23 2018
 application_text: Apply now to become one of our 2018 seed grant recipients.
 application_url: http://google.com
 overview: seed_grant
+class: awards-detail-page
 ---
 
 <h2 class='subheading'>Overview</h2>
