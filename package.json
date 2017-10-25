@@ -12,7 +12,9 @@
     ]
   },
   "scripts": {
-    "compress": "./node_modules/webpack/bin/webpack.js"
+    "compress": "./node_modules/webpack/bin/webpack.js",
+    "build": "bundle exec jekyll build",
+    "deploy": "npm run build && cp -r _site ~ && git checkout gh-pages && rm -r * && mv ~/_site/* . && git add . && git commit -m 'update gh-pages' && git push origin gh-pages && git checkout master"
   },
   "dependencies": {
     "lodash": "^4.17.4"
