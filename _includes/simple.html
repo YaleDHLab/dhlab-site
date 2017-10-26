@@ -9,8 +9,12 @@
 
 <div class='center-column simple-page {{ include.page.class }}'>
   <section>
-    <h2>{{ include.label }}</h2>
-    <hr class='no-margin-bottom'>
+    <h2 class='hide-tablet'>{{ include.label }}</h2>
+    <hr class='no-margin-bottom hide-tablet'>
+    {% include text/mobile_section_title.html
+      category=include.label
+      title=include.page.title
+    %}
     <div class='two-column-container one-third-width hide-left'>
       <div class='left-column'>
         <h3>{{ page.title }}</h3>

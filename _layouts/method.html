@@ -16,7 +16,7 @@ class: method-detail-page
     <div class='left-column'>
     <div class='small-uppercase'>Selected Projects</div>
 
-    {% include text/project_page_links.html
+    {% include link-lists/project_page_links.html
       items = site.projects
       page = page
       project_category = page.project_category
@@ -25,8 +25,8 @@ class: method-detail-page
     </div>
     <div class='right-column'>
       {% include text/mobile_section_title.html
-        title = 'Methods'
-        subtitle = page.title
+        category = 'Methods'
+        title = page.title
       %}
 
       {{ content }}
@@ -38,5 +38,5 @@ class: method-detail-page
     skip_number = page.order
   %}
 
-  {% include bottom_buttons_methods.html %}
+  {% include text/bottom_text_methods.html %}
 </div>

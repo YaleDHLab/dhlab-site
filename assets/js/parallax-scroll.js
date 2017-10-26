@@ -4,6 +4,7 @@
   if (!hero) return;
 
   window.addEventListener('scroll', handleScroll);
+  window.addEventListener('resize', handleScroll);
 
   function handleScroll(e) {
     var y = window.scrollY;

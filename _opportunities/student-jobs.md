@@ -2,7 +2,8 @@
 title: Student Jobs
 order: 1
 image: '/assets/images/banners/sterling-nave.jpg'
-caption: "Lorem ipsum dolor sit amet, sollicitudin non quas libero dictum nulla vel. Quam porttitor lacus a wisi. Duis congue, ut quam elit at a. Orci fermentum mattis accusantium. Libero fermentum condimentum sed, vel"
+caption: >
+  Lorem ipsum dolor sit amet, sollicitudin non quas libero dictum nulla vel. Quam porttitor lacus a wisi. Duis congue, ut quam elit at a. Orci fermentum mattis accusantium. Libero fermentum condimentum sed, vel
 deadline: October 24 2018
 application_text: Apply now to become one of our 2018 student programmers or designers.
 application_url: http://google.com
@@ -12,18 +13,14 @@ overview: student_jobs
 <div class='center-column post'>
   <div class='two-column-container one-third-width hide-left'>
     <div class='left-column'>
-      {% include text/detail_page_links.html
-        items=site.opportunities
-        page=page
-      %}
-
-      {% include text/apply_link.html page=page %}
+      {% include link-lists/opportunities_left_sidebar.html page=page %}
     </div>
     <div class='right-column'>
       {% include text/mobile_section_title.html
-        title = 'Opportunities'
-        subtitle = page.title
+        category='Opportunities'
+        title=page.title
       %}
+
       <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Tortor pretium viverra suspendisse potenti nullam. Habitant morbi tristique senectus et netus. In eu mi bibendum neque egestas congue quisque. Nibh sit amet commodo nulla. Arcu vitae elementum curabitur vitae nunc sed. Sed turpis tincidunt id aliquet risus. Tristique senectus et netus et malesuada. Varius duis at consectetur lorem donec massa sapien faucibus et. Diam maecenas sed enim ut sem viverra aliquet eget. Vitae congue mauris rhoncus aenean vel elit scelerisque mauris. Sapien et ligula ullamcorper malesuada. Maecenas volutpat blandit aliquam etiam. Purus semper eget duis at tellus at urna condimentum mattis. Fringilla ut morbi tincidunt augue interdum velit. Interdum posuere lorem ipsum dolor sit amet consectetur adipiscing. Vitae sapien pellentesque habitant morbi tristique senectus et netus et. Nibh tortor id aliquet lectus proin nibh nisl.</p>
 
       <p>Ac ut consequat semper viverra nam libero. Aliquam ultrices sagittis orci a scelerisque purus semper eget duis. Commodo quis imperdiet massa tincidunt. Nulla facilisi etiam dignissim diam quis enim. Nunc sed id semper risus in hendrerit. Tellus molestie nunc non blandit massa enim nec. Vulputate enim nulla aliquet porttitor. Diam sollicitudin tempor id eu. Posuere morbi leo urna molestie at elementum eu. Pretium aenean pharetra magna ac placerat vestibulum. Amet facilisis magna etiam tempor orci eu lobortis elementum. Faucibus turpis in eu mi. Sodales ut etiam sit amet nisl purus in mollis nunc. Sit amet massa vitae tortor condimentum lacinia.</p>
@@ -71,13 +68,12 @@ overview: student_jobs
 
     {% capture left_text %}
     {% include text/personnel_list.html items=site.data.postdoctoral_associates %}
-    <div>Eleifend tellus pulvinar nunc sed metus, praesent nunc tortor, eget ante risus at eget et, pulvinar congue sociis felis imperdiet mauris. Mauris integer ligula, quis lacinia urna facilisis aliquam taciti. Quis pulvinar nunc nec incididunt cursus.</div>
+    <p>Eleifend tellus pulvinar nunc sed metus, praesent nunc tortor, eget ante risus at eget et, pulvinar congue sociis felis imperdiet mauris. Mauris integer ligula, quis lacinia urna facilisis aliquam taciti. Quis pulvinar nunc nec incididunt cursus.</p>
   {% endcapture %}
 
   {% capture right_text %}
-    <div>Eleifend tellus pulvinar nunc sed metus, praesent nunc tortor, eget ante risus at eget et, pulvinar congue sociis felis imperdiet mauris. Mauris integer ligula, quis lacinia urna facilisis aliquam taciti. Quis pulvinar nunc nec incididunt cursus, turpis et nullam donec amet, vivamus convallis lectus pellentesque tristique vel, venenatis mattis luctus, rutrum at quam eget. Urna vel. Imperdiet in integer felis eget ac quis. Sed donec quis sollicitudin amet, adipiscing ac justo proin orci. Commodi venenatis, lectus ligula integer mus velit nulla, commodo tempor non duis, sem quam lorem etiam vitae suscipit.</div>
-    <br/>
-    <div>Integer tincidunt porta, et posuere nulla maecenas sapien lectus. Nibh justo suscipit ipsam laboriosam, mauris nunc. Praesent nisl donec eius donec quam adipiscing, metus libero quis velit, sollicitudin nunc accumsan, felis dictum et dui nam senectus tellus. Habitasse ac viverra, velit ut, malesuada ut sed ac mauris eu. Est duis nec a leo natoque, curabitur pellentesque tellus vestibulum amet, pede volutpat tortor quam aliquam, dignissim eros. Magna adipiscing laoreet arcu cras nullam, accumsan luctus.</div>
+    <p>Eleifend tellus pulvinar nunc sed metus, praesent nunc tortor, eget ante risus at eget et, pulvinar congue sociis felis imperdiet mauris. Mauris integer ligula, quis lacinia urna facilisis aliquam taciti. Quis pulvinar nunc nec incididunt cursus, turpis et nullam donec amet, vivamus convallis lectus pellentesque tristique vel, venenatis mattis luctus, rutrum at quam eget. Urna vel. Imperdiet in integer felis eget ac quis. Sed donec quis sollicitudin amet, adipiscing ac justo proin orci. Commodi venenatis, lectus ligula integer mus velit nulla, commodo tempor non duis, sem quam lorem etiam vitae suscipit.</p>
+    <p>Integer tincidunt porta, et posuere nulla maecenas sapien lectus. Nibh justo suscipit ipsam laboriosam, mauris nunc. Praesent nisl donec eius donec quam adipiscing, metus libero quis velit, sollicitudin nunc accumsan, felis dictum et dui nam senectus tellus. Habitasse ac viverra, velit ut, malesuada ut sed ac mauris eu. Est duis nec a leo natoque, curabitur pellentesque tellus vestibulum amet, pede volutpat tortor quam aliquam, dignissim eros. Magna adipiscing laoreet arcu cras nullam, accumsan luctus.</p>
   {% endcapture %}
 
   {% assign left_button_url = '/projects.html' | prepend: site.baseurl %}

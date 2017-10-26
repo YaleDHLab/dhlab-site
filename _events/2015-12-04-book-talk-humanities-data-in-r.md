@@ -8,7 +8,8 @@ categories:
   - announcements
 spotlight: false 
 image_layout: landscape
-teaser: "To celebrate the launch of Humanities Data in R, the DHLab hosted a book talk and reception on Friday, December 4, starting at 3:30pm in Sterling Memorial Library, room 315. Co-authors Taylor Arnold..."
+teaser: |
+  "To celebrate the launch of Humanities Data in R, the DHLab hosted a book talk and reception on Friday, December 4, starting at 3:30pm in Sterling Memorial Library, room 315. Co-authors Taylor Arnold..."
 ---
 
 To celebrate the launch of <a href="http://www.springer.com/us/book/9783319207018" target="_blank"><em>Humanities Data in R</em></a>, the DHLab hosted a book talk and reception on Friday, December 4, starting at 3:30pm in Sterling Memorial Library, room 315. Co-authors Taylor Arnold (Statistics) and Lauren Tilton (American Studies) described the genesis of the book and overviewed its chapters. Pioneering in its design, the book covers four major types of data structures (networks, text corpora, geospatial data, and images) using humanities examples. <em>Humanities Data in R </em>is intended for a 1-2 semester introductory course on digital methods in the humanities and social sciences, or as an intermediate level self-study guide. While focused on humanities applications, the material is also a useful reference for anyone looking to apply exploratory data analysis methods to network, geospatial, image, and text data. A bulk download of the supplementary code and data can be found on the <a href="http://humanitiesdata.org/" target="_blank">book's website</a>.

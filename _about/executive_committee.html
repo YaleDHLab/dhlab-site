@@ -12,17 +12,16 @@ class: about-page
 <div class='center-column'>
   <div class='two-column-container one-third-width hide-left'>
     <div class='left-column'>
-      {% include about/about_left_sidebar.html page=page %}
+      {% include link-lists/about_left_sidebar.html page=page %}
     </div>
     <div class='right-column'>
       {% include text/mobile_section_title.html
-        title = 'About'
-        subtitle = page.title
+        category='About'
+        title=page.title
       %}
 
       <h2 class='subheading'>2017–2018</h2>
       <p>The Digital Humanities Executive Committee focuses on advancing digital humanities broadly at Yale. The committee serves as the advisory board for the Digital Humanities Lab. </p>
-      <br/>
       <p><b>Amy Hungerford</b> — (Chair) Dean of Humanities, Bird White Housum Professor of English, Professor of American Studies </p>
       <p><b>Marijeta Bozovic</b> — Assistant Professor of Slavic Languages and Literatures </p>
       <p><b>Wai Chee Dimock</b> — William Lampson Professor of American Studies, Professor of English </p>

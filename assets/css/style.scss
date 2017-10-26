@@ -212,11 +212,6 @@ img {
   font-size: 1.2em;
 }
 
-.center-section-title {
-  letter-spacing: .5px;
-  font-size: 1.125em;
-}
-
 .sidebar-text {
   width: 85%;
   line-height: 1.5;
@@ -224,10 +219,6 @@ img {
 }
 
 @media (max-width: $desktop_breakpoint) {
-  .center-section-title {
-    padding-top: 20px;
-  }
-
   .tablet-center {
     text-align: center;
     max-width: 600px;
@@ -241,12 +232,6 @@ img {
     background: #efefef;
     text-align: center;
     display: block;
-  }
-
-  .center-section-title {
-    font-size: 1.1em;
-    padding-top: 0px;
-    margin-bottom: 5px;
   }
 }
 
@@ -271,33 +256,45 @@ img {
   background-position: 60px -80px;
   z-index: -1;
   overflow: visible;
-}
-
-.mobile-hero + .center-column {
-  padding-top: 0;
+  left: 65px;
 }
 
 @media (max-width: $desktop_breakpoint) {
+  .hero-text-container {
+    max-width: 100%;
+    padding: 0px 20px 40px;
+  }
+
   .center-column {
     padding-top: 80px;
     padding-left: 30px;
     padding-right: 30px;
   }
 
-  .hero-text-container {
-    max-width: 100%;
-    padding: 0px 20px 40px;
-  }
-
   .hero.background-image + .center-column {
-    padding: 0px 20px;
+    padding-top: 30px;
   }
 }
 
 @media (max-width: $mobile_breakpoint) {
   .center-column {
-    padding: 0;
+    padding: 25px;
     padding-top: 70px;
+  }
+
+  .hero + .center-column {
+    padding-top: 25px;
+  }
+}
+
+/**
+* Container Helpers
+**/
+
+@media (max-width: $mobile_breakpoint) {
+  .full-width-mobile .center-column {
+    padding-left: 0;
+    padding-right: 0;
   }
 }
 
@@ -505,56 +502,20 @@ img {
   margin: 5px 0;
 }
 
-.two-column-container .two-column-text-block p + .color-button {
-  margin: 20px 0;
-}
-
 /* Don't push the first paragraph */
 .two-column-container .right-column p:nth-child(1) {
-  margin: 0;
-}
-
-.two-column-container .two-column-text-block h2 {
-  padding-bottom: 15px;
-}
-
-.two-column-container .two-column-text-block p {
-  margin: 0;
-}
-
-.post .color-background + .two-column-container h3 {
-  padding: 20px 0;
-}
-
-/* Don't allow transforms on card titles to push the columns */
-.card-title-container + .two-column-container,
-.hero-caption + .two-column-container {
-  margin-top: -40px;
-}
-
-.color-background + .two-column-container {
-  padding-top: 20px;
-  padding-left: 60px;
-  padding-right: 60px;
+  margin-top: 0;
 }
 
 @media (max-width: $desktop_breakpoint) {
   .color-background + .two-column-container {
     padding: 20px 0 0 0;
-  }
-
-  .two-column-container .two-column-text-block .subheading {
-    font-size: 23px;
-  }
+  } 
 }
 
 /**
 * Column sizes: One Third Width
 **/
-
-.two-column-container.one-third-width {
-  padding-left: 40px;
-}
 
 .two-column-container.one-third-width .left-column {
   width: 360px;
@@ -563,18 +524,21 @@ img {
 @media (max-width: $desktop_breakpoint) {
   .two-column-container.one-third-width {
     width: 100%;
-  }
-
-  .two-column-container.one-third-width {
     padding-left: 0;
   }
+}
 
-  .two-column-container.one-third-width.hide-left .left-column {
-    display: none;
+/**
+* Hide left styles
+**/
+
+@media (max-width: $desktop_breakpoint) {
+  .hide-left .left-column {
+    display: none !important;
   }
 
-  .two-column-container.one-third-width.hide-left .right-column {
-    padding: 25px 0;
+  .hide-left .right-column {
+    padding: 0;
   }
 }
 
@@ -648,9 +612,15 @@ footer {
   }
 }
 
-@media (max-width: 1000px) {
+@media (max-width: $desktop_breakpoint) {
   .site-brand {
     margin-left: 30px;
+  }
+}
+
+@media (max-width: $mobile_breakpoint) {
+  .site-brand {
+    margin-left: 25px;
   }
 }
 
@@ -971,10 +941,6 @@ footer .footer-logo {
   margin-bottom: 60px;
 }
 
-footer .hours {
-  color: $color;
-}
-
 @media (max-width: 1100px) {
   footer {
     display: block;
@@ -1049,7 +1015,7 @@ section {
 }
 
 .hero-caption {
-  padding: 20px 30px 20px 140px;
+  padding: 20px 30px 20px 35px;
   position: relative;
   font-size: 0.8em;
   overflow: hidden;
@@ -1069,7 +1035,7 @@ section {
   }
 
   .hero .hero-caption {
-    padding: 20px;
+    padding: 20px 30px;
     font-size: 14px;
     color: #fff;
   }
@@ -1094,17 +1060,8 @@ section {
 
   .hero .hero-caption {
     font-size: 10px;
+    padding: 20px 25px;
   }
-}
-
-/**
-* Partials: Mobile Hero (events + simple page)
-**/
-
-.mobile.mobile-hero.background-image {
-  width: 100%;
-  height: 300px;
-  display: block;
 }
 
 /**
@@ -1219,6 +1176,8 @@ section {
 
 .three-spaced-squares {
   padding-top: 20px;
+  padding-left: 80px;
+  padding-right: 80px;
 }
 
 .three-spaced-squares h3 {
@@ -1259,8 +1218,10 @@ section {
 }
 
 @media(max-width: $desktop_breakpoint) {
-  .three-spaced-squares-container {
-    margin: 30px 0;
+  .three-spaced-squares {
+    padding-top: 20px;
+    padding-left: 60px;
+    padding-right: 60px;
   }
 
   .three-spaced-squares .spaced-square:nth-of-type(1) {
@@ -1280,6 +1241,8 @@ section {
 @media (max-width: $mobile_breakpoint) {
   .three-spaced-squares {
     padding-top: 0;
+    padding-right: 0;
+    padding-left: 0;
   }
 
   .three-spaced-squares hr {
@@ -1517,6 +1480,12 @@ section {
   background-size: 200% 140px;
 }
 
+/* Don't allow transforms on card titles to push the columns */
+.card-title-container + .two-column-container,
+.hero-caption + .two-column-container {
+  margin-top: -40px;
+}
+
 @media (max-width: $desktop_breakpoint) {
   .card-title-container .card-title-blur {
     background-position-y: 86%;
@@ -1536,6 +1505,17 @@ section {
 
   .large-card .card-title-container {
     max-width: 100%;
+  }
+}
+
+@media (max-width: $mobile_breakpoint) {
+  .card-title-container .card-title-blur {
+    background-position-y: 100%;
+  }
+
+  .card-title-container .card-title-text {
+    background: rgba(255,255,255,0.75);
+    border: none;
   }
 }
 
@@ -1729,7 +1709,7 @@ section {
   position: absolute;
   font-size: 1.3em;
   top: 50%;
-  margin-top: -.65em;
+  margin-top: -1.25em;
   left: 0;
   right: 0;
   text-align: center;
@@ -1766,20 +1746,37 @@ section {
 * Partials: One third split text block (Text on page tops: Guides, Awards...)
 **/
 
+.one-third-split-text .left-column {
+  padding-left: 80px;
+}
+
 @media (max-width: $desktop_breakpoint) {
-  .one-third-split-text-block .left-column,
-  .one-third-split-text-block .right-column {
+  .one-third-split-text .two-column-container {
     display: block;
-    padding: 10px 30px;
   }
 
-  .one-third-split-text-block .two-column-container.one-third-width .left-column {
-    width: auto;
-    text-align: center;
-    padding-top: 30px;
+  .one-third-split-text .left-column {
+    display: block;
+    padding: 30px 60px 0;
+  }
+
+  .one-third-split-text .right-column {
+    padding: 15px 60px 30px;
+    display: block;
   }
 }
 
+@media (max-width: $mobile_breakpoint) {
+  .one-third-split-text .left-column {
+    display: block;
+    padding: 30px 30px 0;
+  }
+
+  .one-third-split-text .right-column {
+    padding: 15px 30px 30px;
+    display: block;
+  }
+}
 /**
 * Partials: News Card (Home Spotlight and Featured News)
 **/
@@ -1840,6 +1837,29 @@ section {
 
 .news-card-square > div > b {
   font-size: 17px;
+}
+
+@media (max-width: 1200px) {
+  .two-thirds-width-card-image,
+  .news-card-square {
+    width: 50%;
+  }
+
+  .news-card-square {
+    padding: 25px;
+  }
+}
+
+@media (max-width: $mobile_breakpoint) {
+  .two-thirds-width-card-image,
+  .news-card-square {
+    width: 100%;
+    position: relative;
+  }
+
+  .news-card-square {
+    margin-bottom: -5px;
+  }
 }
 
 /**
@@ -2023,8 +2043,12 @@ section {
 }
 
 /**
-* Partials: Detail page links
+* Partials: Links to all detail pages for a view group
 **/
+
+.detail-links-container {
+  padding-left: 80px;
+}
 
 .detail-page-links a {
   line-height: 2em;
@@ -2047,10 +2071,6 @@ section {
   text-transform: uppercase;
   font-size: .9em;
   font-weight: 700;
-}
-
-.personnel-list .double-line-height {
-  padding-bottom: 20px;
 }
 
 .personnel-list .person {
@@ -2309,22 +2329,59 @@ section {
 **/
 
 .two-column-text {
-  padding: 40px 80px 0 120px;
+  padding: 40px 80px 0 80px;
 }
 
 @media (max-width: $desktop_breakpoint) {
-  .two-column-text.two-column-container.half-width {
-    padding-top: 0;
+  .two-column-text {
+    padding: 0;
   }
 
-  .two-column-text.two-column-container .left-column,
-  .two-column-text.two-column-container .right-column {
+  .two-column-text .left-column,
+  .two-column-text .right-column {
     padding: 30px 0 0;
   }
+}
 
-  .two-column-text.two-column-container .color-button {
-    margin: 20px 0 0;
+@media (max-width: $mobile_breakpoint) {
+  .two-column-text-block .subheading {
+    font-size: 23px;
   }
+}
+
+/**
+* Partials: Event tags
+**/
+
+.event-tags div,
+.event-tags a {
+  display: inline-block;
+  color: #999;
+}
+
+.event-tags div {
+  font-weight: 600;
+  padding-top: 20px;
+}
+
+.event-tags a {
+  font-weight: 400;
+  padding-bottom: 4px;
+}
+
+.event-tags a:hover {
+  color: $color;
+}
+
+/**
+* Partials: Center section title (text label above color block region)
+**/
+
+.center-section-title {
+  letter-spacing: .5px;
+  font-size: 1.2em;
+  text-align: center;
+  margin-bottom: 10px;
 }
 
 /************************************************************
@@ -2532,10 +2589,6 @@ section {
   width: auto;
 }
 
-.mobile-home-events {
-  display: none;
-}
-
 @media (max-width: $desktop_breakpoint) {
   .home-events-container.desktop {
     display: none;
@@ -2543,17 +2596,6 @@ section {
 
   .mobile-home-events {
     display: block;
-  }
-}
-
-@media (max-width: $mobile_breakpoint) {
-  .card-title-container .card-title-blur {
-    background-position-y: 100%;
-  }
-
-  .card-title-container .card-title-text {
-    background: rgba(255,255,255,0.75);
-    border: none;
   }
 }
 
@@ -2606,7 +2648,7 @@ section {
 }
 
 /**
-* Mobile sign up for our newsletter
+* Home page: mobile newsletter
 **/
 
 .mobile.newsletter {
@@ -2633,26 +2675,9 @@ section {
   float: none;
 }
 
-@media (max-width: $desktop_breakpoint) {
-  .mobile.newsletter {
-    display: none;
-  }
-}
-
 /**
 * Home devices
 **/
-
-@media (max-width: 1200px) {
-  .two-thirds-width-card-image,
-  .news-card-square {
-    width: 50%;
-  }
-
-  .news-card-square {
-    padding: 25px;
-  }
-}
 
 @media (max-width: 860px) {
   .two-thirds-width-card-image,
@@ -2665,16 +2690,6 @@ section {
   .two-thirds-width-card-image,
   .home-page .full-width-card-image {
     padding-bottom: 65%;
-  }
-
-  .two-thirds-width-card-image,
-  .news-card-square {
-    width: 100%;
-    position: relative;
-  }
-
-  .news-card-square {
-    margin-bottom: -5px;
   }
 }
 
@@ -2721,30 +2736,6 @@ section {
 }
 
 /**
-* Event Tags
-**/
-
-.event-tags div,
-.event-tags a {
-  display: inline-block;
-  color: #999;
-}
-
-.event-tags div {
-  font-weight: 600;
-  padding-top: 20px;
-}
-
-.event-tags a {
-  font-weight: 400;
-  padding-bottom: 4px;
-}
-
-.event-tags a:hover {
-  color: $color;
-}
-
-/**
 * News detail page
 **/
 
@@ -2785,7 +2776,7 @@ section {
   padding-bottom: 6px;
 }
 
-.about-page .double-line-height .small-uppercase {
+.about-page .small-uppercase {
   margin-bottom: 0;
 }
 
@@ -2845,20 +2836,30 @@ section {
 }
 
 .news-page .large-card {
-  padding-bottom: 40px;
+  padding-bottom: 80px;
+}
+
+.news-page .horizontal-card .image-container {
+  margin-left: 0;
+}
+
+@media (max-width: $desktop_breakpoint) {
+  .news-page .large-card {
+    padding-bottom: 40px;
+  }
 }
 
 @media (max-width: $mobile_breakpoint) {
+  .news-page .center-column {
+    padding: 0;
+  }
+
   .news-page .large-card {
     padding-bottom: 0;
   }
 
   .news-page .teaser {
     display: none;
-  }
-
-  .news-page .center-column {
-    padding-top: 0;
   }
 
   .news-page header {
@@ -2877,6 +2878,10 @@ section {
 }
 
 @media (max-width: $mobile_breakpoint) {
+  .events-page .center-column {
+    padding: 0 !important;
+  }
+
   .events-page header {
     background: none;
   }
@@ -2917,6 +2922,16 @@ section {
 .what-is-dh .two-column-container p:last-of-type {
   margin-bottom: 0;
 }
+
+/**
+* Resources Landing Page
+**/
+
+
+/**
+* Awards Landing Page
+**/
+
 
 /**
 * Guides Landing Page
@@ -2986,8 +3001,8 @@ section {
 }
 
 @media (max-width: $mobile_breakpoint) {
-  .projects-page .hero.background-image+.center-column {
-    padding: 0;
+  .projects-page .center-column {
+    padding: 0 !important;
   }
 
   /* Toggle desktop mobile project views */
@@ -3084,7 +3099,7 @@ section {
 }
 
 /**
-* Training Page
+* DH Training Scholarships Page
 **/
 
 .training-page .color-background hr {
@@ -3095,7 +3110,7 @@ section {
 * Awards Detail Page
 **/
 
-@media (max-width: 700px) {
+@media (max-width: $mobile_breakpoint) {
   .awards-detail-page .color-background {
     margin-right: -30px;
     margin-left: -30px;
@@ -3105,6 +3120,10 @@ section {
     margin-left: -30px;
     margin-right: -30px;
   }
+
+  .awards-detail-page ul {
+    margin-bottom: 20px;
+  }
 }
 
 /**
@@ -3112,16 +3131,8 @@ section {
 **/
 
 @media (max-width: $mobile_breakpoint) {
-  .simple-page {
-    padding: 70px 30px 30px;
-  }
-
   .simple-page hr:first-of-type {
     display: none;
-  }
-
-  .simple-page .two-column-container:first-of-type .right-column {
-    padding-top: 0;
   }
 }
 

@@ -8,7 +8,8 @@ categories:
   - announcements
 spotlight: false 
 image_layout: landscape
-teaser: "During Office Hours, Gideon Fink Shapiro will report on Trier Digital Humanities Autumn School 2015, a week-long international conference and workshop co-organized by Trier University and University..."
+teaser: |
+  "During Office Hours, Gideon Fink Shapiro will report on Trier Digital Humanities Autumn School 2015, a week-long international conference and workshop co-organized by Trier University and University..."
 ---
 
 During Office Hours, Gideon Fink Shapiro will report on <a href="http://kompetenzzentrum.uni-trier.de/en/dhautumnschool2015/" target="_blank">Trier Digital Humanities Autumn School 2015</a>, a week-long international conference and workshop co-organized by Trier University and University of Luxembourg, which took place September 26–October 3. He will briefly discuss the format of the School and give an overview of some of the main topics that were discussed and debated, including best practices and “methodological intersections,” the official theme for the workshop. Questions and conversation over coffee will follow.
