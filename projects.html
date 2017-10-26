@@ -27,7 +27,7 @@ class: projects-page
 {% assign counter = 0 %}
 <div class='center-column'>
   <div class='projects-container'>
-    <div class='mobile section-title'>EVENTS CALENDAR</div>
+    <div class='mobile section-title'>LAB PROJECTS</div>
     {% for project in site.projects %}
       {% unless project.featured or project.funded or project.layout == 'archive' %}
         {% assign category = project.categories | first %}

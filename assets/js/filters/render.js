@@ -2,8 +2,8 @@
 process: true
 ---
 
-const archiveTemplate = require('../templates/archive-template.html');
-const newsTemplate = require('../templates/news-template.html');
+const archiveTemplate = require('../../templates/archive-template.html');
+const newsTemplate = require('../../templates/news-template.html');
 
 export const renderArchive = (target, items) => {
   document.querySelector(target).innerHTML = archiveTemplate({

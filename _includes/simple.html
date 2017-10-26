@@ -1,9 +1,21 @@
+{% if include.page.image %}
+  {% assign image_url = include.page.image %}
+{% elsif include.page.thumbnail %}
+  {% assign image_url = include.page.thumbnail %}
+{% endif %}
+{% if image_url %}
+  {% include mobile_hero.html image=include.page.thumbnail %}
+{% endif %}
 
-<div class='center-column event-detail-page'>
+<div class='center-column simple-page {{ include.page.class }}'>
   <section>
-    <h2>{{ include.label }}</h2>
-    <hr class='no-margin-bottom'>
-    <div class='two-column-container one-third-width'>
+    <h2 class='hide-tablet'>{{ include.label }}</h2>
+    <hr class='no-margin-bottom hide-tablet'>
+    {% include text/mobile_section_title.html
+      category=include.label
+      title=include.page.title
+    %}
+    <div class='two-column-container one-third-width hide-left'>
       <div class='left-column'>
         <h3>{{ page.title }}</h3>
         {% assign image_url = include.page.thumbnail | prepend: site.baseurl %}
@@ -15,9 +27,6 @@
         </div>
         {% if include.label == 'EVENTS' %} 
           {% include events/event_timestamp.html event=include.page %}
-        {% endif %}
-
-        {% if include.label == 'EVENTS' %}
           {% include events/event_actions.html page=include.page %}
         {% endif %}
 

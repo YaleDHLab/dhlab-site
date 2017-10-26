@@ -5,8 +5,7 @@ header_color: gray
 ---
 
 {% assign next_event = site.events | sort: 'date' | first %}
-<div class='mobile mobile-hero background-image'
-  style='background-image:url({{ next_event.image | prepend: site.baseurl }})'></div>
+{% include mobile_hero.html image=next_event.image %}
 
 <div class='center-column'>
   <section>

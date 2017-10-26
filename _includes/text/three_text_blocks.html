@@ -2,13 +2,14 @@
   <h2>{{ include.label }}</h2>
   <hr class='hide-tablet'>
   {% for item in include.items limit: 3 %} 
+    {% assign url = item.url | prepend: site.baseurl %}
     <div class='block'>
-      <a href='{{ item.url }}'>
+      <a href='{{ url }}'>
         <h3>{{ item.title }}</h3>
       </a>
       <div class='small-uppercase'>{{ item.date | date: '%b %d' }}</div>
       <p>{{ item.content | strip_html | truncatewords: 30 }}</p>
-      <a href='{{ item.url }}'>Learn More &raquo;</a>
+      <a href='{{ url }}'>Learn More &raquo;</a>
     </div>
   {% endfor %}
 </section>

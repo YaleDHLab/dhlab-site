@@ -14,7 +14,8 @@
     {% include json/jsonify_items.html items=items %}
   {% else %}
     {% for item in include.items %}
-      <a href='{{ item.url | prepend: site.baseurl }}' class='archive-item'
+      {% assign url = item.url | prepend: site.baseurl %}
+      <a href='{{ url }}' class='archive-item'
         data-categories='{{ item.categories | jsonify }}'
         data-tags='{{ item.tags | jsonify }}'>
         {% assign image_url = item.thumbnail | prepend: site.baseurl %}

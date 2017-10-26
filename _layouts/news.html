@@ -20,9 +20,9 @@ class: news-detail-page
       </div>
       <div class='right-column'>
       {% include text/mobile_section_title.html
-        title = 'NEWS'
-        subtitle = page.title
-        date = page.date
+        category='NEWS'
+        title=page.title
+        date=page.date
       %}
       {{ content }}
       </div>

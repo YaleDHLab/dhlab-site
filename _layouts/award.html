@@ -14,10 +14,7 @@ class: award-detail-page
 <div class='center-column post'>
   <div class='two-column-container one-third-width hide-left'>
     <div class='left-column'>
-    {% include text/detail_page_links.html
-      items=site.awards
-      page=page
-    %}
+    {% include link-lists/award_page_links.html page=page %}
 
     {% include text/apply_link.html page=page %}
     </div>
