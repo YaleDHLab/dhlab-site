@@ -3,7 +3,7 @@ title: Postoctoral Associates
 order: 2
 image: '/assets/images/banners/sterling-ext.jpg'
 caption: >
-  Lorem ipsum dolor sit amet, sollicitudin non quas libero dictum nulla vel. Quam porttitor lacus a wisi. Duis congue, ut quam elit at a. Orci fermentum mattis accusantium. Libero fermentum condimentum sed, vel
+  Students in front of Sterling Memorial Library.
 deadline: October 24, 2018
 application_text: Apply now to become one of our 2018 Digital Humanities Postdoctoral Fellows.
 application_url: http://google.com
@@ -21,35 +21,61 @@ overview: postdoctoral_associates
         title=page.title
       %}
 
-      <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Tortor pretium viverra suspendisse potenti nullam. Habitant morbi tristique senectus et netus. In eu mi bibendum neque egestas congue quisque. Nibh sit amet commodo nulla. Arcu vitae elementum curabitur vitae nunc sed. Sed turpis tincidunt id aliquet risus. Tristique senectus et netus et malesuada. Varius duis at consectetur lorem donec massa sapien faucibus et. Diam maecenas sed enim ut sem viverra aliquet eget. Vitae congue mauris rhoncus aenean vel elit scelerisque mauris. Sapien et ligula ullamcorper malesuada. Maecenas volutpat blandit aliquam etiam. Purus semper eget duis at tellus at urna condimentum mattis. Fringilla ut morbi tincidunt augue interdum velit. Interdum posuere lorem ipsum dolor sit amet consectetur adipiscing. Vitae sapien pellentesque habitant morbi tristique senectus et netus et. Nibh tortor id aliquet lectus proin nibh nisl.</p>
+      <p>The Digital Humanities Lab (DHLab) at Yale University Library invites applications for three 12-month Postdoctoral Associate positions for the 2017-2018 academic year. We seek energetic and creative applicants who demonstrate innovative thinking and a proactive approach to the questions that digital humanities methods, approaches, tools, and theories raise in their academic disciplines.</p>
 
-      <p>Ac ut consequat semper viverra nam libero. Aliquam ultrices sagittis orci a scelerisque purus semper eget duis. Commodo quis imperdiet massa tincidunt. Nulla facilisi etiam dignissim diam quis enim. Nunc sed id semper risus in hendrerit. Tellus molestie nunc non blandit massa enim nec. Vulputate enim nulla aliquet porttitor. Diam sollicitudin tempor id eu. Posuere morbi leo urna molestie at elementum eu. Pretium aenean pharetra magna ac placerat vestibulum. Amet facilisis magna etiam tempor orci eu lobortis elementum. Faucibus turpis in eu mi. Sodales ut etiam sit amet nisl purus in mollis nunc. Sit amet massa vitae tortor condimentum lacinia.</p>
+      <p>The focus of these positions is on a research project defined by the applicant. Scholars with a background in any humanities discipline are eligible to apply; the committee especially encourages applicants with a research focus in:
+      <ul>
+        <li>Visual Culture, Art, and/or History of Art</li>
+        <li>Holocaust and Genocide Studies, Twentieth-Century European History and Literature, and/or Jewish Studies</li>
+      </ul>
+      </p>
+
+      <p>Each Postdoctoral Associate will have a dedicated workspace in the DHLab in Sterling Memorial Library; the opportunity to collaborate with technical staff, including a DH Developer and UX Designer; and a budget for computing equipment, professional development, and relocation expenses. The Postdoctoral Associate's primary responsibility will be to his or her own research project. We also expect candidates will be active participants in the intellectual life of the DHLab. The Director of the Digital Humanities Lab will coordinate their integration into the DHLab. Salaries for Postdoctoral Associates will be $47,484.</p>
     </div>
   </div>
+
 
   {% include text/center_section_title.html
     text='HOW TO APPLY'
   %}
 
   {% capture left_text_one %}
-    <p>Lorem ipsum dolor sit amet, turpis odio molestie, lobortis faucibus pharetra et orci auctor, scelerisque sodales turpis ante congue velit eros, orci in, est pulvinar condimentum mi egestas. Arcu curabitur est rutrum inceptos, voluptatem elit lorem, lacus tempor mattis elit penatibus urna, aut cursus quis in et mus.</p>
+    <p>Each Postdoctoral Associate will pursue independent digital humanities research relevant to the candidate’s academic discipline. This includes, but is not limited to:      
+    <ul>
+        <li>conducting research</li>
+        <li>performing analysis</li>
+        <li>developing prototypes</li>
+        <li>presenting results</li>
+        <li>producing electronic and/or print scholarly articles.</li>
+    </ul></p>
+    <p>As a contributing member of the DHLab, the candidate will also participate in the intellectual life of the DHLab, helping with DH DH Office Hours and consultations.
+    </p>
   {% endcapture %}
 
   {% capture left_text_two %}
-    <p>Lorem ipsum dolor sit amet, turpis odio molestie, lobortis faucibus pharetra et orci auctor, scelerisque sodales turpis ante congue velit eros, orci in, est pulvinar condimentum mi egestas. Arcu curabitur est rutrum inceptos, voluptatem elit lorem, lacus tempor mattis elit penatibus urna, aut cursus quis in et mus.</p>
-    <p>Eget sollicitudin risus arcu atque ut, ligula suspendisse nunc pulvinar mi. Sit sit egestas metus proin at. Augue hymenaeos magna leo mauris mollis mi. Augue id justo sit ligula urna ullamcorper, magna facilisi neque, vestibulum et nonummy, nulla elit lorem blandit, tincidunt ut cras suscipit lacinia mauris. Est torquent diam suscipit et purus.</p>
-    <p>Eget sollicitudin risus arcu atque ut, ligula suspendisse nunc pulvinar mi. Sit sit egestas metus proin at. Augue hymenaeos magna leo mauris mollis mi. Augue id justo sit ligula urna ullamcorper, magna facilisi neque, vestibulum et nonummy, nulla elit lorem blandit, tincidunt ut cras suscipit lacinia mauris. Est torquent diam suscipit et purus.</p>
+    <p>The Digital Humanities Faculty Committee will consider the following during the review process:
+    <ul>
+        <li>the quality of the research proposal and the intellectual significance for the applicant's field of scholarship</li>
+        <li>demonstrated experience with and interest in digital humanities projects, methods, approaches, theories, and/or methodologies;</li>
+        <li>excellent communication, presentation, and interpersonal skills</li>
+        <li>ability to work collaboratively and collegially with programmers, designers, outreach specialists, student workers, faculty, and subject librarians</li>
+    </ul>
+    </p>
   {% endcapture %}
 
   {% capture right_text_one %}
-    <p>Lorem ipsum dolor sit amet, turpis odio molestie, lobortis faucibus pharetra et orci auctor, scelerisque sodales turpis ante congue velit eros, orci in, est pulvinar condimentum mi egestas. Arcu curabitur est rutrum inceptos, voluptatem elit lorem, lacus tempor mattis elit penatibus urna, aut cursus quis in et mus.</p>
-    <p>Lorem ipsum dolor sit amet, turpis odio molestie, lobortis faucibus pharetra et orci auctor, scelerisque sodales turpis ante congue velit eros, orci in, est pulvinar condimentum mi egestas. Arcu curabitur est rutrum inceptos, voluptatem elit lorem, lacus tempor mattis elit penatibus urna, aut cursus quis in et mus.</p>
+    <p>Applications should include:
+    <ul>
+        <li>a research plan for the project to be undertaken during the fellowship period, not to exceed 3-5 pages</li>
+        <li>a curriculum vitae</li>
+        <li>two letters of recommendation.</li>
+    </ul></p>
+    <p>Applicants do not need a PhD to submit an application; however,the position does require a Ph.D. or equivalent degree by the start date of the appointment.</p>
   {% endcapture %}
 
   {% capture right_text_two %}
-    <p>Lorem ipsum dolor sit amet, turpis odio molestie, lobortis faucibus pharetra et orci auctor, scelerisque sodales turpis ante congue velit eros, orci in, est pulvinar condimentum mi egestas. Arcu curabitur est rutrum inceptos, voluptatem elit lorem, lacus tempor mattis elit penatibus urna, aut cursus quis in et mus.</p>
-    <p>Eget sollicitudin risus arcu atque ut, ligula suspendisse nunc pulvinar mi. Sit sit egestas metus proin at. Augue hymenaeos magna leo mauris mollis mi. Augue id justo sit ligula urna ullamcorper, magna facilisi neque, vestibulum et nonummy, nulla elit lorem blandit, tincidunt ut cras suscipit lacinia mauris. Est torquent diam suscipit et purus.</p>
-    <a href='{{ site.baseurl }}/resources/workshops.html' class='white-button'>Learn More</a>
+    <p>Applicants should click on the "Apply Here" button below to go to a Google Form where they can submit their information, along with a research plan that describes the goals and scope of the project that would be undertaken during the fellowship period, as well as their curriculum vitae.</p>
+    <a href='https://docs.google.com/forms/d/e/1FAIpQLSdF0PVOMAg-XhAcIBLwIffuE6usr7FuJtBVSuqfzYkz52Si7A/viewform?usp=sf_link' target='_blank' class='white-button'>Apply Here</a>
   {% endcapture %}
 
   {% include text/color_blocks.html
@@ -59,35 +85,11 @@ overview: postdoctoral_associates
     left_title_two='Selection Criteria'
     left_text_two=left_text_two
 
-    right_title_one='Requirements'
+    right_title_one='Requirements for Application'
     right_text_one=right_text_one
 
     right_title_two='Online Submissions'
-    right_text_two=right_text_two
+    right_text_two=right_text_two 
   %}
 
-    {% capture left_text %}
-    {% include text/personnel_list.html items=site.data.postdoctoral_associates %}
-    <p>Eleifend tellus pulvinar nunc sed metus, praesent nunc tortor, eget ante risus at eget et, pulvinar congue sociis felis imperdiet mauris. Mauris integer ligula, quis lacinia urna facilisis aliquam taciti. Quis pulvinar nunc nec incididunt cursus.</p>
-  {% endcapture %}
-
-  {% capture right_text %}
-    <p>Eleifend tellus pulvinar nunc sed metus, praesent nunc tortor, eget ante risus at eget et, pulvinar congue sociis felis imperdiet mauris. Mauris integer ligula, quis lacinia urna facilisis aliquam taciti. Quis pulvinar nunc nec incididunt cursus, turpis et nullam donec amet, vivamus convallis lectus pellentesque tristique vel, venenatis mattis luctus, rutrum at quam eget. Urna vel. Imperdiet in integer felis eget ac quis. Sed donec quis sollicitudin amet, adipiscing ac justo proin orci. Commodi venenatis, lectus ligula integer mus velit nulla, commodo tempor non duis, sem quam lorem etiam vitae suscipit.</p>
-    <p>Integer tincidunt porta, et posuere nulla maecenas sapien lectus. Nibh justo suscipit ipsam laboriosam, mauris nunc. Praesent nisl donec eius donec quam adipiscing, metus libero quis velit, sollicitudin nunc accumsan, felis dictum et dui nam senectus tellus. Habitasse ac viverra, velit ut, malesuada ut sed ac mauris eu. Est duis nec a leo natoque, curabitur pellentesque tellus vestibulum amet, pede volutpat tortor quam aliquam, dignissim eros. Magna adipiscing laoreet arcu cras nullam, accumsan luctus.</p>
-  {% endcapture %}
-
-  {% assign left_button_url = '/projects.html' | prepend: site.baseurl %}
-  {% assign right_button_url = '/resources.html' | prepend: site.baseurl %}
-
-  {% include text/half-width/two_column_text.html
-    left_title = 'Former Postdoctoral Associates'
-    left_text = left_text
-    left_button_url = left_button_url
-    left_button_label = 'View Projects'
-
-    right_title = 'Resources'
-    right_text = right_text
-    right_button_url = right_button_url
-    right_button_label = 'What We Offer'
-  %}
 </div>

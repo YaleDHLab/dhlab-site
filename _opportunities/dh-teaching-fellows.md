@@ -21,8 +21,7 @@ overview: teaching_fellows
         title=page.title
       %}
 
-      <p>Each semester, the Digital Humanities Lab appoints a cohort of Digital Humanities Fellows to assist with courses that have a strong digital humanities component. These positions provide semester-long support for graduate students to engage with DH methods and theories in a classroom setting. DHLab staff will work with Fellows to design DH assignments, arrange access to electronic content, and provide specialized technical training. Visit the <a href='{{ site.baseurl }}/about/teaching_fellows.html'>DH Fellows</a> page to learn about our current recipients and their courses!</p>
-
+      <p>Each semester, the Digital Humanities Lab appoints a cohort of Digital Humanities Fellows to assist with courses that have a strong digital humanities component. These positions provide semester-long support for graduate students to engage with DH methods and theories in a classroom setting. DHLab staff will work with Fellows to design DH assignments, arrange access to electronic content, and provide specialized technical training. Visit the <a href='{{ site.baseurl }}/about/teaching_fellows.html'>DH Fellows</a> page to learn about our current recipients and their courses.</p>
     </div>
   </div>
 
