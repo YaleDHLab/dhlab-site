@@ -1,12 +1,14 @@
-<div class='detail-page-links'>
-{% for item in include.items %}
- {% for category in item.categories %}
-    {% if category == include.project_category %}
-      <a href='{{ site.baseurl }}{{ item.url }}'>
-        <b>{{ item.title }}</b>
-      </a>
-      <br/>
-    {% endif %}
+<div class='detail-links-container'>
+  <div class='detail-page-links'>
+  {% for item in include.items %}
+   {% for category in item.categories %}
+      {% if category == include.project_category %}
+        <a href='{{ site.baseurl }}{{ item.url }}'>
+          <b>{{ item.title }}</b>
+        </a>
+        <br/>
+      {% endif %}
+    {% endfor %}
   {% endfor %}
-{% endfor %}
+  </div>
 </div>

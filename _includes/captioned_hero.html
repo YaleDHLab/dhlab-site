@@ -1,10 +1,18 @@
+{% if include.deeplink %}
+  <a class='hero-link'
+    href='{{ include.deeplink | prepend: site.baseurl }}'>
+{% endif %}
 <div class='hero background-image'
   style='background-image:url({{ include.image }})'>
   <div class='hero-text-container'>
     {% assign label = include.item.categories | first %}
     {% include cards/card_title_box.html
       label=include.label
-      title=include.title %}
+      title=include.title
+      deeplink=include.deeplink %}
     <div class='hero-caption'>{{ include.caption }}</div>
   </div>
 </div>
+{% if include.deeplink %}
+  </a>
+{% endif %}
