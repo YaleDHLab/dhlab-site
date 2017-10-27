@@ -3007,8 +3007,19 @@ section {
 * Projects Landing Page
 **/
 
+.projects-page .hero .card-title-container {
+  cursor: pointer;
+}
+
+.projects-page .hero-link {
+  overflow: visible;
+  display: inline-block;
+  width: 100%;
+  padding-bottom: 60px;
+}
+
 .projects-page .center-column {
-  padding: 100px 110px 40px;
+  padding: 40px 110px 40px;
 }
 
 .projects-page .project-image-container {
@@ -3050,6 +3061,10 @@ section {
 @media (max-width: $desktop_breakpoint) {
   .projects-page .hero {
     height: 400px;
+  }
+
+  .projects-page .hero-link {
+    padding-bottom: 0;
   }
 
   .projects-page .center-column {
@@ -3149,6 +3164,14 @@ section {
   .mobile-project .project-title {
     font-size: 16px;
   }
+}
+
+/**
+* Projects Detail Page
+**/
+
+.project-team-members {
+  padding-left: 80px;
 }
 
 /**
