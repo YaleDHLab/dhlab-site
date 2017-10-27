@@ -547,6 +547,10 @@ img {
     width: 100%;
     padding-left: 0;
   }
+
+  .one-third-width .left-column {
+    width: 100%;
+  }
 }
 
 /**
@@ -2187,10 +2191,6 @@ section {
   padding-bottom: 5px;
 }
 
-.personnel-list + a.color-button {
-  margin-top: 0;
-}
-
 @media (max-width: 900px) {
   .personnel-list .list-heading {
     font-size: 1.1em;
@@ -2440,15 +2440,25 @@ section {
     padding: 0;
   }
 
+  .full-width-mobile .two-column-text {
+    padding-left: 30px;
+    padding-right: 30px;
+  }
+
   .two-column-text .left-column,
   .two-column-text .right-column {
-    padding: 30px 0 0;
+    padding: 20px 0 0;
   }
 }
 
 @media (max-width: $mobile_breakpoint) {
-  .two-column-text-block .subheading {
-    font-size: 23px;
+  .full-width-mobile .two-column-text {
+    padding-left: 25px;
+    padding-right: 25px;
+  }
+
+  .two-column-text .subheading {
+    font-size: 20px;
   }
 }
 
@@ -2881,11 +2891,15 @@ section {
     padding-left: 0;
   }
 
-  .about-page .two-column-container .two-column-text-block h2 {
+  .about-page .two-column-text-block h2 {
     padding-bottom: 10px;
   }
 
-  .about-page .two-column-container .two-column-text-block h2 + p {
+  .about-page .two-column-text-block p {
+    text-align: left;
+  }
+
+  .about-page .two-column-text-block h2 + p {
     margin-top: 0;
   }
 }
@@ -2911,8 +2925,8 @@ section {
     padding-bottom: 0;
   }
 
-  .about-page .two-column-text-block p {
-    margin: 0;
+  .about-page .color-background .one-third-width:last-of-type .right-column {
+    padding-bottom: 0;
   }
 }
 
@@ -3045,6 +3059,10 @@ section {
 
 .projects-page .center-column {
   padding: 40px 110px 40px;
+}
+
+.projects-page .hero .hero-text-container {
+  left: 15px;
 }
 
 .projects-page .project-image-container {
@@ -3208,12 +3226,6 @@ section {
 }
 
 @media (max-width: $mobile_breakpoint) {
-  .guides-page .two-column-container:last-of-type h2,
-  .methods-page .two-column-container:last-of-type h2 {
-    margin-top: 20px;
-    text-align: center;
-  }
-
   .methods-page .rectangle-image-grid .image-title-container {
     margin-top: -10px;
   }
