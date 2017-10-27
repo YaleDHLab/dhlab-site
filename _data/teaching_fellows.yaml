@@ -1,23 +1,39 @@
 2016-2017:
-  - name: Jonathan Schroeder
-    affiliation: English PhD, Yale appointment in English
+  - name: Andrew S. Brown
+    short_affiliation: English
+    bio: |
+      As an assistant to Professor Heather Klemann, Andrew worked with the DHLab to develop several assignments for the English Department course “Vampires, Castles, Werewolves”. Students learned how to use tools and software in the areas of mapping/GIS, digital curation, and text visualization. In doing so, they had the opportunity to create their own online resources that explore the connections between Gothic literature and the history of art and architecture, as well as the rich, complex publication history that lies behind many of the period’s novels and stories. Spring 2017
+  - name: Fadila Habchi
+    short_affiliation: African American Studies and American Studies
+    bio: |
+      Fadila specializes in contemporary literature from the African diaspora, in French and English. She is especially interested in narratives of migration in the context of movements of decolonization. Her current project explores literary representations of the postcolonial city in postwar Caribbean literature. As a digital fellow, Fadila worked closely with Professor Wexler to assist undergraduates students in developing their own digital humanities project. Spring 2017
+  - name: Bo Li
+    short_affiliation: English
+    bio: |
+      Working on a long history of new media with a special interest in feminist engagements with populist media forms, Bo was excited to work with Professor Wai Chee Dimock on "Performing American Literature," a course that expanded the definition of "performance" to include modes of digital expression, ranging from gaming, spatial and temporal mapping, e-texts, and the creative use of social media. Spring 2017
+  - name: Kimberly Quiogue Andrews
+    short_affiliation: English
+    bio: |
+      As an assistant to Professor R. John Williams, Kim worked with the DHLab to develop a number of digital projects for a course entitled "Countercultures." This course explored a number of states of "altered consciousness" throughout the 1960s and 1970s, offering a more nuanced exploration of what it meant to cultivate an experience that ran "counter" to the dominant practices of American bourgeois society. Students learned how to use network visualization tools, topic mapping, and trend visualization software — as well as a few digital tools by which they can create their own countercultural projects — to better understand the relationship between what runs against mainstream culture, and the mainstream culture that has a tendency to absorb it. Fall 2016
+  - name: Carlotta Chenoweth
     short_affiliation: Department of English
     bio: |
-      Jonathan Schroeder uses the methods of the digital humanist, conceptual historian, and literary scholar to compare how European frameworks of emotion were institutionalized in the Americas. His manuscript, Prisoners of Loss: An Atlantic History of Nostalgia, charts the first phase in the globalization of nostalgia, tracking how this medical concept was carried to the New World and used to design new health care systems for slaves and soldiers in America, Brazil, Cuba, and Haiti. By virtue of this process, he argues, nostalgia was transformed from a disease of travel suffered by European ethnics into the exemplary disease of racial captivity in the nineteenth century, one that can potentially help us make sense of present-day scenes of racial and ethnic melancholy.
-  - name: Robin Seguy
-    affiliation: Comparative Literature PhD, Yale appointment in English
-    short_affiliation: Comparative Literature Department
+      As a Digital Humanities Fellow, Carlotta worked closely with students in a new course, “Avant-Gardes and Émigrés: Digital Humanities Lab,” with Professor Marijeta Bozovic. She modeled for students several of the Digital Humanities tools and techniques that she learned in the past two years, including but not limited to: an introduction to coding in R with R Studio; topic modeling large corpora through R and Mallet; data gathering and network modeling with Datavis and an introduction to Gephi. She also encouraged and led critical discussions interrogating the limitations and potential pitfalls of the "quantitative turn" in the humanities. Fall 2016
+  - name: Brandi M. Waters
+    short_affiliation: History and African American Studies
     bio: |
-      Robin Seguy uses genetic criticism and close bibliographic techniques to trace the evolution of modern poetic texts. His work has focused on charging the genetic construction of the poetic corpora of John Ashbery, Ezra Pound, and T.S. Eliot.
+      As an assistant to Professor Anne Eller in the History Department, Brandi worked with the DHLab to develop digital projects in the course "Introduction to Latin American History." In the course, students learned how to curate an online gallery and explore digital techniques in network analysis in order to understand changes in power relations over time and space during important transitions in Latin American history. Fall 2016
 
 2015-2016:
-  - name: Carol Chiodo
-    affiliation: Italian PhD, Yale appointment in Institute of Sacred Music
-    short_affiliation: Italian Department
+  - name: T.L. Cowan
+    short_affiliation: MacMillan Center for International and Area Studies
     bio: |
-      Carol Chiodo is a writer, scholar, and educator whose work investigates how the material and structural changes in the reproduction, storage and transmission of texts impact the ways we read, write and learn. She received a Ph.D. degree in Italian Language and Literature with a dissertation on medieval vernacular poetry and the mechanical arts.
-  - name: Gideon Fink Shapiro
-    affiliation: Architecture PhD, Yale appointment in American Studies
-    short_affiliation: Architecture Department
+      T.L.'s work with the DHLab will focus on developing a proof-of-concept for The Cabaret Commons: An Online Archive and Anecdotal Encyclopedia for Trans- Feminist and Queer Performers and Audiences. This project entails the development of a hybrid curated and user-generated digital archive of live performance that works towards a responsive and dynamic model of performance archives—one that documents performers and performances and attends to the central role of audiences in sustaining grassroots trans- feminist and queer cultures. The Cabaret Commons project has been generously supported by the Canadian Writing Research Collaboratory (CWRC) and the Social Sciences and Humanities Council of Canada (SSHRC). T.L. is also a practicing performance and video artist and co-founder and co-editor of the Helix Critical Project. 2015-2016
+  - name: Annie de Saussure
+    short_affiliation: French
     bio: |
-      Gideon earned a Ph.D. in Architecture (history and theory) from the University of Pennsylvania School of Design, where his dissertation research traced the confluence of garden art and urban planning in the public parks of Paris. His writing has appeared in the Journal of the Society of Architectural Historians, Architect, Domus, the Guggenheim Blog, Next City, and The Architect’s Newspaper, among other publications. He edited the English-language catalogue of the 2015 Urbanism and Architecture Bi-City Biennale (UABB) of Shenzhen and Hong Kong, and has served as an instructor at the undergraduate and graduate levels. Gideon has assisted the curator Aaron Betsky and worked for the architectural design firm of Gabellini Sheppard Associates. He has collaborated with several artists and composers to realize site-specific public art projects.
+      As a Teaching Fellow and Assistant to Professor Christopher Semk of the French Department, Annie worked with the DHLab team to apply the technologies of digital humanities to literary analysis in a course entitled "Louis XIV and the Culture of Absolutism."" In this course, students learned how to use DH tools including collation software, textual visualizations, and mapping to explore relationships between literature, culture, and power during the reign of Louis XIV. Spring 2016
+  - name: Lauren Tilton
+    short_affiliation: American Studies
+    bio: |
+      As a Fellow for the Mellon advanced seminar "(En)visualizing Knowledge: Text Mining, Mapping, Network Analysis, and Big Data," taught by Professors Laura Wexler and Inderpal Grewal, Lauren worked with the DHLab to teach graduate students a variety of DH approaches to text mining, mapping, network analysis, and data visualization. Fall 2015
