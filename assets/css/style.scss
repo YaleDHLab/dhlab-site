@@ -1068,6 +1068,11 @@ section {
 * Partials: Three text blocks
 **/
 
+.three-text-blocks {
+  padding-left: 80px;
+  padding-right: 80px;
+}
+
 .three-text-blocks .block {
   display: inline-block;
   width: 33%;
@@ -1093,6 +1098,11 @@ section {
 }
 
 @media (max-width: $desktop_breakpoint) {
+  .three-text-blocks {
+    padding-left: 0;
+    padding-right: 0;
+  }
+
   .three-text-blocks .block {
     display: block;
     width: 100%;
@@ -1118,6 +1128,10 @@ section {
   .three-text-blocks {
     padding: 0px;
     padding-bottom: 30px;
+  }
+
+  .full-width-mobile .three-text-blocks {
+    padding: 10px 25px 0;
   }
 
   .three-text-blocks .small-uppercase {
@@ -1450,6 +1464,10 @@ section {
   z-index: 0;
   filter: blur(4px);
   background-size: 100% 140px;
+}
+
+.card-title-container .small-uppercase {
+  margin-bottom: 5px;
 }
 
 .blur-container {
@@ -2056,6 +2074,10 @@ section {
 
 .detail-page-links a.active {
   color: $color;
+}
+
+.detail-links-container .small-uppercase {
+  margin-bottom: 5px;
 }
 
 /**
