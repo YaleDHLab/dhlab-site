@@ -594,7 +594,7 @@ footer {
   margin-top: -5px;
   display: inline-block;
   margin-left: 60px;
-  margin-left: calc((100% - 1080px)/2);
+  margin-left: calc((100% - 950px)/2);
   text-decoration: none;
   padding: 5px 0px;
   float: left;
@@ -608,7 +608,7 @@ footer {
 
 @media (min-width: 1001px) and (max-width: 1200px) {
   .site-brand {
-    margin-left: 60px;
+    margin-left: 125px;
   }
 }
 
@@ -2942,8 +2942,12 @@ section {
 * Projects Landing Page
 **/
 
+.projects-page .center-column {
+  padding: 100px 110px 40px;
+}
+
 .projects-page .project-image-container {
-  margin-bottom: 100px;
+  margin-bottom: 70px;
 }
 
 .projects-container .two-column-container .left-column,
