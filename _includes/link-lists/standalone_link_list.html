@@ -1,4 +1,7 @@
 <div class='detail-links-container'>
+  {% if include.label %}
+    <div class='small-uppercase'>{{ include.label }}</div>
+  {% endif %}
   {% include link-lists/detail_page_links.html
     items=include.items
     page=page

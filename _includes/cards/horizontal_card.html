@@ -17,11 +17,11 @@
       {% if include.item.date and include.item.time %}
         {% include events/event_metadata.html event=include.item %}
         <br/>
-        <div class='teaser'>{{ include.item.teaser | truncatewords: 50 }}</div>
+        <div class='teaser hide-tablet'>{{ include.item.teaser | truncatewords: 50 }}</div>
       {% else %}
         {% include news/news_metadata.html item=include.item %}
         <br/>
-        <div class='teaser'>{{ include.item.teaser | truncatewords: 50 }}</div>
+        <div class='teaser hide-tablet'>{{ include.item.teaser | truncatewords: 50 }}</div>
       {% endif %}
     </a>
     {% if include.item.registerurl %}

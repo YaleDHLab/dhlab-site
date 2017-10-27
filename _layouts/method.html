@@ -11,15 +11,23 @@ class: method-detail-page
   caption=page.caption
 %}
 
-<div class='center-column post'>
+<div class='center-column'>
   <div class='two-column-container one-third-width text-top hide-left'>
     <div class='left-column'>
-    <div class='small-uppercase'>Selected Projects</div>
 
-    {% include link-lists/project_page_links.html
-      items = site.projects
-      page = page
-      project_category = page.project_category
+    {% assign projects = '' | split: '' %}
+    {% for project in site.projects %}
+      {% for category in project.categories %}
+        {% if category == page.project_category %}
+          {% assign projects = projects | push: project %}
+        {% endif %}
+      {% endfor %}
+    {% endfor %}
+
+    {% include link-lists/standalone_link_list.html
+      items=projects
+      page=page
+      label='Selected Projects'
     %}
     
     </div>

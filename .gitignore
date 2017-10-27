@@ -7,3 +7,4 @@ _site
 *.swo
 node_modules
 ngrok
+ghostdriver.log

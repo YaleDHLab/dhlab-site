@@ -33,7 +33,7 @@ class: home-page
         </a>
       {% endfor %}
     </div>
-    <div class='mobile mobile-home-events'>
+    <div class='mobile'>
       {% for event in sorted_events reversed limit:3 %}
         {%- include cards/horizontal_card.html item=event -%}
       {% endfor %}

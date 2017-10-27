@@ -442,12 +442,7 @@ img {
   margin-top: 10px;
 }
 
-.color-background .small-uppercase {
-  color: #333;
-  margin-bottom: 18px;
-}
-
-.color-background p a {
+.color-background a {
   color: #fff;
   font-weight: 600;
 }
@@ -457,14 +452,19 @@ img {
   font-weight: 600;
 }
 
-.color-background .two-column-container.one-third-width .left-column {
+.color-background .one-third-width .left-column {
   width: 280px;
 }
 
 @media (max-width: $mobile_breakpoint) {
-  .color-background .small-uppercase {
-    color: #333;
-    margin-bottom: 18px;
+  .color-background {
+    margin-left: -25px;
+    margin-right: -25px;
+  }
+
+  .full-width-mobile .color-background {
+    margin-left: 0;
+    margin-right: 0;
   }
 
   .color-background p a {
@@ -538,14 +538,42 @@ img {
 * Column sizes: One Third Width
 **/
 
-.two-column-container.one-third-width .left-column {
+.one-third-width .left-column {
   width: 360px;
 }
 
 @media (max-width: $desktop_breakpoint) {
-  .two-column-container.one-third-width {
+  .one-third-width {
     width: 100%;
     padding-left: 0;
+  }
+}
+
+/**
+* Column sizes: Half Width
+**/
+
+.half-width .left-column {
+  width: 50%;
+}
+
+@media (max-width: $desktop_breakpoint) {
+  .half-width {
+    padding: 30px 0;
+    margin: 0 auto;
+  }
+
+  .half-width .left-column,
+  .half-width .right-column {
+    padding: 30px;
+    display: block;
+    width: 100%;
+  }
+}
+
+@media (max-width: $mobile_breakpoint) {
+  .half-width {
+    max-width: none;
   }
 }
 
@@ -560,34 +588,6 @@ img {
 
   .hide-left .right-column {
     padding: 0;
-  }
-}
-
-/**
-* Column sizes: Half Width
-**/
-
-.two-column-container.half-width .left-column {
-  width: 50%;
-}
-
-@media (max-width: $desktop_breakpoint) {
-  .two-column-container.half-width {
-    padding: 30px 0;
-    margin: 0 auto;
-  }
-
-  .two-column-container.half-width .left-column,
-  .two-column-container.half-width .right-column {
-    padding: 30px;
-    display: block;
-    width: 100%;
-  }
-}
-
-@media (max-width: $mobile_breakpoint) {
-  .two-column-container.half-width {
-    max-width: none;
   }
 }
 
@@ -962,6 +962,10 @@ footer .footer-logo {
   margin-bottom: 60px;
 }
 
+footer .footer-mobile-icons {
+  display: none;
+}
+
 @media (max-width: 1100px) {
   footer {
     display: block;
@@ -978,18 +982,71 @@ footer .footer-logo {
 }
 
 @media (max-width: $mobile_breakpoint) {
+  footer {
+    padding: 50px 25px;
+  }
+
+  footer .footer-logo {
+    margin-bottom: 30px;
+  }
+
+  footer .footer-column {
+    padding: 0;
+  }
+
   footer .footer-top,
   footer .footer-bottom {
     display: block;
     width: 100%;
   }
+
+  footer .hours div {
+    display: inline-block;
+  }
+
+  footer .footer-mobile-icons {
+    padding: 20px 0;
+    display: block;
+  }
+
+  footer .footer-mobile-icons img {
+    width: 33px;
+    margin-right: 13px;
+  }
+
+  #footer-on-campus {
+    margin-bottom: 0;
+  }
+
+  #footer-on-campus b {
+    position: relative;
+    display: inline-block;
+  }
+
+  #footer-on-campus b:after {
+    content: '+';
+    position: absolute;
+    right: -14px;
+    top: 0px;
+    color: #fff;
+  }
+
+  #footer-on-campus.active b {
+    margin-bottom: 15px;
+  }
+
+  #footer-on-campus div,
+  #footer-on-campus br {
+    display: none;
+  }
+
+  #footer-on-campus.active div,
+  #footer-on-campus.active br  {
+    display: block;
+  }
 }
 
 @media (max-width: 450px) {
-  footer {
-    padding: 30px 5px;
-  }
-
   footer .footer-logo {
     width: 100%;
     height: auto;
@@ -1089,6 +1146,11 @@ section {
 * Partials: Three text blocks
 **/
 
+.three-text-blocks {
+  padding-left: 80px;
+  padding-right: 80px;
+}
+
 .three-text-blocks .block {
   display: inline-block;
   width: 33%;
@@ -1114,6 +1176,11 @@ section {
 }
 
 @media (max-width: $desktop_breakpoint) {
+  .three-text-blocks {
+    padding-left: 0;
+    padding-right: 0;
+  }
+
   .three-text-blocks .block {
     display: block;
     width: 100%;
@@ -1139,6 +1206,10 @@ section {
   .three-text-blocks {
     padding: 0px;
     padding-bottom: 30px;
+  }
+
+  .full-width-mobile .three-text-blocks {
+    padding: 10px 25px 0;
   }
 
   .three-text-blocks .small-uppercase {
@@ -1245,6 +1316,10 @@ section {
     padding-right: 60px;
   }
 
+  .three-spaced-squares .spaced-square {
+    padding-bottom: 0;
+  }
+
   .three-spaced-squares .spaced-square:nth-of-type(1) {
     padding-right: 20px;
   }
@@ -1273,10 +1348,6 @@ section {
   .three-spaced-squares h2 {
     background: #efefef;
     text-align: center;
-  }
-
-  .three-spaced-squares .desktop {
-    display: none;
   }
 
   .three-spaced-squares .three-spaced-squares-table {
@@ -1477,6 +1548,10 @@ section {
   background-size: 100% 140px;
 }
 
+.card-title-container .small-uppercase {
+  margin-bottom: 5px;
+}
+
 .blur-container {
   position: relative;
 }
@@ -1499,7 +1574,7 @@ section {
   background-position: 0px -80px;
 }
 
-.hero-text-container .card-title-container .card-title-blur {
+.hero-text-container .card-title-blur {
   z-index: 0;
   filter: blur(4px);
   background-size: 200% 140px;
@@ -1541,6 +1616,7 @@ section {
   .card-title-container .card-title-text {
     background: rgba(255,255,255,0.75);
     border: none;
+    padding: 15px 25px;
   }
 }
 
@@ -1864,6 +1940,11 @@ section {
   font-size: 17px;
 }
 
+.color-background.news-card-square {
+  margin-left: 0;
+  margin-right: 0;
+}
+
 @media (max-width: 1200px) {
   .two-thirds-width-card-image,
   .news-card-square {
@@ -2083,6 +2164,10 @@ section {
   color: $color;
 }
 
+.detail-links-container .small-uppercase {
+  margin-bottom: 5px;
+}
+
 /**
 * Partials: Personnel list
 **/
@@ -2137,6 +2222,13 @@ section {
   padding: 15px 0;
 }
 
+.personnel-archive .left-column {
+  width: 360px;
+  padding-left: 80px;
+  padding-right: 20px;
+  padding-top: 60px;
+}
+
 .personnel-archive .left-column a {
   display: block;
   font-weight: 800;
@@ -2153,13 +2245,21 @@ section {
 }
 
 @media (max-width: $desktop_breakpoint) {
-  .personnel-archive.two-column-container.one-third-width .left-column {
+  .personnel-archive .left-column {
     width: 280px;
+    padding-left: 0;
   }
 }
 
 @media (max-width: $mobile_breakpoint) {
   .personnel-archive .left-column {
+    display: block;
+    padding-top: 0;
+    padding-bottom: 0;
+  }
+
+  .personnel-archive .left-column br,
+  .personnel-archive .left-column a {
     display: none;
   }
 
@@ -2167,6 +2267,10 @@ section {
     width: 100%;
     display: block;
     padding: 0;
+  }
+
+  .personnel-archive h2 {
+    padding: 10px 40px 10px 0;
   }
 }
 
@@ -2321,32 +2425,6 @@ section {
   border-radius: 2px;
   display: none;
   box-shadow: -4px 4px 8px rgba(0,0,0,0.2);
-}
-
-/**
-* Partials: Page bottom buttons
-**/
-
-@media (max-width: $mobile_breakpoint) {
-  .page-bottom-buttons .two-column-container .left-column,
-  .page-bottom-buttons .two-column-container .right-column {
-    padding: 0 20px;
-  }
-
-  .page-bottom-buttons .two-column-container .left-column p,
-  .page-bottom-buttons .two-column-container .right-column p {
-    text-align: left;
-  }
-
-  .page-bottom-buttons .two-column-container .right-column {
-    padding-top: 20px;
-    margin-top: 20px;
-  }
-
-  .page-bottom-buttons .two-column-container .two-column-text-block a.color-button {
-    margin-top: 20px;
-    margin-bottom: 30px;
-  }
 }
 
 /**
@@ -2589,15 +2667,15 @@ section {
 }
 
 /* evenly space events in table */
-.home-page .home-events-container a:nth-child(1) {
+.home-events-container a:nth-child(1) {
   padding-right: 40px;
 }
 
-.home-page .home-events-container a:nth-child(2) {
+.home-events-container a:nth-child(2) {
   padding: 0 20px;
 }
 
-.home-page .home-events-container a:nth-child(3) {
+.home-events-container a:nth-child(3) {
   padding-left: 40px;
 }
 
@@ -2612,16 +2690,6 @@ section {
 
 .home-events-container .background-image .card-title-container {
   width: auto;
-}
-
-@media (max-width: $desktop_breakpoint) {
-  .home-events-container.desktop {
-    display: none;
-  }
-
-  .mobile-home-events {
-    display: block;
-  }
 }
 
 /**
@@ -2646,10 +2714,6 @@ section {
 }
 
 @media (max-width: $desktop_breakpoint) {
-  .home-page .horizontal-card .teaser {
-    display: none;
-  }
-
   .home-page .horizontal-card .color-button {
     float: none;
     margin-top: 0;
@@ -2672,15 +2736,20 @@ section {
   padding: 0px;
 }
 
+@media (max-width: $mobile_breakpoint) {
+  .home-page .news-card-square {
+    padding: 25px;
+  }
+}
+
 /**
 * Home page: mobile newsletter
 **/
 
 .mobile.newsletter {
   padding: 40px;
-  background-image: url({{ site.baseurl }}/assets/images/placeholder-9.png);
+  background-image: url({{ site.baseurl }}/assets/images/backgrounds/vector-texture.png);
   text-align: center;
-  display: none;
 }
 
 .mobile.newsletter .newsletter-text {
@@ -2801,10 +2870,6 @@ section {
   padding-bottom: 6px;
 }
 
-.about-page .small-uppercase {
-  margin-bottom: 0;
-}
-
 @media (max-width: $desktop_breakpoint) {
   .about-page .color-background {
     padding: 30px;
@@ -2826,19 +2891,19 @@ section {
 }
 
 @media (max-width: $mobile_breakpoint) {
-  .about-page .color-background .two-column-container.one-third-width .left-column,
-  .about-page .color-background .two-column-container.one-third-width .right-column {
+  .about-page .color-background .one-third-width .left-column,
+  .about-page .color-background .one-third-width .right-column {
     display: block;
     width: 100%;
     padding: 0;
   }
 
-  .about-page .color-background .two-column-container.one-third-width .right-column {
+  .about-page .color-background .one-third-width .right-column {
     padding: 20px 0;
   }
 
-  .about-page .color-background .two-column-container h3,
-  .about-page .color-background .two-column-container .small-uppercase {
+  .about-page .color-background h3,
+  .about-page .color-background .small-uppercase {
     text-align: center;
   }
 
@@ -3012,6 +3077,10 @@ section {
     height: 400px;
   }
 
+  .projects-page .center-column {
+    padding: 30px;
+  }
+
   .projects-page .projects-container .left-column,
   .projects-page .projects-container .right-column {
     width: 100%;
@@ -3023,7 +3092,7 @@ section {
     margin-bottom: 0;
   }
 
-  .projects-page .two-column-container.half-width {
+  .projects-page .half-width {
     max-width: initial;
     padding: 0;
   }

@@ -3,7 +3,7 @@
     <div class='footer-logo'><img src='{{ site.baseurl }}/assets/images/branding/Yale-DHLab-logo.svg'></div>
   </div>
   <div class='footer-column footer-bottom'>
-    <div>
+    <div class='hours'>
       <div>
         <b>TODAY'S HOURS</b>
       </div>
@@ -13,17 +13,32 @@
     <div>Sterling Memorial Library, Room 316</div>
     <div>149 High Street, New Haven, CT 06511</div>
     <br/>
-    <div>
-      <a href='{{ site.email }}'>{{ site.email }}</a>
+    <div class='footer-mobile-icons'>
+      <a href='mailto:{{ site.email }}'>
+        <img src='{{ site.baseurl }}/assets/images/icons/footer-email.svg'>
+      </a>
+      <a href='tel:{{ site.phone }}'>
+        <img src='{{ site.baseurl }}/assets/images/icons/footer-phone.svg'>
+      </a>
+      <a href='https://www.facebook.com/{{ site.facebook }}'>
+        <img src='{{ site.baseurl }}/assets/images/icons/footer-facebook.svg'>
+      </a>
+      <a href='https://twitter.com/{{ site.twitter }}'>
+        <img src='{{ site.baseurl }}/assets/images/icons/footer-twitter.svg'>
+      </a>
+      <a href='https://www.instagram.com/{{ site.instagram }}'>
+        <img src='{{ site.baseurl }}/assets/images/icons/footer-instagram.svg'>
+      </a>
     </div>
-    <div>{{ site.phone }}</div>
+    <div>
+      <a class='hide-mobile' href='{{ site.email }}'>{{ site.email }}</a>
+    </div>
+    <div class='hide-mobile'>{{ site.phone }}</div>
     <br/>
     <div><b>TERMS OF USE</b></div>
   </div>
-  <div class='footer-column footer-bottom'>
-    <div>
-      <b>ON CAMPUS</b>
-    </div>
+  <div class='footer-column footer-bottom' id='footer-on-campus'>
+    <b>ON CAMPUS</b>
     <br/>
     <div>Digital Scholarship at Yale</div>
     <br/>
