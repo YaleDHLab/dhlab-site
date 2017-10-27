@@ -89,6 +89,21 @@ a.inline-link {
 
 p a {
   color: $color;
+  font-weight: 600;
+}
+
+p a:hover {
+  color: $color;
+  font-weight: 600;
+}
+
+li a {
+  font-weight: 600;
+}
+
+li a:hover {
+  font-weight: 600;
+  color: $color;
 }
 
 b {
@@ -434,6 +449,12 @@ img {
 
 .color-background p a {
   color: #fff;
+  font-weight: 600;
+}
+
+.color-background p a:hover {
+  color: #000;
+  font-weight: 600;
 }
 
 .color-background .two-column-container.one-third-width .left-column {
@@ -1438,6 +1459,10 @@ section {
 
 .card-title-container .card-title {
   font-size: 1.5em;
+}
+
+#project:hover .card-title {
+  color: $color;
 }
 
 .card-title-container .card-title-blur {
