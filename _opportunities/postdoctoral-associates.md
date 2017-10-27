@@ -10,7 +10,7 @@ application_url: http://google.com
 overview: postdoctoral_associates
 ---
 
-<div class='center-column post'>
+<div class='center-column'>
   <div class='two-column-container one-third-width hide-left'>
     <div class='left-column'>
       {% include link-lists/opportunities_left_sidebar.html page=page %}
