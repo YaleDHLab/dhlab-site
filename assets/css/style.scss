@@ -606,7 +606,7 @@ header {
 
 header,
 footer {
-  background: rgba(0, 0, 0, 0.7);
+  background-color: rgba(0, 0, 0, 0.7);
 }
 
 .site-brand {
@@ -661,6 +661,17 @@ header.gray-header .nav-links .link:hover .sublinks {
   background: #efefef;
   color: #555;
   box-shadow: inset 0 2px 10px rgba(0,0,0,0.04);
+}
+
+/**
+* Mobile Header
+**/
+
+@media (max-width: $desktop_breakpoint) {
+  header,
+  .mobile-dark-header header {
+    background-color: rgba(0, 0, 0, 0.7);
+  }
 }
 
 /**
@@ -2951,10 +2962,6 @@ section {
   .news-page .teaser {
     display: none;
   }
-
-  .news-page header {
-    background: none;
-  }
 }
 
 /**
@@ -2970,10 +2977,6 @@ section {
 @media (max-width: $mobile_breakpoint) {
   .events-page .center-column {
     padding: 0 !important;
-  }
-
-  .events-page header {
-    background: none;
   }
 
   .events-page h2 {
