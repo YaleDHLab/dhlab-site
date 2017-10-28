@@ -52,11 +52,11 @@ class: about-page
     {% include text/personnel_list.html items=site.data.assistants.right %}
     <br/>
     <h2 class='subheading'>Work With Us</h2>
-    <p>Are you a programmer or designer interested in working in digital humanities? Contact us for information on becoming a DHLab assistant and explore our current <a href='#student-jobs'>Student Job Openings</a> for this academic year.</p>
+    <p>Are you a programmer or designer interested in working in digital humanities? Contact us for information on becoming a DHLab assistant and explore our current <a href='{{ site.baseurl }}/opportunities/student-jobs.html'>Student Job Openings</a> for this academic year.</p>
   {% endcapture %}
 
   {% assign left_button_url = '/projects.html' | prepend: site.baseurl %}
-  {% assign right_button_url = '/#' | prepend: site.baseurl %}
+  {% assign right_button_url = '#' | prepend: site.baseurl %}
 
   <div class='tablet-center'>
     {% include text/half-width/two_column_text.html

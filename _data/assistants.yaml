@@ -1,9 +1,11 @@
 left:
   2017-2018 PROJECT ASSISTANTS:
+    - name: Elliot Connors
+      affiliation: English and Computer Science
     - name: Eren Orbey
       affiliation: English and Computer Science
 
-  2016-2017 PROJECT ASSISTANTS:
+  2016-2017 PROJECT ASSISTANTS: 
     - name: Serena Lau
       affiliation: Environmental Anthropology
     - name: Abhishek Nayar
@@ -24,3 +26,5 @@ right:
   2017-2018 DIGITAL SCHOLARSHIP CONSULTANT:
     - name: Kevin Anderson
       affiliation: Psychology
+    - name: Clay Greene
+      affiliation: English
