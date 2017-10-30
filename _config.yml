@@ -81,6 +81,9 @@ github: YaleDHLab
 email: dhlab@yale.edu
 phone: 203-432-123
 
+# specify newsletter url
+newsletter: 'https://messages.yale.edu/Subscribe?ReturnUrl=%2fSubscribe%2fList%2fLIB'
+
 # configure gems
 plugins:
   - octopress-minify-html

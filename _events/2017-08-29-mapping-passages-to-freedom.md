@@ -2,7 +2,7 @@
 title: "Mapping Passages to Freedom"
 date: August 29, 2017
 image: /assets/images/placeholder-hero.jpg
-thumbnail: /assets/images/placeholder-9.png
+thumbnail: /assets/images/events/passages.jpg
 caption: ""
 categories: 
   - announcements
