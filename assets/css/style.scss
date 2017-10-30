@@ -2765,7 +2765,7 @@ section {
 **/
 
 .mobile.newsletter {
-  padding: 40px;
+  padding: 60px;
   background-image: url({{ site.baseurl }}/assets/images/backgrounds/vector-texture.png);
   text-align: center;
 }
@@ -2775,15 +2775,8 @@ section {
   display: inline-block;
 }
 
-.mobile.newsletter input {
-  display: block;
-  width: 100%;
-  margin: 20px 0;
-  padding: 12px;
-  font-size: 1em;
-}
-
 .mobile.newsletter .color-button {
+  margin-top: 15px;
   float: none;
 }
 
