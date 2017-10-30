@@ -3,8 +3,8 @@ title: Student Jobs
 order: 1
 image: '/assets/images/banners/sterling-nave.jpg'
 caption: >
-  Lorem ipsum dolor sit amet, sollicitudin non quas libero dictum nulla vel. Quam porttitor lacus a wisi. Duis congue, ut quam elit at a. Orci fermentum mattis accusantium. Libero fermentum condimentum sed, vel
-deadline: October 24 2018
+  The Nave in Sterling Memorial Library.
+deadline: Ongoing
 application_text: Apply now to become one of our 2018 student programmers or designers.
 application_url: http://google.com
 overview: student_jobs
@@ -21,9 +21,7 @@ overview: student_jobs
         title=page.title
       %}
 
-      <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Tortor pretium viverra suspendisse potenti nullam. Habitant morbi tristique senectus et netus. In eu mi bibendum neque egestas congue quisque. Nibh sit amet commodo nulla. Arcu vitae elementum curabitur vitae nunc sed. Sed turpis tincidunt id aliquet risus. Tristique senectus et netus et malesuada. Varius duis at consectetur lorem donec massa sapien faucibus et. Diam maecenas sed enim ut sem viverra aliquet eget. Vitae congue mauris rhoncus aenean vel elit scelerisque mauris. Sapien et ligula ullamcorper malesuada. Maecenas volutpat blandit aliquam etiam. Purus semper eget duis at tellus at urna condimentum mattis. Fringilla ut morbi tincidunt augue interdum velit. Interdum posuere lorem ipsum dolor sit amet consectetur adipiscing. Vitae sapien pellentesque habitant morbi tristique senectus et netus et. Nibh tortor id aliquet lectus proin nibh nisl.</p>
-
-      <p>Ac ut consequat semper viverra nam libero. Aliquam ultrices sagittis orci a scelerisque purus semper eget duis. Commodo quis imperdiet massa tincidunt. Nulla facilisi etiam dignissim diam quis enim. Nunc sed id semper risus in hendrerit. Tellus molestie nunc non blandit massa enim nec. Vulputate enim nulla aliquet porttitor. Diam sollicitudin tempor id eu. Posuere morbi leo urna molestie at elementum eu. Pretium aenean pharetra magna ac placerat vestibulum. Amet facilisis magna etiam tempor orci eu lobortis elementum. Faucibus turpis in eu mi. Sodales ut etiam sit amet nisl purus in mollis nunc. Sit amet massa vitae tortor condimentum lacinia.</p>
+      <p>If you have programming skills and an interest in humanistic data, apply to work in the Digital Humanities Lab! We are looking to hire Yale undergraduate and graduate students to work on a variety of exciting projects that are underway in the lab.</p>
     </div>
   </div>
 
@@ -32,62 +30,34 @@ overview: student_jobs
   %}
 
   {% capture left_text_one %}
-    <p>Lorem ipsum dolor sit amet, turpis odio molestie, lobortis faucibus pharetra et orci auctor, scelerisque sodales turpis ante congue velit eros, orci in, est pulvinar condimentum mi egestas. Arcu curabitur est rutrum inceptos, voluptatem elit lorem, lacus tempor mattis elit penatibus urna, aut cursus quis in et mus.</p>
-  {% endcapture %}
-
-  {% capture left_text_two %}
-    <p>Lorem ipsum dolor sit amet, turpis odio molestie, lobortis faucibus pharetra et orci auctor, scelerisque sodales turpis ante congue velit eros, orci in, est pulvinar condimentum mi egestas. Arcu curabitur est rutrum inceptos, voluptatem elit lorem, lacus tempor mattis elit penatibus urna, aut cursus quis in et mus.</p>
-    <p>Eget sollicitudin risus arcu atque ut, ligula suspendisse nunc pulvinar mi. Sit sit egestas metus proin at. Augue hymenaeos magna leo mauris mollis mi. Augue id justo sit ligula urna ullamcorper, magna facilisi neque, vestibulum et nonummy, nulla elit lorem blandit, tincidunt ut cras suscipit lacinia mauris. Est torquent diam suscipit et purus.</p>
-    <p>Eget sollicitudin risus arcu atque ut, ligula suspendisse nunc pulvinar mi. Sit sit egestas metus proin at. Augue hymenaeos magna leo mauris mollis mi. Augue id justo sit ligula urna ullamcorper, magna facilisi neque, vestibulum et nonummy, nulla elit lorem blandit, tincidunt ut cras suscipit lacinia mauris. Est torquent diam suscipit et purus.</p>
+    <p>Every semester the Digital Humanities Lab funds projects that require different levels of programming expertise. If you would like to be considered for one of these positions when they open up, please email your resume/CV to dhlab@yale.edu, along with a brief statement of interest.
+    </p>
   {% endcapture %}
 
   {% capture right_text_one %}
-    <p>Lorem ipsum dolor sit amet, turpis odio molestie, lobortis faucibus pharetra et orci auctor, scelerisque sodales turpis ante congue velit eros, orci in, est pulvinar condimentum mi egestas. Arcu curabitur est rutrum inceptos, voluptatem elit lorem, lacus tempor mattis elit penatibus urna, aut cursus quis in et mus.</p>
-    <p>Lorem ipsum dolor sit amet, turpis odio molestie, lobortis faucibus pharetra et orci auctor, scelerisque sodales turpis ante congue velit eros, orci in, est pulvinar condimentum mi egestas. Arcu curabitur est rutrum inceptos, voluptatem elit lorem, lacus tempor mattis elit penatibus urna, aut cursus quis in et mus.</p>
-  {% endcapture %}
-
-  {% capture right_text_two %}
-    <p>Lorem ipsum dolor sit amet, turpis odio molestie, lobortis faucibus pharetra et orci auctor, scelerisque sodales turpis ante congue velit eros, orci in, est pulvinar condimentum mi egestas. Arcu curabitur est rutrum inceptos, voluptatem elit lorem, lacus tempor mattis elit penatibus urna, aut cursus quis in et mus.</p>
-    <p>Eget sollicitudin risus arcu atque ut, ligula suspendisse nunc pulvinar mi. Sit sit egestas metus proin at. Augue hymenaeos magna leo mauris mollis mi. Augue id justo sit ligula urna ullamcorper, magna facilisi neque, vestibulum et nonummy, nulla elit lorem blandit, tincidunt ut cras suscipit lacinia mauris. Est torquent diam suscipit et purus.</p>
-    <a href='{{ site.baseurl }}/resources/workshops.html' class='white-button'>Learn More</a>
+    <p>Yale Digital Scholarship Services—which includes the Digital Humanities Lab and StatLab—hires graduate students each semester to join our team as Digital Scholarship consultants. Whether you use machine learning to find aesthetic patterns in 18th-century paintings, interactive data visualizations to track instances of textual reuse in Classical literature, or big data technologies to identify systemic drivers of gene expression, we want to hear from you.</p>
+    <p>Specific responsibilities vary, but consultants should expect:
+      <ul>
+        <li>to meet with Yale community members from the undergraduate level to the faculty level and to provide guidance on research questions in a 1-on-1 setting
+        </li>
+        <li>to use your proficiency in digital humanities, statistics, geospatial statistics, or data analysis topics</li>
+        <li>to answer common questions across various disciplines</li>
+        <li>to use your expertise on specific digital humanities, statistics, geospatial statistics, or data analysis topics, and to act as a point person for related questions</li>
+        <li>to think on your feet, quickly assess the needs of patrons, and help develop a recommendation for how they should proceed given their subject area, background, and timeline</li>
+        <li>to hone your teaching skills by developing and leading workshops on specific software applied to digital humanities, statistics, geospatial statistics, and data analysis topics</li>
+      </ul>
+    </p>
+    
+    <p>Inquiries can be directed to dhlab@yale.edu. A link to the application will be posted here when the next cycle opens.</p>
   {% endcapture %}
 
   {% include text/color_blocks.html
-    left_title_one='Responsibilities'
+    left_title_one='Projects'
     left_text_one=left_text_one
 
-    left_title_two='Selection Criteria'
-    left_text_two=left_text_two
-
-    right_title_one='Requirements'
+    right_title_one='Consultations'
     right_text_one=right_text_one
 
-    right_title_two='Online Submissions'
-    right_text_two=right_text_two
   %}
 
-    {% capture left_text %}
-    {% include text/personnel_list.html items=site.data.postdoctoral_associates %}
-    <p>Eleifend tellus pulvinar nunc sed metus, praesent nunc tortor, eget ante risus at eget et, pulvinar congue sociis felis imperdiet mauris. Mauris integer ligula, quis lacinia urna facilisis aliquam taciti. Quis pulvinar nunc nec incididunt cursus.</p>
-  {% endcapture %}
-
-  {% capture right_text %}
-    <p>Eleifend tellus pulvinar nunc sed metus, praesent nunc tortor, eget ante risus at eget et, pulvinar congue sociis felis imperdiet mauris. Mauris integer ligula, quis lacinia urna facilisis aliquam taciti. Quis pulvinar nunc nec incididunt cursus, turpis et nullam donec amet, vivamus convallis lectus pellentesque tristique vel, venenatis mattis luctus, rutrum at quam eget. Urna vel. Imperdiet in integer felis eget ac quis. Sed donec quis sollicitudin amet, adipiscing ac justo proin orci. Commodi venenatis, lectus ligula integer mus velit nulla, commodo tempor non duis, sem quam lorem etiam vitae suscipit.</p>
-    <p>Integer tincidunt porta, et posuere nulla maecenas sapien lectus. Nibh justo suscipit ipsam laboriosam, mauris nunc. Praesent nisl donec eius donec quam adipiscing, metus libero quis velit, sollicitudin nunc accumsan, felis dictum et dui nam senectus tellus. Habitasse ac viverra, velit ut, malesuada ut sed ac mauris eu. Est duis nec a leo natoque, curabitur pellentesque tellus vestibulum amet, pede volutpat tortor quam aliquam, dignissim eros. Magna adipiscing laoreet arcu cras nullam, accumsan luctus.</p>
-  {% endcapture %}
-
-  {% assign left_button_url = '/projects.html' | prepend: site.baseurl %}
-  {% assign right_button_url = '/resources.html' | prepend: site.baseurl %}
-
-  {% include text/half-width/two_column_text.html
-    left_title = 'Former Postdoctoral Associates'
-    left_text = left_text
-    left_button_url = left_button_url
-    left_button_label = 'View Projects'
-
-    right_title = 'Resources'
-    right_text = right_text
-    right_button_url = right_button_url
-    right_button_label = 'What We Offer'
-  %}
 </div>
