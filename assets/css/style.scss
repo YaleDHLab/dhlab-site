@@ -747,43 +747,43 @@ header.gray-header .nav-links .link:hover .sublinks {
   text-indent: -900px;
 } 
 
-#facebook {
+.facebook {
   background-image: url('{{ site.baseurl }}/assets/images/icons/nav-facebook.svg');
   background-repeat: no-repeat;
   width: 17px;
 }
 
-#facebook:hover {
+.facebook:hover {
   background-image: url('{{ site.baseurl }}/assets/images/icons/nav-facebook-yellow.svg');
 }
 
-#twitter {
+.twitter {
   background-image: url('{{ site.baseurl }}/assets/images/icons/nav-twitter.svg');
   background-repeat: no-repeat;
   width: 25px;
 }
 
-#twitter:hover {
+.twitter:hover {
   background-image: url('{{ site.baseurl }}/assets/images/icons/nav-twitter-yellow.svg');
 }
 
-#instagram {
+.instagram {
   background-image: url('{{ site.baseurl }}/assets/images/icons/nav-instagram.svg');
   background-repeat: no-repeat;
   width: 18px;
 }
 
-#instagram:hover {
+.instagram:hover {
   background-image: url('{{ site.baseurl }}/assets/images/icons/nav-instagram-yellow.svg');
 }
 
-#search {
+.search {
   background-image: url('{{ site.baseurl }}/assets/images/icons/nav-search.svg');
   background-repeat: no-repeat;
   width: 18px;
 }
 
-#search:hover {
+.search:hover {
   background-image: url('{{ site.baseurl }}/assets/images/icons/nav-search-yellow.svg');
 }
 
