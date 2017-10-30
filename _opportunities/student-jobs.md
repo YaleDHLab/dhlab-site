@@ -37,15 +37,16 @@ overview: student_jobs
   {% capture right_text_one %}
     <p>Yale Digital Scholarship Services—which includes the Digital Humanities Lab and StatLab—hires graduate students each semester to join our team as Digital Scholarship consultants. Whether you use machine learning to find aesthetic patterns in 18th-century paintings, interactive data visualizations to track instances of textual reuse in Classical literature, or big data technologies to identify systemic drivers of gene expression, we want to hear from you.</p>
     <p>Specific responsibilities vary, but consultants should expect:
-    <ul>
-      <li>to meet with Yale community members from the undergraduate level to the faculty level and to provide guidance on research questions in a 1-on-1 setting
-      </li>
-      <li>to use your proficiency in digital humanities, statistics, geospatial statistics, or data analysis topics</li>
-      <li>to answer common questions across various disciplines</li>
-      <li>to use your expertise on specific digital humanities, statistics, geospatial statistics, or data analysis topics, and to act as a point person for related questions</li>
-      <li>to think on your feet, quickly assess the needs of patrons, and help develop a recommendation for how they should proceed given their subject area, background, and timeline</li>
-      <li>to hone your teaching skills by developing and leading workshops on specific software applied to digital humanities, statistics, geospatial statistics, and data analysis topics</li>
-    </ul></p>
+      <ul>
+        <li>to meet with Yale community members from the undergraduate level to the faculty level and to provide guidance on research questions in a 1-on-1 setting
+        </li>
+        <li>to use your proficiency in digital humanities, statistics, geospatial statistics, or data analysis topics</li>
+        <li>to answer common questions across various disciplines</li>
+        <li>to use your expertise on specific digital humanities, statistics, geospatial statistics, or data analysis topics, and to act as a point person for related questions</li>
+        <li>to think on your feet, quickly assess the needs of patrons, and help develop a recommendation for how they should proceed given their subject area, background, and timeline</li>
+        <li>to hone your teaching skills by developing and leading workshops on specific software applied to digital humanities, statistics, geospatial statistics, and data analysis topics</li>
+      </ul>
+    </p>
     
     <p>Inquiries can be directed to dhlab@yale.edu. A link to the application will be posted here when the next cycle opens.</p>
   {% endcapture %}
