@@ -1462,7 +1462,11 @@ section {
   font-size: 1.5em;
 }
 
-#project:hover .card-title {
+.project-image-container:hover .card-title {
+  color: $color;
+}
+
+.hero-link:hover .card-title {
   color: $color;
 }
 
