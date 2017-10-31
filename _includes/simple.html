@@ -15,17 +15,22 @@
       category=include.label
       title=include.page.title
     %}
+    {% if include.label == 'EVENTS' %}
+      <div class='mobile mobile-event-timestamp'>
+        {% include events/event_timestamp.html event=include.page %}
+      </div>
+    {% endif %}
     <div class='two-column-container one-third-width hide-left'>
       <div class='left-column'>
         <h3>{{ page.title }}</h3>
         {% assign image_url = include.page.thumbnail | prepend: site.baseurl %}
         <div class='square-image background-image event-date-container'
           style='background-image:url({{ image_url }})'>
-          {% if include.label == 'EVENTS' %}  
+          {% if include.label == 'EVENTS' %}
             {% include events/event_date.html event=include.page %}
           {% endif %}
         </div>
-        {% if include.label == 'EVENTS' %} 
+        {% if include.label == 'EVENTS' %}
           {% include events/event_timestamp.html event=include.page %}
           {% include events/event_actions.html page=include.page %}
         {% endif %}
@@ -40,32 +45,43 @@
            <div>{{ team_member.position }}</div>
            <br/>
           {% endfor %}
-          <a href='{{ include.page.projecturl }}'' target='_blank' class='color-button'>View Project</a>
+          <a href='{{ include.page.projecturl }}' target='_blank' class='color-button'>View Project</a>
         {% endif %}
-     
-        <div class='event-tags'>
-          {% if include.page.tags.size > 0 %}
-            <div>Tags:</div>
-            {% for tag in include.page.tags %}
-              {% if forloop.last %}
-                <a href='{{ site.baseurl }}/events.html?tag={{ tag }}'>{{ tag }}</a>
-              {% else %}
-                <a href='{{ site.baseurl }}/events.html?tag={{ tag }}'>{{ tag }},</a>
-              {% endif %}
-            {% endfor %}
-          {% endif %}
-        </div>
+        {% include events/event_tags.html page=include.page %}
       </div>
       <div class='right-column'>
         {{ include.content }}
+        {% if include.label == 'EVENTS' %}
+          <div class='mobile-event-tags mobile'>
+            {% include events/event_tags.html page=page %}
+          </div>
+        {% endif %}
         {% if include.page.registerurl and include.label == 'EVENTS' %}
           <a href='{{ include.page.registerurl }}' target='_blank' class='color-button'>Register</a>
         {% endif %}
       </div>
     </div>
   </section>
-  {% include text/three_text_blocks.html
-    items=include.bottom_items
-    label=include.bottom_label
-  %}
+  {% if include.label == 'EVENTS' %}
+    <div class='hide-tablet'>
+      {% include text/three_text_blocks.html
+        items=include.bottom_items
+        label=include.bottom_label
+      %}
+    </div>
+    <div class='mobile mobile-event-bottom'>
+      <div class='mobile-event-actions'>
+        {% include events/event_actions.html page=include.page %}
+      </div>
+      <h2>Related Events</h2>
+      {% for item in include.bottom_items limit:3 %}
+        {%- include cards/horizontal_card.html item=item -%}
+      {% endfor %}
+    </div>
+  {% else %}
+    {% include text/three_text_blocks.html
+      items=include.bottom_items
+      label=include.bottom_label
+    %}
+  {% endif %}
 </div>
