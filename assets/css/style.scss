@@ -747,9 +747,12 @@ header.gray-header .nav-links .link:hover .sublinks {
   text-indent: -900px;
 } 
 
+.nav-icon a {
+  background-repeat: no-repeat;
+}
+
 .facebook {
   background-image: url('{{ site.baseurl }}/assets/images/icons/nav-facebook.svg');
-  background-repeat: no-repeat;
   width: 17px;
 }
 
@@ -759,7 +762,6 @@ header.gray-header .nav-links .link:hover .sublinks {
 
 .twitter {
   background-image: url('{{ site.baseurl }}/assets/images/icons/nav-twitter.svg');
-  background-repeat: no-repeat;
   width: 25px;
 }
 
@@ -769,7 +771,6 @@ header.gray-header .nav-links .link:hover .sublinks {
 
 .instagram {
   background-image: url('{{ site.baseurl }}/assets/images/icons/nav-instagram.svg');
-  background-repeat: no-repeat;
   width: 18px;
 }
 
@@ -779,7 +780,6 @@ header.gray-header .nav-links .link:hover .sublinks {
 
 .search {
   background-image: url('{{ site.baseurl }}/assets/images/icons/nav-search.svg');
-  background-repeat: no-repeat;
   width: 18px;
 }
 
