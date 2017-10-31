@@ -624,7 +624,7 @@ footer {
   margin-top: -5px;
   display: inline-block;
   margin-left: 60px;
-  margin-left: calc((100% - 950px)/2);
+  margin-left: calc((100% - 1080px)/2);
   text-decoration: none;
   padding: 5px 0px;
   float: left;
@@ -733,6 +733,58 @@ header.gray-header .nav-links .link:hover .sublinks {
   padding: 25px 20px;
   display: inline-block;
   box-sizing: border-box;
+}
+
+.nav-icons {
+  margin-left: 36px;
+} 
+
+.nav-icon {
+  vertical-align: text-top;
+  margin: 0 12px; 
+  overflow: hidden;
+  display: inline-block;
+  text-indent: -900px;
+} 
+
+.nav-icon a {
+  background-repeat: no-repeat;
+}
+
+.facebook {
+  background-image: url('{{ site.baseurl }}/assets/images/icons/nav-facebook.svg');
+  width: 17px;
+}
+
+.facebook:hover {
+  background-image: url('{{ site.baseurl }}/assets/images/icons/nav-facebook-yellow.svg');
+}
+
+.twitter {
+  background-image: url('{{ site.baseurl }}/assets/images/icons/nav-twitter.svg');
+  width: 25px;
+}
+
+.twitter:hover {
+  background-image: url('{{ site.baseurl }}/assets/images/icons/nav-twitter-yellow.svg');
+}
+
+.instagram {
+  background-image: url('{{ site.baseurl }}/assets/images/icons/nav-instagram.svg');
+  width: 18px;
+}
+
+.instagram:hover {
+  background-image: url('{{ site.baseurl }}/assets/images/icons/nav-instagram-yellow.svg');
+}
+
+.search {
+  background-image: url('{{ site.baseurl }}/assets/images/icons/nav-search.svg');
+  width: 18px;
+}
+
+.search:hover {
+  background-image: url('{{ site.baseurl }}/assets/images/icons/nav-search-yellow.svg');
 }
 
 .sublinks {
