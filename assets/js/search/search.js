@@ -13,7 +13,7 @@ import resultTemplate from '../../templates/search-result-template.html';
   
   const url = '/dhlab-site/assets/js/search/',
       container = document.querySelector('.search-results-container'),
-      target = document.querySelector('.home-center-column'),
+      target = document.querySelector('.nav-icons .search'),
       searchBar = document.querySelector('.search-bar'),
       results = document.querySelector('#search-results'),
       mobileResults = document.querySelector('#mobile-search-results'),
@@ -22,7 +22,7 @@ import resultTemplate from '../../templates/search-result-template.html';
       mobileInput = document.querySelector('#mobile-search'),
       sortBy = document.querySelector('#search-select'),
       loader = document.querySelector('.search-bar .loader'),
-      breakpoint = 1000;
+      breakpoint = 1200; // mobile nav breakpoint
 
   /**
   * Get json
@@ -74,6 +74,8 @@ import resultTemplate from '../../templates/search-result-template.html';
   const toggleSearch = (e) => {
     if (searchBar.className.includes('active')) {
       searchBar.className = searchBar.className.replace('active', '')
+      container.style.display = 'none';
+      container.style.height = '70px';
     } else {
       searchBar.className += ' active';
       input.focus()
@@ -102,7 +104,6 @@ import resultTemplate from '../../templates/search-result-template.html';
     })
     const sorted = _.chain(matches).sortBy(sortBy.value).reverse().value();
     updateResults(sorted);
-    console.log(sorted)
   }
 
   /**
@@ -110,7 +111,7 @@ import resultTemplate from '../../templates/search-result-template.html';
   **/
 
   const getInputValue = () => {
-    return window.innerWidth > breakpoint ? input.value : mobileInput.value;
+    return getWidth() > breakpoint ? input.value : mobileInput.value;
   }
 
   /**
@@ -119,12 +120,12 @@ import resultTemplate from '../../templates/search-result-template.html';
 
   const updateResults = (matches) => {
     const formatted = formatMatches(matches);
-    console.log(formatted);
     const html = resultTemplate({
       items: formatted
     });
     const resultTarget = getResultsTarget();
     resultTarget.innerHTML = html;
+    container.style.display = 'block';
     container.style.height = window.innerHeight + 'px';
   }
 
@@ -133,7 +134,7 @@ import resultTemplate from '../../templates/search-result-template.html';
   **/
 
   const formatMatches = (matches) => {
-    if (window.innerWidth > breakpoint) return matches;
+    if (getWidth() > breakpoint) return matches;
     const formatted = matches.map((m) => {
       m.teaser = m.teaser.substring(0, 120) + '...';
       return m;
@@ -142,11 +143,20 @@ import resultTemplate from '../../templates/search-result-template.html';
   }
 
   /**
+  * Get the window inner width
+  **/
+
+  const getWidth = () => {
+    console.log(document.documentElement.clientWidth || window.innerWidth)
+    return document.documentElement.clientWidth || window.innerWidth;
+  }
+
+  /**
   * Determine which results item to target
   **/
 
   const getResultsTarget = () => {
-    return window.innerWidth > breakpoint ? results : mobileResults;
+    return getWidth() > breakpoint ? results : mobileResults;
   }
 
   /**
