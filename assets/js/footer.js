@@ -1,4 +1,4 @@
-(function() {
+(() => {
   const toggleActiveClass = (e) => {
     target.className.includes('active') ?
         target.className = e.target.className.replace(' active', '')

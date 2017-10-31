@@ -1,7 +1,8 @@
-import './js/header.js';
+import './js/navigation.js';
 import './js/footer.js';
 import './js/filters/filter-events.js';
 import './js/filters/filter-projects.js';
 import './js/filters/filter-news.js';
 import './js/copy-to-clipboard.js';
 import './js/parallax-scroll.js';
+import './js/search/search.js';

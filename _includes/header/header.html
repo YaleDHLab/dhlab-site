@@ -15,6 +15,8 @@
         <img src='{{ site.baseurl }}/assets/images/branding/DHLab-Logo.svg'>
         <span class='close-mobile-header'>✕</span>
       </div>
+      <input id='mobile-search' class='mobile-search' placeholder='Search'>
+      <div id='mobile-search-results' class='mobile-search-results'></div>
       <div class='link about'>
         <a href='{{ site.baseurl }}/about.html'>About</a>
         <div class='about-links sublinks'>
@@ -61,4 +63,5 @@
       </div>
     </div>
   </div>
+  {% include header/header_search.html %}
 </header>

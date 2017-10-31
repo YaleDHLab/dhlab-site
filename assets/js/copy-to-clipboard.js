@@ -1,6 +1,6 @@
-(function() {
+(() =>  {
 
-  var clipboardTarget = document.querySelector('#clipboard-target'),
+  const clipboardTarget = document.querySelector('#clipboard-target'),
       clipboardContent = document.querySelector('#clipboard-content'),
       clipboardNotification = document.querySelector('#clipboard-notification');
 
@@ -8,15 +8,15 @@
 
   clipboardTarget.addEventListener('click', handleClick)
 
-  function handleClick(e) {
+  const handleClick = (e) => {
     try {
       clipboardContent.select();
-      var result = document.execCommand('copy');
+      const result = document.execCommand('copy');
       if (result) confirmSuccess();
     } catch (err) {}
   };
 
-  function confirmSuccess() {
+  const confirmSuccess = () => {
     clipboardNotification.style.display = 'block';
     setTimeout(function() {
       clipboardNotification.style.display = 'none';
