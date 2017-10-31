@@ -147,7 +147,6 @@ import resultTemplate from '../../templates/search-result-template.html';
   **/
 
   const getWidth = () => {
-    console.log(document.documentElement.clientWidth || window.innerWidth)
     return document.documentElement.clientWidth || window.innerWidth;
   }
 
