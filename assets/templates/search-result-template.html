@@ -1,0 +1,7 @@
+<% _.forEach(items, function(item) { %>
+  <a class='search-result' href='<%= item.url %>'>
+    <h4 class='search-result-title'><%= item.title %></h4>
+    <div class='search-result-teaser'><%= item.teaser %></div>
+    <hr />
+  </a>
+<% }); %>

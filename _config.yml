@@ -92,7 +92,10 @@ plugins:
 minify_html: false
 
 # minify css and js with webpack
-keep_files: ['assets/bundle.js']
+keep_files:
+  - 'assets/bundle.js'
+  - 'assets/js/search/index.json'
+  - 'assets/js/search/id-to-metadata.json'
 
 # exclude node files from build directory
 exclude: [node_modules, utils]

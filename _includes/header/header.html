@@ -15,6 +15,8 @@
         <img src='{{ site.baseurl }}/assets/images/branding/DHLab-Logo.svg'>
         <span class='close-mobile-header'>✕</span>
       </div>
+      <input id='mobile-search' class='mobile-search' placeholder='Search'>
+      <div id='mobile-search-results' class='mobile-search-results'></div>
       <div class='link about'>
         <a href='{{ site.baseurl }}/about.html'>About</a>
         <div class='about-links sublinks'>
@@ -54,11 +56,11 @@
           {% include header/header_links.html items=site.guides %}
         </div>
       </div>
-      <div class='nav-icons'>
-        <a class='nav-icon facebook' href='https://www.facebook.com/{{ site.facebook }}' target='_blank'>Facebook</a>
-        <a class='nav-icon twitter' href='https://twitter.com/{{ site.twitter }}' target='_blank'>Twitter</a>
-        <a class='nav-icon instagram' href='https://instagram.com/{{ site.instagram }}' target='_blank'>Instagram</a>
-        <a class='nav-icon search' href='https://twitter.com/yaledhlab'>Search</a>
+      <div class='nav-icons desktop'>
+        <a class='facebook' href='https://www.facebook.com/{{ site.facebook }}' target='_blank'>Facebook</a>
+        <a class='twitter' href='https://twitter.com/{{ site.twitter }}' target='_blank'>Twitter</a>
+        <a class='instagram' href='https://instagram.com/{{ site.instagram }}' target='_blank'>Instagram</a>
+        <a class='search'>Search</a>
       </div>
       <div class='nav-links-mobile bottom'>
         <a href='{{ site.baseurl }}/resources/events.html'>Events Calendar</a>
@@ -67,4 +69,5 @@
       </div>
     </div>
   </div>
+  {% include header/header_search.html %}
 </header>
