@@ -51,12 +51,14 @@
 
   const handleLinkClick = (e) => {
     const elem = e.target;
-
-    /* Projects is a special case as it has no children */
-    if (!elem.parentNode.className.includes('projects')) {
-      e.preventDefault();
-      e.stopPropagation();
-    }
+    try {
+      /* Projects is a special case as it has no children */
+      const parentClass = e.target.parentNode.className;
+      if (parentClass.includes('link') && !parentClass.includes('projects')) {
+        e.preventDefault();
+        e.stopPropagation();
+      }
+    } catch(err) {}
 
     /* Toggle the active state of the element */
     elem.className = elem.className.includes(' active ') ?
@@ -74,5 +76,4 @@
   window.addEventListener('click', handleWindowClick);
   navicon.addEventListener('click', toggleNavicon);
   mobileClose.addEventListener('click', handleMobileCloseClick);
-
 })();
