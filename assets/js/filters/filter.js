@@ -13,11 +13,11 @@ export const filter = (config) => {
   const bindEventListeners = () => {
     [id1, id2].forEach((selector) => {
       const elem = document.querySelector(selector);
-      elem.addEventListener('change', handleChange);
+      elem.addEventListener('change', refilter);
     })
   }
 
-  const handleChange = () => {
+  const refilter = () => {
     let selected = {};
     let itemsToRender = [];
     selected[field1] = document.querySelector(id1).value;
@@ -96,6 +96,25 @@ export const filter = (config) => {
   }
 
   /**
+  * Filter a given select by query params if present
+  **/
+
+  const filterByQueryParams = () => {
+    if (!window.location.search) return;
+    const query = window.location.search.substring(1);
+    query.split('&').forEach((q) => {
+      const split = q.split('=');
+      const key = decodeURIComponent(split[0]);
+      const val = decodeURIComponent(split[1]);
+      if (key === field1) {
+        document.querySelector(id1).value = val;
+      } else if (key === field2) {
+        document.querySelector(id2).value = val;
+      }
+    })
+  }
+
+  /**
   * Globals
   **/
 
@@ -127,5 +146,6 @@ export const filter = (config) => {
   addOptions(id1, values[field1]);
   addOptions(id2, values[field2]);
   bindEventListeners();
-  renderItems(sortItems(items));
+  filterByQueryParams();
+  refilter();
 };
