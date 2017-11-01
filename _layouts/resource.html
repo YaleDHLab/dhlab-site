@@ -23,4 +23,19 @@ class: resource-detail-page
       {{ content }}
     </div>
   </div>
+  {% if page.workshops %}
+    <div class='resource-page-workshops'>
+      {% include events/get_future_events.html category='workshop' %}
+      {% include resources/workshops.html
+        items=future_events
+        label='Upcoming Workshops'
+      %}
+
+      {% include events/get_past_events.html category='workshop' %}
+      {% include resources/workshops.html
+        items=past_events
+        label='Past Workshops'
+      %}
+    </div>
+  {% endif %}
 </div>

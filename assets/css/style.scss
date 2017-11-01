@@ -197,6 +197,14 @@ img {
   max-width: 100%;
 }
 
+pre {
+  white-space: pre-wrap;
+  white-space: -moz-pre-wrap;
+  white-space: -pre-wrap;
+  white-space: -o-pre-wrap;
+  word-wrap: break-word;
+}
+
 /**
 * Text Helpers
 **/
@@ -2783,6 +2791,34 @@ section {
   }
 }
 
+/**
+* Partials: Resource page workshops
+**/
+
+.resource-page-workshops {
+  padding-left: 80px;
+}
+
+@media (max-width: $desktop_breakpoint) {
+  .resource-page-workshops {
+    padding-left: 0px;
+  }
+}
+
+@media (max-width: $mobile_breakpoint) {
+  .resource-page-workshops {
+    margin-left: -25px;
+    margin-right: -25px;
+    margin-bottom: -25px;
+  }
+
+  .resource-page-workshops h2 {
+    padding: 20px;
+    text-align: center;
+    background: #efefef;
+  }
+}
+
 /************************************************************
 *                           Pages                           *
 /***********************************************************/
@@ -3302,6 +3338,11 @@ section {
 /**
 * Events Landing Page
 **/
+
+.events-page .three-text-blocks {
+  padding-left: 0;
+  padding-right: 0;
+}
 
 @media (max-width: 800px) {
   .events-page .teaser {
