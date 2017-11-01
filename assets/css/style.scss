@@ -177,7 +177,7 @@ select {
   background-repeat: no-repeat;
   background-position: 90% 50%;
   background-color: #efefef;
-  max-width: 120px;
+  max-width: 150px;
 }
 
 ul {
@@ -238,7 +238,6 @@ pre {
 }
 
 .sidebar-text {
-  width: 85%;
   line-height: 1.5;
   margin-bottom: 14px;
 }
@@ -2055,7 +2054,7 @@ section {
 }
 
 .two-thirds-width-card-image {
-  padding-bottom: 33%;
+  padding-bottom: 38%;
   width: 65%;
   display: block;
 }
@@ -2321,6 +2320,10 @@ section {
 
 .detail-links-container .small-uppercase {
   margin-bottom: 5px;
+}
+
+.detail-links-container .color-button {
+  margin: 10px 0;
 }
 
 /**
@@ -3320,6 +3323,10 @@ section {
 }
 
 @media (max-width: $desktop_breakpoint) {
+  .news-page .center-column {
+    padding-top: 120px;
+  }
+
   .news-page .horizontal-card .small-uppercase {
     display: block;
     padding: 0;
@@ -3630,7 +3637,7 @@ section {
 * DH Training Scholarships Page
 **/
 
-.training-page .color-background hr {
+.hide-color-hr .color-background hr {
   display: none;
 }
 

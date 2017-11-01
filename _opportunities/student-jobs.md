@@ -5,9 +5,10 @@ image: '/assets/images/banners/sterling-nave.jpg'
 caption: >
   The Nave in Sterling Memorial Library.
 deadline: Ongoing
-application_text: Apply now to become one of our 2018 student programmers or designers.
-application_url: http://google.com
+application_text: >
+  Apply now to become one of our 2018 student programmers or designers.
 overview: student_jobs
+class: opportunities-detail-page hide-color-hr
 ---
 
 <div class='center-column'>
