@@ -1,0 +1,12 @@
+<div class='event-tags'>
+  {% if include.page.tags.size > 0 %}
+    <div>Tags:</div>
+    {% for tag in include.page.tags %}
+      {% if forloop.last %}
+        <a href='{{ site.baseurl }}/events.html?tag={{ tag }}'>{{ tag }}</a>
+      {% else %}
+        <a href='{{ site.baseurl }}/events.html?tag={{ tag }}'>{{ tag }},</a>
+      {% endif %}
+    {% endfor %}
+  {% endif %}
+</div>

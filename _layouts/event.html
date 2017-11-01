@@ -3,7 +3,8 @@ layout: default
 class: event-detail-page
 ---
 
-{% assign bottom_items = site.events | limit: 3 %}
+{% include events/get_sorted_events.html %}
+{% assign bottom_items = sorted_events | limit: 3 %}
 
 {% include simple.html 
   page=page 
