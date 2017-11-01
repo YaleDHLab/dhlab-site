@@ -12,7 +12,7 @@ class: opportunities-detail-page hide-color-hr
 ---
 
 <div class='center-column'>
-  <div class='two-column-container one-third-width hide-left'>
+  <div class='two-column-container one-third-width top-text'>
     <div class='left-column'>
       {% include link-lists/opportunities_left_sidebar.html page=page %}
     </div>

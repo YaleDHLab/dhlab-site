@@ -600,20 +600,6 @@ pre {
 }
 
 /**
-* Hide left styles
-**/
-
-@media (max-width: $desktop_breakpoint) {
-  .hide-left .left-column {
-    display: none !important;
-  }
-
-  .hide-left .right-column {
-    padding: 0;
-  }
-}
-
-/**
 * Header
 **/
 
@@ -2037,7 +2023,7 @@ section {
 .large-card-text {
   float: right;
   margin: 20px 80px 0 0;
-  width: 570px;
+  width: 600px;
 }
 
 .button-prompt {
@@ -2822,6 +2808,24 @@ section {
   }
 }
 
+/**
+* Partials: Top text block
+**/
+
+.top-text .right-column p:first-of-type {
+  margin-top: 0;
+}
+
+@media (max-width: $desktop_breakpoint) {
+  .top-text .left-column {
+    display: none !important;
+  }
+
+  .top-text .right-column {
+    padding: 0;
+  }
+}
+
 /************************************************************
 *                           Pages                           *
 /***********************************************************/
@@ -3027,6 +3031,20 @@ section {
   width: auto;
 }
 
+@media (max-width: 1100px) {
+  .home-events-container a:nth-child(1) {
+    padding-right: 10px;
+  }
+
+  .home-events-container a:nth-child(1) {
+    padding: 0 5px;
+  }
+
+  .home-events-container a:nth-child(1) {
+    padding-left: 10px;
+  }
+}
+
 /**
 * Home page: large cards
 **/
@@ -3225,6 +3243,10 @@ section {
 /**
 * About page
 **/
+
+.about-page .top-text {
+  margin-bottom: 30px;
+}
 
 .about-page .about-sidebar {
   width: 85%;
@@ -3667,6 +3689,26 @@ section {
 
 @media (max-width: $desktop_breakpoint) {
   .awards-page .center-column {
+    padding-bottom: 0;
+  }
+}
+
+/**
+* Opportunities Detail Pages
+**/
+
+@media (min-width: $desktop_breakpoint) {
+  .opportunities-detail-page .center-column {
+    padding-top: 70px;
+  }
+
+  .opportunities-detail-page .color-background {
+    margin-bottom: 60px;
+  }
+}
+
+@media (max-width: $desktop_breakpoint) {
+  .opportunities-detail-page .center-column {
     padding-bottom: 0;
   }
 }
