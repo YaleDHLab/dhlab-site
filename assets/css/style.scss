@@ -2827,7 +2827,7 @@ section {
 .home-page .hero-text {
   position: absolute;
   top: 220px;
-  z-index: 1;
+  z-index: 2;
   right: 0;
   left: 0;
 }
@@ -3043,7 +3043,7 @@ section {
 **/
 
 .mobile.newsletter {
-  padding: 60px;
+  padding: 50px 25px;
   background-image: url({{ site.baseurl }}/assets/images/backgrounds/vector-texture.png);
   text-align: center;
 }
@@ -3136,6 +3136,7 @@ section {
   .event-detail-page h2 {
     background: #efefef;
     text-align: center;
+    padding: 20px;
   }
 
   .event-detail-page .mobile-event-timestamp {
@@ -3579,6 +3580,16 @@ section {
 
   .awards-detail-page ul {
     margin-bottom: 20px;
+  }
+}
+
+/**
+* Awards Landing Page
+**/
+
+@media (max-width: $desktop_breakpoint) {
+  .awards-page .center-column {
+    padding-bottom: 0;
   }
 }
 
