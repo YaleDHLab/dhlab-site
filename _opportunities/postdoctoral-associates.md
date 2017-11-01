@@ -5,9 +5,10 @@ image: '/assets/images/banners/sterling-ext.jpg'
 caption: >
   Students in front of Sterling Memorial Library.
 deadline: October 24, 2018
-application_text: Apply now to become one of our 2018 Digital Humanities Postdoctoral Fellows.
-application_url: http://google.com
+application_text: >
+  Apply now to become one of our 2018 Digital Humanities Postdoctoral Fellows.
 overview: postdoctoral_associates
+class: opportunities-detail-page
 ---
 
 <div class='center-column'>
@@ -76,7 +77,7 @@ overview: postdoctoral_associates
 
   {% capture right_text_two %}
     <p>Applicants should click on the "Apply Here" button below to go to a Google Form where they can submit their information, along with a research plan that describes the goals and scope of the project that would be undertaken during the fellowship period, as well as their curriculum vitae.</p>
-    <a href='https://docs.google.com/forms/d/e/1FAIpQLSdF0PVOMAg-XhAcIBLwIffuE6usr7FuJtBVSuqfzYkz52Si7A/viewform?usp=sf_link' target='_blank' class='white-button'>Apply Here</a>
+    <a href='{{ site.postdoctoral_application }}' target='_blank' class='white-button'>Apply Here</a>
   {% endcapture %}
 
   {% include text/color_blocks.html

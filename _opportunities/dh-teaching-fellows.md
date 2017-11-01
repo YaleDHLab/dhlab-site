@@ -5,9 +5,10 @@ image: '/assets/images/banners/teaching-fellows.jpg'
 caption: >
   A cohort of Digital Humanities Teaching Fellows. Photo by Michael Marsland.
 deadline: October 24 2018
-application_text: Apply now to become one of our 2018 Digital Humanities Teaching Fellows.
-application_url: http://google.com
+application_text: >
+  Apply now to become one of our 2018 Digital Humanities Teaching Fellows.
 overview: teaching_fellows
+class: opportunities-detail-page
 ---
 
 <div class='center-column'>
