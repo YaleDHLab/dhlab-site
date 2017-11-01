@@ -2629,6 +2629,10 @@ section {
   color: $color;
 }
 
+.mobile-event-tags .event-tags div {
+  padding-top: 0;
+}
+
 /**
 * Partials: Center section title (text label above color block region)
 **/
@@ -3136,7 +3140,7 @@ section {
   }
 
   .event-detail-page .mobile-event-timestamp {
-    padding-top: 15px;
+    padding: 15px 0;
   }
 
   .event-detail-page .mobile-event-timestamp b {
