@@ -1,0 +1,8 @@
+<div class='workshops-container'>
+  <h2>{{ include.label }}</h2>
+  <hr class='hide-tablet' />
+
+  {% for item in include.items %}
+    {%- include cards/horizontal_card.html item=item -%}
+  {% endfor %}
+</div>

@@ -11,13 +11,9 @@ header_color: gray
   <section>
     <h2>EVENTS CALENDAR</h2>
     <hr class='hide-tablet' />
-    {%- capture now %}{{ 'now' | date: '%s' | minus: 86400 }}{% endcapture -%}
-    {% include events/get_sorted_events.html %}
-    {% for event in sorted_events reversed %}
-      {%- capture date %}{{ event.date | date: '%s' }}{% endcapture -%}
-      {% if date >= now %}
-        {%- include cards/horizontal_card.html item=event -%}
-      {% endif %}
+    {% include events/get_future_events.html %}
+    {% for item in future_events %}
+      {%- include cards/horizontal_card.html item=item -%}
     {% endfor %}
   </section>
 
