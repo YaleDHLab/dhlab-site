@@ -1,6 +1,7 @@
 {
   'url': {{ include.item.url | jsonify }},
   'title': {{ include.item.title | escape | jsonify }},
+  'formatted_date': {{ include.item.date | date: '%B %-d %Y' | jsonify }},
   'date': {{ include.item.date | jsonify }},
   'seconds': {{ include.item.date | date: '%s' | jsonify }},
   'time': {{ include.item.time | jsonify }},
