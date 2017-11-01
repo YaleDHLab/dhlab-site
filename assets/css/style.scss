@@ -3036,11 +3036,11 @@ section {
     padding-right: 10px;
   }
 
-  .home-events-container a:nth-child(1) {
+  .home-events-container a:nth-child(2) {
     padding: 0 5px;
   }
 
-  .home-events-container a:nth-child(1) {
+  .home-events-container a:nth-child(3) {
     padding-left: 10px;
   }
 }
@@ -3100,7 +3100,6 @@ section {
 **/
 
 .mobile.newsletter {
-  padding: 50px 25px;
   background-image: url({{ site.baseurl }}/assets/images/backgrounds/vector-texture.png);
   text-align: center;
 }
@@ -3113,6 +3112,18 @@ section {
 .mobile.newsletter .color-button {
   margin-top: 15px;
   float: none;
+}
+
+@media (max-width: $desktop_breakpoint) {
+  .mobile.newsletter {
+    padding: 80px 25px;
+  }
+}
+
+@media (max-width: $mobile_breakpoint) {
+  .mobile.newsletter {
+    padding: 50px 25px;
+  }
 }
 
 /**
