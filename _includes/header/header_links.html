@@ -1,3 +1,4 @@
-{% for item in include.items %}
+{% assign sorted = include.items | sort:'order' %}
+{% for item in sorted %}
   <a href='{{ item.url | prepend: site.baseurl }}'>{{ item.title }}</a>
 {% endfor %}

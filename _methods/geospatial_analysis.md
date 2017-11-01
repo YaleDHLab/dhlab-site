@@ -1,6 +1,6 @@
 ---
 title: Geospatial Analysis
-order: 3
+order: 2
 project_category: geospatial_analysis
 image: '/assets/images/banners/globe.jpg'
 caption: >

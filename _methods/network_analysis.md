@@ -1,6 +1,6 @@
 ---
 title: Network Analysis
-order: 2
+order: 3
 project_category: network_analysis
 image: '/assets/images/banners/networks.jpg'
 caption: >
