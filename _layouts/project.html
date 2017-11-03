@@ -14,15 +14,16 @@ class: project-detail-page
 <div class='center-column'>
   <div class='two-column-container one-third-width top-text'>
     <div class='left-column'>
-      <div class='project-team-members'>
-        {% for team_member in page.team %}
-          <div><b>{{ team_member.name }}</b></div>
-          <div>{{ team_member.position }}</div>
-          <br/>
-        {% endfor %}
-      </div>
+      {% include projects/team_members.html page=page %}
     </div>
     <div class='right-column'>
+      <div class='mobile'>
+        {% include text/mobile_section_title.html
+          category='PROJECTS'
+          title=page.title
+        %}
+        {% include projects/team_members.html page=page %}
+      </div>
       {{ content }}
     </div>
   </div>
