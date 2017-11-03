@@ -125,10 +125,6 @@ h2 {
   padding: 20px 40px 20px 0;
 }
 
-h2.subheading {
-  padding: 0;
-}
-
 h3 {
   font-size: 1.5em;
   transition: color .1s;
@@ -2812,7 +2808,15 @@ section {
 * Partials: Top text block
 **/
 
+.top-text h2:first-of-type {
+  padding-top: 0;
+}
+
 .top-text .right-column p:first-of-type {
+  margin-top: 0;
+}
+
+.top-text h2 + p {
   margin-top: 0;
 }
 
@@ -3663,6 +3667,18 @@ section {
 
 .project-team-members {
   padding-left: 80px;
+}
+
+@media (max-width: $desktop_breakpoint) {
+  .project-team-members {
+    padding-left: 0;
+    padding-top: 30px;
+    padding-bottom: 30px;
+  }
+
+  .project-team-members br:last-of-type {
+    display: none;
+  }
 }
 
 /**
