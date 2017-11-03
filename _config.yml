@@ -3,6 +3,9 @@ baseurl: '/dhlab-site'
 # render posts with dates in the future
 future: true
 
+# minify html in production
+minify_html: false
+
 # minify assets
 sass:
   style: compressed
@@ -94,9 +97,6 @@ postdoctoral_application: 'https://docs.google.com/forms/d/e/1FAIpQLSdF0PVOMAg-X
 plugins:
   - octopress-minify-html
 
-# minify html in production
-minify_html: false
-
 # minify css and js with webpack
 keep_files:
   - 'assets/bundle.js'
@@ -104,4 +104,6 @@ keep_files:
   - 'assets/js/search/id-to-metadata.json'
 
 # exclude node files from build directory
-exclude: [node_modules, utils]
+exclude:
+  - 'node_modules'
+  - 'utils'
