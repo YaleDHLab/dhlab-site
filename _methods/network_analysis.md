@@ -4,16 +4,19 @@ order: 3
 project_category: network_analysis
 image: '/assets/images/banners/networks.jpg'
 caption: >
-  Lorem ipsum dolor sit amet, sollicitudin non quas libero dictum nulla vel. Quam porttitor lacus a wisi. Duis congue, ut quam elit at a. Orci fermentum mattis accusantium. Libero fermentum condimentum sed, vel
+ 
 teaser: >
-  Lorem ipsum dolor sit amet, sollicitudin non quas libero dictum nulla vel. Quam porttitor lacus a wisi. Duis congue, ut quam elit at a. Orci fermentum mattis accusantium. Libero fermentum condimentum sed, vel
 ---
 
 <h2 class='subheading'>Overview</h2>
+Networks offer a dynamic way to study things (often referred to as 'nodes' or 'vertices') and the relationships between them (called 'edges' or 'arcs'). Nodes can be anything, from people, places, and books to concepts or words, and they can have attributes like gender or year of publication that you could encode via color, size, or another visual channel to discover patterns. 
 
-Lorem ipsum dolor sit amet, sollicitudin non quas libero dictum nulla vel. Quam porttitor lacus a wisi. Duis congue, ut quam elit at a. Orci fermentum mattis accusantium. Libero fermentum condimentum sed, vel nunc lobortis, pede congue eu lorem in proin, orci consectetuer suscipit orci interdum, lacinia nulla hendrerit pellentesque sapien orci. Condimentum turpis, facilisis lectus vestibulum, tristique praesent viverra, placerat arcu id. Nulla eu mi, proin pede pulvinar viverra sit, cras ante pellentesque dui. Congue cum id ut. Vel tortor ducimus vel, senectus lacinia facilisi nam, sem vehicula dolor sed, aliquip adipiscing feugiat.
-<br/>
+<h2 class='subheading'>Tools</h2>
+There are many free, open-source options for generating network graphs. Popular tools include <a href='https://gephi.org/' target='_blank'>Gephi</a>and <a href= 'http://www.cytoscape.org/?gclid=EAIaIQobChMIqJvh7YKj1wIV6LztCh3v8Q0DEAAYASAAEgLDmvD_BwE' target='_blank'>Cytoscape</a>. 
 
-<h2 class='subheading'>Methods &amp; Tools</h2>
+<h2 class='subheading'>Recommended Readings</h2>
+<a href='http://www.scottbot.net/HIAL/index.html@p=6279.html' target='_blank'>"Demystifying Networks"</a> by Scott Weingart  
 
-Lorem ipsum dolor sit amet, sollicitudin non quas libero dictum nulla vel. Quam porttitor lacus a wisi. Duis congue, ut quam elit at a. Orci fermentum mattis accusantium. Libero fermentum condimentum sed, vel nunc lobortis, pede congue eu lorem in proin, orci consectetuer suscipit orci interdum, lacinia nulla hendrerit pellentesque sapien orci. Condimentum turpis, facilisis lectus vestibulum, tristique praesent viverra, placerat arcu id. Nulla eu mi, proin pede pulvinar viverra sit, cras ante pellentesque dui. Congue cum id ut. Vel tortor ducimus vel, senectus lacinia facilisi nam, sem vehicula dolor sed, aliquip adipiscing feugiat.
+<em>Networks: An Introduction</em> by Mark Newman  
+
+<em>Networks, Crowds, and Markets</em> by David Easley and Jon Kleinberg
