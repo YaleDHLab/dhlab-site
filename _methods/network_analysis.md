@@ -17,6 +17,9 @@ There are many free, open-source options for generating network graphs. Popular 
 <h2 class='subheading'>Recommended Readings</h2>
 <a href='http://www.scottbot.net/HIAL/index.html@p=6279.html' target='_blank'>"Demystifying Networks"</a> by Scott Weingart  
 
+"Network Analysis, Plot Theory" in <em>Distant Reading</em> by Franco Moretti  
+
 <em>Networks: An Introduction</em> by Mark Newman  
 
 <em>Networks, Crowds, and Markets</em> by David Easley and Jon Kleinberg
+
