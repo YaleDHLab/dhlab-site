@@ -1075,6 +1075,10 @@ footer .footer-mobile-icons {
   display: none;
 }
 
+footer a:hover {
+  color: $color;
+}
+
 @media (max-width: 1100px) {
   footer {
     display: block;
