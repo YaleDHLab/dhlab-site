@@ -1,11 +1,12 @@
 ---
 title: Textual Analysis
 order: 0
-project_category: textual_analysis
+project_category: Textual Analysis
 image: '/assets/images/banners/text-mining.jpg'
 caption: >
-
+  Lorem ipsum dolor sit amet, sollicitudin non quas libero dictum nulla vel. Quam porttitor lacus a wisi. Duis congue, ut quam elit at a. Orci fermentum mattis accusantium. Libero fermentum condimentum sed, vel
 teaser: >
+  Lorem ipsum dolor sit amet, sollicitudin non quas libero dictum nulla vel. Quam porttitor lacus a wisi. Duis congue, ut quam elit at a. Orci fermentum mattis accusantium. Libero fermentum condimentum sed, vel
 ---
 <h2 class='subheading'>Overview</h2>
 

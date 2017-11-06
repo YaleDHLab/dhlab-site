@@ -1,11 +1,12 @@
 ---
 title: Network Analysis
 order: 3
-project_category: network_analysis
+project_category: Network Analysis
 image: '/assets/images/banners/networks.jpg'
 caption: >
- 
+  Lorem ipsum dolor sit amet, sollicitudin non quas libero dictum nulla vel. Quam porttitor lacus a wisi. Duis congue, ut quam elit at a. Orci fermentum mattis accusantium. Libero fermentum condimentum sed, vel
 teaser: >
+  Lorem ipsum dolor sit amet, sollicitudin non quas libero dictum nulla vel. Quam porttitor lacus a wisi. Duis congue, ut quam elit at a. Orci fermentum mattis accusantium. Libero fermentum condimentum sed, vel
 ---
 
 <h2 class='subheading'>Overview</h2>
