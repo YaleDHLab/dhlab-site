@@ -8,13 +8,12 @@ deadline: October 24, 2018
 application_text: >
   Apply now to become one of our 2018 Digital Humanities Postdoctoral Fellows.
 overview: postdoctoral_associates
-class: opportunities-detail-page
 ---
 
 <div class='center-column'>
   <div class='two-column-container one-third-width top-text'>
     <div class='left-column'>
-      {% include link-lists/opportunities_left_sidebar.html page=page %}
+      {% include sidebars/opportunities_left_sidebar.html page=page %}
     </div>
     <div class='right-column'>
       {% include text/mobile_section_title.html
@@ -93,5 +92,4 @@ class: opportunities-detail-page
     right_title_two='Online Submissions'
     right_text_two=right_text_two 
   %}
-
 </div>

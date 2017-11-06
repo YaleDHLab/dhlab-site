@@ -1,7 +1,7 @@
 ---
 title: Visual Analysis
 order: 1
-project_category: visual_analysis
+project_category: Visual Analysis
 image: '/assets/images/projects/vogue.jpg'
 caption: >
   Lorem ipsum dolor sit amet, sollicitudin non quas libero dictum nulla vel. Quam porttitor lacus a wisi. Duis congue, ut quam elit at a. Orci fermentum mattis accusantium. Libero fermentum condimentum sed, vel

@@ -2289,23 +2289,23 @@ section {
 * Partials: Links to all detail pages for a view group
 **/
 
-.detail-links-container {
+.sidebar-container {
   padding-left: 80px;
 }
 
-.detail-page-links a {
+.sidebar-links a {
   line-height: 2em;
 }
 
-.detail-page-links a.active {
+.sidebar-links a.active {
   color: $color;
 }
 
-.detail-links-container .small-uppercase {
+.sidebar-container .small-uppercase {
   margin-bottom: 5px;
 }
 
-.detail-links-container .color-button {
+.sidebar-container .color-button {
   margin: 10px 0;
 }
 
@@ -2843,9 +2843,29 @@ section {
   padding-left: 0;
 }
 
+/**
+* Partials: hide color hr
+**/
+
+.hide-color-hr .color-background hr {
+  display: none;
+}
+
 /************************************************************
 *                           Pages                           *
 /***********************************************************/
+
+/**
+* Resized center column
+**/
+
+.resource-detail-page .center-column,
+.award-detail-page .center-column,
+.opportunity-detail-page .center-column,
+.method-detail-page .center-column,
+.guide-detail-page .center-column {
+  padding-top: 70px;
+}
 
 /**
 * Home page
@@ -3169,7 +3189,284 @@ section {
 }
 
 /**
-* Event Detail Page
+* About page
+**/
+
+.about-page .top-text {
+  margin-bottom: 30px;
+}
+
+.about-page .about-sidebar {
+  width: 85%;
+  line-height: 2;
+}
+
+.about-page .two-column-container .right-column {
+  padding-bottom: 0;
+}
+
+.about-page .color-background {
+  background-image: url({{ site.baseurl }}/assets/images/backgrounds/background-texture.svg);
+  background-repeat: repeat-y;
+  background-size: 62%;
+  background-position: -248px;
+}
+
+.about-page .color-background .two-column-container:last-of-type {
+  padding-bottom: 40px;
+}
+
+.about-page .two-column-container h3 {
+  padding-top: 0;
+  padding-bottom: 6px;
+}
+
+@media (max-width: $desktop_breakpoint) {
+  .about-page .color-background {
+    padding: 30px;
+    margin-left: -30px;
+    margin-right: -30px;
+  }
+
+  .about-page .color-background .two-column-container {
+    padding-left: 0;
+  }
+
+  .about-page .two-column-text-block h2 {
+    padding-bottom: 10px;
+  }
+
+  .about-page .two-column-text-block p {
+    text-align: left;
+  }
+
+  .about-page .two-column-text-block h2 + p {
+    margin-top: 0;
+  }
+}
+
+@media (max-width: $mobile_breakpoint) {
+  .about-page .color-background .one-third-width .left-column,
+  .about-page .color-background .one-third-width .right-column {
+    display: block;
+    width: 100%;
+    padding: 0;
+  }
+
+  .about-page .color-background .one-third-width .right-column {
+    padding: 20px 0;
+  }
+
+  .about-page .color-background h3,
+  .about-page .color-background .small-uppercase {
+    text-align: center;
+  }
+
+  .about-page .color-background .two-column-container:last-of-type {
+    padding-bottom: 0;
+  }
+
+  .about-page .color-background .one-third-width:last-of-type .right-column {
+    padding-bottom: 0;
+  }
+}
+
+/**
+* Personnel Pages
+**/
+
+.personnel .color-background {
+  background-image: url({{ site.baseurl }}/assets/images/backgrounds/background-texture.svg);
+  background-repeat: repeat-y;
+  background-size: 62%;
+  background-position: -248px;
+}
+
+/**
+* Resources Landing Page
+**/
+
+
+/**
+* Resource Detail Page
+**/
+
+
+/**
+* Awards Landing Page
+**/
+
+@media (max-width: $desktop_breakpoint) {
+  .awards-page .center-column {
+    padding-bottom: 0;
+  }
+}
+
+/**
+* Awards Detail Page
+**/
+
+@media (max-width: $mobile_breakpoint) {
+  .awards-detail-page .color-background {
+    margin-right: -30px;
+    margin-left: -30px;
+  }
+
+  .awards-detail-page .three-spaced-squares {
+    margin-left: -30px;
+    margin-right: -30px;
+  }
+
+  .awards-detail-page ul {
+    margin-bottom: 20px;
+  }
+}
+
+/**
+* Opportunities Landing Page
+**/
+
+
+/**
+* Opportunity Detail Pages
+**/
+
+@media (min-width: $desktop_breakpoint) {
+  .opportunity-detail-page .color-background {
+    margin-bottom: 60px;
+  }
+}
+
+@media (max-width: $desktop_breakpoint) {
+  .opportunity-detail-page .center-column {
+    padding-bottom: 0;
+  }
+}
+
+/**
+* News Landing Page
+**/
+
+.news-page .news-card-square {
+  background-image: url({{ site.baseurl }}/assets/images/backgrounds/vector-texture.png);
+  background-size: cover;
+}
+
+.news-page .large-card {
+  padding-bottom: 80px;
+}
+
+.news-page .horizontal-card .image-container {
+  margin-left: 0;
+}
+
+.news-page .news-mobile-text {
+  display: none;
+}
+
+@media (max-width: $desktop_breakpoint) {
+  .news-page .center-column {
+    padding-top: 120px;
+  }
+
+  .news-page .horizontal-card .small-uppercase {
+    display: block;
+    padding: 0;
+    margin-top: 20px;
+  }
+
+  .news-page .horizontal-card h3 {
+    margin-top: 0;
+  }
+
+  .news-page .large-card {
+    padding-bottom: 40px;
+  }
+}
+
+@media (max-width: $mobile_breakpoint) {
+  .news-page .center-column {
+    padding: 0;
+  }
+
+  .news-page .large-card {
+    padding-bottom: 0;
+  }
+}
+
+@media (max-width: 500px) {
+  .news-page .horizontal-card .small-uppercase {
+    margin: 8px 0;
+  }
+
+  .news-page .horizontal-card h3 {
+    margin-bottom: 10px;
+  }
+}
+
+@media (max-width: 600px) {
+  .news-page .teaser {
+    display: none;
+  }
+
+  .news-page .news-mobile-text {
+    display: block;
+  }
+}
+
+/**
+* News detail page
+**/
+
+.news-detail-page .social-media-icons {
+  margin-top: 10px;
+}
+
+.news-detail-date {
+  margin-bottom: 20px;
+  padding-left: 80px;
+}
+
+/**
+* Events Landing Page
+**/
+
+.events-page .three-text-blocks {
+  padding-left: 0;
+  padding-right: 0;
+}
+
+@media (max-width: 800px) {
+  .events-page .teaser {
+    display: none;
+  }
+}
+
+@media (max-width: $mobile_breakpoint) {
+  .events-page .center-column {
+    padding: 0 !important;
+  }
+
+  .events-page h2 {
+    padding: 20px;
+    background: #efefef;
+    text-align: center;
+    display: block;
+    margin: 0;
+  }
+
+  .events-page .horizontal-card {
+    margin-bottom: 0;
+  }
+
+  /* Past Events */
+  .events-page .archive-grid h2 {
+    margin: 30px 0 10px;
+  }
+}
+
+/**
+* Events Detail Page
 **/
 
 .event-detail-page .left-column h3 {
@@ -3255,245 +3552,6 @@ section {
     margin-right: -30px;
   }
 }
-
-/**
-* News detail page
-**/
-
-.news-detail-page .social-media-icons {
-  margin-top: 10px;
-}
-
-.news-detail-date {
-  margin-bottom: 20px;
-  padding-left: 80px;
-}
-
-/**
-* About page
-**/
-
-.about-page .top-text {
-  margin-bottom: 30px;
-}
-
-.about-page .about-sidebar {
-  width: 85%;
-  line-height: 2;
-}
-
-.about-page .two-column-container .right-column {
-  padding-bottom: 0;
-}
-
-.about-page .color-background {
-  background-image: url({{ site.baseurl }}/assets/images/backgrounds/background-texture.svg);
-  background-repeat: repeat-y;
-  background-size: 62%;
-  background-position: -248px;
-}
-
-.about-page .color-background .two-column-container:last-of-type {
-  padding-bottom: 40px;
-}
-
-.about-page .two-column-container h3 {
-  padding-top: 0;
-  padding-bottom: 6px;
-}
-
-@media (max-width: $desktop_breakpoint) {
-  .about-page .color-background {
-    padding: 30px;
-    margin-left: -30px;
-    margin-right: -30px;
-  }
-
-  .about-page .color-background .two-column-container {
-    padding-left: 0;
-  }
-
-  .about-page .two-column-text-block h2 {
-    padding-bottom: 10px;
-  }
-
-  .about-page .two-column-text-block p {
-    text-align: left;
-  }
-
-  .about-page .two-column-text-block h2 + p {
-    margin-top: 0;
-  }
-}
-
-@media (max-width: $mobile_breakpoint) {
-  .about-page .color-background .one-third-width .left-column,
-  .about-page .color-background .one-third-width .right-column {
-    display: block;
-    width: 100%;
-    padding: 0;
-  }
-
-  .about-page .color-background .one-third-width .right-column {
-    padding: 20px 0;
-  }
-
-  .about-page .color-background h3,
-  .about-page .color-background .small-uppercase {
-    text-align: center;
-  }
-
-  .about-page .color-background .two-column-container:last-of-type {
-    padding-bottom: 0;
-  }
-
-  .about-page .color-background .one-third-width:last-of-type .right-column {
-    padding-bottom: 0;
-  }
-}
-
-/**
-* News Landing Page
-**/
-
-.news-page .news-card-square {
-  background-image: url({{ site.baseurl }}/assets/images/backgrounds/vector-texture.png);
-  background-size: cover;
-}
-
-.news-page .large-card {
-  padding-bottom: 80px;
-}
-
-.news-page .horizontal-card .image-container {
-  margin-left: 0;
-}
-
-.news-page .news-mobile-text {
-  display: none;
-}
-
-@media (max-width: $desktop_breakpoint) {
-  .news-page .center-column {
-    padding-top: 120px;
-  }
-
-  .news-page .horizontal-card .small-uppercase {
-    display: block;
-    padding: 0;
-    margin-top: 20px;
-  }
-
-  .news-page .horizontal-card h3 {
-    margin-top: 0;
-  }
-
-  .news-page .large-card {
-    padding-bottom: 40px;
-  }
-}
-
-@media (max-width: $mobile_breakpoint) {
-  .news-page .center-column {
-    padding: 0;
-  }
-
-  .news-page .large-card {
-    padding-bottom: 0;
-  }
-}
-
-@media (max-width: 500px) {
-  .news-page .horizontal-card .small-uppercase {
-    margin: 8px 0;
-  }
-
-  .news-page .horizontal-card h3 {
-    margin-bottom: 10px;
-  }
-}
-
-@media (max-width: 600px) {
-  .news-page .teaser {
-    display: none;
-  }
-
-  .news-page .news-mobile-text {
-    display: block;
-  }
-}
-
-/**
-* Events Landing Page
-**/
-
-.events-page .three-text-blocks {
-  padding-left: 0;
-  padding-right: 0;
-}
-
-@media (max-width: 800px) {
-  .events-page .teaser {
-    display: none;
-  }
-}
-
-@media (max-width: $mobile_breakpoint) {
-  .events-page .center-column {
-    padding: 0 !important;
-  }
-
-  .events-page h2 {
-    padding: 20px;
-    background: #efefef;
-    text-align: center;
-    display: block;
-    margin: 0;
-  }
-
-  .events-page .horizontal-card {
-    margin-bottom: 0;
-  }
-
-  /* Past Events */
-  .events-page .archive-grid h2 {
-    margin: 30px 0 10px;
-  }
-}
-
-/*
-* Personnel Pages
-**/
-
-.personnel .color-background {
-  background-image: url({{ site.baseurl }}/assets/images/backgrounds/background-texture.svg);
-  background-repeat: repeat-y;
-  background-size: 62%;
-  background-position: -248px;
-}
-
-/**
-* Methods Landing Page
-**/
-
-.what-is-dh .two-column-container p:last-of-type {
-  margin-bottom: 0;
-}
-
-/**
-* Resources Landing Page
-**/
-
-
-/**
-* Awards Landing Page
-**/
-
-
-/**
-* Guides Landing Page
-**/
-
 
 /**
 * Projects Landing Page
@@ -3683,7 +3741,7 @@ section {
 }
 
 /**
-* Guides & Methods landing pages
+* Methods Landing Page
 **/
 
 .methods-page .rectangle-image-grid .image-title-container {
@@ -3697,32 +3755,9 @@ section {
 }
 
 /**
-* DH Training Scholarships Page
+* Methods Detail Page
 **/
 
-.hide-color-hr .color-background hr {
-  display: none;
-}
-
-/**
-* Awards Detail Page
-**/
-
-@media (max-width: $mobile_breakpoint) {
-  .awards-detail-page .color-background {
-    margin-right: -30px;
-    margin-left: -30px;
-  }
-
-  .awards-detail-page .three-spaced-squares {
-    margin-left: -30px;
-    margin-right: -30px;
-  }
-
-  .awards-detail-page ul {
-    margin-bottom: 20px;
-  }
-}
 
 /**
 * Guides Landing Page
@@ -3730,36 +3765,6 @@ section {
 
 .guides-page .two-column-text {
   padding-top: 0;
-}
-
-/**
-* Awards Landing Page
-**/
-
-@media (max-width: $desktop_breakpoint) {
-  .awards-page .center-column {
-    padding-bottom: 0;
-  }
-}
-
-/**
-* Opportunities Detail Pages
-**/
-
-@media (min-width: $desktop_breakpoint) {
-  .opportunities-detail-page .center-column {
-    padding-top: 70px;
-  }
-
-  .opportunities-detail-page .color-background {
-    margin-bottom: 60px;
-  }
-}
-
-@media (max-width: $desktop_breakpoint) {
-  .opportunities-detail-page .center-column {
-    padding-bottom: 0;
-  }
 }
 
 /**

@@ -1,8 +1,8 @@
-<div class='detail-links-container'>
+<div class='sidebar-container'>
   {% if include.label %}
     <div class='small-uppercase'>{{ include.label }}</div>
   {% endif %}
-  {% include link-lists/detail_page_links.html
+  {% include sidebars/sidebar_links.html
     items=include.items
     page=page
   %}

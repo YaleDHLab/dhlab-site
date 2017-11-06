@@ -8,13 +8,13 @@ deadline: Ongoing
 application_text: >
   Apply now to become one of our 2018 student programmers or designers.
 overview: student_jobs
-class: opportunities-detail-page hide-color-hr
+class: hide-color-hr
 ---
 
 <div class='center-column'>
   <div class='two-column-container one-third-width top-text'>
     <div class='left-column'>
-      {% include link-lists/opportunities_left_sidebar.html page=page %}
+      {% include sidebars/opportunities_left_sidebar.html page=page %}
     </div>
     <div class='right-column'>
       {% include text/mobile_section_title.html
@@ -58,7 +58,5 @@ class: opportunities-detail-page hide-color-hr
 
     right_title_one='Consultations'
     right_text_one=right_text_one
-
   %}
-
 </div>

@@ -7,7 +7,6 @@ caption: >
 deadline: October 24 2018
 application_text: Apply now to become one of our 2018 rapid prototyping grant recipients.
 application_url: http://google.com
-class: awards-detail-page
 ---
 
 <h2 class='subheading'>Overview</h2>

@@ -1,5 +1,5 @@
-<div class='detail-links-container'>
-  <div class='detail-page-links about-sidebar'>
+<div class='sidebar-container'>
+  <div class='sidebar-links about-sidebar'>
     {% assign about_url = '/about.html' %}
     {% if about_url == include.page.url %}
       {% assign about_class = 'active' %}
@@ -9,9 +9,8 @@
       <b>About the Yale DH Lab</b>
     </a>
 
-    {% assign items = site.about | sort: 'order' %}
-    {% include link-lists/detail_page_links.html
-      items=items
+    {% include sidebars/sidebar_links.html
+      items=site.about
       page=include.page
     %}
   </div>
