@@ -1,1 +1,5 @@
-<h3 class='center-section-title'>{{ include.text }}</h3>
+{% if include.id %}
+  <h3 class='center-section-title' id='{{ include.id }}'>{{ include.text }}</h3>
+{% else %}
+  <h3 class='center-section-title'>{{ include.text }}</h3>
+{% endif %}
