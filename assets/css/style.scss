@@ -1499,6 +1499,7 @@ section {
   font-size: .9em;
   padding-top: 4px;
   font-weight: 600;
+  min-height: 40px;
 }
 
 .archive-grid a.archive-item:hover {
@@ -1926,7 +1927,7 @@ section {
 
 .one-third-rectangle-cards .image-title-container {
   color: #fff;
-  z-index: 10;
+  z-index: 1;
   position: absolute;
   top: 50%;
   margin-top: -1em;
@@ -2599,30 +2600,30 @@ section {
 }
 
 /**
-* Partials: Event tags
+* Partials: Tags
 **/
 
-.event-tags div,
-.event-tags a {
+.tags div,
+.tags a {
   display: inline-block;
   color: #999;
 }
 
-.event-tags div {
+.tags div {
   font-weight: 600;
   padding-top: 20px;
 }
 
-.event-tags a {
+.tags a {
   font-weight: 400;
   padding-bottom: 4px;
 }
 
-.event-tags a:hover {
+.tags a:hover {
   color: $color;
 }
 
-.mobile-event-tags .event-tags div {
+.mobile-tags .tags div {
   padding-top: 0;
 }
 
