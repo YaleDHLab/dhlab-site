@@ -1,5 +1,6 @@
 <div class='detail-page-links'>
-  {% for item in include.items %}
+  {% assign items = include.items | sort: 'order' %}
+  {% for item in items %}
     {% if item.url == include.page.url %}
       {% assign class = 'active' %}
     {% else %}

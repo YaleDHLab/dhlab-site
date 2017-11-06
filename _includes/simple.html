@@ -45,15 +45,15 @@
            <div>{{ team_member.position }}</div>
            <br/>
           {% endfor %}
-          <a href='{{ include.page.projecturl }}' target='_blank' class='color-button'>View Project</a>
+          <a href='{{ include.page.project_url }}' target='_blank' class='color-button'>View Project</a>
         {% endif %}
-        {% include events/event_tags.html page=include.page %}
+        {% include tags.html page=include.page %}
       </div>
       <div class='right-column'>
         {{ include.content }}
         {% if include.label == 'EVENTS' %}
-          <div class='mobile-event-tags mobile'>
-            {% include events/event_tags.html page=page %}
+          <div class='mobile-tags mobile'>
+            {% include tags.html page=page %}
           </div>
         {% endif %}
         {% if include.page.registerurl and include.label == 'EVENTS' %}
