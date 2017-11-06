@@ -344,7 +344,7 @@ pre {
   bottom: 0;
   right: 0;
   left: 0;
-  transition: top linear .2s, background linear .2s;
+  transition: background .2s;
 }
 
 /**
@@ -716,7 +716,7 @@ header.gray-header .nav-links .link:hover .sublinks {
   font-weight: 600;
   letter-spacing: .5px;
   line-height: 20px;
-  padding: 0 50px;
+  padding-left: 50px;
   position: relative;
 }
 
@@ -793,7 +793,7 @@ a.subheader ~ a {
 .nav-icons a {
   background-repeat: no-repeat;
   vertical-align: text-top;
-  margin: 0 12px;
+  margin: 0 8px;
   overflow: hidden;
   display: inline-block;
   text-indent: -900px;
@@ -1763,7 +1763,7 @@ section {
   text-align: center;
   left: 0;
   right: 0;
-  transition: top .2s;
+  transition: transform .2s;
 }
 
 .rectangle-image-grid .image-title-container .image-title {
@@ -1789,7 +1789,7 @@ section {
   bottom: 0;
   left: 0;
   filter: blur(0px);
-  transition: filter .2s linear;
+  transition: filter .2s;
 }
 
 .rectangle-image-grid .four-rectangle-grid-cell {
@@ -1811,7 +1811,7 @@ section {
 }
 
 .rectangle-image-grid .four-rectangle-grid-cell .teaser {
-  transition: top .2s;
+  transition: transform .2s, filter .2s;
   top: 400px;
   position: relative;
   color: #fff;
@@ -1872,12 +1872,12 @@ section {
 
   .four-rectangle-grid-cell:hover .image-title-container,
   .four-rectangle-grid-cell:hover .image-title-container {
-    top: 100px;
+    transform: translate(0px,-50px);
   }
 
   .four-rectangle-grid-cell:hover .teaser {
     position: absolute;
-    top: 130px;
+    transform: translate(0,-265px);
     z-index: 4;
   }
 }
@@ -3047,7 +3047,7 @@ section {
   width: auto;
 }
 
-@media (max-width: 1100px) {
+@media (max-width: $desktop_breakpoint) {
   .home-events-container a:nth-child(1) {
     padding-right: 10px;
   }
@@ -3721,6 +3721,14 @@ section {
   .awards-detail-page ul {
     margin-bottom: 20px;
   }
+}
+
+/**
+* Guides Landing Page
+**/
+
+.guides-page .two-column-text {
+  padding-top: 0;
 }
 
 /**
