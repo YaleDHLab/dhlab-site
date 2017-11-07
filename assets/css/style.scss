@@ -337,14 +337,14 @@ pre {
 }
 
 .dark-overlay {
-  background: rgba(0,0,0,0.3);
+  background-color: rgba(0,0,0,0.3);
   position: absolute;
   z-index: 1;
   top: 0;
   bottom: 0;
   right: 0;
   left: 0;
-  transition: background .2s;
+  transition: background-color .2s;
 }
 
 /**
@@ -461,6 +461,11 @@ pre {
 
 .color-background .one-third-width .left-column {
   width: 280px;
+}
+
+.color-background .left-column p:last-of-type,
+.color-background .right-column p:last-of-type {
+  margin-bottom: 0
 }
 
 @media (max-width: $mobile_breakpoint) {
@@ -1759,15 +1764,14 @@ section {
 
 .rectangle-image-grid .image-title-container {
   position: absolute;
-  top: 50%;
-  height: 50px;
-  margin-top: -25px;
+  z-index: 2;
+  transform: translate(0, 50%);
+  width: 100%;
+  text-align: center;
+  height: 100%;
   color: #fff;
   font-weight: 400;
-  z-index: 2;
   text-align: center;
-  left: 0;
-  right: 0;
   transition: transform .2s;
 }
 
@@ -1817,11 +1821,12 @@ section {
 
 .rectangle-image-grid .four-rectangle-grid-cell .teaser {
   transition: transform .2s, filter .2s;
-  top: 400px;
+  transform: translate(0, 400px);
   position: relative;
   color: #fff;
-  width: 70%;
-  left: 15%;
+  width: 100%;
+  height: 100%;
+  padding: 0 15%;
   display: inline-block;
   margin-top: 6px;
 }
@@ -1860,10 +1865,13 @@ section {
 * Partials: Rectangle image grid hover state
 **/
 
+.four-rectangle-grid-cell:hover .dark-overlay {
+  border: 6px solid $color;
+}
+
 @media (min-width: 1200px) {
   .four-rectangle-grid-cell:hover .dark-overlay {
-    border: 6px solid $color;
-    background: rgba(0,0,0,0.5);
+    background-color: rgba(0,0,0,0.5);
   }
 
   .four-rectangle-grid-cell:hover .background-image,
@@ -1877,12 +1885,12 @@ section {
 
   .four-rectangle-grid-cell:hover .image-title-container,
   .four-rectangle-grid-cell:hover .image-title-container {
-    transform: translate(0px,-50px);
+    transform: translate(0px,40%);
   }
 
   .four-rectangle-grid-cell:hover .teaser {
     position: absolute;
-    transform: translate(0,-265px);
+    transform: translate(0,140px);
     z-index: 4;
   }
 }
@@ -2299,6 +2307,13 @@ section {
 
 .sidebar-links a {
   line-height: 2em;
+  text-indent: -1em;
+  display: inline-block;
+  padding-left: 1em;
+}
+
+.sidebar-links a.hover {
+  color: $color;
 }
 
 .sidebar-links a.active {
@@ -3747,6 +3762,13 @@ section {
 /**
 * Methods Landing Page
 **/
+
+.methods-page .two-column-text,
+.guides-page .two-column-text,
+.method-detail-page .two-column-text,
+.guide-detail-page .two-column-text {
+  padding-top: 0;
+}
 
 .methods-page .rectangle-image-grid .image-title-container {
   margin-top: -15px;
