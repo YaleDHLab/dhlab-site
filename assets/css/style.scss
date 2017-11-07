@@ -3240,6 +3240,17 @@ section {
   padding-bottom: 6px;
 }
 
+.about-page .color-background .square-image,
+.about-detail-page .color-background .square-image  {
+  filter: grayscale(100%);
+  transition: filter .5s;
+}
+
+.about-page .color-background .two-column-container:hover .square-image,
+.about-detail-page .color-background .two-column-container:hover .square-image {
+  filter: grayscale(0%);
+}
+
 @media (max-width: $desktop_breakpoint) {
   .about-page .color-background {
     padding: 30px;
