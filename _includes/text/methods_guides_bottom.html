@@ -1,5 +1,5 @@
 {% capture left_text %}
-  <p>If you're new to digital humanities and are interested in starting a project, we welcome you to visit us in Sterling 315 during <a href='{{ site.baseurl }}/resources/office-hours.html'>office hours</a>.</p>
+  <p>If you're new to digital humanities and are interested in starting a project, we welcome you to visit us in Sterling Memorial Library Room 316 during <a href='{{ site.baseurl }}/resources/office-hours.html'>office hours</a>.</p>
   <p>We also highly recommend checking out other digital humanities projects so you can look for new ideas for your own research. In particular, we recommend checking out projects by the following digital humanities centers:
     <ul>
       <li>
@@ -39,8 +39,8 @@
   </p>
 {% endcapture %}
 
-{% capture left_url %}{{ site.baseurl }}/methods.html{% endcapture %}
-{% capture right_url %}{{ site.baseurl }}/resources.html{% endcapture %}
+{% capture left_url %} {{ site.baseurl }}/methods.html {% endcapture %}
+{% capture right_url %} {{ site.baseurl }}/resources.html {% endcapture %}
 
 {% include text/half-width/two_column_text.html
   left_title='How do I get started?'
@@ -51,5 +51,5 @@
   right_title='Resources'
   right_text=right_text
   right_button_label='What we offer'
-  left_button_url=right_url
+  right_button_url=right_url
 %}

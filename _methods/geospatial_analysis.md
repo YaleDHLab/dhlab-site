@@ -4,9 +4,9 @@ order: 2
 project_category: Geospatial Analysis
 image: '/assets/images/banners/globe.jpg'
 caption: >
-  Lorem ipsum dolor sit amet, sollicitudin non quas libero dictum nulla vel. Quam porttitor lacus a wisi. Duis congue, ut quam elit at a. Orci fermentum mattis accusantium. Libero fermentum condimentum sed, vel
+  Geospatial analysis consists of studying patterns in the distributions of entities in space. Read more about geographic analysis methods and resources below.
 teaser: >
-  Lorem ipsum dolor sit amet, sollicitudin non quas libero dictum nulla vel. Quam porttitor lacus a wisi. Duis congue, ut quam elit at a. Orci fermentum mattis accusantium. Libero fermentum condimentum sed, vel
+  Geospatial analysis consists of studying patterns in the distributions of entities in space. Click to read more about geographic analysis methods.
 ---
 
 <h2 class='subheading'>Overview</h2>
@@ -15,9 +15,9 @@ Geospatial analysis can be used for a variety of projects, from mapping hundreds
 
 <h2 class='subheading'>Tools</h2>
 
-There are numerous tools you could turn to for a geospatial project. Popular options for which we often offer workshops on campus include: <a href='https://www.arcgis.com/home/index.html' target='_blank'>ArcGIS</a>, <a href='https://carto.com/' target='_blank'>Carto</a>, and <a href='http://leafletjs.com/' target='_blank'>Leaflet</a>. To present texts, visuals, and videos alongside maps, try <a href='https://storymaps.arcgis.com/en/' target='_blank'>Story Maps</a> (one product in the ArcGIS line).  
+There are numerous tools you could turn to for a geospatial project. Popular options for which we often offer workshops on campus include: [ArcGIS](https://www.arcgis.com/home/index.html), [Carto](https://carto.com/), and [Leaflet](http://leafletjs.com/). To present texts, visuals, and videos alongside maps, try [Story Maps](https://storymaps.arcgis.com/en/) (one product in the ArcGIS line).
 
-For ArcGIS, Yale has an enterprise account that provides affiliates with access to content created by others at the university, as well as free training videos. For more information on how to sign in with your NetID so that you can access these benefits, visit the recommended reading below by GIS Librarian, Miriam Olivares.   
+For ArcGIS, Yale has an enterprise account that provides affiliates with access to content created by others at the university, as well as free training videos. For more information on how to sign in with your NetID so that you can access these benefits, visit the recommended reading below by GIS Librarian, Miriam Olivares.
 
 <h2 class='subheading'>Recommended Readings</h2>
-<a href='https://guides.library.yale.edu/GIS' target='_blank'>"Geographic Information Systems at Yale: Getting Started with GIS"</a> by Miriam Olivares
+["Geographic Information Systems at Yale: Getting Started with GIS"](https://guides.library.yale.edu/GIS) by Miriam Olivares
