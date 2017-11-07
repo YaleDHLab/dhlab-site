@@ -1,5 +1,5 @@
 ---
-title: 'Historians&rsquo; Eye'
+title: "Historians' Eye"
 thumbnail: '/assets/images/projects/historians_eye.jpg'
 layout: archive
 project_url: http://campuspress.yale.edu/historianseye

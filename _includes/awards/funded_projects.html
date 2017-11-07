@@ -1,0 +1,5 @@
+{% assign items = site.projects | where: 'funded','true' | limit: 3 %}
+{% include grids/three_spaced_squares.html
+  items=items
+  label='FUNDED PROJECTS'
+%}
