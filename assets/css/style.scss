@@ -468,6 +468,11 @@ pre {
   margin-bottom: 0
 }
 
+.color-background .left-column p:last-of-type + a,
+.color-background .right-column p:last-of-type + a {
+  margin-top: 20px;
+}
+
 @media (max-width: $mobile_breakpoint) {
   .color-background {
     margin-left: -25px;
@@ -2836,6 +2841,10 @@ section {
   margin-top: 0;
 }
 
+.top-text .right-column h3 + p:first-of-type {
+  margin-top: 1em;
+}
+
 .top-text h2 + p {
   margin-top: 0;
 }
@@ -3587,6 +3596,10 @@ section {
 * Projects Landing Page
 **/
 
+.projects-page .center-column {
+  padding: 40px 60px;
+}
+
 .projects-page .hero .card-title-container {
   cursor: pointer;
 }
@@ -3596,10 +3609,6 @@ section {
   display: inline-block;
   width: 100%;
   padding-bottom: 60px;
-}
-
-.projects-page .center-column {
-  padding: 40px 110px 40px;
 }
 
 .projects-page .hero .hero-text-container {
@@ -3640,6 +3649,11 @@ section {
 
 .mobile-project {
   display: none;
+}
+
+.projects-page #grid-target {
+  margin-left: -8px;
+  margin-right: -8px;
 }
 
 @media (max-width: $desktop_breakpoint) {
