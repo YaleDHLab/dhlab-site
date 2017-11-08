@@ -5,9 +5,10 @@ image: /assets/images/placeholder-hero.jpg
 thumbnail: /assets/images/news/office-hours.jpg
 caption: ""
 categories: 
-  - announcements
-tags: 
   - student jobs
+tags: 
+  - geospatial statistics
+  - data analysis
 spotlight: false 
 image_layout: simple
 teaser: |

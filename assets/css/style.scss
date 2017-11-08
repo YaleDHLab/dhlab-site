@@ -1293,6 +1293,19 @@ section {
   padding: 0 0 10px;
 }
 
+.three-text-blocks .status {
+  width: 74px;
+  height: 22px;
+  background-color: #999;
+  font-size: .75em;
+  color: #fff;
+  text-transform: uppercase;
+  letter-spacing: .5px;
+  padding-top: 4px;
+  text-align: center;
+  border-radius: 4px;
+}
+
 .three-text-blocks .block a:nth-of-type(2) {
   font-weight: 800;
   color: $color;
