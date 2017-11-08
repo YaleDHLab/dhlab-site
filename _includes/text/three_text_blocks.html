@@ -9,7 +9,11 @@
       </a>
       <div class='small-uppercase'>{{ item.date | date: '%b %d' }}</div>
       <p>{{ item.content | strip_html | truncatewords: 30 }}</p>
-      <a href='{{ url }}'>Learn More &raquo;</a>
+      {% if item.status == 'fulfilled' %}
+        <div class='status'>Fulfilled</div>
+      {% else %}
+        <a href='{{ url }}'>Learn More &raquo;</a>
+      {% endif %}
     </div>
   {% endfor %}
 </section>

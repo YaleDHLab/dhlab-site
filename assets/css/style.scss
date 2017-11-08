@@ -1293,6 +1293,15 @@ section {
   padding: 0 0 10px;
 }
 
+.three-text-blocks .status {
+  height: 21px;
+  text-indent: -1000px;
+  overflow: hidden;
+  display: inline-block;
+  background-image: url('{{ site.baseurl }}/assets/images/icons/fulfilled.svg');
+  background-repeat: no-repeat;
+}
+
 .three-text-blocks .block a:nth-of-type(2) {
   font-weight: 800;
   color: $color;
