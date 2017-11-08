@@ -22,6 +22,8 @@ class: hide-color-hr
         title=page.title
       %}
 
+      <p>If you have programming skills and an interest in humanistic data, apply to work in the Digital Humanities Lab! We are looking to hire Yale undergraduate and graduate students to work on a variety of exciting projects that are underway in the lab.</p>
+
       <p>Every semester the Digital Humanities Lab funds projects that require different levels of programming expertise. If you would like to be considered for one of these positions when they open up, please email your resume/CV to dhlab@yale.edu, along with a brief statement of interest.</p>
 
       <p>Yale Digital Scholarship Services—which includes the Digital Humanities Lab and StatLab—hires graduate students each semester to join our team as Digital Scholarship consultants. Whether you use machine learning to find aesthetic patterns in 18th-century paintings, interactive data visualizations to track instances of textual reuse in Classical literature, or big data technologies to identify systemic drivers of gene expression, we want to hear from you.</p>
@@ -38,7 +40,7 @@ class: hide-color-hr
           </ul>
       </p>
     </div>
-
+  </div>
   {% if page.overview == 'student_jobs' %}
     {% assign items = site.news | where: 'categories', 'student jobs' | limit: 3 %}
     {% include text/three_text_blocks.html
