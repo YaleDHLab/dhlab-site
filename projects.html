@@ -63,6 +63,11 @@ class: projects-page mobile-dark-header
   </div>
 
   {% assign items = site.projects | where: 'layout', 'archive' %}
+  {% assign funded-items = site.projects | where: 'funded', 'true' %}
+  {% for item in funded-items %}
+    {% assign items = items | push: item %}
+  {% endfor %}
+  
   {% include grids/archive_grid.html
     items=items
     label='DIGITAL SCHOLARSHIP @ YALE'
