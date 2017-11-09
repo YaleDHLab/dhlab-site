@@ -3,15 +3,12 @@ title: "Historian's Eye"
 thumbnail: '/assets/images/projects/historians_eye.jpg'
 layout: archive
 project_url: http://campuspress.yale.edu/historianseye
-
 team:
   - name: Matthew Frye Jacobson
     position: American Studies, History, and <br/>African American Studies
-
 categories:
   - Crowdsourced Data
 tags:
-
 ---
 
 <h2 class='subheading'>Overview</h2>

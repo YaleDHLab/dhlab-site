@@ -1,7 +1,7 @@
 ---
 name: Gabor Toth
 role: Yale appointment in History <br/>History PhD
-image: /assets/images/about/crockett.jpg
+image: /assets/images/about/toth.jpg
 order: 3
 group: postdoc
 ---
