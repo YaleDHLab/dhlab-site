@@ -125,14 +125,14 @@ h2 {
   padding: 20px 40px 20px 0;
 }
 
+h2.subheading {
+  padding-bottom: 0;
+}
+
 h3 {
   font-size: 1.5em;
   transition: color .1s;
   padding: 0;
-}
-
-h2.subheading {
-  padding-bottom: 0;
 }
 
 hr {
