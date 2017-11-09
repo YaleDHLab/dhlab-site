@@ -1,5 +1,5 @@
 ---
-title: 'Slavery &amp; Abolition Portal'
+title: 'Slavery & Abolition Portal'
 thumbnail: '/assets/images/projects/abolition.jpg'
 layout: archive
 
