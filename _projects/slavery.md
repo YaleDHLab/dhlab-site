@@ -1,6 +1,5 @@
 ---
 title: 'Slavery & Abolition Portal'
->>>>>>> c790348a130bb92f2a984766f6de75f8ba299b99:_projects/slavery.md
 thumbnail: '/assets/images/projects/abolition.jpg'
 layout: archive
 team:
