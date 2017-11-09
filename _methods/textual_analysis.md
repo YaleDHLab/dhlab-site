@@ -4,22 +4,25 @@ order: 0
 project_category: Textual Analysis
 image: '/assets/images/banners/text-mining.jpg'
 caption: >
-  Lorem ipsum dolor sit amet, sollicitudin non quas libero dictum nulla vel. Quam porttitor lacus a wisi. Duis congue, ut quam elit at a. Orci fermentum mattis accusantium. Libero fermentum condimentum sed, vel
+  Text analysis consists of using automated techniques to study patterns in large text collections. Read more about text analysis methods and resources below.
 teaser: >
-  Lorem ipsum dolor sit amet, sollicitudin non quas libero dictum nulla vel. Quam porttitor lacus a wisi. Duis congue, ut quam elit at a. Orci fermentum mattis accusantium. Libero fermentum condimentum sed, vel
+  Text analysis consists of using automated techniques to study patterns in large text collections. Click to read more about text analysis methods and resources.
 ---
+
 <h2 class='subheading'>Overview</h2>
 
 Text mining includes a number of applications, from tracking textual reuse and the fluctuation of certain words or themes over time to stylometry and the modeling of literary forms. These texts might represent a single author's oeuvre, a periodical's full print run, or a collection of texts from across multiple centuries. Important to any texutal analysis project is the curation of a dataset, which often entails digitization and optical character recognition (OCR), the process of turning words from images into searchable text.    
 
 <h2 class='subheading'>Tools</h2>
 
-Out-of-the-box tools that don't require any programming from users include <a href='https://voyant-tools.org/' target='_blank'>Voyant</a>, <a href='http://www.laurenceanthony.net/software/antconc/' target='_blank'>AntConc</a>, and <a href='http://www.wordle.net/create' target='_blank'>Wordle</a>.
+Out-of-the-box tools that don't require any custom programming include Jstor Labs' [Text Analyzer](https://www.jstor.org/analyze/analyzer/progress), [Voyant](https://voyant-tools.org/), [AntConc](http://www.laurenceanthony.net/software/antconc/), and [Wordle](http://www.wordle.net/create).
 
-Platforms that require some programming include <a href='http://bookworm.culturomics.org/' target='_blank'>Bookworm</a> (for tracking word's frequency over time) and Andrew Goldstone's <a href='https://github.com/agoldst/dfrtopics/tree/43362fd4aea25caedf59f610fb02f3aaa30334ca' target='_blank'>dfrtopics</a> (for visualizing topic models).
+Tools that require minimal command line usage include Stanford's [CoreNLP](https://stanfordnlp.github.io/CoreNLP/) (which can identify people, locations, and even sentiment in unstructured text) and Andrew McCallum's [MALLET](http://mallet.cs.umass.edu/) (which generates topic models).
 
+Platforms that require some programming include [Bookworm](http://bookworm.culturomics.org/) (for tracking word's frequency over time) and Andrew Goldstone's [dfrtopics](https://github.com/agoldst/dfrtopics/) (for visualizing topic models).
 
-Popular packages that require varying levels of programming knowledge include Stanford's <a href='https://stanfordnlp.github.io/CoreNLP/' target='_blank'>CoreNLP</a>, <a href='http://www.nltk.org/' target='_blank'>the Natural Language Toolkit</a>, and the Python libraries: datasketch, NumPy, SciPy, and scikit-learn. 
+Popular packages that require more intensive levels of programming include [the Natural Language Toolkit](http://www.nltk.org/) and the Python libraries: datasketch, NumPy, SciPy, and scikit-learn.
 
 <h2 class='subheading'>Recommended Readings</h2>
-<a href='https://tedunderwood.com/2015/06/04/seven-ways-humanists-are-using-computers-to-understand-text/' target='_blank'>"Seven Ways Humanists are Using Computers to Understand Text,"</a> by Ted Underwood
+
+["Seven Ways Humanists are Using Computers to Understand Text"](https://tedunderwood.com/2015/06/04/seven-ways-humanists-are-using-computers-to-understand-text/), by Ted Underwood

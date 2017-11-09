@@ -27,9 +27,5 @@ class: award-detail-page
     {% include awards/training_scholarship_overview.html %}
   {% endif %}
 
-  {% assign items = site.projects | limit: 3 %}
-  {% include grids/three_spaced_squares.html
-    items=items
-    label='FUNDED PROJECTS'
-  %}
+  {% include awards/funded_projects.html %}
 </div>

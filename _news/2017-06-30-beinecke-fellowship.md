@@ -5,9 +5,10 @@ image: /assets/images/placeholder-hero.jpg
 thumbnail: /assets/images/news/beinecke2.jpg
 caption: ""
 categories: 
-  - announcements
+  - student jobs
 spotlight: false 
 image_layout: simple
+status: fulfilled
 teaser: |
   "Fellowship opportunity to digitize Dickens The Beinecke Rare Book & Manuscript Library will be funding a graduate student fellowship, the official announcement of which is on the Graduate School'..."
 ---
