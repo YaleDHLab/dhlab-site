@@ -52,7 +52,7 @@ class: projects-page mobile-dark-header
             {% include cards/mobile_project_card.html item=project %}
           </div>
           {% assign counter = counter | plus: 1 %}
-          {% if counter == n_projects %}
+          {% if counter == n_projects and mod == 0 %}
             <div class='right-column'></div>
           {% endif %}
         {% if mod==1 %}
@@ -65,7 +65,7 @@ class: projects-page mobile-dark-header
   {% assign items = site.projects | where: 'layout', 'archive' %}
   {% include grids/archive_grid.html
     items=items
-    label='FROM THE ARCHIVES'
+    label='DIGITAL SCHOLARSHIP @ YALE'
     render='json'
   %}
 </div>

@@ -15,7 +15,7 @@ team:
 project_url: http://ashberyhouse.yale.edu
 
 categories:
-  - 3D Environments
+  - 360 Environments
 ---
 
 <h2 class='subheading'>Overview</h2>
