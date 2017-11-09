@@ -12,6 +12,8 @@ team:
 
 categories:
   - Visual Analysis
+tags:
+  - Ancient Civ
 ---
 
 <h2 class='subheading'>Overview</h2>

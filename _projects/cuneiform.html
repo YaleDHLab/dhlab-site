@@ -13,8 +13,7 @@ team:
     position: Postdoctoral Associate, Senior Editor
 
 tags:
-  - Near Eastern Languages &amp; Civilizations
-  - Corpus Creation
+  - Ancient Civ
 ---
 
 <h2 class='subheading'>Overview</h2>

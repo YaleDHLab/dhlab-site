@@ -16,9 +16,6 @@ categories:
   - Visual Analysis
 
 tags:
-  - Computer Science
-  - Medieval manuscripts
-  - Beinecke Rare Boom and Manuscript Library
 ---
 
 <h2 class='subheading'>Overview</h2>

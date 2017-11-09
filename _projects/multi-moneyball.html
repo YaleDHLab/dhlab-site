@@ -11,8 +11,7 @@ categories:
   - Data Mining
 
 tags:
-  - Jackson Institute for Global Affairs
-  - Statistical Analysis
+  - Political Science
 ---
 
 <h2 class='subheading'>Overview</h2>
