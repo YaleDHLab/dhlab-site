@@ -17,6 +17,6 @@ categories:
   - Textual Analysis
 ---
 
-<h2 class='subheading'>Overview</h2>
+### Overview
 
-<p>Few magazines can boast being continuously published for over a century, familiar and interesting to wideaudiences, full of iconic pictures — and also completely digitized and marked up as both text and images. Robots Reading Vogue demonstrates the possible forms humanistic research can take when you have 2,700 covers, 400,000 pages, and 6 TB of data. Experiments include topic models, n-gram searches, and colormetric analysis.</p>
+Few magazines can boast being continuously published for over a century, familiar and interesting to wideaudiences, full of iconic pictures — and also completely digitized and marked up as both text and images. Robots Reading Vogue demonstrates the possible forms humanistic research can take when you have 2,700 covers, 400,000 pages, and 6 TB of data. Experiments include topic models, n-gram searches, and colormetric analysis.

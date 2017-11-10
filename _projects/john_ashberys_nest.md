@@ -19,21 +19,19 @@ tags:
   - Virtual
 ---
 
-<h2 class='subheading'>Overview</h2>
+### Overview
 
-<p>“John Ashbery’s Nest” is a website centered on a virtual tour of the Victorian home of American poet, art critic and collector, John Ashbery (1927-2017). </p>
+"John Ashbery’s Nest" is a website centered on a virtual tour of the Victorian home of American poet, art critic and collector, John Ashbery (1927-2017).
 
-<p>Ashbery purchased the home in Hudson, New York in 1978 and painstakingly restored and decorated it over a fifteen-year period.  Using the 4000 square-foot house (the only home he has ever owned) as a place to display his many collections of small decorative objects, ceramics, furniture and art work, each of the fourteen rooms provides an original frame for his unique assemblages.</p>
+Ashbery purchased the home in Hudson, New York in 1978 and painstakingly restored and decorated it over a fifteen-year period.  Using the 4000 square-foot house (the only home he has ever owned) as a place to display his many collections of small decorative objects, ceramics, furniture and art work, each of the fourteen rooms provides an original frame for his unique assemblages.
 
-<p>You can explore every room inside the house, hear John Ashbery and his partner David Kermani discuss the house, objects and rooms, learn about the provenance of objects and furniture through meticulous archival research, and explore the ways objects in the house appear transformed in his poetry. </p>
+You can explore every room inside the house, hear John Ashbery and his partner David Kermani discuss the house, objects and rooms, learn about the provenance of objects and furniture through meticulous archival research, and explore the ways objects in the house appear transformed in his poetry.
 
-<p>The project aims for you to experience the wonder and intimacy of being in “the middle of things,” a reality that echoes in Ashbery’s poems. </p>
+The project aims for you to experience the wonder and intimacy of being in "the middle of things," a reality that echoes in Ashbery’s poems.
 
-<p>In collaboration between the Yale Digital Humanities Lab and VRH Solutions, each room includes 360 photography, panoramas and still photography. A viewer can:</p>
+In collaboration between the Yale Digital Humanities Lab and VRH Solutions, each room includes 360 photography, panoramas and still photography. A viewer can:
 
-<ul>
-	<li>move through each room and view objects closely</li>
-	<li>listen to audio of John Ashbery and David Kermani discussing the provenance of objects</li>
-	<li>read additional archival background on objects and rooms</li>
-	<li>explore links to related Ashbery poems highlighting the relationship between physical objects and poetic imagination.</li>
-</ul>
+* move through each room and view objects closely
+* listen to audio of John Ashbery and David Kermani discussing the provenance of objects
+* read additional archival background on objects and rooms
+* explore links to related Ashbery poems highlighting the relationship between physical objects and poetic imagination.
