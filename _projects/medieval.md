@@ -20,10 +20,7 @@ categories:
   - Visual Analysis
 
 tags:
-  - Corpus creation
-  - English
-  - History
-  - Latin
+  - Medieval
 ---
 
 <h2 class='subheading'>Overview</h2>

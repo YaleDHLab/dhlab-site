@@ -9,7 +9,7 @@ project_url: http://transcribe.library.yale.edu
 
 team:
   - name: The Kilpatrick Collection
-    position: Beinecke Rare Book &amp; Manuscript Library
+    position: Beinecke Rare Book and Manuscript Library
   - name: Peter Leonard
     position: Digital Humanities Lab
 

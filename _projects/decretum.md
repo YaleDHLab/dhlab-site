@@ -9,9 +9,7 @@ team:
     position: Professor of History
 
 tags:
-  - Corpus Creation
-  - History
-  - Latin
+  - Medieval
 ---
 
 <h2 class='subheading'>Overview</h2>

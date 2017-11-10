@@ -16,7 +16,6 @@ team:
 
 categories:
   - Geospatial Analysis
-  - Textual Analysis
 ---
 
 <h3>Overview</h3>

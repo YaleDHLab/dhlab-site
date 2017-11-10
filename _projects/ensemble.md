@@ -13,6 +13,8 @@ team:
   - name: Peter Leonard
     position: Digital Humanities Lab
 
+categories:
+  - Crowdsourced Data
 ---
 
 <h2 class='subheading'>Overview</h2>

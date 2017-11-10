@@ -9,8 +9,6 @@ team:
     position: Professor of Forestry &amp; Environmental Studies
   
 tags:
-  - Forestry &amp; Environmental Studies
-  - Himalayan
 ---
 
 <h2 class='subheading'>Overview</h2>

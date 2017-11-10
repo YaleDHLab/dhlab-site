@@ -10,9 +10,6 @@ team:
     position: History, Religious Studies, American Studies<br>and Divinity School
 
 tags:
-  - Corpus creation
-  - Divinity School
-  - United States
 ---
 
 <h2 class='subheading'>Overview</h2>

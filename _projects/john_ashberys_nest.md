@@ -1,5 +1,4 @@
 ---
-
 title: "John Ashbery's Nest"
 image: '/assets/images/projects/nest.jpg'
 thumbnail: '/assets/images/projects/nest.jpg'
@@ -16,6 +15,8 @@ project_url: http://ashberyhouse.yale.edu
 
 categories:
   - 360 Environments
+tags:
+  - Virtual
 ---
 
 <h2 class='subheading'>Overview</h2>
