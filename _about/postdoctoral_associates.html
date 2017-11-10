@@ -26,14 +26,14 @@ class: about-page
     </div>
   </div>
 
-    {% include text/center_section_title.html
-      text='2017–2018'
-    %}
+  {% include text/center_section_title.html
+    text='2017–2018'
+  %}
 
   <div class='color-background circle-caret'>
     {% assign team_members = site.team | where:'group','postdoc' | sort: 'order' %}
     {% for team_member in team_members %}
-      {% include team_member.html team_member=team_member %}
+      {% include about/team_member.html team_member=team_member %}
     {% endfor %}
   </div>
 
