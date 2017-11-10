@@ -9,7 +9,7 @@
     </select>
     <hr/>
   </div>
-  <div class='mobile section-title'>{{ include.label }}</div>
+  <div class='mobile section-title hide-tablet'>{{ include.label }}</div>
   {% if include.render == 'json' %}
     {% include json/jsonify_items.html items=items %}
   {% else %}
