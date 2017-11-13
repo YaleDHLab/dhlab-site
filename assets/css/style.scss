@@ -832,6 +832,15 @@ a.subheader ~ a {
   background-image: url('{{ site.baseurl }}/assets/images/icons/nav-twitter-yellow.svg');
 }
 
+.github {
+  background-image: url('{{ site.baseurl }}/assets/images/icons/nav-github.svg');
+  width: 19px;
+}
+
+.github:hover {
+  background-image: url('{{ site.baseurl }}/assets/images/icons/nav-github-yellow.svg');
+}
+
 .instagram {
   background-image: url('{{ site.baseurl }}/assets/images/icons/nav-instagram.svg');
   width: 18px;
