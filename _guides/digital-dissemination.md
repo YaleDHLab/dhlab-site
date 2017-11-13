@@ -29,14 +29,3 @@ For programming libraries, try:
 * [shiny](http://shiny.rstudio.com/)
 * [FusionCharts](https://www.fusioncharts.com/)
 * [Highcharts](https://www.highcharts.com/)
-
-<h2 class='subheading'>User Experience Design</h2>
-Designing with the user experience in mind involves thinking carefully about the usability of your project. User-centered designs aim to create efficient, enjoyable experiences. One way to evaluate success on this metric is to conduct user testing at different stages of your project.
-
-One of the first steps in a user-centered design cycle is to gather requirements. Who are the primary users and what tasks are they being asked to perform? What constrainsts might a user face? What information do you most want to convey?
-
-Taking the information collected during the requirement gathering phase, design a few mockups. Be attentive to how your designs will changed when viewed across different platforms — the screenspace changes dramatically when moving from a desktop screen to a mobile phone.
-
-After you've selected the leading design, begin prototyping and iterate based on feedback you solicit during the process.
-
-Once you have a working prototype, move on to the evaluation phase of the project. Bring potential users together to try out the design.
