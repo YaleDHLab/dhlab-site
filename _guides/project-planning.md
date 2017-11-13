@@ -5,7 +5,7 @@ order: 0
 image: '/assets/images/banners/project-planning.jpg'
 caption: >
 teaser: >
-  Identify project goals and timeline
+  Project planning should take into account the goals and timeline for a project. Click to read more about strategies for articulating goals and also ways that user experience design could help the process.
 ---
 
 <h2 class='subheading'>Defining Project Goals</h2>
