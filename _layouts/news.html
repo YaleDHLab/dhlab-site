@@ -1,11 +1,11 @@
 ---
 layout: default
-class: news-detail-page
+class: news-detail-page simple-page
 ---
 
 {% if page.image_layout == 'landscape' %}
   {% assign image_url = page.image | prepend: site.baseurl %}
-  {% include captioned_hero.html
+  {% include heroes/captioned_hero.html
     label='NEWS'
     title=page.title
     image=image_url

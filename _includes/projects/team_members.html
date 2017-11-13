@@ -2,6 +2,8 @@
   {% for team_member in include.page.team %}
     <div><b>{{ team_member.name }}</b></div>
     <div>{{ team_member.position }}</div>
-    <br/>
+    {% unless forloop.last %}
+      <br/>
+    {% endunless %}
   {% endfor %}
 </div>
