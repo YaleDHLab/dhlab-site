@@ -5,7 +5,7 @@ order: 1
 image: '/assets/images/banners/beinecke.jpg'
 caption: >
 teaser: > 
-  Gather texts and images for your project
+  Corpus creation describes the process of generating the digital data required for a project. Click to read more about the process and ways the lab can help.
 
 ---
 <h2 class='subheading'>What is Corpus Creation?</h2>

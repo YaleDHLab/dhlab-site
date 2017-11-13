@@ -5,7 +5,7 @@ order: 3
 image: '/assets/images/banners/computing.jpg'
 caption: >
 teaser: >
-  Present your findings
+  Digital dissemination entails sharing your research over the web. Click to read more about available tools for visualizing and publishing your work. 
 ---
 
 <h2 class='subheading'>Visualize and Share Your Work</h2>

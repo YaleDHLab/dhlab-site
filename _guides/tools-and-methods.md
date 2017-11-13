@@ -5,7 +5,7 @@ order: 2
 image: '/assets/images/banners/github.jpg'
 caption: >
 teaser: >
-  Work with your digital data
+  There are many tools and methods you could draw upon for your project. Click to read more about some of the most popular programming libraries digital humanists are using.
 ---
 
 <h2 class="subheading">Subtitle</h2>
