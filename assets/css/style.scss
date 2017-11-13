@@ -2873,7 +2873,7 @@ section {
 
 @media (max-width: $desktop_breakpoint) {
   .top-text .left-column {
-    display: none !important;
+    display: none;
   }
 
   .top-text .right-column {
@@ -3488,6 +3488,12 @@ section {
   padding-left: 80px;
 }
 
+@media (min-width: 701px) and (max-width: $desktop_breakpoint) {
+  .news-detail-page.simple-page .center-column {
+    padding-top: 60px;
+  }
+}
+
 /**
 * Events Landing Page
 **/
@@ -3500,6 +3506,12 @@ section {
 @media (max-width: 800px) {
   .events-page .teaser {
     display: none;
+  }
+}
+
+@media (max-width: $desktop_breakpoint) {
+  .events-page .center-column {
+    padding-top: 100px;
   }
 }
 
@@ -3596,7 +3608,7 @@ section {
     padding-top: 0;
   }
 
-  .event-detail-page .simple-page .social-media-container hr {
+  .event-detail-page .social-media-container hr {
     width: 100%;
     border-top: 2px solid #ddd;
     display: block;
@@ -3794,7 +3806,7 @@ section {
 * Projects Detail Page
 **/
 
-.project-team-members {
+.project-page .project-team-members {
   padding-left: 80px;
 }
 
@@ -3861,6 +3873,55 @@ section {
 * Simple Page
 **/
 
+@media (min-width: 701px) and (max-width: $desktop_breakpoint) {
+  .simple-page .mobile.hero {
+    display: none;
+  }
+
+  .simple-page .mobile-event-timestamp {
+    display: none;
+  }
+
+  .simple-page .mobile-title {
+    display: none;
+  }
+
+  .simple-page .hero.background-image + .center-column,
+  .simple-page .center-column {
+    padding-top: 120px;
+  }
+
+  .simple-page .top-text {
+    margin-bottom: 30px;
+  }
+
+  .simple-page .top-text .left-column {
+    display: block;
+    width: 290px;
+    padding-top: 0;
+  }
+
+  .simple-page .top-text .left-column .square-image {
+    margin-right: 0;
+    padding-bottom: 100%;
+  }
+
+  .simple-page .three-text-blocks h2 {
+    background: #efefef;
+    margin-left: -30px;
+    margin-right: -30px;
+    text-align: center;
+  }
+
+  .simple-page .block:nth-of-type(1) {
+    margin-top: 20px;
+  }
+
+  .simple-page .mobile-event-actions {
+    display: none;
+  }
+}
+
 @media (max-width: $mobile_breakpoint) {
   .simple-page hr:first-of-type {
     display: none;
@@ -3881,7 +3942,7 @@ section {
   }
 }
 
-@media (min-width: $mobile_breakpoint) and (max-width: $desktop_breakpoint) {
+@media (max-width: $desktop_breakpoint) {
   .hide-tablet {
     display: none !important;
   }

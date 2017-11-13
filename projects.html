@@ -10,7 +10,7 @@ class: projects-page mobile-dark-header
 {% endfor %}
 
 {% assign image_url = project.image | prepend: site.baseurl %}
-{% include captioned_hero.html
+{% include heroes/captioned_hero.html
   label='Feature'
   title=project.title
   image=image_url
