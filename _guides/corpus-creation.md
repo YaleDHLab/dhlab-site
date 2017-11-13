@@ -4,10 +4,10 @@ subtitle: Collecting Data & Materials
 order: 1
 image: '/assets/images/banners/beinecke.jpg'
 caption: >
-teaser: >
+teaser: > 
+  Gather texts and images for your project
 
 ---
-
 <h2 class='subheading'>What is Corpus Creation?</h2>
 
 Corpus creation is the process of building a dataset. For a digital humanities project, this often entails either finding a collection of texts online or digitizing physical holdings.<br/>

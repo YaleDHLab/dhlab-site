@@ -5,6 +5,7 @@ order: 0
 image: '/assets/images/banners/project-planning.jpg'
 caption: >
 teaser: >
+  Identify project goals and timeline
 ---
 
 <h2 class='subheading'>Defining Project Goals</h2>

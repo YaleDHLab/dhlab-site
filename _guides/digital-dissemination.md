@@ -5,6 +5,7 @@ order: 3
 image: '/assets/images/banners/computing.jpg'
 caption: >
 teaser: >
+  Present your findings
 ---
 
 <h2 class='subheading'>Visualize and Share Your Work</h2>

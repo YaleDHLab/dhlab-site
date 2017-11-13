@@ -1921,7 +1921,8 @@ section {
 
   .four-rectangle-grid-cell:hover .teaser {
     position: absolute;
-    transform: translate(0,140px);
+    transform: translate(0,175px);
+    text-align: center;
     z-index: 4;
   }
 }
