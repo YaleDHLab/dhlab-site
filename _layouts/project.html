@@ -15,6 +15,8 @@ class: project-detail-page
   <div class='two-column-container one-third-width top-text'>
     <div class='left-column'>
       {% include projects/team_members.html page=page %}
+      <a href='{{ page.project_url }}' target='_blank' class='color-button'>View Project</a>
+      {% include tags.html page=page %}
     </div>
     <div class='right-column'>
       <div class='mobile'>
@@ -22,7 +24,6 @@ class: project-detail-page
           category='PROJECTS'
           title=page.title
         %}
-        {% include projects/team_members.html page=page %}
       </div>
       {{ content }}
     </div>

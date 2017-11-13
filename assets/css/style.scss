@@ -120,7 +120,7 @@ p {
 }
 
 h2 {
-  font-size: 18px;
+  font-size: 17px;
   letter-spacing: .25px;
   padding: 20px 40px 20px 0;
 }
@@ -2648,11 +2648,13 @@ section {
 .tags a {
   display: inline-block;
   color: #999;
+  font-size: .8em; 
 }
 
 .tags div {
   font-weight: 600;
   padding-top: 20px;
+  padding-right: 2px;
 }
 
 .tags a {
@@ -2660,8 +2662,7 @@ section {
   background-color: rgba(0,0,0,0.03);
   box-shadow: inset 0 0 4px #dddddd;
   border-radius: 8px;
-  font-size: .8em; 
-  padding: 4px 10px;
+  padding: 4px 9px 5px 9px;
   margin-bottom: 4px;
 }
 
@@ -3294,7 +3295,7 @@ section {
   }
 
   .about-page .two-column-text-block h2 {
-    padding: 10px;
+    padding-bottom: 10px;
   }
 
   .about-page .two-column-text-block p {
@@ -3718,16 +3719,11 @@ section {
     max-width: initial;
     padding: 0;
   }
-
-  .projects-page #grid-target {
-    margin-left: 0;
-  }
 }
 
 @media (max-width: $mobile_breakpoint) {
   .projects-page .center-column {
     padding: 0 !important;
-    margin-top: -5px;
   }
 
   /* Toggle desktop mobile project views */
@@ -3742,6 +3738,7 @@ section {
 
   .projects-container {
     padding: 0;
+    padding-bottom: 30px;
   }
 
   .mobile-project .background-image {
@@ -3810,6 +3807,14 @@ section {
   padding-left: 80px;
 }
 
+.project-detail-page .color-button {
+  margin-left: 80px;
+}
+
+.project-detail-page .tags {
+  margin-left: 80px;
+}
+
 @media (max-width: $desktop_breakpoint) {
   .project-team-members {
     padding-left: 0;
@@ -3820,19 +3825,6 @@ section {
   .project-team-members br:last-of-type {
     display: none;
   }
-}
-
-/**
-* Archived project page
-**/
-
-.archive-page .three-text-blocks {
-  padding-left: 0;
-  padding-right: 0;
-}
-
-.archive-page .left-column .square-image {
-  margin: 30px 0;
 }
 
 /**
