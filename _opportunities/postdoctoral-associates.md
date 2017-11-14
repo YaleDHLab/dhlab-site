@@ -1,5 +1,5 @@
 ---
-title: Postoctoral Associates
+title: Postdoctoral Associates
 order: 2
 image: '/assets/images/banners/sterling-ext.jpg'
 caption: >
