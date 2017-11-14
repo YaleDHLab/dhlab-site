@@ -4,6 +4,8 @@ process: true
 @import url('https://fonts.googleapis.com/css?family=Open+Sans:300,400,600,700');
 
 $color: #FFC426;
+$hotlink: #edb021;
+$coldlink: #088077;
 $nav_breakpoint: 1200px;
 $desktop_breakpoint: 1000px;
 $mobile_breakpoint: 700px;
@@ -85,26 +87,27 @@ a {
 }
 
 a.inline-link {
-  color: #e6a400;
+  color: $coldlink;
 }
 
 p a {
-  color: $color;
+  color: $coldlink;
   font-weight: 600;
 }
 
 p a:hover {
-  color: $color;
+  color: $hotlink;
   font-weight: 600;
 }
 
 li a {
+  color: $coldlink;
   font-weight: 600;
 }
 
 li a:hover {
   font-weight: 600;
-  color: $color;
+  color: $hotlink;
 }
 
 b {
@@ -455,7 +458,7 @@ pre {
 }
 
 .color-background a {
-  color: #fff;
+  color: $coldlink;
   font-weight: 600;
 }
 
