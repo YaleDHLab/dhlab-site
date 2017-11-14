@@ -12,7 +12,7 @@ teaser: |
   "Upcoming Courses Still looking for classes to take this fall? Check out a few exciting DH-related courses below! If you are teaching a course connected to DH and would like it included, please email..."
 ---
 
-<h2>Upcoming Courses</h2>
+<h3>Upcoming Courses</h3>
    
 Still looking for classes to take this fall? Check out a few exciting DH-related courses below!
    
