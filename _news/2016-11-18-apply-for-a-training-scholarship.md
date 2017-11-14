@@ -12,7 +12,7 @@ teaser: |
   "Training Scholarships for 2017 Interested in learning how to build a database or code with R? Apply for a Digital Humanities Training Scholarship! Yale undergraduates, graduate students, and..."
 ---
 
-<h2>Training Scholarships for 2017</h2>
+<h3>Training Scholarships for 2017</h3>
    
 Interested in learning how to build a database or code with R? Apply for a Digital Humanities Training Scholarship! Yale  undergraduates, graduate students, and librarians are eligible to apply. These scholarships support participation in week-long DH workshops.
    

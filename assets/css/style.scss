@@ -119,20 +119,21 @@ p {
   widows: 3;
 }
 
+
 h2 {
+  font-size: 1.5em;
+  transition: color .1s;
+  padding: 0;
+}
+
+h3 {
   font-size: 17px;
   letter-spacing: .25px;
   padding: 20px 40px 20px 0;
 }
 
-h2.subheading {
+h3.subheading {
   padding-bottom: 0;
-}
-
-h3 {
-  font-size: 1.5em;
-  transition: color .1s;
-  padding: 0;
 }
 
 hr {
@@ -439,12 +440,12 @@ pre {
 }
 
 .color-background hr {
-  margin: 50px 0;
+  margin: 40px 0;
   padding: 0;
   border-color: #BF8D2D;
 }
 
-.color-background h3 {
+.color-background h2 {
   padding-bottom: 8px;
 }
 
@@ -1282,11 +1283,6 @@ section {
 * Partials: Three text blocks
 **/
 
-.three-text-blocks {
-  padding-left: 80px;
-  padding-right: 80px;
-}
-
 .three-text-blocks .block {
   display: inline-block;
   width: 33%;
@@ -1302,7 +1298,7 @@ section {
   padding-right: 0;
 }
 
-.three-text-blocks .block h3 {
+.three-text-blocks .block h2 {
   padding: 0 0 10px;
 }
 
@@ -1342,7 +1338,7 @@ section {
     border-bottom: none;
   }
 
-  .three-text-blocks h2 {
+  .three-text-blocks h3 {
     padding: 15px 0;
   }
 
@@ -1370,7 +1366,7 @@ section {
     display: none;
   }
 
-  .three-text-blocks h2 {
+  .three-text-blocks h3 {
     display: block;
     background: #efefef;
     text-align: center;
@@ -1405,7 +1401,7 @@ section {
     margin-bottom: 0;
   }
 
-  .three-text-blocks .block h3 {
+  .three-text-blocks .block h2 {
     padding-bottom: 0;
     padding-top: 20px;
   }
@@ -1421,7 +1417,7 @@ section {
   padding-right: 80px;
 }
 
-.three-spaced-squares h3 {
+.three-spaced-squares h2 {
   padding-top: 20px;
   font-size: 1.25em;
 }
@@ -1494,7 +1490,7 @@ section {
     display: none;
   }
 
-  .three-spaced-squares h2 {
+  .three-spaced-squares h3 {
     background: #efefef;
     text-align: center;
   }
@@ -1508,7 +1504,7 @@ section {
 * Partials: Filters
 **/
 
-.filters h2 {
+.filters h3 {
   display: inline-block;
 }
 
@@ -1565,7 +1561,7 @@ section {
   margin-top: 0
 }
 
-.color-block-container h3 { 
+.color-block-container h2 { 
   font-size: 1.25em;
 }
 
@@ -2155,7 +2151,7 @@ section {
   position: relative;
 }
 
-.horizontal-card h3 {
+.horizontal-card h2 {
   padding: 0;
   transition: color .1s;
   line-height: 1.2em;
@@ -2206,7 +2202,7 @@ section {
   min-height: 260px;
 }
 
-.horizontal-card:hover h3 {
+.horizontal-card:hover h2 {
   color: $color;
 }
 
@@ -2238,7 +2234,7 @@ section {
     display: none;
   }
 
-  .horizontal-card h3 {
+  .horizontal-card h2 {
     margin-top: 25px;
   }
 }
@@ -2267,7 +2263,7 @@ section {
     padding-right: 20px;
   }
 
-  .horizontal-card h3 {
+  .horizontal-card h2 {
     margin-top: 20px;
     margin-bottom: 15px;
     font-size: 1.4em;
@@ -2291,7 +2287,7 @@ section {
     padding-right: 10px;
   }
 
-  .horizontal-card h3 {
+  .horizontal-card h2 {
     font-size: 14px;
     margin-top: 10px;
     margin-bottom: 3px;
@@ -2405,7 +2401,7 @@ section {
 * Partials: About Page Postdocs + Teaching Fellows
 **/
 
-.personnel-archive h3 {
+.personnel-archive h2 {
   padding: 15px 0;
 }
 
@@ -2456,7 +2452,7 @@ section {
     padding: 0;
   }
 
-  .personnel-archive h2 {
+  .personnel-archive h3 {
     padding: 10px 40px 10px 0;
   }
 }
@@ -2806,7 +2802,7 @@ section {
   margin: 0 auto;
 }
 
-.search-results-header h2 {
+.search-results-header h3 {
   display: inline-block;
   font-size: 22px;
   text-transform: uppercase;
@@ -2854,7 +2850,7 @@ section {
     margin-bottom: -25px;
   }
 
-  .resource-page-workshops h2 {
+  .resource-page-workshops h3 {
     padding: 20px;
     text-align: center;
     background: #efefef;
@@ -2865,7 +2861,7 @@ section {
 * Partials: Top text block
 **/
 
-.top-text h2:first-of-type {
+.top-text h3:first-of-type {
   padding-top: 0;
 }
 
@@ -2873,11 +2869,11 @@ section {
   margin-top: 0;
 }
 
-.top-text .right-column h3 + p:first-of-type {
+.top-text .right-column h2 + p:first-of-type {
   margin-top: 1em;
 }
 
-.top-text h2 + p {
+.top-text h3 + p {
   margin-top: 0;
 }
 
@@ -3182,7 +3178,7 @@ section {
   font-weight: 400;
 }
 
-.home-page .news-card-square h3 {
+.home-page .news-card-square h2 {
   padding: 0px;
 }
 
@@ -3276,7 +3272,7 @@ section {
   padding-bottom: 40px;
 }
 
-.about-page .two-column-container h3 {
+.about-page .two-column-container h2 {
   padding-top: 0;
   padding-bottom: 6px;
 }
@@ -3303,7 +3299,7 @@ section {
     padding-left: 0;
   }
 
-  .about-page .two-column-text-block h2 {
+  .about-page .two-column-text-block h3 {
     padding-bottom: 10px;
   }
 
@@ -3311,7 +3307,7 @@ section {
     text-align: left;
   }
 
-  .about-page .two-column-text-block h2 + p {
+  .about-page .two-column-text-block h3 + p {
     margin-top: 0;
   }
 }
@@ -3328,7 +3324,7 @@ section {
     padding: 20px 0;
   }
 
-  .about-page .color-background h3,
+  .about-page .color-background h2,
   .about-page .color-background .small-uppercase {
     text-align: center;
   }
@@ -3446,7 +3442,7 @@ section {
     margin-top: 20px;
   }
 
-  .news-page .horizontal-card h3 {
+  .news-page .horizontal-card h2 {
     margin-top: 0;
   }
 
@@ -3470,7 +3466,7 @@ section {
     margin: 8px 0;
   }
 
-  .news-page .horizontal-card h3 {
+  .news-page .horizontal-card h2 {
     margin-bottom: 10px;
   }
 }
@@ -3530,7 +3526,7 @@ section {
     padding: 0 !important;
   }
 
-  .events-page h2 {
+  .events-page h3 {
     padding: 20px;
     background: #efefef;
     text-align: center;
@@ -3543,7 +3539,7 @@ section {
   }
 
   /* Past Events */
-  .events-page .archive-grid h2 {
+  .events-page .archive-grid h3 {
     margin: 30px 0 10px;
   }
 }
@@ -3552,7 +3548,7 @@ section {
 * Events Detail Page
 **/
 
-.event-detail-page .left-column h3 {
+.event-detail-page .left-column h2 {
   padding-top: 0;
   padding-bottom: 30px;
   margin-top: -2px;
@@ -3598,7 +3594,7 @@ section {
     margin-right: -30px;
   }
 
-  .event-detail-page h2 {
+  .event-detail-page h3 {
     background: #efefef;
     text-align: center;
     padding: 20px;
@@ -3776,7 +3772,7 @@ section {
     padding: 0;
   }
 
-  .projects-page h2.mobile {
+  .projects-page h3.mobile {
     display: block;
     background: #efefef;
     text-align: center;
@@ -3907,7 +3903,7 @@ section {
     padding-bottom: 100%;
   }
 
-  .simple-page .three-text-blocks h2 {
+  .simple-page .three-text-blocks h3 {
     background: #efefef;
     margin-left: -30px;
     margin-right: -30px;
