@@ -7,6 +7,7 @@ caption: >
 deadline: October 24 2018
 application_text: >
   Apply now to become one of our 2018 Digital Humanities Teaching Fellows.
+application_url: https://docs.google.com/forms/d/e/1FAIpQLScvKOG9RgwKW5nbzHYHHwG9N_yMeoLpaBH-RNbSB1BH0clenA/viewform?usp=sf_link
 overview: teaching_fellows
 ---
 
@@ -64,7 +65,7 @@ overview: teaching_fellows
 
   {% capture right_text_two %}
     <p>To apply, please click on the "Apply Here" button below, which will take you to a brief Google form that will ask you for information about your course and the DH methods you anticipate incorporating.</p>
-    <a href='{{ site.teaching_fellows }}' target='_blank' class='white-button'>Apply Here</a>
+    <a href='{{ page.application_url }}' target='_blank' class='white-button'>Apply Here</a>
   {% endcapture %}
 
   {% include text/color_blocks.html
