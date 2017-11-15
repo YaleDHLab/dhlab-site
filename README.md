@@ -47,3 +47,11 @@ To deploy the site to GitHub pages you can run:
 ```
 npm run deploy
 ```
+
+## Tests
+
+To run the test suite, you can run:
+
+```
+npm run test
+```
