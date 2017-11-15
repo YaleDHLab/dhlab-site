@@ -8,7 +8,7 @@ teaser: >
   Digital dissemination entails sharing your research over the web. Click to read more about available tools for visualizing and publishing your work. 
 ---
 
-<h2 class='subheading'>Visualize and Share Your Work</h2>
+<h3 class='subheading'>Visualize and Share Your Work</h3>
 
 There are a number of platforms for visualizing and sharing your digital humanities work. Below are a few free options to try out that require no to some programming knowledge. For more tools that are specific to visualizing certain types of data (for example - network graphs), visit the relevant pages under [What is DH]({{site.baseurl}}/methods.html).
 

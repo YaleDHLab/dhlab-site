@@ -397,6 +397,7 @@ pre {
 .color-button:hover {
   background: $color;
   color: #fff;
+  font-weight: 700;
 }
 
 @media (max-width: $mobile_breakpoint) {
@@ -3825,10 +3826,6 @@ section {
 
 .project-page .project-team-members {
   padding-left: 80px;
-}
-
-.project-detail-page .color-button {
-  margin-left: 80px;
 }
 
 .project-detail-page .tags {

@@ -9,15 +9,15 @@ teaser: >
   Network analysis consists of studying the relationships between entities. Click to read more about network analysis methods and resources.
 ---
 
-<h2 class='subheading'>Overview</h2>
+<h3 class='subheading'>Overview</h3>
 
 Networks offer a dynamic way to study things (often referred to as 'nodes' or 'vertices') and the relationships between them (called 'edges' or 'arcs'). Nodes can be anything, from people, places, and books to concepts or words, and they can have attributes like gender or year of publication that you could encode via color, size, or another visual channel to discover patterns. 
 
-<h2 class='subheading'>Tools</h2>
+<h3 class='subheading'>Tools</h3>
 
 There are many free, open-source options for generating network graphs. Popular tools include [Gephi]('https://gephi.org/'), [NetworkX](https://networkx.github.io/documentation/networkx-1.10/tutorial/index.html), [igraph](http://igraph.org/), and [Cytoscape](http://www.cytoscape.org/?gclid=EAIaIQobChMIqJvh7YKj1wIV6LztCh3v8Q0DEAAYASAAEgLDmvD_BwE).
 
-<h2 class='subheading'>Recommended Readings</h2>
+<h3 class='subheading'>Recommended Readings</h3>
 
 ["Demystifying Networks"](http://www.scottbot.net/HIAL/index.html@p=6279.html) by Scott Weingart
 

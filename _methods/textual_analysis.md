@@ -9,11 +9,11 @@ teaser: >
   Text analysis consists of using automated techniques to study patterns in large text collections. Click to read more about text analysis methods and resources.
 ---
 
-<h2 class='subheading'>Overview</h2>
+<h3 class='subheading'>Overview</h3>
 
 Text mining includes a number of applications, from tracking textual reuse and the fluctuation of certain words or themes over time to stylometry and the modeling of literary forms. These texts might represent a single author's oeuvre, a periodical's full print run, or a collection of texts from across multiple centuries. Important to any texutal analysis project is the curation of a dataset, which often entails digitization and optical character recognition (OCR), the process of turning words from images into searchable text.    
 
-<h2 class='subheading'>Tools</h2>
+<h3 class='subheading'>Tools</h3>
 
 Out-of-the-box tools that don't require any custom programming include Jstor Labs' [Text Analyzer](https://www.jstor.org/analyze/analyzer/progress), [Voyant](https://voyant-tools.org/), [AntConc](http://www.laurenceanthony.net/software/antconc/), and [Wordle](http://www.wordle.net/create).
 
@@ -23,6 +23,6 @@ Platforms that require some programming include [Bookworm](http://bookworm.cultu
 
 Popular packages that require more intensive levels of programming include [the Natural Language Toolkit](http://www.nltk.org/) and the Python libraries: datasketch, NumPy, SciPy, and scikit-learn.
 
-<h2 class='subheading'>Recommended Readings</h2>
+<h3 class='subheading'>Recommended Readings</h3>
 
 ["Seven Ways Humanists are Using Computers to Understand Text"](https://tedunderwood.com/2015/06/04/seven-ways-humanists-are-using-computers-to-understand-text/), by Ted Underwood
