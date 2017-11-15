@@ -1,5 +1,7 @@
 # Yale DHLAB Website
 
+[![Build Status](https://travis-ci.org/YaleDHLab/dhlab-site.svg?branch=master)](https://travis-ci.org/YaleDHLab/dhlab-site)
+
 This repository hosts the source code for the new website of Yale University's Digital Humanities Lab.
 
 ## Developing
