@@ -9,6 +9,7 @@ application_text: >
   Apply to join us as one of our 2018 student programmers or designers.
 overview: student_jobs
 class: hide-color-hr
+application_url: mailto:dhlab@yale.edu
 ---
 
 <div class='center-column'>
