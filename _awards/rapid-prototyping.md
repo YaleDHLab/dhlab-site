@@ -9,8 +9,8 @@ application_url: https://docs.google.com/forms/d/e/1FAIpQLSdsJ0M25-weuPkSrUzn2NH
 overview: rapid_prototyping_grant
 ---
 
-<h3 class='subheading'>Overview</h3>
+### Overview
 
-Rapid Prototyping Grants are for focused design and development interventions to help a project get started or to add a feature to an existing project. Example project asks include requests for a single view of an interface, a visualization, high-level mockups.     
+Rapid Prototyping Grants are for focused design and development interventions to help a project get started or to add a feature to an existing project. Example project asks include requests for a single view of an interface, a visualization, high-level mockups.
 
 Have a project in mind but not sure if it's a match for these grants? Stop by the DHLab during office hours to discuss with our team!
