@@ -1,5 +1,5 @@
 {% if include.item %}
-  <h3>{{ include.item.title }}</h3>
+  <h2>{{ include.item.title }}</h2>
   {{ include.item.teaser }}
   {% if include.item.button_url and include.item.button_text %}
     {% capture url %}{{ site.baseurl }}/{{ include.item.button_url }}{% endcapture %}
@@ -7,7 +7,7 @@
   {% endif %}
   <hr />
 {% else %}
-  <h3>{{ include.title }}</h3>
+  <h2>{{ include.title }}</h2>
   {{ include.teaser }}
   <hr />
 {% endif %}

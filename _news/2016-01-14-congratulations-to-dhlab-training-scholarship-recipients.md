@@ -2,7 +2,7 @@
 title: "Congratulations to DHLab Training Scholarship Recipients"
 date: January 14, 2016
 image: /assets/images/placeholder-hero.jpg
-thumbnail: /assets/images/about/team/MO-sq.jpg
+thumbnail: /assets/images/news/dh-lab.jpg
 caption: "Yale Digital Humanities Lab"
 categories: 
   - Announcements

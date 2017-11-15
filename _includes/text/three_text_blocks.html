@@ -1,11 +1,11 @@
 <section class='three-text-blocks'>
-  <h2>{{ include.label }}</h2>
+  <div class='section-title'>{{ include.label }}</div>
   <hr class='hide-tablet'>
   {% for item in include.items limit: 3 %} 
     {% assign url = item.url | prepend: site.baseurl %}
     <div class='block'>
       <a href='{{ url }}'>
-        <h3>{{ item.title }}</h3>
+        <h2>{{ item.title }}</h2>
       </a>
       <div class='small-uppercase'>{{ item.date | date: '%b %d' }}</div>
       <p>{{ item.content | strip_html | truncatewords: 30 }}</p>
