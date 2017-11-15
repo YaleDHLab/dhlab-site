@@ -6,7 +6,9 @@ image: /assets/images/placeholder-hero.jpg
 thumbnail: /assets/images/events/tenen.jpg
 caption: ""
 categories: 
-  - talks
+  - Talks
+tags:
+  - Textual Analysis
 spotlight: false 
 image_layout: simple
 teaser: |

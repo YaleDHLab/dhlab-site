@@ -12,8 +12,10 @@ team:
 
 categories:
   - Visual Analysis
+
 tags:
-  - Ancient Civ
+  - Classics
+  - Languages
 ---
 
 ### Overview

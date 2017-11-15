@@ -1,32 +1,30 @@
 ---
-title: "DH, STEAM Spring Symposium "
+title: "DH, STEAM Spring Symposium"
 date: April 8, 2016
 image: /assets/images/placeholder-hero.jpg
 thumbnail: /assets/images/events/beyond-boundaries-2017.jpg
 caption: ""
 categories: 
-  - announcements
+  - Symposia
 spotlight: false 
 image_layout: landscape
 teaser: |
   "Beyond Boundaries: A Symposium on Hybrid Scholarship at Yale University April 8, 2016 from 9:30am-1:00pmSterling Memorial Library, Lecture Hall What does computer-generated poetry look like? How..."
 ---
 
-<h3>Beyond Boundaries: A Symposium on Hybrid Scholarship at Yale University</h3>
-<em>April 8, 2016 from 9:30am-1:00pm</em>
-<em>Sterling Memorial Library, Lecture Hall</em>
+### Beyond Boundaries: A Symposium on Hybrid Scholarship at Yale University
+*April 8, 2016 from 9:30am-1:00pm*  
+*Sterling Memorial Library, Lecture Hall*  
    
-What does computer-generated poetry look like? How can EEG experiments inform our understandings of musical compositions? To explore these questions and more, join the Digital Humanities Lab and <a href="http://steamwith.us/YaleSTEAM.html" target="_blank">Yale STEAM</a> for a spring symposium to showcase hybrid scholarship at Yale University. Undergraduates, graduate students, faculty, and staff will present projects that highlight the questions that can be asked and explored via digital methods and collaborations between the sciences and humanities.
+What does computer-generated poetry look like? How can EEG experiments inform our understandings of musical compositions? To explore these questions and more, join the Digital Humanities Lab and [Yale STEAM](http://steamwith.us/YaleSTEAM.html) for a spring symposium to showcase hybrid scholarship at Yale University. Undergraduates, graduate students, faculty, and staff will present projects that highlight the questions that can be asked and explored via digital methods and collaborations between the sciences and humanities.
    
 The symposium is open to the entire Yale community and public. Coffee and refreshments will be provided.
    
-<strong>
-  <a href="http://web.library.yale.edu/sites/default/files/images/BB-concepts-poster.jpg">event poster</a> // <a href="http://web.library.yale.edu/sites/default/files/images/2016-04-08-BB-tabloid-poster2.jpg">roundtable poster</a> // <a href="https://issuu.com/mongmedia/docs/2016-04-08-symposium-program">program</a> // <a href="https://www.youtube.com/watch?v=LDbomoUsnio&amp;index=1&amp;list=PLqHnHG5X2PXBr9IaxqS5PkgegtLExZ4Lm" target="_blank"> event recordings </a>
-</strong>
+[**event poster**](http://web.library.yale.edu/sites/default/files/images/BB-concepts-poster.jpg) // [**roundtable poster**](http://web.library.yale.edu/sites/default/files/images/2016-04-08-BB-tabloid-poster2.jpg) // [**program**](https://issuu.com/mongmedia/docs/2016-04-08-symposium-program) // [**event recordings**](https://www.youtube.com/watch?v=LDbomoUsnio&amp;index=1&amp;list=PLqHnHG5X2PXBr9IaxqS5PkgegtLExZ4Lm)
    
-<strong>Event Schedule</strong>
+**Event Schedule**
    
-<table border="1" cellpadding="1" cellspacing="1" height="514" width="918">
+<table>
   <tbody>
     <tr>
       <td>
@@ -34,7 +32,7 @@ The symposium is open to the entire Yale community and public. Coffee and refres
       </td>
       <td>
       <p>
-        Coffee, Refreshments, Sign In
+        <b>Coffee, Refreshments, Sign In</b>
       </p>
       <p>
         <em>
@@ -68,7 +66,7 @@ The symposium is open to the entire Yale community and public. Coffee and refres
         </td>
         <td>
           <p>
-            Lightning Talks
+            <b>Lightning Talks</b>
           </p>
           <p>
             <em>
@@ -90,7 +88,7 @@ The symposium is open to the entire Yale community and public. Coffee and refres
         </td>
         <td>
           <p>
-            Roundtable Discussion
+            <b>Roundtable Discussion</b>
           </p>
           <p>
             <em>
@@ -111,7 +109,7 @@ The symposium is open to the entire Yale community and public. Coffee and refres
         </td>
         <td>
           <p>
-            Closing Remarks
+            <b>Closing Remarks</b>
           </p>
           <p>
             <em>
@@ -129,7 +127,7 @@ The symposium is open to the entire Yale community and public. Coffee and refres
         </td>
         <td>
           <p>
-            Poster Session
+            <b>Poster Session</b>
           </p>
           <p>
             <em>
@@ -147,24 +145,16 @@ The symposium is open to the entire Yale community and public. Coffee and refres
        
 A few photos from the event:
 
-<a href="http://web.library.yale.edu/sites/default/files/images/Valencia2.jpg">
-  <img alt="" height="200" src="http://web.library.yale.edu/sites/default/files/resize/images/Valencia2-300x200.jpg" width="300"/>
-</a>
-<a href="http://web.library.yale.edu/sites/default/files/images/Acevedo.jpg">
-  <img alt="" height="200" src="http://web.library.yale.edu/sites/default/files/resize/images/Acevedo-300x200.jpg" width="300"/>
-</a>
-<a href="http://web.library.yale.edu/sites/default/files/images/Roundtable.jpg">
-  <img alt="" height="200" src="http://web.library.yale.edu/sites/default/files/resize/images/Roundtable-300x200.jpg" width="300"/>
-</a>
-<a href="http://web.library.yale.edu/sites/default/files/images/Pellegrini3.jpg">
-  <img alt="" height="200" src="http://web.library.yale.edu/sites/default/files/resize/images/Pellegrini3-300x200.jpg" width="300"/>
-</a>
-<a href="http://web.library.yale.edu/sites/default/files/images/Krewson2.jpg">
-  <img alt="" height="200" src="http://web.library.yale.edu/sites/default/files/resize/images/Krewson2-300x200.jpg" width="300"/>
-</a>
-<a href="http://web.library.yale.edu/sites/default/files/images/Marina.jpg">
-  <img alt="" height="200" src="http://web.library.yale.edu/sites/default/files/resize/images/Marina-300x200.jpg" width="300"/>
-</a>
-<a href="http://web.library.yale.edu/sites/default/files/images/Nate%202.jpg">
-  <img alt="" height="200" src="http://web.library.yale.edu/sites/default/files/resize/images/Nate%202-300x200.jpg" width="300"/>
-</a>
+[<img src="http://web.library.yale.edu/sites/default/files/resize/images/Valencia2-300x200.jpg" />](http://web.library.yale.edu/sites/default/files/images/Valencia2.jpg)
+
+[<img src="http://web.library.yale.edu/sites/default/files/resize/images/Acevedo-300x200.jpg" />](http://web.library.yale.edu/sites/default/files/images/Acevedo.jpg)
+
+[<img src="http://web.library.yale.edu/sites/default/files/resize/images/Roundtable-300x200.jpg" />](http://web.library.yale.edu/sites/default/files/images/Roundtable.jpg)
+
+[<img src="http://web.library.yale.edu/sites/default/files/resize/images/Pellegrini3-300x200.jpg" />](http://web.library.yale.edu/sites/default/files/images/Pellegrini3.jpg)
+
+[<img src="http://web.library.yale.edu/sites/default/files/resize/images/Krewson2-300x200.jpg" />](http://web.library.yale.edu/sites/default/files/images/Krewson2.jpg)
+
+[<img src="http://web.library.yale.edu/sites/default/files/resize/images/Marina-300x200.jpg" />](http://web.library.yale.edu/sites/default/files/images/Marina.jpg)
+
+[<img src="http://web.library.yale.edu/sites/default/files/resize/images/Nate%202-300x200.jpg" />](http://web.library.yale.edu/sites/default/files/images/Nate%202.jpg)

@@ -6,11 +6,10 @@ location: Bass Library, L06
 thumbnail: /assets/images/events/networks3.jpg
 registerurl: http://schedule.yale.edu/event/3629405
 categories:
-  - workshop
+  - Workshops
 tags:
-  - network analysis
-  - Gephi
-  - data visualization
+  - Network Analysis
+  - Visualization
 teaser: >
   This workshop will provide a broad overview of network analysis. We'll cover what networks are, how you can interpret them, and why you might want to use them in your research.
 ---

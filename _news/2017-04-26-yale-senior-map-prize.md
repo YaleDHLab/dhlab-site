@@ -5,7 +5,9 @@ image: /assets/images/placeholder-hero.jpg
 thumbnail: /assets/images/news/library-map.jpg
 caption: ""
 categories: 
-  - announcements
+  - Opportunities
+tags:
+  - Geospatial Analysis
 spotlight: false 
 image_layout: simple
 teaser: |
@@ -16,4 +18,4 @@ The Library Map Prize is awarded to a Yale College senior for the best use of ma
 
 Essays may be submitted by seniors or their faculty advisors. The winning student must agree to grant the library a non-exclusive right to post his or her essay on EliScholar.
 
-For more information about the award, please visit the <a href="http://guides.library.yale.edu/MapPrize" target="_blank"> Yale University Library webpage</a>.
+For more information about the award, please visit the [Yale University Library webpage](http://guides.library.yale.edu/MapPrize).

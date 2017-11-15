@@ -6,9 +6,9 @@ project_url: http://campuspress.yale.edu/historianseye
 team:
   - name: Matthew Frye Jacobson
     position: American Studies, History, and <br/>African American Studies
+
 categories:
   - Crowdsourced Data
-tags:
 ---
 
 ### Overview

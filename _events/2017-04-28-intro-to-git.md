@@ -6,11 +6,9 @@ location: Bass Library, L06
 thumbnail: /assets/images/events/git.jpg
 registerurl: http://schedule.yale.edu/event/3217695
 categories:
-  - workshop
+  - Workshops
 tags:
-  - git
-  - github
-  - coding
+  - Git
 teaser: >
   This workshop will familiarize participants with the fundamentals of Git and GitHub. Git—a free, open source version control system—and GitHub—a popular repository for sharing code—are key for web development projects and programming more broadly. Together, ​they provide a robust system for collaborating with team members and finding existing code that you might adopt and adapt for your own projects. 
 ---

@@ -1,11 +1,11 @@
 ---
-title: "Open Office Hours "
+title: "Open Office Hours"
 date: September 22, 2015
 image: /assets/images/placeholder-hero.jpg
 thumbnail: /assets/images/news/office-hours.jpg
 caption: "Digital Humanities Lab"
 categories: 
-  - announcements
+  - Office Hours
 spotlight: false 
 image_layout: simple
 teaser: |

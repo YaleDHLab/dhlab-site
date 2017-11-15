@@ -5,14 +5,16 @@ image: /assets/images/placeholder-hero.jpg
 thumbnail: /assets/images/events/coffee_code.jpg
 caption: ""
 categories: 
-  - announcements
+  - Workshops
+tags:
+  - Data Collection
 spotlight: false 
 image_layout: landscape
 teaser: |
   "Coffee and Code Workshop: Web Scraping July 14, 2:00-3:30pm in the Digital Humanities Lab (SML 316) Learn how to gather data from online! Join the Digital Humanities Lab for a Coffee and Code session..."
 ---
 
-<h3>Coffee and Code Workshop: Web Scraping</h3>
+### Coffee and Code Workshop: Web Scraping
 *July 14, 2:00-3:30pm in the Digital Humanities Lab (SML 316)*
     
 Learn how to gather data from online! Join the Digital Humanities Lab for a Coffee and Code session on web scraping, led by DH Developer Douglas Duhaime. During the workshop, participants will learn and practice the fundamentals by scraping a webpage (or subset of pages) from a domain of the group's choosing. In addition to tackling the "how," we will also discuss "why" and "when" web scraping is appropriate.
@@ -27,9 +29,6 @@ All are welcome; no prior programming experience is required. Coffee and tea wil
    
 Photos from the event:
    
-<a href="http://web.library.yale.edu/sites/default/files/images/web%20scraping%2C%20Doug.jpg">
-  <img alt="" height="225" src="http://web.library.yale.edu/sites/default/files/resize/images/web%20scraping%2C%20Doug-264x225.jpg" width="264"/>
-</a>
-<a href="http://web.library.yale.edu/sites/default/files/images/IMG_0658.JPG">
-  <img alt="" height="225" src="http://web.library.yale.edu/sites/default/files/resize/images/IMG_0658-303x225.JPG" width="303"/>
-</a>
+[<img src="http://web.library.yale.edu/sites/default/files/resize/images/web%20scraping%2C%20Doug-264x225.jpg" />](http://web.library.yale.edu/sites/default/files/images/web%20scraping%2C%20Doug.jpg)
+
+[<img src="http://web.library.yale.edu/sites/default/files/resize/images/IMG_0658-303x225.JPG" />](http://web.library.yale.edu/sites/default/files/images/IMG_0658.JPG)

@@ -25,7 +25,10 @@ team:
 
 categories:
   - Geospatial Analysis
-  - Image Analysis
+  - Visual Analysis
+
+tags:
+  - Modernism
 ---
 
 ### Overview

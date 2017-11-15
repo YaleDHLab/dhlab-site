@@ -5,14 +5,16 @@ image: /assets/images/placeholder-hero.jpg
 thumbnail: /assets/images/events/black-press.jpg
 caption: ""
 categories: 
-  - announcements
+  - Symposia
+tags:
+  - Race Studies
 spotlight: false 
 image_layout: landscape
 teaser: |
   "Conference: The Arts in the Black Press During the Age of Jim Crow March 10 and 11 at Linsly-Chittenden Hall, rooms 317 and 319 Friday, March 10, 2017 9:30 – 10:30 Breakfast and Registration 10:30 –..."
 ---
 
-<h3>Conference: The Arts in the Black Press During the Age of Jim Crow</h3>
+### Conference: The Arts in the Black Press During the Age of Jim Crow
 *March 10 and 11 at Linsly-Chittenden Hall, rooms 317 and 319*
 
 **Friday, March 10, 2017**
@@ -23,7 +25,7 @@ teaser: |
 2:30 – 3:00 Coffee break  
 3:00 – 4:30 Panel Session 3  
 4:45 – 5:45 Keynote Address by Professor Kim Gallon  
-6:00 – 7:30 Reception at Afro-American Cultural Center, 211 Park Street  
+6:00 – 7:30 Reception at Afro-American Cultural Center, 211 Park Street 
 
 **Saturday, March 11, 2017**
 8:00 – 8:30 Breakfast
@@ -36,7 +38,7 @@ teaser: |
     
 **For more information and to register:**
     
-<a href="https://artsblackpress.wordpress.com/" target="_blank">https://artsblackpress.wordpress.com</a>
+[https://artsblackpress.wordpress.com](https://artsblackpress.wordpress.com/)
    
 **Conference Sponsors include**
 * African American Studies

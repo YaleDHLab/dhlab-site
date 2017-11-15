@@ -5,7 +5,9 @@ image: /assets/images/placeholder-hero.jpg
 thumbnail: /assets/images/events/igarashi.jpg
 caption: "Yohei Igarashi, Digital Humanities Lab"
 categories: 
-  - announcements
+  - Talks
+tags:
+  - Statistics
 spotlight: false 
 image_layout: landscape
 teaser: |
@@ -16,6 +18,6 @@ The Digital Humanities Lab partnered with the Digital Humanities Working Group t
    
 "What is the actual historical relation between close reading and non-close or 'distant' methods of textual analysis? This talk demonstrates that I. A. Richards’s inaugural theories of close reading were shaped by his era’s statistical analyses, particularly the genre of the frequency-based word list. Recovering an important chapter from the history of literary studies that has eluded digital humanities discourse, this talk hopes to enrich our understanding of the digital humanities as well as close reading by looking to the former’s pre-digital history."
    
-Yohei Igarashi is <a href="http://english.uconn.edu/yohei-igarashi/" target="_blank">Assistant Professor of English</a> at the University of Connecticut. He received his Ph.D. from New York University and specializes in poetry and poetics — particularly British Romantic poetry — literary history, media studies, and the histories of reading, writing, and literary criticism. He participates as well in the <a href="http://www.crassh.cam.ac.uk/programmes/ccdk-the-concept-lab" target="_blank">Concept Lab</a>, a project of the Cambridge Centre for Digital Knowledge, based in CRASSH at the University of Cambridge.
+Yohei Igarashi is [Assistant Professor of English](http://english.uconn.edu/yohei-igarashi/) at the University of Connecticut. He received his Ph.D. from New York University and specializes in poetry and poetics — particularly British Romantic poetry — literary history, media studies, and the histories of reading, writing, and literary criticism. He participates as well in the [Concept Lab](http://www.crassh.cam.ac.uk/programmes/ccdk-the-concept-lab), a project of the Cambridge Centre for Digital Knowledge, based in CRASSH at the University of Cambridge.
    
 The talk was held in Bass Library L01.

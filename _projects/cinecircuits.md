@@ -16,6 +16,7 @@ team:
 
 categories:
   - Geospatial Analysis
+  - Visual Analysis
 ---
 
 ### Overview

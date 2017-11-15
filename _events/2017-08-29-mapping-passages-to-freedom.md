@@ -5,7 +5,9 @@ image: /assets/images/placeholder-hero.jpg
 thumbnail: /assets/images/events/passages.jpg
 caption: ""
 categories: 
-  - announcements
+  - Talks
+tags:
+  - Geospatial Analysis
 spotlight: false 
 image_layout: landscape
 teaser: |
@@ -16,4 +18,4 @@ Join us for a special Office Hours this Tuesday to hear outgoing DHLab Postdoc 
 
 ---
 
-**Jonathan Schroeder** received his Ph.D. in English Language and Literature from the University of Chicago. His work has appeared in <a href="http://americanliterature.dukejournals.org/content/86/3/551.short" target="_blank"> *American Literature* </a> and is forthcoming in *Arizona Quarterly*.
+**Jonathan Schroeder** received his Ph.D. in English Language and Literature from the University of Chicago. His work has appeared in [*American Literature*](http://americanliterature.dukejournals.org/content/86/3/551.short) and is forthcoming in *Arizona Quarterly*.

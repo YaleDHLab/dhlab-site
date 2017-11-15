@@ -5,15 +5,15 @@ image: /assets/images/placeholder-hero.jpg
 thumbnail: /assets/images/events/sterling-student.jpg
 caption: ""
 categories: 
-  - announcements
+  - Talks
 spotlight: false 
 image_layout: landscape
 teaser: |
   "Don’t Stop Reading: Boris Khersonskii’s Digital Poetry and Politics Wednesday, November 16 from 4:00-6:00pm in the Hall of Graduate Studies, room 221 Anti-Russian sentiments have been almost..."
 ---
 
-<h3>"Don’t Stop Reading": Boris Khersonskii’s Digital Poetry and Politics</h3>
-<em>Wednesday, November 16 from 4:00-6:00pm in the Hall of Graduate Studies, room 221</em>
+### "Don’t Stop Reading": Boris Khersonskii’s Digital Poetry and Politics
+*Wednesday, November 16 from 4:00-6:00pm in the Hall of Graduate Studies, room 221*  
    
 Anti-Russian sentiments have been almost omnipresent in the new Ukraine since February 2014. Similar discourses occur on multiple levels: in everyday oral communications about the war in Eastern Ukraine, in popular marketing, or in the anti-Russian yet Russian-language comments on the military campaign in Eastern Ukraine that prominent Russophone poets of Ukraine publish on the Internet.
    
@@ -25,4 +25,4 @@ All are welcome to attend!
 
 ----
    
-<strong>Dirk Uffelmann</strong>is a Professor of Slavic Literatures and Cultures at the University of Passau.
+**Dirk Uffelmann** is a Professor of Slavic Literatures and Cultures at the University of Passau.

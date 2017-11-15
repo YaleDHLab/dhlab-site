@@ -5,7 +5,9 @@ image: /assets/images/placeholder-hero.jpg
 thumbnail: /assets/images/projects/photogrammar.jpg
 caption: ""
 categories: 
-  - announcements
+  - Announcements
+tags:
+  - Visual Analysis
 spotlight: false 
 image_layout: simple
 teaser: |
@@ -14,13 +16,13 @@ teaser: |
 
 Congratulations to Yale's Photogrammar team on receiving one of ACLS's first-ever Digital Extension Grants! ACLS developed the new program "to foster diverse communities of users around the most compelling approaches to digital inquiry." Photogrammar was one of five projects selected. With the grant, Photogrammar will be able to add new features, integrate additional archives into the collection, and reach new audiences.
    
-<strong>Principal Investigator</strong>
+**Principal Investigator**
     
 Laura Wexler
 
-<strong>Project Team</strong>
+**Project Team**
 Taylor Arnold, Catherine DeRose, Monica Ong Reed,
 Lauren Tilton, Courtney Rivard (UNC, Chapel Hill)
    
-<a href="http://photogrammar.yale.edu/" target="_blank">Link to Photogrammar</a>
-<a href="http://www.acls.org/news/5-4-2016/" target="_blank">ACLS award announcement</a>
+[Link to Photogrammar](http://photogrammar.yale.edu/)
+[ACLS award announcement](http://www.acls.org/news/5-4-2016/)

@@ -15,8 +15,10 @@ project_url: http://ashberyhouse.yale.edu
 
 categories:
   - 360 Environments
+
 tags:
-  - Virtual
+  - Virtual Reality
+  - Archives
 ---
 
 ### Overview

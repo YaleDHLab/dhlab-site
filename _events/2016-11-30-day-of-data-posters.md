@@ -5,64 +5,65 @@ image: /assets/images/placeholder-hero.jpg
 thumbnail: /assets/images/events/day-of-data.jpg
 caption: ""
 categories: 
-  - announcements
+  - Symposia
 spotlight: false 
 image_layout: landscape
 teaser: |
   "Yale Day of Data 2016 Poster Session and Opening Reception December 1 from 4:00-6:00pm in the Center for Science and Social Science Information Yale Day of Data is a two-day, University-wide event..."
 ---
 
-<h3>Yale Day of Data 2016 Poster Session and Opening Reception</h3>
+### Yale Day of Data 2016 Poster Session and Opening Reception
    
-<em>December 1 from 4:00-6:00pm in the Center for Science and Social Science Information</em> <a href="http://elischolar.library.yale.edu/dayofdata/" target="_blank">Yale Day of Data</a> is a two-day, University-wide event that will feature speakers from a number of disciplines across Yale. The theme for 2016 will be open data, open software, and reproducibility initiatives.
+*December 1 from 4:00-6:00pm in the Center for Science and Social Science Information* [Yale Day of Data](http://elischolar.library.yale.edu/dayofdata/) is a two-day, University-wide event that will feature speakers from a number of disciplines across Yale. The theme for 2016 will be open data, open software, and reproducibility initiatives.
    
 To kick off Yale Day of Data 2016, we will begin with an Opening Reception and Poster Session at the Center for Science and Social Science Information. No registration is required; all are invited to attend!
    
 Posters include:
    
-<strong>Safer Chemicals Design Diagrams</strong>
+**Safer Chemicals Design Diagrams**
    
 Longzhu Shen (Yale University), Fjodor Melnikov (Yale University), John Roethle (Yale University), Aditya Gudibanda (Yale University), Richard Judson (US EPA), Julie Zimmerman (Yale University), and Paul Anastas (Yale University)
   
-<strong>Urban Environmental Performance Index: The Quito Pilot Case</strong>
+**Urban Environmental Performance Index: The Quito Pilot Case**
    
 Diego C. Manya (Yale University), Ryan Thomas (Yale University), and Matthew Moroney (Yale University)
    
-<strong>Extracting Geography From Datasets in Social Sciences</strong>
+**Extracting Geography From Datasets in Social Sciences**
+
 Yuke Li (Yale University), Tianhao Wu (Yale University), Nicholas Marshall (Yale University), and Stefan Steinerberger (Yale University)
 
-<strong>Closing the Water Budget in an Experimental Urban Watershed: A Comparative Assessment of Methods for Measuring Evapotranspiration</strong>
+**Closing the Water Budget in an Experimental Urban Watershed: A Comparative Assessment of Methods for Measuring Evapotranspiration**
 
 Leana M. Weissberg (Yale University), and Gaboury Benoit (Yale University)
 
-<strong>Yale’s Environmental Performance Index: the Construction and Use of a Composite Index for Global Sustainability</strong>
+**Yale’s Environmental Performance Index: the Construction and Use of a Composite Index for Global Sustainability**
 
 Zach Wendling, FES (Yale University)
 
-<strong>Penetrance Estimates for Incidental Genomic Findings in ACMG-56</strong>
+**Penetrance Estimates for Incidental Genomic Findings in ACMG-56**
 
 James A. Diao (Yale University)
 
-<strong>Need vs. Supply Analysis of the New Haven Public Bus System</strong>
+**Need vs. Supply Analysis of the New Haven Public Bus System**
 
 Stan Mathis (Yale University)
 
-<strong>Do Elephants Eat More Trees When Less Grass is Available? A Field Study in Kruger National Park, South Africa</strong>
+**Do Elephants Eat More Trees When Less Grass is Available? A Field Study in Kruger National Park, South Africa**
 
 Emily Goldberg (Yale University)
 
-<strong>The Effect of Virtual Civic Engagement on Crime: SeeClickFix in New Haven</strong>
+**The Effect of Virtual Civic Engagement on Crime: SeeClickFix in New Haven**
 
 Daniel Spakowicz (Yale University), Carolyn J. Presley (Yale University), Dowin Boatright (Yale University), Mark Gerstein (Yale University), Ann Greene (Yale University), Marjorie Rosenthal (Yale University), and Andrew V. Papachristos (Yale University)
 
-<strong>Machine Learning to Predict Pupillary Dynamics in Conscious Visual Perception</strong>
+**Machine Learning to Predict Pupillary Dynamics in Conscious Visual Perception**
 
 Jacob S. Prince (Yale University), Jackson Ding (Yale University), and Owen Morgan (St. John's College)
 
-<strong>Data Collection and Analysis at the ATLAS Detector</strong>
+**Data Collection and Analysis at the ATLAS Detector**
 
 Savannah Thais (Yale University)
 
 ---
    
-<em>The 2016 Yale Day of Data is sponsored by the Office of the Provost, Center for Science and Social Science Information, Yale Center for Research Computing, Institution for Social and Policy Studies, Yale Digital Humanities Laboratory, Yale Institute for Network Science, Center for Teaching and Learning, and the Sigma XI Distinguished Visitor Fund.</em>
+*The 2016 Yale Day of Data is sponsored by the Office of the Provost, Center for Science and Social Science Information, Yale Center for Research Computing, Institution for Social and Policy Studies, Yale Digital Humanities Laboratory, Yale Institute for Network Science, Center for Teaching and Learning, and the Sigma XI Distinguished Visitor Fund.*

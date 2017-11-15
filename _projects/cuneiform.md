@@ -13,7 +13,8 @@ team:
     position: Postdoctoral Associate, Senior Editor
 
 tags:
-  - Ancient Civ
+  - Classics
+  - Languages
 ---
 
 ### Overview

@@ -9,6 +9,8 @@ team:
     position: Professor of Forestry &amp; Environmental Studies
   
 tags:
+  - Archives
+  - Languages
 ---
 
 ### Overview

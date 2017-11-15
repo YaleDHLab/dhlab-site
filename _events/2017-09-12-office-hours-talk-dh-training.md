@@ -5,37 +5,26 @@ image: /assets/images/placeholder-hero.jpg
 thumbnail: /assets/images/news/office-hours.jpg
 caption: ""
 categories: 
-  - announcements
+  - Office Hours
+tags:
+  - Pedagogy
 spotlight: false 
 image_layout: landscape
 teaser: |
   "Office Hours Talk: DH Training Highlights September 12 at 2:00pm in the DHLab (SML 316) Join the Digital Humanities Lab for an Office Hours talk on DH training opportunities. Graduate students and..."
 ---
 
-
-<h3>Office Hours Talk: DH Training Highlights</h3>
+### Office Hours Talk: DH Training Highlights
 *September 12 at 2:00pm in the DHLab (SML 316)*
 
 Join the Digital Humanities Lab for an Office Hours talk on DH training opportunities. Graduate students and staff will give lightning talk presentations on courses they participated in this past summer, including:
-   
-<ul>
-  <li>
-  Text Processing: Techniques and Traditions (Digital Humanities Summer Institute)
-  </li>
-  <li>
-  Programming for Humanists with Python (Humanities Intensive Learning and Teaching)
-  </li>
-  <li>
-  Black Publics in the Humanities: Critical and Collaborative DH Projects (Humanities Intensive Learning and Teaching)
-  </li>
-  <li>
-  Introduction to the Text Encoding Initiative (Digital Humanities at Oxford Summer School)
-  </li>
-  <li>
-  The Perseus Project (Teach the Teachers Workshop)
-  </li>
-</ul>
-   
+
+ * Text Processing: Techniques and Traditions (Digital Humanities Summer Institute)
+ * Programming for Humanists with Python (Humanities Intensive Learning and Teaching)
+ * Black Publics in the Humanities: Critical and Collaborative DH Projects (Humanities Intensive Learning and Teaching)
+ * Introduction to the Text Encoding Initiative (Digital Humanities at Oxford Summer School)
+ * The Perseus Project (Teach the Teachers Workshop)
+
 Following the presentations, we will open the floor to Q&amp;A about the courses, institutes, and DH training opportunities more broadly at and beyond Yale.
 
 All of the Yale community is welcome to attend. Coffee will be available.
