@@ -13,6 +13,10 @@ team:
 
 categories:
   - Geospatial Analysis
+
+tags:
+  - Modernism
+  - Archives
 ---
 
 ### Overview

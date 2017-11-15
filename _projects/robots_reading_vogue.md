@@ -15,6 +15,7 @@ team:
 
 categories:
   - Textual Analysis
+  - Visual Analysis
 ---
 
 ### Overview

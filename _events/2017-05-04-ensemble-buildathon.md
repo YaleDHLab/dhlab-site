@@ -5,10 +5,9 @@ time: 2:00 pm
 location: Digital Humanities Lab, SML 316
 thumbnail: /assets/images/events/ensemble.jpg
 categories:
-  - talk
+  - Talks
 tags:
-  - Yale theater history
-  - crowdsource transcription
+  - Data Collection
 teaser: >
   Put that end-of-the-semester procrastination to good use and help us create a database of Yale theater history with Ensemble @ Yale! This new tool leverages the power of crowdsourcing (that’s you!) to identify and transcribe titles and dates of plays, as well as the names of actors, directors, playwrights, set and costume designers, etc. from historical programs dating back to 1925.
 ---

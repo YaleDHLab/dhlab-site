@@ -5,7 +5,9 @@ image: /assets/images/placeholder-hero.jpg
 thumbnail: /assets/images/about/team/MO-sq.jpg
 caption: "Monica Ong Reed, Yale Digital Humanities Lab "
 categories: 
-  - announcements
+  - Announcements
+tags: 
+  - Team Members
 spotlight: false 
 image_layout: simple
 teaser: |

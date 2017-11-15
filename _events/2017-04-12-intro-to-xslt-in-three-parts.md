@@ -5,19 +5,23 @@ image: /assets/images/placeholder-hero.jpg
 thumbnail: /assets/images/events/code.jpg
 caption: ""
 categories: 
-  - announcements
+  - Workshops
+tags:
+  - Textual Analysis
+  - XML
+  - TEI
 spotlight: false 
 image_layout: landscape
 teaser: |
   "Intro to XSLT in Three Parts April 12 from 3:00-5:00pm in Bass Library, L01 This workshop will provide a basic overview of XSLT as a declarative programming language. The instructor will demonstrate..."
 ---
 
-<h3>Intro to XSLT in Three Parts</h3>
+### Intro to XSLT in Three Parts
 *April 12 from 3:00-5:00pm in Bass Library, L01*
 
 This workshop will provide a basic overview of XSLT as a declarative programming language. The instructor will demonstrate an iterative process of investigating, updating, and reviewing a TEI file with the assistance of XSLT. Every participant will gain hands-on experience transforming an XML document with the oXygen XML Editor, using a supplied XSLT stylesheet, and writing a very simple XSLT stylesheet from scratch. The workshop will conclude with a couple of different methods for publishing TEI online.
 
-No prior encoding experience is required but basic knowledge of XML will be helpful. Participants are encouraged to install the <a href="https://www.oxygenxml.com/xml_editor/register.html#get_trial" target="_blank"> oXygen XML Editor </a> prior to the workshop in order to follow along with the exercises.
+No prior encoding experience is required but basic knowledge of XML will be helpful. Participants are encouraged to install the [oXygen XML Editor](https://www.oxygenxml.com/xml_editor/register.html#get_trial) prior to the workshop in order to follow along with the exercises.
     
 The workshop is open to all Yale students, faculty, and staff; no registration is required.
    

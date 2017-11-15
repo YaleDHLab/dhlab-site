@@ -5,14 +5,14 @@ image: /assets/images/placeholder-hero.jpg
 thumbnail: /assets/images/events/dh-rees.jpg
 caption: ""
 categories: 
-  - announcements
+  - Symposia
 spotlight: false 
 image_layout: landscape
 teaser: |
   "Digital Humanities & Russian and East European Studies Saturday, November 12, 10:00am-8:00pm at 451 College Street Our workshop explores the intersection of Digital Humanities and Russian and..."
 ---
 
-<h3>Digital Humanities &amp; Russian and East European Studies</h3>
+### Digital Humanities &amp; Russian and East European Studies
 *Saturday, November 12,*
 *10:00am-8:00pm at 451 College Street*
 

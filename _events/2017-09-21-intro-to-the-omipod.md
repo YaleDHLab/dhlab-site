@@ -6,11 +6,9 @@ location: Center for Collaborative Arts and Media (CCAM), 149 York Street
 thumbnail: /assets/images/events/omipod.jpg
 registerurl: http://web.library.yale.edu/dhlab/omi17
 categories:
-  - workshop
+  - Workshops
 tags:
-  - Yale Center for Collaborative Arts
-  - music computing
-  - OMIPOD
+  - Sound Analysis
 teaser: >
   The Yale Open Music Initiative, Digital Humanities Lab, and Center for Collaborative Arts and Media are happy to present a workshop on the OMIPOD, a wireless musical instrument that uses wi-fi to relay information from different sensors (light, touch, tilt) to any computer on the Yale network. 
 ---

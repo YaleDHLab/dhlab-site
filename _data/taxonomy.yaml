@@ -1,0 +1,56 @@
+news_and_events:
+  categories:
+    - Announcements
+    - Courses
+    - Meetups
+    - Off Campus
+    - Office Hours
+    - On Campus
+    - Opportunities
+    - Student Jobs
+    - Symposia
+    - Talks
+    - Workshops
+    
+  tags:
+    - Data Collection
+    - Geospatial Analysis
+    - Funding
+    - Git
+    - Javascript
+    - Manuscripts
+    - Network Analysis
+    - Pedagogy
+    - Python
+    - R
+    - Race Studies
+    - Sound Analysis
+    - Statistics
+    - Team Members
+    - TEI
+    - Textual Analysis
+    - Training
+    - Visual Analysis
+    - User Testing
+    - Visualization  
+    - XML
+projects:
+  categories:
+    - Crowdsourced Data
+    - Geospatial Analysis
+    - Network Analysis
+    - Textual Analysis
+    - Visual Analysis
+    - 360 Environments
+  tags:
+    - Archives
+    - Classics
+    - Corpus Creation
+    - Languages
+    - Linguistics
+    - Literature
+    - Manuscripts
+    - Medieval
+    - Modernism
+    - Political Science
+    - Virtual Reality

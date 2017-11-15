@@ -13,6 +13,10 @@ team:
 categories:
   - Geospatial Analysis
   - Textual Analysis
+
+tags:
+  - Linguistics
+  - Languages
 ---
 
 ### Overview

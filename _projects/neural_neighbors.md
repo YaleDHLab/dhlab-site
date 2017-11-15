@@ -6,10 +6,10 @@ caption: >
   The Meserve-Kunhardt Collection originated as one of the largest private collections of 19th-century photography. With over 73,000 items, the archive is a world-renowned record of America from the Civil War to the Gilded Age. 
 
 team:
-  - name: Principal Investigator
-    position: Organization
-  - name: Principal Investigator
-    position: Organization
+  - name: Peter Leonard
+    position: Digital Humanities Lab Director
+  - name: Doug Duhaime
+    position: Digital Humanities Lab Developer
 
 categories:
   - Visual Analysis

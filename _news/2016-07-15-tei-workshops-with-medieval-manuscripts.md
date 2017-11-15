@@ -5,7 +5,12 @@ image: /assets/images/placeholder-hero.jpg
 thumbnail: /assets/images/events/medieval-manuscripts.jpg
 caption: ""
 categories: 
-  - announcements
+  - Workshops
+tags:
+  - Textual Analysis
+  - Manuscripts
+  - TEI
+  - XML
 spotlight: false 
 image_layout: simple
 teaser: |
@@ -16,15 +21,13 @@ Applications are now open for two TEI workshops at Yale: Digital Editing and the
 
 These graduate training workshops will cover topics in:
 
-<ul>
-  <li>Paleography and Cataloging of Medieval Manuscript Rolls OR Fragments</li>
-  <li>Manuscript Transcription and Scholarly Editing</li>
-  <li>Introduction to the Digital Edition: Challenges and Best Practices</li>
-  <li>Collaborative Editing</li>
-  <li>XML, Text Encoding Fundamentals and the TEI Schema</li>
-</ul>
+ * Paleography and Cataloging of Medieval Manuscript Rolls OR Fragments
+ * Manuscript Transcription and Scholarly Editing
+ * Introduction to the Digital Edition: Challenges and Best Practices
+ * Collaborative Editing
+ * XML, Text Encoding Fundamentals and the TEI Schema
 
-No prior paleography or encoding experience is required. To apply, please visit the <a href="https://digitalrollsandfragments.com/calls-for-workshop-participants/" target="_blank"> Digital Rolls and Fragments website </a> and submit your application by <strong>July 15</strong>.
+No prior paleography or encoding experience is required. To apply, please visit the [Digital Rolls and Fragments website](https://digitalrollsandfragments.com/calls-for-workshop-participants/) and submit your application by **July 15**.
 
 <a href="http://web.library.yale.edu/sites/default/files/images/DigitalEditing.jpg">
   <img alt="" height="179" src="http://web.library.yale.edu/sites/default/files/resize/images/DigitalEditing-500x179.jpg" width="500"/>

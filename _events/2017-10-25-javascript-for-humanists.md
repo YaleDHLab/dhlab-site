@@ -6,10 +6,9 @@ location: Bass Library, L06
 thumbnail: /assets/images/events/code.jpg
 registerurl: http://schedule.yale.edu/event/3606999
 categories:
-  - workshop
+  - Workshops
 tags:
-  - javascript
-  - coding
+  - Javascript
 teaser: >
   This workshop will introduce the very basics of the JavaScript programming language, the language that runs nearly all modern websites. We will cover data structures, conditionals, and loops, and will also have time for participants to build small websites of their own design. 
 ---
@@ -19,4 +18,3 @@ This workshop will introduce the very basics of the JavaScript programming langu
 Registration is open to all Yale students, faculty, and staff, but space is limited. To register, please visit the YUL Instruction Calendar.
  
 Windows machines will be available for use, but participants may also work from Mac or Windows laptops, so long as they have administrative control over them.
- 

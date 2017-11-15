@@ -2881,6 +2881,18 @@ section {
   margin-top: 0;
 }
 
+.top-text td {
+  padding: 10px;
+}
+
+.top-text td p {
+  margin: 5px 0;
+}
+
+.top-text td:first-of-type {
+  min-width: 100px;
+}
+
 @media (max-width: $desktop_breakpoint) {
   .top-text .left-column {
     display: none;
@@ -3873,6 +3885,11 @@ section {
 /**
 * Simple Page
 **/
+
+.simple-page .three-text-blocks {
+  padding-left: 0;
+  padding-right: 0;
+}
 
 @media (min-width: 701px) and (max-width: $desktop_breakpoint) {
   .simple-page .mobile.hero {

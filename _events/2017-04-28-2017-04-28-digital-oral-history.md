@@ -5,10 +5,9 @@ time: 12:00 pm
 location: Bass Library, L01
 thumbnail: /assets/images/events/audio-waves.jpg
 categories:
-  - talk
+  - Talks
 tags:
-  - digital oral history
-  - data sharing
+  - Pedagogy
 teaser: >
   This presentation responds directly to the policy and cultural shift towards “data sharing” in the humanities and social sciences. Funding agencies in North America and Europe are now committed to the promotion of a culture of sharing of qualitative interview data.  
 ---

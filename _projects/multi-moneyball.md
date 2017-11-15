@@ -8,7 +8,7 @@ team:
     position: School of Public Health
 
 categories:
-  - Data Mining
+  - Textual Analysis
 
 tags:
   - Political Science

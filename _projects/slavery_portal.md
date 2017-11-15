@@ -2,14 +2,15 @@
 title: 'Slavery & Abolition Portal'
 thumbnail: '/assets/images/projects/abolition.jpg'
 layout: archive
+
 team:
   - name: Joseph Yannielli
     position: Graduate Student, History
   - name: David Blight
     position: Professor of History<br/>Director of the Gilder Lehrman Center for the Study of Slavery, Resistance, and Abolition   
-categories:
-  - Corpus Creation
+
 tags:
+  - Corpus Creation
 ---
 
 ### Overview
