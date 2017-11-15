@@ -10,6 +10,6 @@ application_url: http://google.com
 overview: seed_grant
 ---
 
-<h2 class='subheading'>Overview</h2>
+###Overview
 
 Seed Grants support digital humanities projects in their planning and implementation phases. The number of grants available each year will vary based on the number of received applications. Seed Grants fall into three types: Software Development, Corpus Creation, and Workshops. Applicants may apply for only one grant per application cycle, regardless of track.
