@@ -8,14 +8,14 @@ overview: training_scholarship
 class: hide-color-hr
 ---
 
-<h2 class='subheading'>Overview</h2>
+###Overview
 
 The DHLab is pleased to announce a limited number of $500 Digital Humanities Training Scholarships. Yale graduate students, undergraduates, and librarians are eligible to apply. These scholarships support participation in DH workshops that are three or more days long.
 
 The application cycle for 2017 workshops is closed. Please check back in the fall for 2018 workshops.
 <br/>
 
-<h2 class='subheading'>Popular Workshops</h2>
+###Popular Workshops
 
 Below is a sample of the workshops that previous recipients have attended. Many of these institutes offer additional funding for students that may be coupled with a DH Training Scholarship. Applications to participate in a workshop not listed below will also be considered, so long as the workshop is DH-intensive and three or more days in length.
 

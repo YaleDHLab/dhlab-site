@@ -1,8 +1,8 @@
 ---
 title: "Fall 2017 DH Courses"
 date: July 19, 2017
-image: /assets/images/placeholder-hero.jpg
-thumbnail: /assets/images/events/sterling-student.jpg
+image: /assets/images/postdocs-2017.jpg
+thumbnail: /assets/images/events/postdocs-2017.jpg
 caption: ""
 categories: 
   - Courses
