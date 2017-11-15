@@ -7,6 +7,7 @@ caption: >
 deadline: October 24, 2018
 application_text: >
   Apply now to become one of our 2018 Digital Humanities Postdoctoral Fellows.
+application_url: https://docs.google.com/forms/d/e/1FAIpQLSdF0PVOMAg-XhAcIBLwIffuE6usr7FuJtBVSuqfzYkz52Si7A/viewform?usp=sf_link
 overview: postdoctoral_associates
 ---
 
@@ -71,12 +72,12 @@ overview: postdoctoral_associates
         <li>two letters of recommendation.</li>
       </ul>
     </p>
-    <p>Applicants do not need a PhD to submit an application; however,the position does require a Ph.D. or equivalent degree by the start date of the appointment.</p>
+    <p>Applicants do not need a PhD to submit an application; however, the position does require a Ph.D. or equivalent degree by the start date of the appointment.</p>
   {% endcapture %}
 
   {% capture right_text_two %}
     <p>Applicants should click on the "Apply Here" button below to go to a Google Form where they can submit their information, along with a research plan that describes the goals and scope of the project that would be undertaken during the fellowship period, as well as their curriculum vitae.</p>
-    <a href='{{ site.postdoctoral_application }}' target='_blank' class='white-button'>Apply Here</a>
+    <a href='{{ page.application_url }}' target='_blank' class='white-button'>Apply Here</a>
   {% endcapture %}
 
   {% include text/color_blocks.html

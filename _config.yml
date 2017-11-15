@@ -90,6 +90,9 @@ newsletter: 'https://messages.yale.edu/Subscribe?ReturnUrl=%2fSubscribe%2fList%2
 # submit news url
 submit_news: 'https://docs.google.com/forms/d/1HvwWecpYODW3DoMVTnJy7beOMfechLPIiVhV5ekvYNI'
 
+# rapid prototyping grants url
+rapid_prototyping_grants_application: 'https://docs.google.com/forms/d/e/1FAIpQLSdsJ0M25-weuPkSrUzn2NHI30ewtov7VE10cp-nRFrfcEwLNw/viewform?usp=sf_link'
+
 # teaching fellows application url
 teaching_fellows: 'https://docs.google.com/forms/d/e/1FAIpQLScvKOG9RgwKW5nbzHYHHwG9N_yMeoLpaBH-RNbSB1BH0clenA/viewform?usp=sf_link'
 
