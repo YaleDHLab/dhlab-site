@@ -22,13 +22,11 @@ export const filter = (config) => {
     let itemsToRender = [];
     selected[field1] = document.querySelector(id1).value;
     selected[field2] = document.querySelector(id2).value;
-
     items.map((item) => {
       let fields = [];
       [field1, field2].map((f) => {
         if (f !== 'sort-by') fields.push(f)
       });
-
       let render = true;
       fields.map((field) => {
         const fieldVals = item[field];
@@ -40,7 +38,6 @@ export const filter = (config) => {
       })
       if (render) itemsToRender.push(item);
     })
-
     renderItems(sortItems(itemsToRender));
   }
 
