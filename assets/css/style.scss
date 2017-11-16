@@ -287,6 +287,10 @@ pre {
   left: 65px;
 }
 
+.project-detail-page .hero-text-container {
+  left: 0;
+}
+
 @media (max-width: $desktop_breakpoint) {
   .hero-text-container {
     max-width: 100%;
@@ -534,6 +538,10 @@ pre {
 
 .two-column-container .left-column {
   padding-left: 0;
+}
+
+.project-detail-page .left-column {
+  padding-left: 20px;
 }
 
 .two-column-container .right-column {
@@ -3831,10 +3839,6 @@ section {
 
 .project-page .project-team-members {
   padding-left: 80px;
-}
-
-.project-detail-page .tags {
-  margin-left: 80px;
 }
 
 @media (max-width: $desktop_breakpoint) {
