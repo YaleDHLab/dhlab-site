@@ -372,11 +372,13 @@ pre {
   letter-spacing: .5px;
   transition: background .1s;
   font-size: .9em;
+  font-weight: 700;
 }
 
 .white-button:hover {
   background: rgba(255,255,255,0.3);
   border: 2px solid $color;
+  font-weight: 700;
 }
 
 .color-button {
@@ -456,6 +458,7 @@ pre {
 .color-background .white-button {
   color: #000;
   margin-top: 10px;
+  font-weight: 700;
 }
 
 .color-background a {
@@ -1286,6 +1289,11 @@ section {
 /**
 * Partials: Three text blocks
 **/
+
+.three-text-blocks {
+  padding-left: 80px;
+  padding-right: 80px;
+}
 
 .three-text-blocks .block {
   display: inline-block;
