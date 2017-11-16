@@ -14,7 +14,7 @@ When starting a project, it's important that all team members have a clear under
 
 Those who manage projects for a living often speak of a "minimum viable product" (MVP), or the minimal set of functionality that completes a project's fundamental requirements. If you haven't done so yet, try drafting your own idea of an MVP. Once your draft is complete, ask a colleague if there's anything more that can be removed. Iterating on this process over a period of time can help one identify the fundamental goals of the project.  
 
-For help articulating and prioritizing goals,you might look at the Digital Humanities Lab's <a href='{{site.baseurl}}/assets/docs/DH-LeanCanvas.pdf'>Lean Canvas</a> and <a href='{{site.baseurl}}/assets/docs/DH-Ideation.pdf'>Ideation templates</a>. These are designed to walk researchers through the phases of creating an MVP. For additional templates, you might search online for a "software requirements document."<br/><br/> 
+For help articulating and prioritizing goals, you might look at the Digital Humanities Lab's <a href='{{site.baseurl}}/assets/docs/DH-LeanCanvas.pdf'>Lean Canvas</a> and <a href='{{site.baseurl}}/assets/docs/DH-Ideation.pdf'>Ideation templates</a>. These are designed to walk researchers through the phases of creating an MVP. For additional templates, you might search online for a "software requirements document."<br/><br/> 
 
 ### Identifying Project Timeline
 
