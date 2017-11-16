@@ -7,7 +7,7 @@
           style='background-image: url(<%= baseurl %><%= item.thumbnail %>)'></div>
       </div>
       <div class='text'>
-        <div class='small-uppercase'>Announcements</div>
+        <div class='small-uppercase'><%= item.categories[0] || 'Announcements' %></div>
         <h2><%= item.title %></h2>
         <br/>
         <div class='teaser'>

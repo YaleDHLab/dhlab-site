@@ -2,7 +2,7 @@
 title: "Fall 2017 DH Courses"
 date: July 19, 2017
 image: /assets/images/postdocs-2017.jpg
-thumbnail: /assets/images/events/postdocs-2017.jpg
+thumbnail: /assets/images/events/postdocs.jpg
 caption: ""
 categories: 
   - Courses

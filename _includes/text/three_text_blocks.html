@@ -3,7 +3,7 @@
   <hr class='hide-tablet'>
   {% for item in include.items limit: 3 %} 
     {% assign url = item.url | prepend: site.baseurl %}
-    <div class='block'>
+    <div class='block block-{{ forloop.index }}'>
       <a href='{{ url }}'>
         <h2>{{ item.title }}</h2>
       </a>
