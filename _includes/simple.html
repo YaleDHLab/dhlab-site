@@ -43,6 +43,7 @@
 
         {% if include.label == 'ARCHIVE' %}
           {% include projects/team_members.html page=include.page %}
+          <br/>
           <a href='{{ include.page.project_url }}' target='_blank' class='color-button'>View Project</a>
         {% endif %}
         {% include tags.html page=include.page %}
