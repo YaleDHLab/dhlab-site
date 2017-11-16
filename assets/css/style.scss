@@ -6,7 +6,7 @@ process: true
 $color: #FFC426;
 $hotlink: #edb021;
 $coldlink: #088077;
-$nav_breakpoint: 1200px;
+$nav_breakpoint: 900px;
 $desktop_breakpoint: 1000px;
 $mobile_breakpoint: 700px;
 
@@ -873,6 +873,12 @@ a.subheader ~ a {
 
 .search:hover {
   background-image: url('{{ site.baseurl }}/assets/images/icons/nav-search-yellow.svg');
+}
+
+@media (max-width: 1200px) {
+  .nav-icons {
+    display: none;
+  }
 }
 
 /**
