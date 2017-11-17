@@ -1941,9 +1941,19 @@ section {
     transform: translate(0px,40%);
   }
 
+  .guides-page .four-rectangle-grid-cell:hover .image-title-container {
+    transform: translate(0px,30%);
+  }
+
   .four-rectangle-grid-cell:hover .teaser {
     position: absolute;
-    transform: translate(0,175px);
+    transform: translate(0,150px);
+    z-index: 4;
+  }
+
+  .methods-page .four-rectangle-grid-cell:hover .teaser {
+    position: absolute;
+    transform: translate(0,140px);
     z-index: 4;
   }
 }

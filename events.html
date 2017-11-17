@@ -24,6 +24,7 @@ header_color: gray
   %}
 
   {% include events/get_past_events.html %}
+  {% assign items = past_events | sort: 'date' | reverse %}
   {% include grids/archive_grid.html
     items=past_events
     label='PAST EVENTS'
