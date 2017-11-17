@@ -10,16 +10,16 @@
   let links = [];
 
   const navicon = document.querySelector('.navicon'),
-        mobileClose = document.querySelector('.close-mobile-header'),
-        containers = document.querySelectorAll('.link');
+    mobileClose = document.querySelector('.close-mobile-header'),
+    containers = document.querySelectorAll('.link');
 
   /**
   * Toggle navicon visibility
   **/
 
-  const toggleNavicon = (e) => {
-    navicon.className = navicon.className.includes('active') ?
-        'navicon'
+  const toggleNavicon = () => {
+    navicon.className = navicon.className.includes('active')
+      ? 'navicon'
       : 'navicon active';
   }
 
@@ -41,7 +41,7 @@
   * Close the navicon
   **/
 
-  const handleMobileCloseClick = (e) => {
+  const handleMobileCloseClick = () => {
     navicon.className = 'navicon';
   }
 
@@ -61,8 +61,8 @@
     } catch(err) {}
 
     /* Toggle the active state of the element */
-    elem.className = elem.className.includes(' active ') ?
-        elem.className.replace(' active ', '')
+    elem.className = elem.className.includes(' active ')
+      ? elem.className.replace(' active ', '')
       : elem.className + ' active ';
   }
 

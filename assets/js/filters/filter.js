@@ -47,8 +47,8 @@ export const filter = (config) => {
 
   const renderItems = (itemsToRender) => {
     document.querySelector(target).innerHTML = '';
-    type === 'archive' ?
-        renderArchive(target, itemsToRender)
+    type === 'archive'
+      ? renderArchive(target, itemsToRender)
       : renderNews(target, itemsToRender);
   }
 
@@ -115,10 +115,9 @@ export const filter = (config) => {
   * Globals
   **/
 
-  // All configuration is defined in a single incoming object
-  var config = config || {};
+  // All configuration is defined in a single incoming object `config`
+  var items = window.items || [];
   const target = config.target || '#grid-target';
-  const elemSelector = config.elemSelector || '.archive-item';
   const field1 = config.field1 || 'categories';
   const field2 = config.field2 || 'tags';
   const type = config.type || 'archive';

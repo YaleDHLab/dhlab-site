@@ -1,14 +1,14 @@
 (() =>  {
 
   const clipboardTarget = document.querySelector('#clipboard-target'),
-      clipboardContent = document.querySelector('#clipboard-content'),
-      clipboardNotification = document.querySelector('#clipboard-notification');
+    clipboardContent = document.querySelector('#clipboard-content'),
+    clipboardNotification = document.querySelector('#clipboard-notification');
 
   if (!clipboardTarget) return;
 
   clipboardTarget.addEventListener('click', handleClick)
 
-  const handleClick = (e) => {
+  const handleClick = () => {
     try {
       clipboardContent.select();
       const result = document.execCommand('copy');

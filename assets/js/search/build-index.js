@@ -1,5 +1,5 @@
 var lunr = require('lunr');
-var documents = require('./documents');
+var documents = require('./documents.json');
 var fs = require('fs');
 var idToMetadata = {};
 

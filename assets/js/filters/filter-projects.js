@@ -1,4 +1,3 @@
-import _ from 'lodash';
 import { filter } from './filter.js';
 
 (() => {
