@@ -3,6 +3,7 @@ title: 'ChirilaDB'
 image: '/assets/images/projects/chirila_banner.png'
 thumbnail: '/assets/images/projects/chirila.png'
 funded: true
+project_url: http://chirila.yale.edu/
 
 team:
   - name: Claire Bowern

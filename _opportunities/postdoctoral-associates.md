@@ -2,12 +2,17 @@
 title: Postdoctoral Associates
 order: 2
 image: '/assets/images/banners/sterling-ext.jpg'
+
 caption: >
   Students in front of Sterling Memorial Library.
-deadline: October 24, 2018
+
 application_text: >
   Apply now to become one of our 2018 Digital Humanities Postdoctoral Fellows.
-application_url: https://docs.google.com/forms/d/e/1FAIpQLSdF0PVOMAg-XhAcIBLwIffuE6usr7FuJtBVSuqfzYkz52Si7A/viewform?usp=sf_link
+
+application_url: >
+  https://docs.google.com/forms/d/e/1FAIpQLSdF0PVOMAg-XhAcIBLwIffuE6usr7FuJtBVSuqfzYkz52Si7A/viewform?usp=sf_link
+
+deadline: October 24, 2018
 overview: postdoctoral_associates
 ---
 

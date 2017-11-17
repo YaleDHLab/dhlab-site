@@ -3,8 +3,10 @@ title: Geospatial Analysis
 order: 2
 project_category: Geospatial Analysis
 image: '/assets/images/banners/globe.jpg'
+
 caption: >
   Geospatial analysis consists of studying patterns in the distributions of entities in space. Read more about geographic analysis methods and resources below.
+
 teaser: >
   Geospatial analysis consists of studying patterns in the distributions of entities in space. Click to read more about geographic analysis methods.
 ---
@@ -20,4 +22,5 @@ There are numerous tools you could turn to for a geospatial project. Popular opt
 For ArcGIS, Yale has an enterprise account that provides affiliates with access to content created by others at the university, as well as free training videos. For more information on how to sign in with your NetID so that you can access these benefits, visit the recommended reading below by GIS Librarian, Miriam Olivares.
 
 ### Recommended Readings
+
 ["Geographic Information Systems at Yale: Getting Started with GIS"](https://guides.library.yale.edu/GIS) by Miriam Olivares

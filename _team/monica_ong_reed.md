@@ -10,4 +10,4 @@ An M.F.A. graduate in Digital Media from the Rhode Island School of Design, Moni
 
 At the DHLab she specializes in user research, prototyping and design, with an experimental eye for telling stories through data visualization and information design.
 
-Also a <a href='http://monicaong.com' target='_blank'>visual artist</a> and Kundiman poetry fellow, Monica’s debut collection, <em>Silent Anatomies</em> (2015), was selected by Joy Harjo as winner of the 2014 Kore Press First Book Award. She <a href='https://twitter.com/mongmedia' target='_blank'>tweets</a> too. 
+Also a [visual artist](http://monicaong.com) and Kundiman poetry fellow, Monica’s debut collection, *Silent Anatomies* (2015), was selected by Joy Harjo as winner of the 2014 Kore Press First Book Award. She [tweets](https://twitter.com/mongmedia) too. 
