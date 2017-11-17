@@ -6,10 +6,10 @@
   window.addEventListener('scroll', handleScroll);
   window.addEventListener('resize', handleScroll);
 
-  function handleScroll(e) {
+  function handleScroll() {
     const y = window.scrollY;
-    hero.style.backgroundPositionY = window.innerWidth < 1000 ?
-        0
+    hero.style.backgroundPositionY = window.innerWidth < 1000
+      ? 0
       : (-(y*1.5) - 120) + 'px';
   }
 

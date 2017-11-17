@@ -12,10 +12,11 @@
     ]
   },
   "scripts": {
-    "compress": "./node_modules/webpack/bin/webpack.js",
+    "compress": "./node_modules/webpack/bin/webpack.js --config webpack.config.js",
     "build": "bundle exec jekyll build",
     "deploy": "cp -r _site ~ && git checkout gh-pages && rm -r * && mv ~/_site/* . && git add . && git commit -m 'update gh-pages' && git push origin gh-pages && git checkout master",
     "index": "node _site/assets/js/search/build-index.js",
+    "lint-js": "./node_modules/eslint/bin/eslint.js -c './assets/config/.eslintrc.js' assets/js/",
     "test": "ruby -Ilib -e 'ARGV.each { |f| require f }' ./tests/test*.rb"
   },
   "dependencies": {
@@ -29,6 +30,8 @@
     "clean-webpack-plugin": "^0.1.17",
     "copy-webpack-plugin": "^4.1.0",
     "css-loader": "^0.28.7",
+    "eslint": "^4.11.0",
+    "eslint-plugin-frontmatter": "^0.0.2",
     "extract-text-webpack-plugin": "^3.0.1",
     "hard-source-webpack-plugin": "^0.4.11",
     "html-webpack-plugin": "^2.30.1",

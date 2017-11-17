@@ -9,20 +9,20 @@ import resultTemplate from '../../templates/search-result-template.html';
   **/
 
   let idx,
-      idToMetadata;
+    idToMetadata;
   
   const url = '/dhlab-site/assets/js/search/',
-      container = document.querySelector('.search-results-container'),
-      target = document.querySelector('.nav-icons .search'),
-      searchBar = document.querySelector('.search-bar'),
-      results = document.querySelector('#search-results'),
-      mobileResults = document.querySelector('#mobile-search-results'),
-      button = document.querySelector('#search-button'),
-      input = document.querySelector('#search-input'),
-      mobileInput = document.querySelector('#mobile-search'),
-      sortBy = document.querySelector('#search-select'),
-      loader = document.querySelector('.search-bar .loader'),
-      breakpoint = 1200; // mobile nav breakpoint
+    container = document.querySelector('.search-results-container'),
+    target = document.querySelector('.nav-icons .search'),
+    searchBar = document.querySelector('.search-bar'),
+    results = document.querySelector('#search-results'),
+    mobileResults = document.querySelector('#mobile-search-results'),
+    button = document.querySelector('#search-button'),
+    input = document.querySelector('#search-input'),
+    mobileInput = document.querySelector('#mobile-search'),
+    sortBy = document.querySelector('#search-select'),
+    loader = document.querySelector('.search-bar .loader'),
+    breakpoint = 1200; // mobile nav breakpoint
 
   /**
   * Get json
@@ -34,10 +34,8 @@ import resultTemplate from '../../templates/search-result-template.html';
       if (xmlhttp.readyState == XMLHttpRequest.DONE) {
         if (xmlhttp.status === 200) {
           if (handleSuccess) handleSuccess(xmlhttp.responseText)
-        } else {
-          if (handleErr) handleErr(xmlhttp)
         }
-      };
+      }
     };
     xmlhttp.open('GET', url, true);
     xmlhttp.send();
@@ -71,7 +69,7 @@ import resultTemplate from '../../templates/search-result-template.html';
   * Toggle the visibility of the search bar
   **/
 
-  const toggleSearch = (e) => {
+  const toggleSearch = () => {
     if (searchBar.className.includes('active')) {
       searchBar.className = searchBar.className.replace('active', '')
       container.style.display = 'none';
