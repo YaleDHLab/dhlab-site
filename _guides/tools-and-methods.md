@@ -8,10 +8,24 @@ teaser: >
   There are many tools and methods you could draw upon for your project. Click to read more about some of the most popular programming libraries digital humanists are using.
 ---
 
-### Subtitle
+### Visualize and Share Your Work
 
-Lorem ipsum dolor sit amet, sollicitudin non quas libero dictum nulla vel. Quam porttitor lacus a wisi. Duis congue, ut quam elit at a. Orci fermentum mattis accusantium. Libero fermentum condimentum sed, vel nunc lobortis, pede congue eu lorem in proin, orci consectetuer suscipit orci interdum, lacinia nulla hendrerit pellentesque sapien orci. Condimentum turpis, facilisis lectus vestibulum, tristique praesent viverra, placerat arcu id. Nulla eu mi, proin pede pulvinar viverra sit, cras ante pellentesque dui. Congue cum id ut. Vel tortor ducimus vel, senectus lacinia facilisi nam, sem vehicula dolor sed, aliquip adipiscing feugiat.
+There are a number of platforms for visualizing and sharing your digital humanities work. Below are a few free options to try out that require no to some programming knowledge. For more tools that are specific to visualizing certain types of data (for example - network graphs), visit the relevant pages under [What is DH]({{site.baseurl}}/methods.html).
 
-### Subtitle
+For tools that contain a suite of visualizations, try:
+* [Raw Graphs](http://app.rawgraphs.io/)
+* [Voyant](http://voyant-tools.org/)
+* [Tableau Public](https://public.tableau.com/en-us/s/)
 
-Lorem ipsum dolor sit amet, sollicitudin non quas libero dictum nulla vel. Quam porttitor lacus a wisi. Duis congue, ut quam elit at a. Orci fermentum mattis accusantium. Libero fermentum condimentum sed, vel nunc lobortis, pede congue eu lorem in proin, orci consectetuer suscipit orci interdum, lacinia nulla hendrerit pellentesque sapien orci. Condimentum turpis, facilisis lectus vestibulum, tristique praesent viverra, placerat arcu id. Nulla eu mi, proin pede pulvinar viverra sit, cras ante pellentesque dui. Congue cum id ut. Vel tortor ducimus vel, senectus lacinia facilisi nam, sem vehicula dolor sed, aliquip adipiscing feugiat.
+For presentation platforms that combine different media types, try:
+* [Story Maps](https://www.arcgis.com/home/index.html)
+* [Scalar](https://scalar.usc.edu/scalar/)
+* [Omeka](https://omeka.org/)
+
+For programming libraries, try:
+* [ggplot](http://ggplot2.org/)
+* [D3.js](https://d3js.org/)
+* [plotly](https://plot.ly/python/line-charts/')
+* [shiny](http://shiny.rstudio.com/)
+* [FusionCharts](https://www.fusioncharts.com/)
+* [Highcharts](https://www.highcharts.com/)
