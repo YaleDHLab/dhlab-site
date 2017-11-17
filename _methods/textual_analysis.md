@@ -3,8 +3,10 @@ title: Textual Analysis
 order: 0
 project_category: Textual Analysis
 image: '/assets/images/banners/text-mining.jpg'
+
 caption: >
   Text analysis consists of using automated techniques to study patterns in large text collections. Read more about text analysis methods and resources below.
+
 teaser: >
   Text analysis consists of using automated techniques to study patterns in large text collections. Click to read more about text analysis methods and resources.
 ---

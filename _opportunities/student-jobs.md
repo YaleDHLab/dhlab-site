@@ -2,14 +2,17 @@
 title: Student Jobs
 order: 1
 image: '/assets/images/banners/sterling-nave.jpg'
+
 caption: >
   The Nave in Sterling Memorial Library.
-deadline: Ongoing
+
 application_text: >
   Apply to join us as one of our 2018 student programmers or designers.
+
+deadline: Ongoing
 overview: student_jobs
-class: hide-color-hr
 application_url: mailto:dhlab@yale.edu
+class: hide-color-hr
 ---
 
 <div class='center-column'>

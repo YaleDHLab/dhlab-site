@@ -10,4 +10,4 @@ Douglas Duhaime is a Digital Humanities Developer for the DHLab. He comes to the
 
 Before joining the lab, Douglas partnered with the HathiTrust Research Center on an HTRC Advanced Collaborative Research Grant, and participated in the NEH-sponsored "Early Modern Digital Agendas", a research summit on computational approaches to early modern English history held at the Folger Library.
 
-You can find Douglas on <a href='https://github.com/duhaime' target='_blank'>GitHub</a>, <a href='https://twitter.com/douglasduhaime' target='_blank'>Twitter</a>, and his <a href='http://douglasduhaime.com/' target='_blank'>personal website</a>.
+You can find Douglas on [GitHub](https://github.com/duhaime), [Twitter](https://twitter.com/douglasduhaime), and his [personal website](http://douglasduhaime.com/).

@@ -2,6 +2,7 @@
 title: 'Transcribe at Yale'
 image: '/assets/images/projects/transcribe.jpg'
 thumbnail: '/assets/images/projects/transcribe.jpg'
+
 caption: >
   Explore the Kilpatrick collection of nearly 2,000 documents written or printed in the Cherokee language.
 
