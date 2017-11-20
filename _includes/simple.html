@@ -7,6 +7,16 @@
   {% include heroes/mobile_hero.html image=include.page.thumbnail %}
 {% endif %}
 
+
+{% case include.label %}
+  {% when 'NEWS' %}
+    {% assign page_type = 'news' %}
+  {% when 'EVENTS' %}
+    {% assign page_type = 'events' %}
+  {% when 'ARCHIVE' %}
+    {% assign page_type = 'projects' %}
+{% endcase %}
+
 <div class='center-column {{ include.page.class }}'>
   <section>
     <div class='section-title hide-tablet'>{{ include.label }}</div>
@@ -17,7 +27,7 @@
         title=include.page.title
       %}
     </div>
-    {% if include.label == 'EVENTS' %}
+    {% if page_type == 'projects' %}
       <div class='mobile mobile-event-timestamp'>
         {% include events/event_timestamp.html event=include.page %}
       </div>
@@ -28,40 +38,42 @@
         {% assign image_url = include.page.thumbnail | prepend: site.baseurl %}
         <div class='square-image background-image event-date-container'
           style='background-image:url({{ image_url }})'>
-          {% if include.label == 'EVENTS' %}
+          {% if page_type == 'events' %}
             {% include events/event_date.html event=include.page %}
           {% endif %}
-        </div><br/><br/>
-        {% if include.label == 'EVENTS' %}
+        </div>
+        <br/>
+        <br/>
+        {% if page_type == 'events' %}
           {% include events/event_timestamp.html event=include.page %}
           {% include events/event_actions.html page=include.page %}
         {% endif %}
 
-        {% if include.label == 'NEWS' %}
+        {% if page_type == 'news' %}
           {% include events/event_actions.html page=include.page %}
         {% endif %}
 
-        {% if include.label == 'ARCHIVE' %}
+        {% if page_type == 'archive' %}
           {% include projects/team_members.html page=include.page %}
           <br/>
           <a href='{{ include.page.project_url }}' target='_blank' class='color-button'>View Project</a>
         {% endif %}
-        {% include tags.html page=include.page %}
+        {% include tags.html page=include.page query_route=page_type %}
       </div>
       <div class='right-column'>
         {{ include.content }}
-        {% if include.label == 'EVENTS' %}
+        {% if page_type == 'events' %}
           <div class='mobile-tags mobile'>
-            {% include tags.html page=page %}
+            {% include tags.html page=page query_route=page_type %}
           </div>
         {% endif %}
-        {% if include.page.registerurl and include.label == 'EVENTS' %}
+        {% if include.page.registerurl and page_type == 'events' %}
           <a href='{{ include.page.registerurl }}' target='_blank' class='color-button'>Register</a>
         {% endif %}
       </div>
     </div>
   </section>
-  {% if include.label == 'EVENTS' %}
+  {% if page_type == 'events' %}
     <div class='hide-tablet'>
       {% include text/three_text_blocks.html
         items=include.bottom_items

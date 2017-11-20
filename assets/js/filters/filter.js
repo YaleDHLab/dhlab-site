@@ -117,6 +117,7 @@ export const filter = (config) => {
 
   // All configuration is defined in a single incoming object `config`
   var items = window.items || [];
+  var config = config || {};
   const target = config.target || '#grid-target';
   const field1 = config.field1 || 'categories';
   const field2 = config.field2 || 'tags';
