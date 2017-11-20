@@ -2,7 +2,7 @@
   {% if include.page.tags.size > 0 %}
     <div>Tags:</div>
     {% for tag in include.page.tags %}
-      <a href='{{ site.baseurl }}/events.html?tags={{ tag }}'>{{ tag }}</a>
+      <a href='{{ site.baseurl }}/{{ include.query_route }}.html?tags={{ tag }}'>{{ tag }}</a>
     {% endfor %}
   {% endif %}
 </div>

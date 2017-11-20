@@ -17,7 +17,7 @@ class: project-detail-page
       {% include projects/team_members.html page=page %}
       <br/>
       <a href='{{ page.project_url }}' target='_blank' class='color-button'>View Project</a>
-      {% include tags.html page=page %}
+      {% include tags.html page=page query_route='projects' %}
     </div>
     <div class='right-column'>
       <div class='mobile'>
