@@ -17,6 +17,8 @@ team:
 categories:
   - Geospatial Analysis
   - Visual Analysis
+
+project_url: http://cinecircuits.yale.edu/
 ---
 
 ### Overview

@@ -45,12 +45,12 @@ class: about-page
 
   {% capture left_text %}
     <p>Project Assistants collaborate on digital humanities research undertaken by Yale faculty and students.</p>
-    {% include text/personnel_list.html items=site.data.assistants.left %}
+    {% include about/personnel_list.html items=site.data.assistants.left %}
   {% endcapture %}
 
   {% capture right_text %}
     <p>Consultants meet with Yale scholars who are working with quantitative or computational methods.</p>
-    {% include text/personnel_list.html items=site.data.assistants.right %}
+    {% include about/personnel_list.html items=site.data.assistants.right %}
     <br/>
     <h2>Work With Us</h2>
     <p>Are you a programmer or designer interested in working in digital humanities? Contact us for information on becoming a DHLab assistant and explore our current <a href='{{ site.baseurl }}/opportunities/student-jobs.html'>Student Job Openings</a> for this academic year.</p>

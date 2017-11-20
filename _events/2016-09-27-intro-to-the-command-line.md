@@ -25,6 +25,6 @@ Windows computers will be available for use, though participants are welcome to 
 
 **If you plan to use one of the available Windows machines, please arrive 5 minutes early to the workshop as they take a while to boot up.**
    
-**Space is limited; to register, please go to the [YUL Instruction Calendar](http://schedule.yale.edu/event/2829853). Registration is open to Yale students, faculty, and staff; no prior programming experience is required.
+**Space is limited; to register, please go to the [YUL Instruction Calendar](http://schedule.yale.edu/event/2829853). Registration is open to Yale students, faculty, and staff; no prior programming experience is required.**
    
 This workshop will be lead-in to our Intro to Git Coffee and Code on October 25 - keep an eye on our website for more information.

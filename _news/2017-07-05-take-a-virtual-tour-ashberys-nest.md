@@ -7,7 +7,7 @@ caption: ""
 categories: 
   - On Campus
 spotlight: false 
-image_layout: landscape
+image_layout: simple
 teaser: |
   "The Digital Humanities Lab is thrilled to announce the launch of Ashbery’s Nest, a virtual tour of the American poet's Victorian home. Beginning with a prototype of the Center Hall, the site provides..."
 ---

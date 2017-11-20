@@ -18,7 +18,8 @@ To celebrate the launch of [*Humanities Data in R*](http://www.springer.com/us/b
   
 A physical copy of <em>Humanities Data in R</em> is available through retailers such as Amazon or directly through the publisher, Springer. The Springer site also offers digital editions and free digital access to participating institutions through SpringLink. The book collection in the DHLab also includes a printed copy for use in the lab.
    
-Photos from the event:  
+Photos from the event:
+
 [<img src="http://web.library.yale.edu/sites/default/files/resize/images/Lauren%2CTaylor-329x219.jpeg" />](http://web.library.yale.edu/sites/default/files/images/Lauren%2CTaylor.jpeg)
 [<img src="http://web.library.yale.edu/sites/default/files/resize/images/rScatterRaster-326x216.jpg" />](http://web.library.yale.edu/sites/default/files/images/rScatterRaster.jpg)
    

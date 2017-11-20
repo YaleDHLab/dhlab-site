@@ -18,7 +18,8 @@ With support from the Beinecke Rare Book and Manuscript Library and the Digital 
    
 For more information about the series, please visit [here](http://gsas.yale.edu/news/graduate-students-bring-together-manuscript-study-digital-editing).
 
-Photos from the event:  
+Photos from the event:
+
 [<img src="http://web.library.yale.edu/sites/default/files/resize/images/TEIworkshop2015_people-200x200.JPG" />](http://web.library.yale.edu/sites/default/files/images/TEIworkshop2015_people.JPG)
 
 [<img src="http://web.library.yale.edu/sites/default/files/resize/images/TEIworkshop2015_planning2-199x199.JPG" />](http://web.library.yale.edu/sites/default/files/images/TEIworkshop2015_planning2.JPG)
