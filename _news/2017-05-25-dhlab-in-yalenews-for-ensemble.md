@@ -7,7 +7,7 @@ caption: ""
 categories: 
   - Announcements
 spotlight: false 
-image_layout: landscape
+image_layout: simple
 teaser: |
   "What is the most-produced play at Yale? Which actors have played Hamlet on our stages? To find out, the Digital Humanities Lab and Robert B. Haas Family Arts Library created Ensemble @ Yale, a..."
 ---

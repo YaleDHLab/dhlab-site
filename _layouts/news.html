@@ -4,6 +4,7 @@ class: news-detail-page
 ---
 
 {% if page.image_layout == 'simple' %}
+  {% assign page_class = 'simple-page' %}
   {% assign bottom_items = site.news | limit: 3 %}
   {% include simple.html
     page=page
@@ -15,6 +16,7 @@ class: news-detail-page
 {% endif %}
 
 {% if page.image_layout == 'landscape' %}
+  {% assign page_class = 'news-landscape-page' %}
   {% assign image_url = page.image | prepend: site.baseurl %}
   {% include heroes/captioned_hero.html
     label='NEWS'
@@ -23,7 +25,7 @@ class: news-detail-page
     caption=page.caption
   %}
 
-  <div class='center-column'>
+  <div class='center-column {{ page_class }}'>
     <div class='two-column-container one-third-width top-text'>
       <div class='left-column'>
         {% include news/news_sidebar.html page=page %}

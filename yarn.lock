@@ -1841,10 +1841,6 @@ escope@^3.6.0:
     esrecurse "^4.1.0"
     estraverse "^4.1.1"
 
-eslint-plugin-ejs@^0.0.2:
-  version "0.0.2"
-  resolved "https://registry.yarnpkg.com/eslint-plugin-ejs/-/eslint-plugin-ejs-0.0.2.tgz#d17be92e8010262491d11efbeba7d626681eb18d"
-
 eslint-plugin-frontmatter@^0.0.2:
   version "0.0.2"
   resolved "https://registry.yarnpkg.com/eslint-plugin-frontmatter/-/eslint-plugin-frontmatter-0.0.2.tgz#96380d21ac7cd94cda97f3f62a46572f067f7e70"
