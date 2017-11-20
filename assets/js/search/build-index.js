@@ -13,6 +13,7 @@ function writeJson(obj, filename) {
 var idx = lunr(function() {
   this.ref('id')
   this.field('content')
+  this.field('title')
 
   documents.forEach(function(doc, idx) {
     doc.id = idx;
