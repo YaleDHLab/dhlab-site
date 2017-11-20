@@ -24,7 +24,9 @@
         <div class='teaser hide-mobile'>{{ include.item.teaser | truncatewords: 50 }}</div>
       {% endif %}
     </a>
-    {% if include.item.registerurl %}
+    {%- capture now %}{{ 'now' | date: '%s' | minus: 0 }}{% endcapture -%}
+    {%- capture date %}{{ include.item.date | date: '%s' | minus: 0 }}{% endcapture -%}
+    {% if include.item.registerurl and date >= now %}
       <a href='{{ include.item.registerurl }}' class='color-button'>Register</a>
     {% endif %}
   </div>
