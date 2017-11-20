@@ -19,7 +19,7 @@ teaser: |
    
 This workshop will familiarize you with key issues in data visualization. In addition to covering the fundamental principles behind effective visualizations, we will also touch on common pitfalls that result in confusing or misleading graphics. During the workshop, participants will gain hands-on experience using Tableau — interactive, data visualization software — to produce dynamic, compelling visualizations for all kinds of data.
 
-**Space is limited for the workshop; to register, please visit the [YUL Instruction Calendar](http://schedule.yale.edu/event/2822765). Lab computers and sample data will be available for use.
+**Space is limited for the workshop; to register, please visit the [YUL Instruction Calendar](http://schedule.yale.edu/event/2822765). Lab computers and sample data will be available for use.**
    
 All students, faculty, and staff are welcome to register!
    

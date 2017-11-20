@@ -21,7 +21,8 @@ During Office Hours, DH Developer Douglas Duhaime led an informal, live coding s
    
 All were welcome; no prior programming experience was required. Coffee and tea was provided!
     
-Photos from the event:  
+Photos from the event:
+
 [<img src="http://web.library.yale.edu/sites/default/files/resize/images/IMG_0496%281%29-223x223.JPG" />](http://web.library.yale.edu/sites/default/files/images/IMG_0496%281%29.JPG)
 
 [<img src="http://web.library.yale.edu/sites/default/files/resize/images/IMG_0497%282%29-300x225.JPG" />](http://web.library.yale.edu/sites/default/files/images/IMG_0497%282%29.JPG)

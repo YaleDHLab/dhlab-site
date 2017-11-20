@@ -16,7 +16,7 @@ teaser: |
    
 Still looking for classes to take this fall? Check out a few exciting DH-related courses below!
    
-*If you are teaching a course connected to DH and would like it included, please [email the DHLab](mailto:dhlab@yale.edu?subject=DH%20courses).
+*If you are teaching a course connected to DH and would like it included, please [email the DHLab](mailto:dhlab@yale.edu?subject=DH%20courses).*
 
 <pre>
   **The American Counterculture, ENGL 195**  

@@ -30,6 +30,7 @@ Carlotta Chenoweth (Slavic Languages and Literatures), "Avant-Gardes and √âmigr√
 Brandi M. Waters (History, African American Studies), "Introduction to Latin American History"  
 
 Photos from the event:
+
 [<img src="http://web.library.yale.edu/sites/default/files/resize/images/Brandi-400x300.jpg" />](http://web.library.yale.edu/sites/default/files/images/Brandi.jpg)
 
 [<img src="http://web.library.yale.edu/sites/default/files/resize/images/Carlotta-400x300.jpg" />](http://web.library.yale.edu/sites/default/files/images/Carlotta.jpg)

@@ -22,7 +22,7 @@ The Digital Humanities Lab sponsored two events with Scott Weingart, the Digital
 Networks are simple formal representations for how the world intermingles with itself. The humanities can make good use of this formalization to study anything from social interactions, to similarities between literary genres, to the trade routes between ancient cities. This workshop will cover the conceptual foundations of network analysis, and the steps to prepare data for, analyze, and visualize humanities networks. Participants will learn on Microsoft Excel, OpenRefine, NodeXL, and Gephi using computers provided by the lab. No background in programming or mathematics is needed.
    
 Photos from the workshop:  
-   
+
 [<img src="http://web.library.yale.edu/sites/default/files/resize/images/DSC_0429-300x200.jpg" />](http://web.library.yale.edu/sites/default/files/images/DSC_0429.jpg)
 
 [<img src="http://web.library.yale.edu/sites/default/files/resize/images/DSC_0637-300x200.jpg" />](http://web.library.yale.edu/sites/default/files/images/DSC_0637.jpg)
@@ -40,7 +40,8 @@ Photos from the workshop:
 
 Historians argue that correspondence networks played a vital role in laying the foundation of early modern scholarship, but only recently have the data and technology been available to critically engage those claims on a large scale. I will discuss how network structure scaffolded the history of science via the analysis of hundreds of thousands of exchanges in the Republic of Letters, and how scholars constructed social webs to strengthen their research. Over three centuries, the web they wove took on its own life, continuing to function without requiring the guiding hand of central figures. This is one story of the institutionalization of early modern scholarship, as told through network analysis.
 
-Photos from the talk:  
+Photos from the talk:
+ 
 [<img src="http://web.library.yale.edu/sites/default/files/resize/images/WeingartTalkIntroduction-300x169.jpg" />](http://web.library.yale.edu/sites/default/files/images/WeingartTalkIntroduction.jpg)
 
 [<img src="http://web.library.yale.edu/sites/default/files/resize/images/WeingartTalkBacon-225x169.jpg" />](http://web.library.yale.edu/sites/default/files/images/WeingartTalkBacon.jpg)

@@ -57,10 +57,10 @@ _opportunities:
     - application_url
     - application_text
     - deadline
-    - overview
   optional:
     - caption
     - class
+    - overview
 
 _projects:
   required:
