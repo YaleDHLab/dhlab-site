@@ -2839,7 +2839,7 @@ section {
   margin: 0 auto;
 }
 
-.search-results-header h3 {
+.search-results-header .section-title {
   display: inline-block;
   font-size: 22px;
   text-transform: uppercase;
@@ -2848,7 +2848,6 @@ section {
 .search-results-header select {
   float: right;
   position: relative;
-  top: 10px;
 }
 
 .search-result-title {
