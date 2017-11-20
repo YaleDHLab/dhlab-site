@@ -1,0 +1,24 @@
+{% if include.page.location %}
+  <div class='social-media-container'>
+    <hr/>
+    <div class='share-container'>
+      <div>Share</div>
+      <div class='share-icon'></div>
+      {% include social_media/social_media_icons.html page=page %}
+    </div>
+    <div class='vertical-bar'>|</div>
+    {% capture location %}{{ include.page.location }}' New Haven'{% endcapture %}
+    {% assign encoded_location = location | url_encode %}
+    <a class='directions-container'
+      target='_blank'
+      href='https://www.google.com/maps/place/{{ encoded_location }}'>
+      <div>Directions</div>
+      <div class='marker-icon'></div>
+    </a>
+    <hr/>
+  </div>
+{% else %}
+  <div class='standalone-social-media-icons'>
+    {% include social_media/social_media_icons.html page=include.page %}
+  </div>
+{% endif %}

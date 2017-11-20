@@ -25,6 +25,6 @@ Platforms that require some programming include [Bookworm](http://bookworm.cultu
 
 Popular packages that require more intensive levels of programming include [the Natural Language Toolkit](http://www.nltk.org/) and the Python libraries: datasketch, NumPy, SciPy, and scikit-learn.
 
-###Recommended Readings
+### Recommended Readings
 
 ["Seven Ways Humanists are Using Computers to Understand Text"](https://tedunderwood.com/2015/06/04/seven-ways-humanists-are-using-computers-to-understand-text/), by Ted Underwood

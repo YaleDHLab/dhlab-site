@@ -10,7 +10,6 @@ application_text: >
   Apply to join us as one of our 2018 student programmers or designers.
 
 deadline: Ongoing
-overview: student_jobs
 application_url: mailto:dhlab@yale.edu
 class: hide-color-hr
 ---
@@ -45,12 +44,11 @@ class: hide-color-hr
       </p>
     </div>
   </div>
-  {% if page.overview == 'student_jobs' %}
-    {% assign items = site.news | where: 'categories', 'student jobs' | limit: 3 %}
+  {% assign items = site.news | where: 'categories', 'student jobs' | limit: 3 %}
+  {% if items.size > 0 %}
     {% include text/three_text_blocks.html
       items=items
       label='OPEN CALLS'
     %}
   {% endif %}
-  
 </div>

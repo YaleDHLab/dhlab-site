@@ -34,7 +34,7 @@
     {% endif %}
     <div class='two-column-container one-third-width top-text'>
       <div class='left-column'>
-        <h2>{{ page.title }}</h2><br>
+        <h2>{{ page.title }}</h2>
         {% assign image_url = include.page.thumbnail | prepend: site.baseurl %}
         <div class='square-image background-image event-date-container'
           style='background-image:url({{ image_url }})'>
@@ -46,11 +46,11 @@
         <br/>
         {% if page_type == 'events' %}
           {% include events/event_timestamp.html event=include.page %}
-          {% include events/event_actions.html page=include.page %}
+          {% include social_media/share_and_directions.html page=include.page %}
         {% endif %}
 
         {% if page_type == 'news' %}
-          {% include events/event_actions.html page=include.page %}
+          {% include social_media/social_media_icons.html page=include.page %}
         {% endif %}
 
         {% if page_type == 'archive' %}
@@ -67,7 +67,9 @@
             {% include tags.html page=page query_route=page_type %}
           </div>
         {% endif %}
-        {% if include.page.registerurl and page_type == 'events' %}
+        {%- capture now %}{{ 'now' | date: '%s' | minus: 0 }}{% endcapture -%}
+        {%- capture date %}{{ include.page.date | date: '%s' | minus: 0 }}{% endcapture -%}
+        {% if include.page.registerurl and page_type == 'events' and date >= now %}
           <a href='{{ include.page.registerurl }}' target='_blank' class='color-button'>Register</a>
         {% endif %}
       </div>
@@ -82,7 +84,7 @@
     </div>
     <div class='tablet mobile mobile-event-bottom'>
       <div class='mobile-event-actions'>
-        {% include events/event_actions.html page=include.page %}
+        {% include social_media/share_and_directions.html page=include.page %}
       </div>
       <div class='section-title'>Related Events</div>
       {% for item in include.bottom_items limit:3 %}
