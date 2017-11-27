@@ -5,14 +5,14 @@
 {% endif %}
   <a href='{{ site.baseurl }}/#'>
     <div class='site-brand'>
-      <img src='{{ site.baseurl }}/assets/images/branding/DHLab-Logo.svg'>
+      {% include header/header_logo.html %}
     </div>
   </a>
   <div class='nav-links-container'>
     {% include header/navicon.html %}
     <div class='nav-links'>
       <div class='nav-links-mobile'>
-        <img src='{{ site.baseurl }}/assets/images/branding/DHLab-Logo.svg'>
+        {% include header/header_logo.html %}
         <span class='close-mobile-header'>✕</span>
       </div>
       <input id='mobile-search' class='mobile-search' placeholder='Search'>
