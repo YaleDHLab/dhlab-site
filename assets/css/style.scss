@@ -1116,7 +1116,6 @@ footer {
 footer .footer-column {
   display: table-cell;
   vertical-align: top;
-  padding: 0 20px;
   margin-bottom: 20px;
 }
 
@@ -1148,14 +1147,14 @@ footer a:hover {
     margin-top: 340px;
   }
 
+  footer .footer-column {
+    padding-left: 24px;
+  }
+
   footer .footer-bottom {
     display: inline-block;
     width: 49%;
     margin-top: -460px;
-  }
-
-  footer .footer-column {
-    padding: 0 40px;
   }
 
   footer .footer-mobile-icons {
@@ -1180,7 +1179,7 @@ footer a:hover {
   }
 
   footer .footer-column {
-    padding: 0;
+    padding-left: 0;
   }
 
   footer .footer-top,
