@@ -132,7 +132,7 @@ h2 {
 h3 {
   font-size: 17px;
   letter-spacing: .25px;
-  padding: 20px 40px 20px 0;
+  padding: 20px 40px 12px 0;
 }
 
 h3.subheading {
@@ -259,6 +259,10 @@ pre {
     text-align: center;
     max-width: 600px;
     margin: 0 auto;
+  }
+
+  .section-title {
+    padding-top: 40px;
   }
 }
 
@@ -1771,7 +1775,7 @@ section {
   padding: 18px;
   text-decoration: none;
   color: #000;
-  background: rgba(256,256,256,0.95);
+  background: rgba(256,256,256,0.9);
   border: 1px solid #ebebeb;
   position: relative;
 }
@@ -2328,6 +2332,12 @@ section {
     margin-bottom: 0;
   }
 
+  .horizontal-card:last-of-type {
+    height: auto;
+    margin-bottom: 0;
+    border-bottom: 1px solid #ddd;
+  }
+
   .horizontal-card .image {
     border: none;
   }
@@ -2593,6 +2603,11 @@ section {
 .social-media-container hr:first-of-type {
   padding: 0;
   margin: 10px 0;
+}
+
+.social-media-container hr:nth-of-type(2) {
+  padding: 0;
+  margin: 5px 0 0 0;
 }
 
 .social-media-container .share-container,
@@ -3021,6 +3036,10 @@ br + .tags,
 
 .top-text h3:first-of-type {
   padding-top: 0;
+}
+
+.top-text p+h3:first-of-type {
+  padding-top: 1em;
 }
 
 .top-text .right-column p:first-of-type {
