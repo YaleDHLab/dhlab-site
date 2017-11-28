@@ -1,5 +1,4 @@
 const OptimizeCssAssetsPlugin = require('optimize-css-assets-webpack-plugin');
-const HardSourceWebpackPlugin = require('hard-source-webpack-plugin');
 const ExtractTextPlugin = require('extract-text-webpack-plugin');
 const CopyWebpackPlugin = require('copy-webpack-plugin');
 const HtmlWebpackPlugin = require('html-webpack-plugin');
@@ -57,6 +56,5 @@ module.exports = {
   },
   plugins: [
     new webpack.optimize.UglifyJsPlugin(uglifyConfig),
-    new HardSourceWebpackPlugin()
   ]
 };

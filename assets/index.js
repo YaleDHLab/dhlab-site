@@ -7,3 +7,4 @@ import './js/copy-to-clipboard.js';
 import './js/parallax-scroll.js';
 import './js/search/search.js';
 import './js/scrollto.js';
+import './js/header-animation.js';
