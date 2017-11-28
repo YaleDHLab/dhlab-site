@@ -43,13 +43,13 @@
           {% endif %}
         </div>
         <br/>
-        <br/>
         {% if page_type == 'events' %}
           {% include events/event_timestamp.html event=include.page %}
           {% include social_media/share_and_directions.html page=include.page %}
         {% endif %}
 
         {% if page_type == 'news' %}
+          {% include news/news_timestamp.html news=include.page %}
           {% include social_media/social_media_icons.html page=include.page %}
         {% endif %}
 
