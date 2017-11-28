@@ -1159,7 +1159,6 @@ header.gray-header svg {
 **/
 
 footer {
-  padding: 60px 7%;
   display: table;
   color: #fff;
   width: 100%;
@@ -1168,18 +1167,31 @@ footer {
   font-weight: 400;
 }
 
+footer .center-column {
+  padding-top: 60px;
+}
+
 footer .footer-column {
   display: table-cell;
   vertical-align: top;
   margin-bottom: 20px;
+  width: 400px;
 }
 
 footer .footer-bottom div {
-  max-width: 280px;
+  max-width: 400px;
+}
+
+footer .footer-column:last-of-type {
+  padding-left: 28px;
+}
+
+footer .footer-column:nth-of-type(2) {
+  padding-left: 18px;
 }
 
 footer .footer-logo {
-  width: 300px;
+  width: 320px;
   height: 70px;
   margin-bottom: 60px;
 }
@@ -1205,6 +1217,10 @@ footer a:hover {
   footer .footer-column {
     padding-left: 24px;
   }
+
+footer .footer-column:nth-of-type(2) {
+  padding-left: 2px;
+}
 
   footer .footer-bottom {
     display: inline-block;
