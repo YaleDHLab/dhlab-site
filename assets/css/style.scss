@@ -654,7 +654,7 @@ footer {
 }
 
 .site-brand {
-  height: 60px;
+  height: 85px;
   width: 180px;
   margin-top: -5px;
   display: inline-block;
@@ -663,11 +663,8 @@ footer {
   text-decoration: none;
   padding: 5px 0px;
   float: left;
-}
-
-.brand-container {
-  background: $color;
   position: relative;
+  background: $color;
   box-shadow: -3px 3px 6px rgba(0, 0, 0, 0.05);
 }
 
@@ -934,12 +931,6 @@ header.gray-header svg {
   .nav-links-mobile.bottom a {
     display: block;
     padding-bottom: 15px;
-  }
-
-  .nav-links-mobile img {
-    width: 135px;
-    padding-bottom: 30px;
-    display: none;
   }
 
   .nav-links-mobile span {
@@ -1735,6 +1726,10 @@ section {
 
 .project-image-container:hover .card-title {
   color: $color;
+}
+
+.hero-link {
+  display: block;
 }
 
 .hero-link:hover .card-title {
