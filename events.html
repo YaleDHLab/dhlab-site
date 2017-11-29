@@ -7,14 +7,16 @@ header_color: gray
 {% assign next_event = site.events | sort: 'date' | first %}
 
 <div class='center-column'>
-  <section>
-    <div class='section-title'>EVENTS CALENDAR</div>
-    <hr class='hide-tablet' />
-    {% include events/get_future_events.html %}
-    {% for item in future_events %}
-      {%- include cards/horizontal_card.html item=item -%}
-    {% endfor %}
-  </section>
+  {% include events/get_future_events.html %}
+  {% if future_events.size > 0 %}
+    <section>
+      <div class='section-title'>EVENTS CALENDAR</div>
+      <hr class='hide-tablet' />
+      {% for item in future_events %}
+        {%- include cards/horizontal_card.html item=item -%}
+      {% endfor %}
+    </section>
+  {% endif %}
 
   {% assign items = site.events | limit: 3 %}
   {% include text/three_text_blocks.html
