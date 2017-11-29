@@ -677,6 +677,15 @@ footer {
           perspective: 1000px;
 }
 
+.site-brand a {
+  height: auto;
+  display: block;
+}
+
+.site-brand object {
+  pointer-events: none;
+}
+
 .site-brand #rotating-block {
   -webkit-transform: translateZ( -100px );
      -moz-transform: translateZ( -100px );
