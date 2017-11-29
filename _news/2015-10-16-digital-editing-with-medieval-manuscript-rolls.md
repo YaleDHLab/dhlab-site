@@ -2,7 +2,7 @@
 title: "Digital Editing with Medieval Manuscript Rolls"
 date: October 16, 2015
 image: /assets/images/placeholder-hero.jpg
-thumbnail: /assets/images/events/medieval-manuscripts.jpg
+thumbnail: /assets/images/events/beinecke.jpg
 caption: "Manuscript "
 categories: 
   - Announcements
