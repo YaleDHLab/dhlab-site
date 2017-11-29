@@ -5,5 +5,5 @@
     container.style.overflow = 'visible';
     block.className = 'rotated';
   }
-  setTimeout(rotate, 1500);
+  setTimeout(rotate, 1800);
 })()
