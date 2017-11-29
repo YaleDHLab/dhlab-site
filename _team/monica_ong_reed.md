@@ -6,7 +6,7 @@ order: 4
 group: core_team
 ---
 
-An M.F.A. graduate in Digital Media from the Rhode Island School of Design, Monica first came to Yale as designer for the School of Music (2007-2015) to lead initiatives in web and mobile publishing. Her design work has been nominated for a Webby Award in 2014 and recognized by the W3 Awards and the Connecticut Art Director’s Club. 
+An MFA graduate in Digital Media from the Rhode Island School of Design, Monica first came to Yale as designer for the School of Music (2007-2015) to lead initiatives in web and mobile publishing. Her design work has been nominated for a Webby Award in 2014 and recognized by the W3 Awards and the Connecticut Art Director’s Club. 
 
 At the DHLab she specializes in user research, prototyping and design, with an experimental eye for telling stories through data visualization and information design.
 

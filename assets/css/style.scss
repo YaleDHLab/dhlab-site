@@ -1199,6 +1199,10 @@ footer .footer-column:nth-of-type(2) {
   padding-left: 18px;
 }
 
+footer img {
+  pointer-events: none;
+}
+
 footer .footer-logo {
   width: 320px;
   height: 70px;
@@ -1811,6 +1815,10 @@ section {
 
 .card-title-container .card-title {
   font-size: 1.5em;
+}
+
+.home-page .card-title-container .card-title:hover {
+  color: $color;
 }
 
 .project-image-container:hover .card-title {
