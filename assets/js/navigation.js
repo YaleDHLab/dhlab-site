@@ -54,7 +54,7 @@
     try {
       /* Projects is a special case as it has no children */
       const parentClass = e.target.parentNode.className;
-      if (parentClass.includes('link') && !parentClass.includes('projects')) {
+      if (parentClass.includes('link') && !parentClass.includes('projects') && window.innerWidth < 900) {
         e.preventDefault();
         e.stopPropagation();
       }
