@@ -6,7 +6,7 @@ header_color: gray
 
 <div class='center-column'>
   {% capture text %}
-    The Digital Humanities Lab works on a wide range of projects with a number of researchers, designer, and programmers within the Yale campus and beyond. Read more below to learn more about the ways you can partner with the Lab on your next digital project!
+    The Digital Humanities Lab works on a wide range of projects with a number of researchers, designers, and programmers within the Yale campus and beyond. Read below to learn more about the ways you can partner with the Lab on your next digital project!
   {% endcapture %}
 
   {% include text/one-third-width/one_third_split_text_block.html
@@ -19,29 +19,24 @@ header_color: gray
   %}
 
   {% capture left_text_one %}
-    <p>Each semester, the Digital Humanities Lab appoints a cohort of Digital Humanities Fellows to assist with courses that have a strong digital humanities component. These positions provide semester-long support for graduate students to engage with DH methods and theories in a classroom setting.</p>
-    <p>DHLab staff will work with Fellows to design DH assignments, arrange access to electronic content, and provide specialized technical training. Visit the DH Fellows page to learn about our current recipients and their courses.</p>
+    <p>Each semester, the Digital Humanities Lab appoints a cohort of Digital Humanities Fellows to assist with courses that have a strong digital humanities component. These positions provide semester-long support for graduate students to engage with digital humanities methods and theories in a classroom setting.</p>
+    <p>DHLab staff will work with Fellows to design digital humanities assignments, arrange access to electronic content, and provide specialized technical training. Visit the DH Fellows page to learn about our current recipients and their courses.</p>
     <a href='{{ site.baseurl }}/opportunities/dh-teaching-fellows.html'
       class='white-button'>Learn More</a>
   {% endcapture %}
 
   {% capture left_text_two %}
-    <p>The Digital Humanities Lab funds a number of annual postdoctoral associate positions each academic year. During those application cycles, we seek energetic and creative applicants who demonstrate innovative thinking and a proactive approach to the questions that digital humanities methods, approaches, tools, and theories raise in their academic disciplines.</p>
-    <p>Each Postdoctoral Associate has a dedicated workspace in the DHLab in Sterling Memorial Library; the opportunity to collaborate with technical staff, including a DH Developer and UX Designer; and a budget for computing equipment, professional development, and relocation expenses. The Postdoctoral Associate's primary responsibility is to his or her own research project. We also expect candidates will be active participants in the intellectual life of the DHLab. The Director of the Digital Humanities Lab will coordinate their integration into the DHLab.</p>
+    <p>The Digital Humanities Lab funds postdoctoral associate positions each academic year. During those application cycles, we seek energetic and creative applicants who demonstrate innovative thinking and a proactive approach to the questions that digital humanities methods, approaches, tools, and theories raise in their academic disciplines.</p>
+    <p>Each Postdoctoral Associate has a dedicated workspace in the DHLab in Sterling Memorial Library; the opportunity to collaborate with technical staff, including a DH Developer and UX Designer; and a budget for computing equipment, professional development, and relocation expenses. The Postdoctoral Associate's primary responsibility is to his or her own research project. We also expect candidates will be active participants in the intellectual life of the DHLab.</p>
     <a href='{{ site.baseurl }}/opportunities/postdoctoral-associates.html'
       class='white-button'>Learn More</a>
   {% endcapture %}
 
   {% capture right_text_one %}
     <p>The Digital Humanities Lab funds a wide range of projects that require different levels of programming expertise. If you would like to be considered for one of these positions when they open up, please email your resume/CV to dhlab@yale.edu, along with a brief statement of interest.</p>
-    <p>Additionally, Yale Digital Scholarship Services—which includes the Digital Humanities Lab and StatLab—hires graduate students each semester to join our team as Digital Scholarship consultants. Whether you use machine learning to find aesthetic patterns in 18th-century paintings, interactive data visualizations to track instances of textual reuse in Classical literature, or big data technologies to identify systemic drivers of gene expression, we want to hear from you.</p>
+    <p>Additionally, Yale Digital Scholarship Services—which includes the DHLab and StatLab—hires graduate students each semester to join our team as Digital Scholarship consultants. Whether you use machine learning to find aesthetic patterns in 18th-century paintings, interactive data visualizations to track instances of textual reuse in Classical literature, or big data technologies to identify systemic drivers of gene expression, we want to hear from you.</p>
     <a href='{{ site.baseurl }}/opportunities/student-jobs.html'
       class='white-button'>Learn More</a>
-  {% endcapture %}
-
-  {% capture right_text_two %}
-    <p>Yale's roots in digital humanities undertakings date back (at least) to Father Roberto Busa's visit to our campus on September 24, 1956. Father Busa is credited with being the founder of humanities computing. His concordance of the works of Saint Thomas Aquinas is the founding example of digital humanities research.</p>
-    <p>Generously funded by the Goizueta Foundation, the DHLab is committed to advancing science, technology, engineering, the arts, and mathematics (STEAM) teaching and research at Yale. In addition to facilitating cross-disciplinary collaborations on campus, the DHLab also promotes faculty and student initiatives that reach beyond the University to engage wider publics.</p>
   {% endcapture %}
 
   {% include text/color_blocks.html
@@ -53,9 +48,6 @@ header_color: gray
 
     right_title_one='Student Jobs'
     right_text_one=right_text_one
-
-    right_title_two='Why Yale?'
-    right_text_two=right_text_two
   %}
 
   {% assign items = site.projects | limit: 3 %}
