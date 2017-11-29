@@ -225,7 +225,7 @@ pre {
   margin-bottom: 10px;
   text-transform: uppercase;
   font-weight: 600;
-  font-size: .9em;
+  font-size: .8em;
   letter-spacing: .5px;
 }
 
@@ -665,7 +665,7 @@ footer {
   padding: 5px 0px;
   float: left;
   position: relative;
-  box-shadow: -3px 3px 6px rgba(0, 0, 0, 0.05);
+  box-shadow: 0px 3px 6px rgba(0, 0, 0, 0.05);
   text-align: center;
   -webkit-perspective: 1000px;
      -moz-perspective: 1000px;
@@ -705,8 +705,8 @@ footer {
 }
 
 .site-brand #yale-mark {
-  width: 49%;
-  padding: 21px 45px;
+  width: 56%;
+  padding: 16px 46px 20px 38px;
   transform: translateZ( 88px );
 }
 
@@ -946,7 +946,7 @@ a.subheader ~ a {
   background-image: url('{{ site.baseurl }}/assets/images/icons/nav-search-yellow.svg');
 }
 
-@media (max-width: 1200px) {
+@media (max-width: 1080px) {
   .nav-icons {
     display: none;
   }
