@@ -2311,7 +2311,7 @@ section {
   }
 
   .news-card-square {
-    margin-bottom: -5px;
+    display: block;
   }
 }
 
@@ -2940,6 +2940,7 @@ br + .tags,
   height: 0px;
   display: block;
   transition: height .2s;
+  top: -10px;
 }
 
 .search-bar.active {
@@ -4207,6 +4208,21 @@ br + .tags,
 
   .simple-page .mobile-event-actions {
     display: none;
+  }
+}
+
+/**
+* Privacy Policy & Terms of Use
+**/
+
+.privacy-policy,
+.terms-of-use {
+  h2 {
+    padding-top: 40px;
+  }
+
+  hr {
+    padding-bottom: 10px;
   }
 }
 
