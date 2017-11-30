@@ -24,8 +24,8 @@ header_color: gray
     {% capture submit_news %}
       <div><b>Got Something To Share?</b></div>
       <div class='color-text'><b>Tell Us Your Story</b></div>
-      <p>Send us a note about your digital humanities project, upcoming event, or new funding opportunity, and we'll be glad to help spread the word.</p>
-      <a href='{{ site.submit_news }}' class='color-text'><b>Submit News &raquo;</b></a>
+      <p>Tell us about your DH project, submit an event, or ask a question. We'd like to share your stories about scholarship in the digital humanities.</p>
+      <a href='{{ site.submit_news }}' class='color-text' target='_blank'><b>Submit News &raquo;</b></a>
     {% endcapture %}
 
     {% capture square_html %}
@@ -38,7 +38,7 @@ header_color: gray
     <div class='button-prompt'>
       Subscribe to receive the latest DHLab news and events.
     </div>
-    <a href='{{ site.newsletter }}' class='color-button'>
+    <a href='{{ site.newsletter }}' class='color-button' target='_blank'>
       <b>Sign up for E-News</b>
     </a>
     {% endcapture %}
