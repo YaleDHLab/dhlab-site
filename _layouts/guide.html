@@ -20,6 +20,11 @@ class: guide-detail-page
       %}
     </div>
     <div class='right-column'>
+      {% include text/mobile_section_title.html
+        category = 'Methods'
+        title = page.title
+      %}
+
       {{ content }}
     </div>
   </div>
