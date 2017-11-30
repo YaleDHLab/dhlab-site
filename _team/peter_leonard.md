@@ -6,7 +6,7 @@ order: 1
 group: core_team
 ---
 
-Peter received his B.A. in art history from the University of Chicago and his Ph.D. in Scandinavian literature from the University of Washington. He came to Yale in 2013 as the first Librarian for Digital Humanities Research.
+Peter received his BA in art history from the University of Chicago and his PhD in Scandinavian literature from the University of Washington. He came to Yale in 2013 as the first Librarian for Digital Humanities Research.
 
 Prior to coming to Yale, Peter was responsible for humanities research computing at the University of Chicago and served as a postdoctoral researcher in text-mining at UCLA, supported by a Google Digital Humanities Research Award.
 

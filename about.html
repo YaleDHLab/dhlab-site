@@ -53,11 +53,11 @@ class: about-page
     {% include about/personnel_list.html items=site.data.assistants.right %}
     <br/>
     <h2>Work With Us</h2>
-    <p>Are you a programmer or designer interested in working in digital humanities? Contact us for information on becoming a DHLab assistant and explore our current <a href='{{ site.baseurl }}/opportunities/student-jobs.html'>Student Job Openings</a> for this academic year.</p>
+    <p>Are you a programmer or designer interested in working in digital humanities? <a href='mailto:dhlab@yale.ed'>Contact us</a> for information on becoming a DHLab assistant and explore our current Student Job Openings for this academic year.</p>
   {% endcapture %}
 
   {% assign left_button_url = '/projects.html' | prepend: site.baseurl %}
-  {% assign right_button_url = '#' | prepend: site.baseurl %}
+  {% assign right_button_url = '/opportunities/student-jobs.html' | prepend: site.baseurl %}
 
   <div class='tablet-center'>
     {% include text/half-width/two_column_text.html
@@ -69,7 +69,7 @@ class: about-page
       right_title = 'DHLab Consultants'
       right_text = right_text
       right_button_url = right_button_url
-      right_button_label = 'Contact Us'
+      right_button_label = 'Student Jobs'
     %}
   </div>
 </div>
