@@ -1263,11 +1263,16 @@ footer .footer-column:nth-of-type(2) {
     padding: 50px 25px;
   }
 
+  footer .center-column {
+    padding: 0;
+  }
+
   footer .footer-logo {
     margin-bottom: 30px;
   }
 
-  footer .footer-column {
+  footer .footer-column,
+  footer .footer-column:last-of-type {
     padding-left: 0;
   }
 
@@ -1484,6 +1489,14 @@ section {
 
   .three-text-blocks hr {
     padding-bottom: 15px;
+  }
+
+  .center-column > .three-text-blocks {
+    margin-top: 0;
+  }
+
+  .center-column > .three-text-blocks .section-title {
+    padding-top: 20px;
   }
 }
 
@@ -3896,7 +3909,6 @@ br + .tags,
 
 .projects-page .hero-link {
   overflow: visible;
-  display: inline-block;
   width: 100%;
   padding-bottom: 60px;
 }
@@ -4030,6 +4042,10 @@ br + .tags,
 
   .projects-page .three-spaced-squares {
     padding-top: 0;
+  }
+
+  .projects-page #grid-target {
+    margin-left: 0;
   }
 }
 
