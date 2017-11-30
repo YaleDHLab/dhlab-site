@@ -1,6 +1,6 @@
 <!DOCTYPE html>
 <html lang='en'>
-  <head>{% include head.html %}</head>
+  {% include head.html %}
   <body>
     {% capture page_class %}container {{ page.class }} {{ layout.class }}{% endcapture %}
     <div class='content'>
@@ -16,6 +16,6 @@
       </div>
     </div>
     {% include footer.html %}
-    <script src='{{ site.baseurl }}/assets/bundle.js'></script>
+    <script src='{{ site.baseurl }}/assets/bundle.js?{{ site.time | date: "%s%N" }}'></script>
   </body>
 </html>
