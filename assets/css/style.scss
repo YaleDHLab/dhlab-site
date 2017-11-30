@@ -22,6 +22,7 @@ html, body {
   font-size: 14px;
   font-weight: 400;
   background-attachment: fixed;
+  overflow: auto;
 }
 
 /**
@@ -215,12 +216,11 @@ pre {
   font-size: 15px;
 }
 
-@media (max-width: $desktop_breakpoint) {
+@media (max-width: $mobile_breakpoint) {
   /* Hide initial section title on smaller devices */
-  .right-column > h3:first-of-type {
+  .top-text .right-column > h3:first-of-type {
     display: none;
   }
-
 }
 
 /**
@@ -2375,7 +2375,6 @@ section {
   .horizontal-card:last-of-type {
     height: auto;
     margin-bottom: 0;
-    border-bottom: 1px solid #ddd;
   }
 
   .horizontal-card .image {
@@ -3074,24 +3073,14 @@ br + .tags,
   margin: 5px 0;
 }
 
-.top-text h3:first-of-type {
-  padding-top: 0;
+.top-text h3 {
+  padding-bottom: 0;
 }
 
-.top-text p+h3:first-of-type {
-  padding-top: 1em;
-}
-
-.top-text .right-column p:first-of-type {
-  margin-top: 0;
-}
-
-.top-text .right-column h2 + p:first-of-type {
-  margin-top: 1em;
-}
-
-.top-text h3 + p {
-  margin-top: 0;
+@media (min-width: $desktop_breakpoint) {
+  .top-text h3:first-of-type {
+    padding-top: 0;
+  }
 }
 
 @media (max-width: $desktop_breakpoint) {
@@ -3103,8 +3092,8 @@ br + .tags,
     padding: 0;
   }
 
-  .top-text .right-column p:first-of-type {
-    margin-top: 1em;
+  .top-text h2 {
+    margin-bottom: 10px;
   }
 }
 
@@ -3656,6 +3645,10 @@ br + .tags,
   display: none;
 }
 
+.news-page #sort-by {
+  display: none;
+}
+
 @media (max-width: $desktop_breakpoint) {
   .news-page .center-column {
     padding-top: 120px;
@@ -3776,6 +3769,16 @@ br + .tags,
 
   .events-page .three-text-blocks {
     margin-top: 40px;
+  }
+
+  /* case where there are no upcoming events */
+  .events-page .center-column > .three-text-blocks {
+    margin-top: 0;
+  }
+
+  /* case where there are no upcoming events */
+  .events-page .center-column > .three-text-blocks .section-title {
+    padding-top: 20px;
   }
 }
 
@@ -3964,6 +3967,10 @@ br + .tags,
     width: 100%;
     display: block;
     padding: 20px 0;
+  }
+
+  .projects-page .mobile.section-title:first-of-type {
+    padding: 0;
   }
 
   .projects-page .project-image-container {
