@@ -14,7 +14,7 @@ tags:
 spotlight: false 
 image_layout: simple
 teaser: |
-  "The Yale Working Group in Digital Manuscript Studies and the Beinecke Rare Book and Manuscript Library are pleased to announce a call for expressions of interest in the Fall 2015 Digital Manuscript..."
+  The Yale Working Group in Digital Manuscript Studies and the Beinecke Rare Book and Manuscript Library are pleased to announce a call for expressions of interest in the Fall 2015 Digital Manuscript...
 ---
 
 [The Yale Working Group in Digital Manuscript Studies](http://whc.yale.edu/digital-manuscript-studies) and the Beinecke Rare Book and Manuscript Library are pleased to announce a call for expressions of interest in the Fall 2015 Digital Manuscript Studies Workshop.

@@ -9,7 +9,7 @@ categories:
 spotlight: false 
 image_layout: simple
 teaser: |
-  "Award Recipients The Digital Humanities Lab is delighted to announce the recipients of our 2016 Project Grants. These awards support the initial phases of faculty projects that pursue innovation..."
+  Award Recipients The Digital Humanities Lab is delighted to announce the recipients of our 2016 Project Grants. These awards support the initial phases of faculty projects that pursue innovation...
 ---
 
 ### Award Recipients

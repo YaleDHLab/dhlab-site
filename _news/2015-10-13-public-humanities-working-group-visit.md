@@ -9,7 +9,7 @@ categories:
 spotlight: false 
 image_layout: simple
 teaser: |
-  "The Yale Public Humanities Working Group visited the DHLab on October 13 to tour the space and discuss productive crossovers in digital humanities and public humanities initiatives. DHLab Director,..."
+  The Yale Public Humanities Working Group visited the DHLab on October 13 to tour the space and discuss productive crossovers in digital humanities and public humanities initiatives. DHLab Director,...
 ---
 
 The Yale Public Humanities Working Group visited the DHLab on October 13 to tour the space and discuss productive crossovers in digital humanities and public humanities initiatives. DHLab Director, [Peter Leonard](http://resources.library.yale.edu/StaffDirectory/detail.aspx?q=718), began the discussion by introducing the Lab, and [Lindsay King](http://resources.library.yale.edu/StaffDirectory/detail.aspx?q=631) (Robert B. Haas Family Arts Library), [Lisa Conathan](http://resources.library.yale.edu/StaffDirectory/detail.aspx?q=107) Beinecke Rare Book and Manuscript Library), and [Catherine DeRose](http://resources.library.yale.edu/StaffDirectory/detail.aspx?q=806) (Digital Humanities Lab) each highlighted example crossover projects.

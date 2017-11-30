@@ -14,7 +14,7 @@ tags:
 spotlight: false 
 image_layout: simple
 teaser: |
-  "Applications are now open for two TEI workshops at Yale: Digital Editing and the Medieval Manuscripts Roll and Digital Editing and the Medieval Manuscript Fragment. Both workshops will cover the..."
+  Applications are now open for two TEI workshops at Yale: Digital Editing and the Medieval Manuscripts Roll and Digital Editing and the Medieval Manuscript Fragment. Both workshops will cover the...
 ---
 
 Applications are now open for two TEI workshops at Yale: Digital Editing and the Medieval Manuscripts Roll and Digital Editing and the Medieval Manuscript Fragment. Both workshops will cover the fundamentals of digital editing while tackling the codicological challenges posed by the materials. Participants will undertake the work of transcription and commentary, encoding the text and images of a medieval manuscript roll or fragment according to TEI P5 protocols. The workshops will result in collaborative digital editions.

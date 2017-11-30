@@ -11,7 +11,7 @@ tags:
 spotlight: false 
 image_layout: simple
 teaser: |
-  "The Digital Humanities Lab (DHLab) is excited to share that Monica Ong Reed has joined on as our User Experience Designer. An M.F.A. graduate in Digital Media from the Rhode Island School of Design,..."
+  The Digital Humanities Lab (DHLab) is excited to share that Monica Ong Reed has joined on as our User Experience Designer. An M.F.A. graduate in Digital Media from the Rhode Island School of Design,...
 ---
 
 The Digital Humanities Lab (DHLab) is excited to share that Monica Ong Reed has joined on as our User Experience Designer. An M.F.A. graduate in Digital Media from the Rhode Island School of Design, she first came to Yale as designer for the School of Music (2007-2015) to lead initiatives in web and mobile publishing. Her design for the YSM website was nominated for a Webby Award in 2014 and recognized by the W3 Awards and the Connecticut Art Director’s Club.

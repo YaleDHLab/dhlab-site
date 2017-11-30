@@ -11,7 +11,7 @@ tags:
 spotlight: false 
 image_layout: simple
 teaser: |
-  "Interested in learning how to build a database or code with R? Apply for a Digital Humanities Training Scholarship! Yale undergraduates, graduate students, and librarians are eligible to apply...."
+  Interested in learning how to build a database or code with R? Apply for a Digital Humanities Training Scholarship! Yale undergraduates, graduate students, and librarians are eligible to apply....
 ---
 
 Interested in learning how to build a database or code with R? Apply for a Digital Humanities Training Scholarship! Yale  undergraduates, graduate students, and librarians are eligible to apply. These scholarships support participation in week-long DH workshops.

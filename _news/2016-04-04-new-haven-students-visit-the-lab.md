@@ -12,7 +12,7 @@ tags:
 spotlight: false 
 image_layout: simple
 teaser: |
-  "The Digital Humanities Lab welcomed junior high and high school students from around the New Haven area for a workshop on DH. Following a tour of the lab and a discussion of old and new media,..."
+  The Digital Humanities Lab welcomed junior high and high school students from around the New Haven area for a workshop on DH. Following a tour of the lab and a discussion of old and new media,...
 ---
 
 The Digital Humanities Lab welcomed junior high and high school students from around the New Haven area for a workshop on DH. Following a tour of the lab and a discussion of old and new media, students learned about the [Photogrammar](http://photogrammar.yale.edu/) project and participated in a scavenger hunt to find images of American life during the Great Depression and World War II.

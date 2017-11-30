@@ -11,7 +11,7 @@ tags:
 spotlight: false
 image_layout: landscape
 teaser: |
-  "Looking for new ways to collect, analyze, and present humanities data? Try one or more of these DH-related workshops this fall!"
+  Looking for new ways to collect, analyze, and present humanities data? Try one or more of these DH-related workshops this fall!
 ---
 
 Looking for new ways to collect, analyze, and present humanities data? Try one or more of these DH-related workshops this fall! Offerings include hands-on introductions to popular programming languages and tools for creating dynamic visualizations and web applications.
