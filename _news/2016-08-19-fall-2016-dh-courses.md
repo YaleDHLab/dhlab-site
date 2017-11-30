@@ -9,7 +9,7 @@ categories:
 spotlight: false 
 image_layout: simple
 teaser: |
-  "Upcoming Courses Still looking for classes to take this fall? Check out a few exciting DH-related courses below! If you are teaching a course connected to DH and would like it included, please email..."
+  Upcoming Courses Still looking for classes to take this fall? Check out a few exciting DH-related courses below! If you are teaching a course connected to DH and would like it included, please email...
 ---
 
 ### Upcoming Courses

@@ -11,7 +11,7 @@ spotlight: false
 image_layout: simple
 status: fulfilled
 teaser: |
-  "Fellowship opportunity to digitize Dickens The Beinecke Rare Book & Manuscript Library will be funding a graduate student fellowship, the official announcement of which is on the Graduate School'..."
+  Fellowship opportunity to digitize Dickens The Beinecke Rare Book & Manuscript Library will be funding a graduate student fellowship, the official announcement of which is on the Graduate School'...
 ---
 
 ### Fellowship opportunity to digitize Dickens

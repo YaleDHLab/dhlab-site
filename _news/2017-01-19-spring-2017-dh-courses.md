@@ -11,7 +11,7 @@ tags:
 spotlight: false 
 image_layout: simple
 teaser: |
-  "Spring Courses Still looking for classes to take this spring? Check out a few exciting DH-related courses below! If you are teaching a course connected to DH and would like it included, please email..."
+  Spring Courses Still looking for classes to take this spring? Check out a few exciting DH-related courses below! If you are teaching a course connected to DH and would like it included, please email...
 ---
    
 Still looking for classes to take this spring? Check out a few exciting DH-related courses below!

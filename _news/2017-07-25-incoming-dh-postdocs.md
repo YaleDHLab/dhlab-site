@@ -11,7 +11,7 @@ tags:
 spotlight: true 
 image_layout: simple
 teaser: |
-  "The Digital Humanities Lab is delighted to announce the three Postdoctoral Associates who will be joining the DHLab team for the 2017-2018 academic year. While here, the postdocs will pursue digital..."
+  The Digital Humanities Lab is delighted to announce the three Postdoctoral Associates who will be joining the DHLab team for the 2017-2018 academic year. While here, the postdocs will pursue digital...
 ---
 
 The Digital Humanities Lab is delighted to announce the three Postdoctoral Associates who will be joining the DHLab team for the 2017-2018 academic year. While here, the postdocs will pursue digital humanities research relevant to their academic disciplines, with a Yale faculty member serving as a mentor.

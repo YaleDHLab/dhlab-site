@@ -12,7 +12,7 @@ tags:
 spotlight: false 
 image_layout: simple
 teaser: |
-  "Fortunoff-DHLab Postdoctoral Associate The Yale Fortunoff Video Archive for Holocaust Testimonies (FVAHT) and Digital Humanities Lab are excited to invite applications for a joint Postdoctoral..."
+  Fortunoff-DHLab Postdoctoral Associate The Yale Fortunoff Video Archive for Holocaust Testimonies (FVAHT) and Digital Humanities Lab are excited to invite applications for a joint Postdoctoral...
 ---
 
 ### Fortunoff-DHLab Postdoctoral Associate

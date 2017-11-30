@@ -11,7 +11,7 @@ tags:
 spotlight: false 
 image_layout: simple
 teaser: |
-  "With support from the Beinecke Rare Book and Manuscript Library and the Digital Humanities Lab, graduate students launched a two-day workshop series on digital editions. The lead instructors included..."
+  With support from the Beinecke Rare Book and Manuscript Library and the Digital Humanities Lab, graduate students launched a two-day workshop series on digital editions. The lead instructors included...
 ---
 
 With support from the Beinecke Rare Book and Manuscript Library and the Digital Humanities Lab, graduate students launched a two-day workshop series on digital editions. The lead instructors included Anya Adair (English), Katherine Hindley (Medieval Studies), and Joseph Stadolnik (English and Medieval Studies). The workshop was organized around a digitized manuscript roll from the Beinecke's collection. Over the course of the two days, fourteen workshops participants from seven departments learned how to catalog, transcribe, and encode the manuscript according to standards established by the Text Encoding Initiative (TEI). Their work will culminate in an online scholarly edition of the text that will be linked to a high-quality digital facsimile. A second iteration of the course will take place in March.
