@@ -17,6 +17,7 @@
     "deploy": "cp -r _site ~ && git checkout gh-pages && rm -r * && mv ~/_site/* . && git add . && git commit -m 'update gh-pages' && git push origin gh-pages && git checkout master",
     "index": "node _site/assets/js/search/build-index.js",
     "lint-js": "./node_modules/eslint/bin/eslint.js -c './assets/config/.eslintrc.js' assets/js/",
+    "start": "bundle exec jekyll serve --port 5000",
     "test": "ruby -Ilib -e 'ARGV.each { |f| require f }' ./tests/test*.rb"
   },
   "dependencies": {

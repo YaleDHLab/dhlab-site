@@ -4,7 +4,7 @@ baseurl: '/dhlab-site'
 future: true
 
 # minify html in production
-minify_html: false
+minify_html: true
 
 # minify assets
 sass:
