@@ -24,9 +24,9 @@ class: award-detail-page
   {% if page.overview == 'rapid_prototyping_grant' %}
     {% include awards/rapid_prototyping_grant_overview.html page=page %}
   {% elsif page.overview == 'seed_grant' %}
-    {% include awards/seed_grant_overview.html %}
+    {% include awards/seed_grant_overview.html page=page %}
   {% elsif page.overview == 'training_scholarship' %}
-    {% include awards/training_scholarship_overview.html %}
+    {% include awards/training_scholarship_overview.html page=page %}
   {% endif %}
 
   {% include awards/funded_projects.html %}

@@ -215,6 +215,10 @@ pre {
   font-size: 15px;
 }
 
+.intro a {
+  color: $color;
+}
+
 @media (max-width: $mobile_breakpoint) {
   /* Hide initial section title on smaller devices */
   .top-text .right-column > h3:first-of-type {
