@@ -20,6 +20,7 @@
     "test": "ruby -Ilib -e 'ARGV.each { |f| require f }' ./tests/test*.rb"
   },
   "dependencies": {
+    "d3": "^4.12.0",
     "lodash": "^4.17.4",
     "lunr": "^2.1.4"
   },
