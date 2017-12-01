@@ -806,26 +806,26 @@ header.gray-header .nav-links .link:hover .sublinks {
 * Header: Highlight the current route
 **/
 
-.container.about-page .link.about > a {
+.about-page .link.about > a {
   color: $color;
 }
 
-.container.opportunities-page .link.opportunities > a,
-.container.awards-page .link.opportunities > a {
+.opportunities-page .link.opportunities > a,
+.awards-page .link.opportunities > a {
   color: $color;
 }
 
-.container.events-page .link.events > a,
-.container.news-page .link.events > a {
+.events-page .link.events > a,
+.news-page .link.events > a {
   color: $color;
 }
 
-.container.projects-page .link.projects > a {
+.projects-page .link.projects > a {
   color: $color;
 }
 
-.container.guides-page .link.guides > a,
-.container.methods-page .link.guides > a {
+.guides-page .link.guides > a,
+.methods-page .link.guides > a {
   color: $color;
 }
 
@@ -4227,6 +4227,22 @@ br + .tags,
   hr {
     padding-bottom: 10px;
   }
+}
+
+/**
+* 404
+**/
+
+.four-oh-four {
+  background: #3BA2DB;
+}
+
+.four-oh-four body svg {
+  max-width: 80%;
+  padding: 12% 0;
+  display: block;
+  margin: 0 auto;
+  fill: #3BA2DB;
 }
 
 /**
