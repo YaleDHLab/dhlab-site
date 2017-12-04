@@ -38,11 +38,11 @@ _news:
   required:
     - title
     - date
-    - image
     - thumbnail
     - image_layout
     - teaser
   optional:
+    - image
     - caption
     - categories
     - tags

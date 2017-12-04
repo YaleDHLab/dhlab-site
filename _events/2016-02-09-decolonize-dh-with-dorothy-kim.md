@@ -1,7 +1,6 @@
 ---
-title: "Decolonize DH with Dorothy Kim"
+title: Decolonize DH with Dorothy Kim
 date: February 9, 2016
-image: /assets/images/placeholder-hero.jpg
 thumbnail: /assets/images/events/neural-body.jpg
 caption: ""
 categories: 

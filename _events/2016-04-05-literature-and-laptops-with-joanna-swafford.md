@@ -1,7 +1,6 @@
 ---
-title: "Literature and Laptops with Joanna Swafford"
+title: Literature and Laptops with Joanna Swafford
 date: April 5, 2016
-image: /assets/images/placeholder-hero.jpg
 thumbnail: /assets/images/events/sherlock.jpg
 caption: ""
 categories: 

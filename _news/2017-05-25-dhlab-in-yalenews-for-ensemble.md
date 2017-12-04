@@ -2,6 +2,7 @@
 title: "DHLab in YaleNews for Ensemble"
 date: May 25, 2017
 thumbnail: /assets/images/news/ensemble.jpg
+image: /assets/images/banners/ensemble.jpg
 caption: ""
 categories: 
   - Announcements

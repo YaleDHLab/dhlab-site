@@ -1,7 +1,6 @@
 ---
-title: "Network Analysis with Scott Weingart"
+title: Network Analysis with Scott Weingart
 date: March 7, 2016
-image: /assets/images/placeholder-hero.jpg
 thumbnail: /assets/images/events/networks2.jpg
 caption: ""
 categories: 

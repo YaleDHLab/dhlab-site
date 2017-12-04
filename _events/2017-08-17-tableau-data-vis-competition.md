@@ -1,7 +1,6 @@
 ---
-title: "Tableau Data Vis Competition"
+title: Tableau Data Vis Competition
 date: August 17, 2017
-image: /assets/images/placeholder-hero.jpg
 thumbnail: /assets/images/events/dataviz.jpg
 caption: ""
 categories: 

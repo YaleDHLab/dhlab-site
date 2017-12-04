@@ -40,7 +40,6 @@ for i in glob.glob('_projects/*'):
       out_path = get_out_path(thumb, name_ext='-thumb', subdir='archive-thumbs')
       cmd = get_command(thumb, 532, 532, out_path)
       os.system(cmd)
-      #print(cmd)
 
     ##
     # Projects - make 2x thumbnail for 940 x 472 display
@@ -52,4 +51,3 @@ for i in glob.glob('_projects/*'):
       out_path = get_out_path(image, name_ext='-thumb', subdir='thumbs')
       cmd = get_command(image, 1880, 944, out_path)
       os.system(cmd)
-      #print(cmd)

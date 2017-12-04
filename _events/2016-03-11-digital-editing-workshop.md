@@ -1,7 +1,6 @@
 ---
-title: "Digital Editing Workshop"
+title: Digital Editing Workshop
 date: March 11, 2016
-image: /assets/images/placeholder-hero.jpg
 thumbnail: /assets/images/events/manuscript.jpg
 caption: ""
 categories: 

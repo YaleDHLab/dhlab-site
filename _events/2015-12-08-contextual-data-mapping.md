@@ -1,9 +1,8 @@
 ---
 title: "12/8 Contextual Data Mapping"
 date: December 8, 2015
-image: /assets/images/placeholder-hero.jpg
 thumbnail: /assets/images/events/chiodo.jpg
-caption: "Contextual data map"
+caption: Contextual data map
 categories: 
   - Office Hours
 tags:

@@ -1,7 +1,6 @@
 ---
-title: "Intro to Data Vis"
+title: Intro to Data Vis
 date: October 28, 2016
-image: /assets/images/placeholder-hero.jpg
 thumbnail: /assets/images/events/dataviz.jpg
 caption: ""
 categories: 

@@ -1,7 +1,6 @@
 ---
-title: "Yale Open Music Initiative Workshop"
+title: Yale Open Music Initiative Workshop
 date: September 21, 2017
-image: /assets/images/placeholder-hero.jpg
 thumbnail: /assets/images/events/omipod.jpg
 caption: ""
 categories: 

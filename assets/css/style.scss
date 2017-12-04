@@ -3989,11 +3989,6 @@ br + .tags,
   display: none;
 }
 
-.projects-page #grid-target {
-  margin-left: -8px;
-  margin-right: -8px;
-}
-
 @media (max-width: $desktop_breakpoint) {
   .projects-page .hero {
     height: 400px;

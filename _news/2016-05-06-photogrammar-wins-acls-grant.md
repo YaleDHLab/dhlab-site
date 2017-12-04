@@ -1,7 +1,7 @@
 ---
 title: "Photogrammar Wins ACLS Grant!"
 date: May 6, 2016
-thumbnail: /assets/images/projects/photogrammar.jpg
+thumbnail: /assets/images/projects/originals/photogrammar.jpg
 caption: ""
 categories: 
   - Announcements
