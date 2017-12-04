@@ -39,7 +39,7 @@ class: projects-page mobile-dark-header
           <div class={% cycle 'left-column', 'right-column' %}>
             <div class='project-image-container desktop-project'>
               <a href='{{ project.url | prepend: site.baseurl }}'>
-                {% assign image_url = project.image | prepend: site.baseurl %}
+                {% assign image_url = project.thumbnail | prepend: site.baseurl %}
                 <div class='background-image blur-container'
                   style='background-image:url("{{ image_url }}")'>
                   {% include cards/card_title_box.html
@@ -63,10 +63,6 @@ class: projects-page mobile-dark-header
   </div>
 
   {% assign items = site.projects | where: 'layout', 'archive' %}
-  {% assign funded-items = site.projects | where: 'funded', 'true' %}
-  {% for item in funded-items %}
-    {% assign items = items | push: item %}
-  {% endfor %}
   
   {% include grids/archive_grid.html
     items=items

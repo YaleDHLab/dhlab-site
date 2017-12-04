@@ -185,9 +185,7 @@ select {
 }
 
 ul {
-  list-style-position: inside;
   padding-left: 20px;
-  text-indent: -20px;
   line-height: 24px;
   font-weight: 400;
   font-size: 15px;
@@ -1682,9 +1680,19 @@ section {
 * Partials: Archive Grid
 **/
 
+.grid-target-container {
+  margin-left: -10px;
+  margin-right: -10px;
+}
+
+.grid-target {
+  display: table;
+  width: 100%;
+}
+
 .archive-grid .archive-item {
   display: inline-block;
-  width: 19.5%;
+  width: 20%;
   padding: 10px;
   vertical-align: top;
 }
@@ -1694,6 +1702,7 @@ section {
   padding-top: 4px;
   font-weight: 600;
   min-height: 40px;
+  white-space: normal;
 }
 
 .archive-grid a.archive-item:hover {
@@ -1704,10 +1713,25 @@ section {
   padding-bottom: 100%;
 }
 
+@media (max-width: $desktop_breakpoint) {
+  .grid-target-container {
+    margin-left: 0;
+    margin-right: 0;
+  }
+
+  .archive-grid .mobile.section-title {
+    display: none;
+  }
+}
+
 @media (max-width: $mobile_breakpoint) {
   .archive-grid .archive-item {
-    width: 32%;
+    width: 33.3%;
     padding: 4px;
+  }
+
+  .archive-grid .mobile.section-title {
+    display: block;
   }
 }
 
@@ -2679,7 +2703,7 @@ section {
 }
 
 .social-media-container .vertical-bar {
-  margin-left: 29px;
+  margin-left: 54px;
 }
 
 .social-media-container div {
@@ -2690,7 +2714,7 @@ section {
 
 .share-icon,
 .marker-icon {
-  margin: 0 10px 0 5px;
+  margin-left: 5px;
   background-repeat: no-repeat;
   background-size: 15px;
   background-position: 0% 0px;
@@ -3789,19 +3813,24 @@ br + .tags,
   }
 
   /* case where there are no upcoming events */
-  .events-page .center-column > .three-text-blocks {
+  .events-page .center-column.no-future-events .three-text-blocks {
     margin-top: 0;
   }
 
   /* case where there are no upcoming events */
-  .events-page .center-column > .three-text-blocks .section-title {
+  .events-page .center-column.no-future-events .three-text-blocks .section-title {
     padding-top: 20px;
   }
 }
 
 @media (max-width: $mobile_breakpoint) {
   .events-page .center-column {
-    padding: 0 !important;
+    padding: 0 0 30px 0;
+  }
+
+  /* case where there are no upcoming events */
+  .events-page .center-column.no-future-events {
+    padding-top: 70px;
   }
 
   .events-page h3 {
@@ -3985,10 +4014,6 @@ br + .tags,
     padding: 20px 0;
   }
 
-  .projects-page .mobile.section-title:first-of-type {
-    padding: 0;
-  }
-
   .projects-page .project-image-container {
     margin-bottom: 0;
   }
@@ -4016,7 +4041,6 @@ br + .tags,
 
   .projects-container {
     padding: 0;
-    padding-bottom: 30px;
   }
 
   .mobile-project .background-image {
