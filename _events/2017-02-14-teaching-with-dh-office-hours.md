@@ -1,7 +1,6 @@
 ---
-title: "Teaching with DH Office Hours"
+title: Teaching with DH Office Hours
 date: February 14, 2017
-image: /assets/images/placeholder-hero.jpg
 thumbnail: /assets/images/news/dh-fellows.jpg
 caption: ""
 categories: 

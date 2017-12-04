@@ -1,9 +1,8 @@
 ---
-title: "Miriam Posner on Digital Humanities in American Studies"
+title: Miriam Posner on Digital Humanities in American Studies
 date: May 4, 2015
-image: /assets/images/placeholder-hero.jpg
 thumbnail: /assets/images/events/posner.jpg
-caption: "Miriam Posner, Yale Digital Humanities Lab"
+caption: Miriam Posner, Yale Digital Humanities Lab
 categories: 
   - Talks
 tags:

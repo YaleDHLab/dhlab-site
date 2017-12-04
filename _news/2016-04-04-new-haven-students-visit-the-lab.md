@@ -1,7 +1,6 @@
 ---
 title: "New Haven Students Visit the Lab"
 date: April 4, 2016
-image: /assets/images/placeholder-hero.jpg
 thumbnail: /assets/images/news/workshop-code.jpg
 caption: "New Haven students interact with Photogrammar "
 categories: 

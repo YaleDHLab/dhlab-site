@@ -1,8 +1,7 @@
 ---
-title: "Towards a Computational Archaeology of Fictional Space"
+title: Towards a Computational Archaeology of Fictional Space
 date: October 13, 2017
 location: Linsly-Chittenden Hall, Rm 209
-image: /assets/images/placeholder-hero.jpg
 thumbnail: /assets/images/events/tenen.jpg
 caption: ""
 categories: 

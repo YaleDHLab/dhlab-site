@@ -1,7 +1,6 @@
 ---
-title: "Call for Users to Test Virtual Tour"
+title: Call for Users to Test Virtual Tour
 date: June 15, 2017
-image: /assets/images/placeholder-hero.jpg
 thumbnail: /assets/images/news/nest.jpg
 caption: ""
 categories: 

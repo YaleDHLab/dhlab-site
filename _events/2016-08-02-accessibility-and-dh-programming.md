@@ -1,7 +1,6 @@
 ---
-title: "Accessibility and DH Programming"
+title: Accessibility and DH Programming
 date: August 2, 2016
-image: /assets/images/placeholder-hero.jpg
 thumbnail: /assets/images/events/code.jpg
 caption: ""
 categories: 

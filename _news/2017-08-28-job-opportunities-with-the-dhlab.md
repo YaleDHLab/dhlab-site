@@ -1,7 +1,6 @@
 ---
 title: "Job Opportunities with the DHLab"
 date: August 28, 2017
-image: /assets/images/placeholder-hero.jpg
 thumbnail: /assets/images/news/office-hours.jpg
 caption: ""
 categories: 

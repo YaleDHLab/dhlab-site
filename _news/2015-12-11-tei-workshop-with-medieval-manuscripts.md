@@ -1,7 +1,6 @@
 ---
 title: "TEI Workshop with Medieval Manuscripts"
 date: December 11, 2015
-image: /assets/images/placeholder-hero.jpg
 thumbnail: /assets/images/events/medieval-manuscripts.jpg
 caption: "Medieval Manuscript Roll, Beinecke and DHLab"
 categories: 

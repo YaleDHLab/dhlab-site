@@ -1,7 +1,6 @@
 ---
-title: "OpenStreetMap Mapathon"
+title: OpenStreetMap Mapathon
 date: April 6, 2017
-image: /assets/images/placeholder-hero.jpg
 thumbnail: /assets/images/events/map-nyc.jpg
 caption: ""
 categories: 

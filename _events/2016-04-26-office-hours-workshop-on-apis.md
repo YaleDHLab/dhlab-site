@@ -1,7 +1,6 @@
 ---
-title: "Office Hours Workshop on APIs"
+title: Office Hours Workshop on APIs
 date: April 26, 2016
-image: /assets/images/placeholder-hero.jpg
 thumbnail: /assets/images/events/workshop-code.jpg
 caption: ""
 categories: 

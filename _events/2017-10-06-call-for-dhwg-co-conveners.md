@@ -1,7 +1,6 @@
 ---
-title: "Call for DHWG Co-Conveners"
+title: Call for DHWG Co-Conveners
 date: October 6, 2017
-image: /assets/images/placeholder-hero.jpg
 thumbnail: /assets/images/events/students.jpg
 caption: ""
 categories: 

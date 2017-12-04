@@ -1,14 +1,14 @@
 ---
+spotlight: true
 title: "Incoming DH Postdocs"
 date: July 25, 2017
-image: /assets/images/banners/postdocs-2017.jpg
 thumbnail: /assets/images/news/postdocs-2017.jpg
+image: /assets/images/banners/postdocs-2017.jpg
 caption: ""
 categories: 
   - Announcements
 tags: 
   - Team Members
-spotlight: true 
 image_layout: simple
 teaser: |
   The Digital Humanities Lab is delighted to announce the three Postdoctoral Associates who will be joining the DHLab team for the 2017-2018 academic year. While here, the postdocs will pursue digital...
