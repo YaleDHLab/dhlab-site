@@ -1,8 +1,8 @@
 ---
 featured: true
 title: 'Ensemble: Crowdsource Yale Theatre History'
-image: '/assets/images/projects/ensemble.jpg'
-thumbnail: '/assets/images/projects/ensemble.jpg'
+image: /assets/images/projects/originals/ensemble.jpg
+thumbnail: /assets/images/projects/thumbs/ensemble-thumb.jpg
 caption: >
   Scene from <em>The Winter's Tale</em> at the Yale Repertory Theatre, directed by Liz Diamond. 
 project_url: http://ensemble.yale.edu/#/

@@ -1,9 +1,8 @@
 ---
-title: "Modeling Racial Discourse with Richard Jean So"
+title: Modeling Racial Discourse with Richard Jean So
 date: March 28, 2016
-image: /assets/images/placeholder-hero.jpg
 thumbnail: /assets/images/events/richard-so.jpg
-caption: "Richard Jean So, Yale Digital Humanities Lab"
+caption: Richard Jean So, Yale Digital Humanities Lab
 categories: 
   - Talks
 tags:

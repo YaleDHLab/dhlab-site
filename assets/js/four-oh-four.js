@@ -1,8 +1,7 @@
 import * as d3 from 'd3';
 
 (function(d3) {
-  window.d3 = d3;
-  if (!window.location.href.includes('404.html')) return;
+  if (!document.querySelector('.four-oh-four')) return;
   var rects = d3.select('body').selectAll('rect'),
       colors = ['#1981AA', '#FFC426', '#fff', '#000'];
 

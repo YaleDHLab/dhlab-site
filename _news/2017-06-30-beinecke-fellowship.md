@@ -1,7 +1,6 @@
 ---
 title: "Beinecke Fellowship"
 date: June 30, 2017
-image: /assets/images/placeholder-hero.jpg
 thumbnail: /assets/images/news/beinecke2.jpg
 caption: ""
 categories: 

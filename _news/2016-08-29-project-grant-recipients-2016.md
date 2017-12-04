@@ -1,7 +1,6 @@
 ---
 title: "Project Grant Recipients, 2016"
 date: August 29, 2016
-image: /assets/images/placeholder-hero.jpg
 thumbnail: /assets/images/news/highlights.jpg
 caption: ""
 categories: 

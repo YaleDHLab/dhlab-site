@@ -1,6 +1,6 @@
 ---
-title: 'Modernism Lab'
-thumbnail: '/assets/images/projects/modernism_lab.jpg'
+title: Modernism Lab
+thumbnail: /assets/images/projects/archive-thumbs/modernism_lab-thumb.jpg
 layout: archive
 project_url: https://modernism.coursepress.yale.edu/
 

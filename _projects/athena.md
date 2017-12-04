@@ -1,6 +1,6 @@
 ---
-title: 'ATHENA'
-thumbnail: '/assets/images/projects/athena.jpg'
+title: ATHENA
+thumbnail: /assets/images/projects/archive-thumbs/athena-thumb.jpg
 layout: archive
 project_url: http://ccp.yale.edu/
 

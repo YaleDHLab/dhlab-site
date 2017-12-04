@@ -1,7 +1,6 @@
 ---
-title: "Intro to XSLT in Three Parts"
+title: Intro to XSLT in Three Parts
 date: April 12, 2017
-image: /assets/images/placeholder-hero.jpg
 thumbnail: /assets/images/events/code.jpg
 caption: ""
 categories: 

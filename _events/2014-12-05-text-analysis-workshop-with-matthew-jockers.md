@@ -1,9 +1,8 @@
 ---
-title: "Text Analysis Workshop with Matthew Jockers"
+title: Text Analysis Workshop with Matthew Jockers
 date: December 5, 2014
-image: /assets/images/placeholder-hero.jpg
 thumbnail: /assets/images/events/jockers.jpg
-caption: "Matthew Jockers, Digital Humanities Lab"
+caption: Matthew Jockers, Digital Humanities Lab
 categories: 
   - Talks
 tags:

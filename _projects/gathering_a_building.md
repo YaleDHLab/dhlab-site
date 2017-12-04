@@ -1,7 +1,7 @@
 ---
-title: 'Gathering a Building'
-image: '/assets/images/projects/gathering2.jpg'
-thumbnail: '/assets/images/projects/gathering2.jpg'
+title: Gathering a Building
+image: /assets/images/projects/originals/gathering-banner.jpg
+thumbnail: /assets/images/projects/thumbs/gathering-banner-thumb.jpg
 caption: >
   View of the Historical Geographies where users can explore Yale University's campus expasion within the context of historical maps of New Haven.
 

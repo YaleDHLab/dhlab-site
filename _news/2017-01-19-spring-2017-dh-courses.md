@@ -1,7 +1,6 @@
 ---
 title: "Spring 2017 DH Courses"
 date: January 19, 2017
-image: /assets/images/placeholder-hero.jpg
 thumbnail: /assets/images/events/sterling-student.jpg
 caption: ""
 categories: 

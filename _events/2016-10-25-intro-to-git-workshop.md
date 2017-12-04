@@ -1,7 +1,6 @@
 ---
-title: "Intro to Git Workshop"
+title: Intro to Git Workshop
 date: October 25, 2016
-image: /assets/images/placeholder-hero.jpg
 thumbnail: /assets/images/events/git.jpg
 caption: ""
 categories: 

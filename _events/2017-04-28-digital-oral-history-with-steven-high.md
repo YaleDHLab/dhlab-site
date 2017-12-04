@@ -1,7 +1,6 @@
 ---
-title: "Digital Oral History with Steven High"
+title: Digital Oral History with Steven High
 date: April 28, 2017
-image: /assets/images/placeholder-hero.jpg
 thumbnail: /assets/images/news/audio-waves.jpg
 caption: ""
 categories: 

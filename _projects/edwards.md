@@ -1,7 +1,6 @@
 ---
-title: 'Jonathan Edwards Online'
-image: '/assets/images/projects/edwards.jpg'
-thumbnail: '/assets/images/projects/edwards.jpg'
+title: Jonathan Edwards Online
+thumbnail: /assets/images/projects/archive-thumbs/edwards-thumb.jpg
 layout: archive
 project_url: http://edwards.yale.edu
 

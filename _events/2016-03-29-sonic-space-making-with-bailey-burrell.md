@@ -1,7 +1,6 @@
 ---
-title: "Sonic Space Making with Bailey, Burrell"
+title: Sonic Space Making with Bailey, Burrell
 date: March 29, 2016
-image: /assets/images/placeholder-hero.jpg
 thumbnail: /assets/images/events/audio-waves.jpg
 caption: ""
 categories: 

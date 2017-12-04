@@ -1,7 +1,6 @@
 ---
 title: "Spring Training Scholarships"
 date: January 23, 2017
-image: /assets/images/placeholder-hero.jpg
 thumbnail: /assets/images/news/students.jpg
 caption: ""
 categories: 

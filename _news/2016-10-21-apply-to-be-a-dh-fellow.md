@@ -1,7 +1,6 @@
 ---
 title: "Apply to be a DH Fellow"
 date: October 21, 2016
-image: /assets/images/placeholder-hero.jpg
 thumbnail: /assets/images/news/dh-fellows.jpg
 caption: ""
 categories: 

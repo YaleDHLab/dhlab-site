@@ -1,7 +1,6 @@
 ---
-title: "Intro to XML and XPath"
+title: Intro to XML and XPath
 date: September 23, 2016
-image: /assets/images/placeholder-hero.jpg
 thumbnail: /assets/images/events/code.jpg
 caption: ""
 categories: 

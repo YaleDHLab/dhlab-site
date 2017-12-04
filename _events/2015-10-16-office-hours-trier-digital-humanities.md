@@ -1,9 +1,8 @@
 ---
 title: "10/20 Office Hours: Trier Digital Humanities"
 date: October 16, 2015
-image: /assets/images/placeholder-hero.jpg
 thumbnail: /assets/images/events/office-hours.jpg
-caption: "Trier Digital Humanities School"
+caption: Trier Digital Humanities School
 categories: 
   - Office Hours
 spotlight: false 

@@ -1,7 +1,6 @@
 ---
 title: "DH Summer Group: Jekyll Web Dev"
 date: June 6, 2017
-image: /assets/images/placeholder-hero.jpg
 thumbnail: /assets/images/news/code-coffee.jpg
 caption: ""
 categories: 

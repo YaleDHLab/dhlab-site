@@ -1,7 +1,6 @@
 ---
-title: "GIS Training Meetups"
+title: GIS Training Meetups
 date: July 12, 2016
-image: /assets/images/placeholder-hero.jpg
 thumbnail: /assets/images/events/GIS-globe.jpg
 caption: ""
 categories: 
