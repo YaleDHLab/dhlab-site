@@ -1,7 +1,6 @@
 ---
-title: 'Ten Thousand Rooms'
-image: '/assets/images/projects/ten-thousand-rooms.jpg'
-thumbnail: '/assets/images/projects/ten-thousand-rooms.jpg'
+title: Ten Thousand Rooms
+thumbnail: /assets/images/projects/archive-thumbs/ten-thousand-rooms-thumb.jpg
 layout: archive
 project_url: http://tenthousandrooms.yale.edu
 

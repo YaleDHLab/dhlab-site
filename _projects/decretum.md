@@ -1,6 +1,6 @@
 ---
-title: 'Decretum Gratiani'
-thumbnail: '/assets/images/projects/decretum.jpg'
+title: Decretum Gratiani
+thumbnail: /assets/images/projects/archive-thumbs/decretum-thumb.jpg
 layout: archive
 project_url: https://sites.google.com/a/yale.edu/decretumgratiani/home
 

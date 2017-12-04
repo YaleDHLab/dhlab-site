@@ -1,8 +1,9 @@
 ---
-title: 'Cinécircuits'
-image: '/assets/images/projects/cinecircuits.jpg'
-thumbnail: '/assets/images/projects/cinecircuits.jpg'
+title: Cinécircuits
+thumbnail: /assets/images/projects/archive-thumbs/cinecircuits-thumb.jpg
+layout: archive
 funded: true
+project_url: http://cinecircuits.yale.edu/
 
 team:
   - name: Masha Shpolberg
@@ -17,8 +18,6 @@ team:
 categories:
   - Geospatial Analysis
   - Visual Analysis
-
-project_url: http://cinecircuits.yale.edu/
 ---
 
 ### Overview

@@ -1,7 +1,7 @@
 ---
-title: 'ChirilaDB'
-image: '/assets/images/projects/chirila_banner.png'
-thumbnail: '/assets/images/projects/chirila.png'
+title: ChirilaDB
+thumbnail: /assets/images/projects/archive-thumbs/chirila-thumb.jpg
+layout: archive
 funded: true
 project_url: http://chirila.yale.edu/
 

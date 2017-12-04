@@ -1,7 +1,7 @@
 ---
 title: "John Ashbery's Nest"
-image: '/assets/images/projects/nest.jpg'
-thumbnail: '/assets/images/projects/nest.jpg'
+image: /assets/images/projects/originals/nest.jpg
+thumbnail: /assets/images/projects/thumbs/nest-thumb.jpg
 caption: >
   View into the center hall of the home of legendary American poet John Ashbery.
 

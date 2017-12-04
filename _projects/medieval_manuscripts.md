@@ -1,6 +1,6 @@
 ---
-title: 'Medieval Manuscripts'
-thumbnail: '/assets/images/projects/medieval.jpg'
+title: Medieval Manuscripts
+thumbnail: /assets/images/projects/archive-thumbs/medieval-thumb.jpg
 layout: archive
 project_url: http://ydc2.yale.edu/research-support/digitally-enabled-scholarship-medieval-manuscripts
 
