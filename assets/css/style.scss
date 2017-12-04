@@ -1691,7 +1691,7 @@ section {
 }
 
 .archive-grid .archive-item {
-  display: inline-block;
+  display: inline-table;
   width: 20%;
   padding: 10px;
   vertical-align: top;
@@ -2806,26 +2806,33 @@ section {
   display: inline-block;
 }
 
-#clipboard-notification {
+.clipboard-notification {
   position: fixed;
-  top: 25%;
+  top: 10%;
+  z-index: 100;
   text-align: center;
   padding: 40px;
   background: #fff;
-  margin: 20px;
   color: #333;
   font-size: 1.2em;
   font-weight: 400;
   width: auto;
   width: 50%;
-  left: 50%;
+  left: 25%;
   height: auto;
   white-space: normal;
-  margin-left: -25%;
   border: 3px solid;
   border-radius: 2px;
   display: none;
   box-shadow: -4px 4px 8px rgba(0,0,0,0.2);
+}
+
+@media (max-width: 700px) {
+  .clipboard-notification {
+    width: 90%;
+    left: 5%;
+    padding: 10px;
+  }
 }
 
 /**
@@ -3648,6 +3655,9 @@ br + .tags,
 * Opportunities Landing Page
 **/
 
+.opportunities-page .color-background .right-column hr {
+  display: none;
+}
 
 /**
 * Opportunity Detail Pages
