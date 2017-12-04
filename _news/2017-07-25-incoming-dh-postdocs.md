@@ -1,7 +1,6 @@
 ---
 title: "Incoming DH Postdocs"
 date: July 25, 2017
-image: /assets/images/banners/postdocs-2017.jpg
 thumbnail: /assets/images/news/postdocs-2017.jpg
 caption: ""
 categories: 

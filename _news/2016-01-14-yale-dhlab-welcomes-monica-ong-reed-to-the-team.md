@@ -1,7 +1,6 @@
 ---
 title: "Yale DHLab Welcomes Monica Ong Reed to the Team"
 date: January 14, 2016
-image: /assets/images/placeholder-hero.jpg
 thumbnail: /assets/images/about/team/MO-sq.jpg
 caption: "Monica Ong Reed, Yale Digital Humanities Lab "
 categories: 

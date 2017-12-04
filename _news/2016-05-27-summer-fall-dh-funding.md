@@ -1,7 +1,6 @@
 ---
 title: "Summer/Fall DH Funding"
 date: May 27, 2016
-image: /assets/images/placeholder-hero.jpg
 thumbnail: /assets/images/news/grant.jpg
 caption: ""
 categories: 

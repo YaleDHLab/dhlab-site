@@ -1,7 +1,6 @@
 ---
 title: "DHLab Welcomes Catherine DeRose to Team "
 date: September 15, 2015
-image: /assets/images/placeholder-hero.jpg
 thumbnail: /assets/images/about/team/CD-sq.jpg
 caption: "Cathy DeRose, Yale University "
 categories: 

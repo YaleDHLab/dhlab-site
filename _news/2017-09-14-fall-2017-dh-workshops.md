@@ -1,7 +1,6 @@
 ---
 title: "Fall 2017 DH Workshops"
 date: September 14, 2017
-image: /assets/images/banners/workshop.jpg
 thumbnail: /assets/images/news/workshop.jpg
 caption: ""
 categories: 
