@@ -1,6 +1,6 @@
 ---
-title: 'Cuneiform Commentaries Project'
-thumbnail: '/assets/images/projects/cuneiform.jpg'
+title: Cuneiform Commentaries Project
+thumbnail: /assets/images/projects/archive-thumbs/cuneiform-thumb.jpg
 layout: archive
 project_url: http://ccp.yale.edu/
 

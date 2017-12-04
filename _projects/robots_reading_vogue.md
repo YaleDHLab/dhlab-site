@@ -1,7 +1,8 @@
 ---
-title: 'Robots Reading Vogue'
-image: '/assets/images/projects/vogue.jpg'
-thumbnail: '/assets/images/projects/vogue.jpg'
+title: Robots Reading Vogue
+image: /assets/images/projects/originals/vogue.jpg
+thumbnail: /assets/images/projects/thumbs/vogue-thumb.jpg
+
 caption: >
   Mosaic of cover averages using "decennial sampling" which overlay a decade's worth of covers into one view.
 

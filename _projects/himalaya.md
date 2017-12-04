@@ -1,6 +1,6 @@
 ---
-title: 'Digital Himalaya'
-thumbnail: '/assets/images/projects/himalaya.jpg'
+title: Digital Himalaya
+thumbnail: /assets/images/projects/archive-thumbs/himalaya-thumb.jpg
 layout: archive
 project_url: http://www.digitalhimalaya.com
 

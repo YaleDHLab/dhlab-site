@@ -1,7 +1,8 @@
 ---
-title: 'New Haven Building Archive'
-image: '/assets/images/projects/nhba.jpg'
-thumbnail: '/assets/images/projects/nhba.jpg'
+title: New Haven Building Archive
+image: /assets/images/projects/originals/nhba.jpg
+thumbnail: /assets/images/projects/thumbs/nhba-thumb.jpg
+
 caption: >
   The New Haven Building Archive is a crowdsource online repository on the architectural history of New Haven's built environment.
 
