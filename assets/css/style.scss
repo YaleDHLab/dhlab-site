@@ -2767,8 +2767,10 @@ section {
   background: #fff;
   border: 1px solid #ccc;
   width: 256px;
+  z-index: 10;
 }
 
+.social-media-container .share-container.active .social-media-icons,
 .social-media-container .share-container:hover .social-media-icons,
 .social-media-container .social-media-icons:hover {
   display: block;
@@ -2806,7 +2808,7 @@ section {
   display: inline-block;
 }
 
-.clipboard-notification {
+.social-media-container .clipboard-notification {
   position: fixed;
   top: 10%;
   z-index: 100;
@@ -2823,12 +2825,17 @@ section {
   white-space: normal;
   border: 3px solid;
   border-radius: 2px;
-  display: none;
   box-shadow: -4px 4px 8px rgba(0,0,0,0.2);
+  display: none;
 }
 
-@media (max-width: 700px) {
-  .clipboard-notification {
+@media (max-width: $mobile_breakpoint) {
+  .social-media-container .social-media-icons {
+    top: 39px;
+    left: -34px;
+  }
+
+  .social-media-container .clipboard-notification {
     width: 90%;
     left: 5%;
     padding: 10px;
