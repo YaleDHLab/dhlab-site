@@ -1,6 +1,6 @@
 <section class='three-text-blocks'>
   <div class='section-title'>{{ include.label }}</div>
-  <hr class='hide-tablet'>
+  <hr>
   {% for item in include.items limit: 3 %} 
     {% assign url = item.url | prepend: site.baseurl %}
     <div class='block block-{{ forloop.index }}'>
