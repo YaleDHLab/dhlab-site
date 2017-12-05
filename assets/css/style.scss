@@ -3135,7 +3135,7 @@ br + .tags,
   padding-bottom: 0;
 }
 
-@media (min-width: $desktop_breakpoint) {
+@media (min-width: $mobile_breakpoint) {
   .top-text h3:first-of-type {
     padding-top: 0;
   }
