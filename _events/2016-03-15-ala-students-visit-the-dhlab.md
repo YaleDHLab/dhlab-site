@@ -1,6 +1,7 @@
 ---
 title: ALA Students Visit the DHLab
-date: March 15, 2016
+date: 2016-03-15
+location: Yale Digital Humnanities Lab
 thumbnail: /assets/images/events/sterling-library.jpg
 caption: ""
 categories: 

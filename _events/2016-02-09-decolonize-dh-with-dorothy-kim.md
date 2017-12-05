@@ -1,13 +1,13 @@
 ---
 title: Decolonize DH with Dorothy Kim
-date: February 9, 2016
+date: 2016-02-09 
+time: 6:00 - 7:39 pm
+location: William L. Harkness Hall, 309
 thumbnail: /assets/images/events/neural-body.jpg
-caption: ""
 categories: 
   - Talks
 spotlight: false 
-image_layout: landscape
-teaser: |
+teaser: >
   "How to #DeColonize the Digital Humanities: or A Practical Guide to Making #DH Less White Tuesday, February 9 at 6:00-7:30pm William L. Harkness Hall (WLH), 309 Drawing from digital humanities (DH..."
 ---
 

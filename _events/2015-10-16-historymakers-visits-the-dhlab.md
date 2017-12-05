@@ -1,6 +1,8 @@
 ---
 title: HistoryMakers Visits the DHLab
-date: October 16, 2015
+date: 2016-10-16 
+time: 4:00 pm
+location: Sterling Memorial Library Lecture Hall
 thumbnail: /assets/images/events/photogrammar.jpg
 caption: Julieanna Richardson, The HistoryMakers
 categories: 

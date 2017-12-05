@@ -1,6 +1,7 @@
 ---
 title: Miriam Posner on Digital Humanities in American Studies
-date: May 4, 2015
+date: 2015-05-04
+location: Hall of Graduate Studies 
 thumbnail: /assets/images/events/posner.jpg
 caption: Miriam Posner, Yale Digital Humanities Lab
 categories: 
@@ -8,7 +9,6 @@ categories:
 tags:
   - Pedagogy
 spotlight: false 
-image_layout: landscape
 teaser: |
   "The Digital Humanities Lab and the Digital Humanities Working Group hosted a talk by Miriam Posner, Program Coordinator of Digital Humanities at UCLA on May 4 in the Hall of Graduate Studies. Posner..."
 ---

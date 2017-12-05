@@ -1,12 +1,14 @@
 ---
 title: Statistical Analysis at the Birth of Close Reading
-date: April 10, 2015
+date: 2015-04-10
+location: Bass Library, L01 
 thumbnail: /assets/images/events/igarashi.jpg
 caption: Yohei Igarashi, Digital Humanities Lab
 categories: 
   - Talks
 tags:
   - Statistics
+  - Textual Analysis
 spotlight: false 
 image_layout: landscape
 teaser: |

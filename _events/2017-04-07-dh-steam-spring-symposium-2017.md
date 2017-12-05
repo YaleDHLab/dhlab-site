@@ -1,6 +1,8 @@
 ---
 title: DH, STEAM Spring Symposium 2017
 date: April 7, 2017
+time: 9:30 am - 1:00 pm
+location: Sterling Memorial Library, Lecture Hall and Exhibition Room
 thumbnail: /assets/images/events/beyond-boundaries-2017.jpg
 caption: ""
 categories: 
@@ -17,9 +19,7 @@ teaser: |
   "Beyond Boundaries: Second Annual Symposium on Hybrid Scholarship at Yale University April 7, 2017 from 9:30am-1:00pmSterling Memorial Library, Lecture Hall and Exhibition Room How can 3D printing..."
 ---
 
-### "Beyond Boundaries: Second Annual Symposium on Hybrid Scholarship at Yale University"
-*April 7, 2017 from 9:30am-1:00pm*
-*Sterling Memorial Library, Lecture Hall and Exhibition Room*
+### "Second Annual Symposium on Hybrid Scholarship at Yale University"
 
 How can 3D printing help preserve cultural heritage sites? What might digital maps tell us about the political, commercial, and historical realities of film festivals? To explore these questions and more, join the Digital Humanities Lab and [Yale STEAM](http://steamwith.us/YaleSTEAM.html) for the second annual spring symposium to showcase hybrid scholarship at Yale University. Undergraduates, graduate students, faculty, and staff will present projects that highlight the questions that can be asked and considered via digital methods and collaborations between the sciences and humanities.
    

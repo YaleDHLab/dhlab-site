@@ -1,6 +1,6 @@
 ---
 title: Call for Users to Test Virtual Tour
-date: June 15, 2017
+date: 2017-06-15 
 thumbnail: /assets/images/news/nest.jpg
 caption: ""
 categories: 
@@ -8,7 +8,6 @@ categories:
 tags:
   - User Testing
 spotlight: false 
-image_layout: landscape
 teaser: |
   "User Testing for John Ashbery's Nest June 15, 2017 at 17 Hillhouse Avenue, LL07​ (specific meeting time to be arranged with each volunteer) The Yale Digital Humanities Lab and ITS are looking for..."
 ---
