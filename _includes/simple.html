@@ -21,6 +21,9 @@
   <section>
     <div class='section-title hide-tablet'>{{ include.label }}</div>
     <hr class='no-margin-bottom hide-tablet'>
+    <div class='tablet_hero'>
+      {% include cards/horizontal_card.html item=include.page %}
+   </div>
     <div class='mobile-title'>
       {% include text/mobile_section_title.html
         category=include.label
@@ -36,6 +39,7 @@
       <div class='left-column'>
         <h2>{{ page.title }}</h2>
         {% assign image_url = include.page.thumbnail | prepend: site.baseurl %}
+
         <div class='square-image background-image event-date-container'
           style='background-image:url({{ image_url }})'>
           {% if page_type == 'events' %}
