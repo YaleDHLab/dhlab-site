@@ -2410,11 +2410,13 @@ section {
   .horizontal-card {
     height: auto;
     margin-bottom: 0;
+    border-top: 1px solid #ddd;
   }
 
   .horizontal-card:last-of-type {
     height: auto;
     margin-bottom: 0;
+    border-bottom: 1px solid #ddd;
   }
 
   .horizontal-card .image {
