@@ -7,7 +7,7 @@
       : 'share-container active'; 
   }
 
-  for (var i=0; i<targets.length; i++) {
+  for (let i=0; i<targets.length; i++) {
     targets[i].addEventListener('click', handleClick.bind(null, i));
   }
 })()

@@ -2808,6 +2808,7 @@ section {
   display: inline-block;
 }
 
+.clipboard-notification,
 .social-media-container .clipboard-notification {
   position: fixed;
   top: 10%;
@@ -3149,6 +3150,12 @@ br + .tags,
 
   .top-text h2 {
     margin-bottom: 10px;
+  }
+}
+
+@media (max-width: $mobile_breakpoint) {
+  .top-text .right-column {
+    padding-bottom: 15px;
   }
 }
 
