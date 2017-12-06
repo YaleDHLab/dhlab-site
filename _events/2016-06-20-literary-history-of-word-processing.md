@@ -1,6 +1,8 @@
 ---
 title: Literary History of Word Processing
-date: June 20, 2016
+date: 2016-06-20 
+time: 10:30 - 11:30 am
+location: Yale Center for British Art, Lecture Hall
 thumbnail: /assets/images/events/vintage-computer.jpg
 caption: ""
 categories: 
@@ -12,7 +14,6 @@ teaser: |
 ---
 
 ### Locating the Literary History of Word Processing (Hint: It's Not in Special Collections)
-*June 20 at 10:30-11:30am in Yale Center for British Art, Lecture Hall*
 
 Matthew Kirschenbaum will discuss what it means to do scholarship at the intersection of literary and technological history, working with floppy disks, tipsters, museum curators, journalists, LexisNexis, writers, editors, old computers bought on eBay, a former speech writer for Newt Gingrich, a billionaire, and multiple pairs of unseen hands. In the talk, he will also describe the research process for his recent book, *Track Changes: A Literary History of Word Processing*.
 

@@ -1,6 +1,8 @@
 ---
 title: Teaching with DH Office Hours
-date: February 14, 2017
+date: 2017-02-14
+time: 2:30 pm
+location: Digital Humanities Lab, SML 316
 thumbnail: /assets/images/news/dh-fellows.jpg
 caption: ""
 categories: 
@@ -15,7 +17,6 @@ teaser: |
 ---
 
 ### Office Hours Coffee Chat: Teaching with DH
-*February 14 at 2:30pm in the DHLab (SML 316)*
 
 How might a network graph provide context for course syllabi? What could a digital humanities workshop in a class look like and offer? During Office Hours, three Digital Humanities Fellows from fall semester will present on digital activities—from Omeka exhibitions on Latin American history to topic models of the *Slavic Review* journal—that they integrated into their English, History, and Slavic Studies undergraduate courses.
    

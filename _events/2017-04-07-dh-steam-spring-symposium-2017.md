@@ -1,6 +1,6 @@
 ---
 title: DH, STEAM Spring Symposium 2017
-date: April 7, 2017
+date: 2017-04-07 
 time: 9:30 am - 1:00 pm
 location: Sterling Memorial Library, Lecture Hall and Exhibition Room
 thumbnail: /assets/images/events/beyond-boundaries-2017.jpg
