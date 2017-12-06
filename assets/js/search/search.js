@@ -22,7 +22,7 @@ import resultTemplate from '../../templates/search-result-template.html';
     mobileInput = document.querySelector('#mobile-search'),
     sortBy = document.querySelector('#search-select'),
     loader = document.querySelector('.search-bar .loader'),
-    breakpoint = 1200; // mobile nav breakpoint
+    breakpoint = 900; // mobile nav breakpoint
 
   /**
   * Get json
@@ -85,15 +85,26 @@ import resultTemplate from '../../templates/search-result-template.html';
   **/
 
   const handleKeys = (e) => {
-    if (e.keyCode === 13) search()
+    if (e.keyCode === 13) search(e)
   }
 
   /**
   * Execute the search
   **/
 
-  const search = () => {
+  const search = (e) => {
     const val = getInputValue();
+    val.includes('"') ? runExactSearch(val) : runFuzzySearch(val)
+    if (isMobile()) {
+      mobileResults.style.display = e.target.value.length ? 'block' : 'none';
+    }
+  }
+
+  /**
+  * Run a fuzzy search
+  **/
+
+  const runFuzzySearch = (val) => {
     let matches = [];
     idx.search(val).map((match) => {
       let itemMetadata = idToMetadata[match.ref];
@@ -105,11 +116,30 @@ import resultTemplate from '../../templates/search-result-template.html';
   }
 
   /**
+  * Run an exact or "phrase" search
+  **/
+
+  const runExactSearch = (val) => {
+    let matches = [];
+    get(url + '/documents.json', (data) => {
+      const lowered = val.substring(1, val.length-1).toLowerCase();
+      JSON.parse(data).map((d) => {
+        const field = d.content.replace('\n',' ').split(' ').join(' ');
+        const loweredField = field.toLowerCase();
+        if (loweredField.indexOf(lowered) > -1) {
+          matches.push(d)
+        }
+      })
+      updateResults(matches)
+    })
+  }
+
+  /**
   * Get the current input value
   **/
 
   const getInputValue = () => {
-    return getWidth() > breakpoint ? input.value : mobileInput.value;
+    return isMobile() ? mobileInput.value : input.value;
   }
 
   /**
@@ -117,12 +147,16 @@ import resultTemplate from '../../templates/search-result-template.html';
   **/
 
   const updateResults = (matches) => {
-    const formatted = formatMatches(matches);
-    const html = resultTemplate({
-      items: formatted
-    });
     const resultTarget = getResultsTarget();
-    resultTarget.innerHTML = html;
+    if (matches.length) {
+      const formatted = formatMatches(matches);
+      const html = resultTemplate({
+        items: formatted
+      });
+      resultTarget.innerHTML = html;
+    } else {
+      resultTarget.innerHTML = 'No Results';
+    }
     container.style.display = 'block';
     container.style.height = window.innerHeight + 'px';
   }
@@ -149,11 +183,29 @@ import resultTemplate from '../../templates/search-result-template.html';
   }
 
   /**
+  * Determine whether the browser agent is mobile
+  **/
+
+  const isMobile = () => {
+    return getWidth() <= breakpoint;
+  }
+
+  /**
   * Determine which results item to target
   **/
 
   const getResultsTarget = () => {
-    return getWidth() > breakpoint ? results : mobileResults;
+    return isMobile() ? mobileResults : results;
+  }
+
+  /**
+  * Remove search state on window resize
+  **/
+
+  const handleResize = (e) => {
+    container.style.display = 'none';
+    mobileResults.style.display = 'none';
+    searchBar.className = searchBar.className.replace('active', '');
   }
 
   /**
@@ -165,6 +217,7 @@ import resultTemplate from '../../templates/search-result-template.html';
   get(url + 'index.json', handleIndex);
   get(url + 'id-to-metadata.json', handleMetadata);
 
+  window.addEventListener('resize', handleResize);
   sortBy.addEventListener('change', search);
   target.addEventListener('click', toggleSearch);
   input.addEventListener('keydown', handleKeys);
