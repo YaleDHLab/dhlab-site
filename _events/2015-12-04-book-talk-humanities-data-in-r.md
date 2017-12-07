@@ -1,6 +1,8 @@
 ---
 title: "12/4 Book Talk: Humanities Data in R"
-date: December 4, 2015
+date: 2015-12-04 
+time: 3:30 pm
+location: Sterling Memorial Library, 315
 thumbnail: /assets/images/events/humanities-in-r.jpg
 caption: Humanities Data in R
 categories: 

@@ -1,6 +1,8 @@
 ---
 title: 2015 Yale Technology Summit
-date: October 30, 2015
+date: 2015-10-30
+time: 9:00 am - 4:00 pm
+location: Evans Hall
 thumbnail: /assets/images/events/tech-summit-2015.jpg
 caption: 2015 Yale Technology Summit, Digital Humanities Lab
 categories: 

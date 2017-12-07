@@ -1,18 +1,14 @@
 ---
 title: Yale Day of Data
-date: September 15, 2016
+date: 2016-09-15 
 thumbnail: /assets/images/events/day-of-data.jpg
 caption: ""
 categories: 
   - Symposia
 spotlight: false 
-image_layout: landscape
 teaser: |
   "Yale Day of Data 2016 December 1 and 2 The Center for Science and Social Science Information, the Yale Center for Research Computing, and the Yale Digital Humanities Lab are excited to announce the..."
 ---
-
-### Yale Day of Data 2016
-*December 1 and 2*
 
 The Center for Science and Social Science Information, the Yale Center for Research Computing, and the Yale Digital Humanities Lab are excited to announce the schedule for the upcoming [Yale Day of Data](http://elischolar.library.yale.edu/dayofdata/2016/). The theme for 2016 will be open data, open software, reproducibility initiatives, and replication.
    

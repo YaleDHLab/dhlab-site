@@ -1,6 +1,8 @@
 ---
 title: Introduction to Bookworm
-date: August 18, 2016
+date: 2016-08-18 
+time: 2:00 - 3:30 pm
+location: Bass Library, L06
 thumbnail: /assets/images/events/bookworm.jpg
 caption: ""
 categories: 
@@ -9,14 +11,14 @@ tags:
   - Textual Analysis
   - Visualization
   - Python
+  - Coding
 spotlight: false 
 image_layout: landscape
 teaser: |
   "Coffee and Code: Introduction to Bookworm August 18 from 2:00-3:30pm in Bass Library, L06 Visualize word frequencies at the DHLab's Coffee and Code. During the workshop, participants learned how to..."
 ---
 
-### Coffee and Code: Introduction to Bookworm</h3>
-*August 18 from 2:00-3:30pm in Bass Library, L06*  
+### Coffee and Code Workshop
    
 Visualize word frequencies at the DHLab's Coffee and Code. During the workshop, participants learned how to deploy Bookworm, a tool for analyzing trends in word or phrase frequencies over a designated time span. Sample text files were provided, but participants were encouraged to bring their own data for discussion.
 

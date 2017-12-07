@@ -1,12 +1,12 @@
 ---
 title: Digital Discussions with Alan Galey
-date: February 18, 2016
+date: 2016-02-18 
+time: 2:30 pm
+location: Sterling Memorial Library, 315
 thumbnail: /assets/images/events/text-mining.jpg
-caption: ""
 categories: 
   - Talks
 spotlight: false 
-image_layout: landscape
 teaser: |
   "The Digital Humanities Working Group and Digital Humanities Lab co-hosted a brown bag discussion with Professor Alan Galey on Thursday, February 18 at 2:30pm in Sterling Memorial Library, 315. The..."
 ---

@@ -1,16 +1,17 @@
 ---
 title: "Making Map Visualization, Max Galka"
-date: January 25, 2016
+date: 2016-01-25 
+time: 1:30 - 2:30 pm
+location: Bass Library, L70
 thumbnail: /assets/images/events/GIS-globe.jpg
 caption: "Every hurricane of the past 150 years: Metrocosm"
 categories: 
-  - Talks
+  - Workshops
 tags:
   - Geospatial Analysis
   - Visualization
 spotlight: false 
-image_layout: landscape
-teaser: |
+teaser: >
   "YaleMakes and Yale Data Science are pleased to announce that Max Galka will lead a hands-on workshop covering the essentials of GIS (geographic information systems). He will walk through the process..."
 ---
 

@@ -1,6 +1,8 @@
 ---
 title: Modeling Racial Discourse with Richard Jean So
-date: March 28, 2016
+date: 2016-03-28 
+time: 5:30 pm
+location: LC 319
 thumbnail: /assets/images/events/richard-so.jpg
 caption: Richard Jean So, Yale Digital Humanities Lab
 categories: 
@@ -10,7 +12,7 @@ tags:
   - Race Studies
 spotlight: false 
 image_layout: landscape
-teaser: |
+teaser: >
   "The English Department's Theory and Media Studies Colloquium and the Digital Humanities Lab are excited to announce Richard Jean So's upcoming talk, Dark Data: Modeling Racial Discourse and..."
 ---
 

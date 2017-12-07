@@ -1,6 +1,8 @@
 ---
 title: Day of Data Posters
-date: November 30, 2016
+date: 2016-11-30 
+time: 4:00 - 6:00 pm
+location: Center for Science and Social Science Information
 thumbnail: /assets/images/events/day-of-data.jpg
 caption: ""
 categories: 
@@ -12,8 +14,8 @@ teaser: |
 ---
 
 ### Yale Day of Data 2016 Poster Session and Opening Reception
-   
-*December 1 from 4:00-6:00pm in the Center for Science and Social Science Information* [Yale Day of Data](http://elischolar.library.yale.edu/dayofdata/) is a two-day, University-wide event that will feature speakers from a number of disciplines across Yale. The theme for 2016 will be open data, open software, and reproducibility initiatives.
+
+[Yale Day of Data](http://elischolar.library.yale.edu/dayofdata/) is a two-day, University-wide event that will feature speakers from a number of disciplines across Yale. The theme for 2016 will be open data, open software, and reproducibility initiatives.
    
 To kick off Yale Day of Data 2016, we will begin with an Opening Reception and Poster Session at the Center for Science and Social Science Information. No registration is required; all are invited to attend!
    

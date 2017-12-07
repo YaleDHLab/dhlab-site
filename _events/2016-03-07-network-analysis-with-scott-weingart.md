@@ -1,8 +1,9 @@
 ---
 title: Network Analysis with Scott Weingart
-date: March 7, 2016
+date: 2016-03-07 
+time: 1:00 - 5:00 pm
+location: Bass Library L06
 thumbnail: /assets/images/events/networks2.jpg
-caption: ""
 categories: 
   - Talks
 tags:
@@ -16,7 +17,6 @@ teaser: |
 The Digital Humanities Lab sponsored two events with Scott Weingart, the Digital Humanities Specialist at Carnegie Mellon University.
 
 **Workshop, 3/7**: Concepts and Practice of Network Analysis for Humanities Applications
-*Bass Library L06, 1:00-5:00pm*
     
 Networks are simple formal representations for how the world intermingles with itself. The humanities can make good use of this formalization to study anything from social interactions, to similarities between literary genres, to the trade routes between ancient cities. This workshop will cover the conceptual foundations of network analysis, and the steps to prepare data for, analyze, and visualize humanities networks. Participants will learn on Microsoft Excel, OpenRefine, NodeXL, and Gephi using computers provided by the lab. No background in programming or mathematics is needed.
    

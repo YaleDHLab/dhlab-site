@@ -1,20 +1,19 @@
 ---
 title: Web Scraping Workshop
-date: July 14, 2016
+date: 2016-07-14 
+time: 2:00 - 3:00 pm
+location: Digital Humanities Lab, SML 316
 thumbnail: /assets/images/events/coffee_code.jpg
 caption: ""
 categories: 
   - Workshops
 tags:
   - Data Collection
-spotlight: false 
-image_layout: landscape
 teaser: |
   "Coffee and Code Workshop: Web Scraping July 14, 2:00-3:30pm in the Digital Humanities Lab (SML 316) Learn how to gather data from online! Join the Digital Humanities Lab for a Coffee and Code session..."
 ---
 
-### Coffee and Code Workshop: Web Scraping
-*July 14, 2:00-3:30pm in the Digital Humanities Lab (SML 316)*
+### Coffee and Code Workshop
     
 Learn how to gather data from online! Join the Digital Humanities Lab for a Coffee and Code session on web scraping, led by DH Developer Douglas Duhaime. During the workshop, participants will learn and practice the fundamentals by scraping a webpage (or subset of pages) from a domain of the group's choosing. In addition to tackling the "how," we will also discuss "why" and "when" web scraping is appropriate.
    

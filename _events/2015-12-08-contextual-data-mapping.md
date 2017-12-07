@@ -1,6 +1,8 @@
 ---
 title: "12/8 Contextual Data Mapping"
-date: December 8, 2015
+date: 2015-12-08
+time: 2:00 - 3:00 pm
+location: Digital Humanities Lab, SML 316
 thumbnail: /assets/images/events/chiodo.jpg
 caption: Contextual data map
 categories: 
