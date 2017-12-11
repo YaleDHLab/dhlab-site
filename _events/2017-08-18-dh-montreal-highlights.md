@@ -1,7 +1,6 @@
 ---
-title: "DH Montreal Highlights"
-date: August 18, 2017
-image: /assets/images/placeholder-hero.jpg
+title: DH Montreal Highlights
+date: 2017-08-18 
 thumbnail: /assets/images/news/dh2017.jpg
 caption: ""
 categories: 

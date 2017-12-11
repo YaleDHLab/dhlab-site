@@ -1,10 +1,10 @@
 <!DOCTYPE html>
 <html lang='en'>
-  <head>{% include head.html %}</head>
-  <body>
-    {% capture page_class %}container {{ page.class }} {{ layout.class }}{% endcapture %}
+  {% include head.html %}
+  {% capture page_class %} {{ page.class }} {{ layout.class }}{% endcapture %}
+  <body class='{{ page_class }}'>
     <div class='content'>
-      <div class='{{ page_class }}'>
+      <div class='container'>
         {% if page.header_color %}
           {% include header/header.html header_color=page.header_color %}
         {% elsif layout.header_color %}
@@ -16,6 +16,6 @@
       </div>
     </div>
     {% include footer.html %}
-    <script src='{{ site.baseurl }}/assets/bundle.js'></script>
+    <script src='{{ site.baseurl }}/assets/bundle.js?{{ site.time | date: "%s%N" }}'></script>
   </body>
 </html>

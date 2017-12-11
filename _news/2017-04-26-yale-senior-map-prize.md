@@ -1,7 +1,6 @@
 ---
 title: "Yale Senior Map Prize"
 date: April 26, 2017
-image: /assets/images/placeholder-hero.jpg
 thumbnail: /assets/images/news/library-map.jpg
 caption: ""
 categories: 

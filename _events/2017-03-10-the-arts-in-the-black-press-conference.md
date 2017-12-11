@@ -1,7 +1,7 @@
 ---
-title: "The Arts in the Black Press Conference"
-date: March 10, 2017
-image: /assets/images/placeholder-hero.jpg
+title: The Arts in the Black Press Conference
+date: 2017-03-10 
+location: Linsly-Chittenden Hall, Rm 317 and 319
 thumbnail: /assets/images/events/black-press.jpg
 caption: ""
 categories: 
@@ -15,7 +15,6 @@ teaser: |
 ---
 
 ### Conference: The Arts in the Black Press During the Age of Jim Crow
-*March 10 and 11 at Linsly-Chittenden Hall, rooms 317 and 319*
 
 **Friday, March 10, 2017**
 9:30 – 10:30 Breakfast and Registration  

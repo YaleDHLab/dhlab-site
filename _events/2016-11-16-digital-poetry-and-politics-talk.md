@@ -1,7 +1,8 @@
 ---
-title: "Digital Poetry and Politics Talk"
-date: November 16, 2016
-image: /assets/images/placeholder-hero.jpg
+title: Digital Poetry and Politics Talk
+date: 2016-11-16
+time: 4:00 - 6:00 pm
+location: Hall of Graduate Studies, Rm 221
 thumbnail: /assets/images/events/sterling-student.jpg
 caption: ""
 categories: 
@@ -12,8 +13,7 @@ teaser: |
   "Don’t Stop Reading: Boris Khersonskii’s Digital Poetry and Politics Wednesday, November 16 from 4:00-6:00pm in the Hall of Graduate Studies, room 221 Anti-Russian sentiments have been almost..."
 ---
 
-### "Don’t Stop Reading": Boris Khersonskii’s Digital Poetry and Politics
-*Wednesday, November 16 from 4:00-6:00pm in the Hall of Graduate Studies, room 221*  
+### "Don’t Stop Reading": Boris Khersonskii’s Digital Poetry and Politics  
    
 Anti-Russian sentiments have been almost omnipresent in the new Ukraine since February 2014. Similar discourses occur on multiple levels: in everyday oral communications about the war in Eastern Ukraine, in popular marketing, or in the anti-Russian yet Russian-language comments on the military campaign in Eastern Ukraine that prominent Russophone poets of Ukraine publish on the Internet.
    

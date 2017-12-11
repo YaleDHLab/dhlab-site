@@ -1,7 +1,6 @@
 ---
 title: "Public Humanities Working Group Visit"
 date: October 13, 2015
-image: /assets/images/placeholder-hero.jpg
 thumbnail: /assets/images/events/sterling-library.jpg
 caption: "Yale Digital Humanities Lab, Public Humanities, Ensemble project"
 categories: 

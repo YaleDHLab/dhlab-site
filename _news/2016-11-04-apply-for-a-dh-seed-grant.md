@@ -1,7 +1,6 @@
 ---
 title: "Apply for a DH Seed Grant"
 date: November 4, 2016
-image: /assets/images/placeholder-hero.jpg
 thumbnail: /assets/images/news/data-heart.jpg
 caption: ""
 categories:

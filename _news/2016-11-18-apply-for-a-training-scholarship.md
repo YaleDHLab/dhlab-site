@@ -1,7 +1,6 @@
 ---
 title: "Apply for a Training Scholarship"
 date: November 18, 2016
-image: /assets/images/placeholder-hero.jpg
 thumbnail: /assets/images/events/coding.jpg
 caption: ""
 categories: 

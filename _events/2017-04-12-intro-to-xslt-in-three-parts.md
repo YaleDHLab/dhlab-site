@@ -1,7 +1,8 @@
 ---
-title: "Intro to XSLT in Three Parts"
-date: April 12, 2017
-image: /assets/images/placeholder-hero.jpg
+title: Intro to XSLT in Three Parts
+date: 2017-04-12 
+time: 3:00 - 5:00 pm
+location: Bass Library, L01
 thumbnail: /assets/images/events/code.jpg
 caption: ""
 categories: 
@@ -11,13 +12,9 @@ tags:
   - XML
   - TEI
 spotlight: false 
-image_layout: landscape
-teaser: |
+teaser: >
   "Intro to XSLT in Three Parts April 12 from 3:00-5:00pm in Bass Library, L01 This workshop will provide a basic overview of XSLT as a declarative programming language. The instructor will demonstrate..."
 ---
-
-### Intro to XSLT in Three Parts
-*April 12 from 3:00-5:00pm in Bass Library, L01*
 
 This workshop will provide a basic overview of XSLT as a declarative programming language. The instructor will demonstrate an iterative process of investigating, updating, and reviewing a TEI file with the assistance of XSLT. Every participant will gain hands-on experience transforming an XML document with the oXygen XML Editor, using a supplied XSLT stylesheet, and writing a very simple XSLT stylesheet from scratch. The workshop will conclude with a couple of different methods for publishing TEI online.
 

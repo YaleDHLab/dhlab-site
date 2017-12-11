@@ -1,7 +1,6 @@
 ---
 title: "Project Grant Recipients, 2017"
 date: June 5, 2017
-image: /assets/images/placeholder-hero.jpg
 thumbnail: /assets/images/news/grantees.jpg
 caption: ""
 categories: 

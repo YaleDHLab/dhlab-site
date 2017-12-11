@@ -1,7 +1,7 @@
 ---
-title: "Digital Editing Workshop"
-date: March 11, 2016
-image: /assets/images/placeholder-hero.jpg
+title: Digital Editing Workshop
+date: 2016-03-11
+location: Sterling Memorial Library
 thumbnail: /assets/images/events/manuscript.jpg
 caption: ""
 categories: 

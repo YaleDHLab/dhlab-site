@@ -1,6 +1,6 @@
 ---
-title: 'Multilateral Moneyball'
-thumbnail: '/assets/images/projects/multi-moneyball.jpg'
+title: Multilateral Moneyball
+thumbnail: /assets/images/projects/archive-thumbs/multi-moneyball-thumb.jpg
 layout: archive
 
 team:

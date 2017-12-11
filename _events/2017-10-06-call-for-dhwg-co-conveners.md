@@ -1,14 +1,12 @@
 ---
-title: "Call for DHWG Co-Conveners"
-date: October 6, 2017
-image: /assets/images/placeholder-hero.jpg
+title: Call for DHWG Co-Conveners
+date: 2017-10-06 
 thumbnail: /assets/images/events/students.jpg
 caption: ""
 categories: 
   - On Campus
 spotlight: false 
-image_layout: landscape
-teaser: |
+teaser: >
   "Join the Digital Humanities Working Group The Digital Humanities Working Group (DHWG) at Yale is delighted to announce a call for co-conveners for the 2017-2018 academic year. The DHWG is organized..."
 ---
 

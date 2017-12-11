@@ -1,7 +1,7 @@
 ---
-title: 'Russian &amp; East European Studies'
-image: '/assets/images/projects/dhrees.jpg'
-thumbnail: '/assets/images/projects/dhrees.jpg'
+title: Russian & East European Studies
+image: /assets/images/projects/originals/dhrees.jpg
+thumbnail: /assets/images/projects/thumbs/dhrees-thumb.jpg
 project_url: http://dhrees.yale.edu  
 
 team:

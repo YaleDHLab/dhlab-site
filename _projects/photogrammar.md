@@ -1,7 +1,8 @@
 ---
-title: 'Photogrammar'
-image: '/assets/images/projects/photogrammar.jpg'
-thumbnail: '/assets/images/projects/photogrammar.jpg'
+title: Photogrammar
+image: /assets/images/projects/originals/photogrammar.jpg
+thumbnail: /assets/images/projects/thumbs/photogrammar-thumb.jpg
+
 caption: >
   Photogrammar's map interface features a geographic way to explore this archives of photographs from 1935—1945.
 

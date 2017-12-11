@@ -1,7 +1,8 @@
 ---
-title: "Information Literacy and DH"
-date: June 21, 2016
-image: /assets/images/placeholder-hero.jpg
+title: Information Literacy and DH
+date: 2016-06-21
+time: 2:00 pm 
+location: Digital Humanities Lab, SML 316
 thumbnail: /assets/images/events/photogrammar.jpg
 caption: ""
 categories: 

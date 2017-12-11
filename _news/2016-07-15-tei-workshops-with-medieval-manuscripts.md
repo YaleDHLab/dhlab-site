@@ -1,7 +1,6 @@
 ---
 title: "TEI Workshops with Medieval Manuscripts"
 date: July 15, 2016
-image: /assets/images/placeholder-hero.jpg
 thumbnail: /assets/images/events/medieval-manuscripts.jpg
 caption: ""
 categories: 

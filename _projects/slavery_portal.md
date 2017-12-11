@@ -1,6 +1,6 @@
 ---
-title: 'Slavery & Abolition Portal'
-thumbnail: '/assets/images/projects/abolition.jpg'
+title: Slavery & Abolition Portal
+thumbnail: /assets/images/projects/archive-thumbs/abolition-thumb.jpg
 layout: archive
 
 team:

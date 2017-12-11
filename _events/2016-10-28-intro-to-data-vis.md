@@ -1,7 +1,8 @@
 ---
-title: "Intro to Data Vis"
-date: October 28, 2016
-image: /assets/images/placeholder-hero.jpg
+title: Intro to Data Vis
+date: 2016-10-28 
+time: 1:30 - 3:30 pm
+location: Kline Biology Tower, C27 (CSSSI)
 thumbnail: /assets/images/events/dataviz.jpg
 caption: ""
 categories: 
@@ -14,8 +15,7 @@ teaser: |
   "Intro to Data Visualization and Tableau October 28 at 1:30pm-3:30pm in Kline Biology Tower, C27 (Computer classroom in the Center for Science and Social Science Information) This workshop will..."
 ---
 
-### Intro to Data Visualization and Tableau
-*October 28 at 1:30pm-3:30pm in Kline Biology Tower, C27 (Computer classroom in the Center for Science and Social Science Information)*  
+### Get Started in Tableau
    
 This workshop will familiarize you with key issues in data visualization. In addition to covering the fundamental principles behind effective visualizations, we will also touch on common pitfalls that result in confusing or misleading graphics. During the workshop, participants will gain hands-on experience using Tableau — interactive, data visualization software — to produce dynamic, compelling visualizations for all kinds of data.
 

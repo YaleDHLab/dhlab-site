@@ -1,7 +1,6 @@
 ---
 title: "Take a Virtual Tour: Ashbery's Nest"
 date: July 5, 2017
-image: /assets/images/placeholder-hero.jpg
 thumbnail: /assets/images/news/nest.jpg
 caption: ""
 categories: 

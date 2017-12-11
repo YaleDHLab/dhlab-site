@@ -1,7 +1,7 @@
 ---
-title: 'La Greguería Virtual'
-image: '/assets/images/projects/gregueria_banner.png'
-thumbnail: '/assets/images/projects/gregueria.png'
+title: La Greguería Virtual
+thumbnail: /assets/images/projects/archive-thumbs/gregueria-thumb.jpg
+layout: archive
 funded: true
 
 team:

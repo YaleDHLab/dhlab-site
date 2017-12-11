@@ -1,7 +1,8 @@
 ---
-title: "OpenStreetMap Mapathon"
-date: April 6, 2017
-image: /assets/images/placeholder-hero.jpg
+title: OpenStreetMap Mapathon
+date: 04-06-17
+time: 4:00 - 6:00 pm
+location: 17 Hillhouse Ave, Room 101
 thumbnail: /assets/images/events/map-nyc.jpg
 caption: ""
 categories: 
@@ -10,13 +11,11 @@ tags:
   - Pedagogy
   - Geospatial Analysis
 spotlight: false 
-image_layout: landscape
 teaser: |
   "MAPATHON AT YALE 2017 April 6 from 4:00-6:00pm at 17 Hillhouse Ave, room 101 Many of the places where natural disasters and health crises occur are literally missing from the map, and responders..."
 ---
 
 ### MAPATHON AT YALE 2017
-*April 6 from 4:00-6:00pm at 17 Hillhouse Ave, room 101*
 
 Many of the places where natural disasters and health crises occur are literally "missing" from the map, and responders lack the information to properly provide relief. Learn how to contribute to responders' efforts with OpenStreetMap. We will introduce the platform, teach web mapping skills, and then  work with participants to map infrastructure in high-priority areas for local humanitarian efforts.
 

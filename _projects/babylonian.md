@@ -1,6 +1,6 @@
 ---
-title: 'Babylonian Collection Digital Imaging'
-thumbnail: '/assets/images/projects/babylonian.jpg'
+title: Babylonian Collection Digital Imaging
+thumbnail: /assets/images/projects/archive-thumbs/babylonian-thumb.jpg
 layout: archive
 project_url: http://www.digitalhimalaya.com
 

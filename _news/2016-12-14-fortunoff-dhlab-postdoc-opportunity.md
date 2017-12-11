@@ -1,7 +1,6 @@
 ---
 title: "Fortunoff-DHLab Postdoc Opportunity"
 date: December 14, 2016
-image: /assets/images/placeholder-hero.jpg
 thumbnail: /assets/images/news/fortunoff.jpg
 caption: ""
 categories: 

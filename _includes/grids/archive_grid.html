@@ -9,20 +9,22 @@
     </select>
     <hr/>
   </div>
-  <div class='mobile section-title hide-tablet'>{{ include.label }}</div>
+  <div class='mobile section-title'>{{ include.label }}</div>
   {% if include.render == 'json' %}
     {% include json/jsonify_items.html items=items %}
   {% else %}
     {% for item in include.items | sort: 'order' %}
       {% assign url = item.url | prepend: site.baseurl %}
-      <a href='{{ url }}' class='archive-item'
-        data-categories='{{ item.categories | jsonify }}'
-        data-tags='{{ item.tags | jsonify }}'>
-        {% assign image_url = item.thumbnail | prepend: site.baseurl %}
-        <div class='background-image'
-          style='background-image: url({{ image_url }})'></div>
-        <div class='title'>{{ item.title }}</div>
-      </a>
+      <div class='archive-item'>
+        <a href='{{ url }}'
+          data-categories='{{ item.categories | jsonify }}'
+          data-tags='{{ item.tags | jsonify }}'>
+          {% assign image_url = item.thumbnail | prepend: site.baseurl %}
+          <div class='background-image'
+            style='background-image: url({{ image_url }})'></div>
+          <div class='title'>{{ item.title }}</div>
+        </a>
+      </div>
     {% endfor %}
   {% endif %}
 </section>

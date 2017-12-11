@@ -1,7 +1,6 @@
 ---
 title: "Seed Grant Awardee Tracks Musical Perception in New Study"
 date: June 20, 2017
-image: /assets/images/placeholder-hero.jpg
 thumbnail: /assets/images/news/dialogue.jpg
 caption: ""
 categories: 

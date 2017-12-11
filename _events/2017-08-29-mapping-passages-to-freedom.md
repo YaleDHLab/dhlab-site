@@ -1,7 +1,8 @@
 ---
-title: "Mapping Passages to Freedom"
-date: August 29, 2017
-image: /assets/images/placeholder-hero.jpg
+title: Mapping Passages to Freedom
+date: 2017-08-29 
+time: 2:00 pm
+location: Digital Humanities Lab, SML 316
 thumbnail: /assets/images/events/passages.jpg
 caption: ""
 categories: 
@@ -9,7 +10,6 @@ categories:
 tags:
   - Geospatial Analysis
 spotlight: false 
-image_layout: landscape
 teaser: |
   "Join us for a special Office Hours this Tuesday to hear outgoing DHLab Postdoc Jonathan Schroeder discuss his project, Passages to Freedom: Worlding the North American Slave Narrative. This project..."
 ---

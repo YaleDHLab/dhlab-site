@@ -1,7 +1,6 @@
 ---
 title: "The Goizueta Foundation Supports Yale Digital Humanities"
 date: December 11, 2014
-image: /assets/images/placeholder-hero.jpg
 thumbnail: /assets/images/events/dhlab.jpg
 caption: "Yale Digital Humanities Lab"
 categories:

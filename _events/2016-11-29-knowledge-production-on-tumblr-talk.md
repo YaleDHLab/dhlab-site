@@ -1,7 +1,8 @@
 ---
-title: "Knowledge Production on Tumblr Talk"
-date: November 29, 2016
-image: /assets/images/placeholder-hero.jpg
+title: Knowledge Production on Tumblr Talk
+date: 2016-11-29 
+time: 11:30 am - 12:45 pm
+location: WLH 309
 thumbnail: /assets/images/events/networks.jpg
 caption: ""
 categories: 

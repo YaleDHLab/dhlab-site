@@ -1,13 +1,13 @@
 ---
 title: "10/20 Office Hours: Trier Digital Humanities"
-date: October 16, 2015
-image: /assets/images/placeholder-hero.jpg
+date: 2015-10-16 
+time: 2:00 - 3:00 pm
+location: Digital Humanities Lab, SML 316
 thumbnail: /assets/images/events/office-hours.jpg
-caption: "Trier Digital Humanities School"
+caption: Trier Digital Humanities School
 categories: 
   - Office Hours
 spotlight: false 
-image_layout: landscape
 teaser: |
   "During Office Hours, Gideon Fink Shapiro will report on Trier Digital Humanities Autumn School 2015, a week-long international conference and workshop co-organized by Trier University and University..."
 ---

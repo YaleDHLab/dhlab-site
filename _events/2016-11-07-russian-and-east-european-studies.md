@@ -1,20 +1,16 @@
 ---
-title: "Russian and East European Studies"
-date: November 7, 2016
-image: /assets/images/placeholder-hero.jpg
+title: Russian and East European Studies
+date: 2016-11-07
+time: 10:00 am - 8:00 pm
+location: 451 College Street
 thumbnail: /assets/images/events/dh-rees.jpg
 caption: ""
 categories: 
   - Symposia
 spotlight: false 
-image_layout: landscape
 teaser: |
   "Digital Humanities & Russian and East European Studies Saturday, November 12, 10:00am-8:00pm at 451 College Street Our workshop explores the intersection of Digital Humanities and Russian and..."
 ---
-
-### Digital Humanities &amp; Russian and East European Studies
-*Saturday, November 12,*
-*10:00am-8:00pm at 451 College Street*
 
 Our workshop explores the intersection of Digital Humanities and Russian and East European Studies: research, pedagogy, dissemination, and archive. We invite participants to join us in considering a list of questions and topics of discussion, ranging from the familiar and unavoidable (labor, ethics, access, funding, training, institutional, and interdisciplinary challenges) to the specific (theoretical continuities and disciplinary embeddedness).
 

@@ -1,7 +1,8 @@
 ---
 title: "Office Hours Talk: DH Training"
-date: September 12, 2017
-image: /assets/images/placeholder-hero.jpg
+date: 2017-09-12 
+time: 2:00 pm
+location: Digital Humanities Lab, SML 316
 thumbnail: /assets/images/news/office-hours.jpg
 caption: ""
 categories: 
@@ -10,12 +11,9 @@ tags:
   - Pedagogy
 spotlight: false 
 image_layout: landscape
-teaser: |
+teaser: >
   "Office Hours Talk: DH Training Highlights September 12 at 2:00pm in the DHLab (SML 316) Join the Digital Humanities Lab for an Office Hours talk on DH training opportunities. Graduate students and..."
 ---
-
-### Office Hours Talk: DH Training Highlights
-*September 12 at 2:00pm in the DHLab (SML 316)*
 
 Join the Digital Humanities Lab for an Office Hours talk on DH training opportunities. Graduate students and staff will give lightning talk presentations on courses they participated in this past summer, including:
 

@@ -1,7 +1,8 @@
 ---
-title: "Intro to the Command Line"
-date: September 27, 2016
-image: /assets/images/placeholder-hero.jpg
+title: Intro to the Command Line
+date: 2016-09-27 
+time: 2:00 - 4:00 pm
+location: Bass Library, L06
 thumbnail: /assets/images/events/code.jpg
 caption: ""
 categories: 
@@ -9,11 +10,10 @@ categories:
 spotlight: false 
 image_layout: landscape
 teaser: |
-  "Coffee and Code: Introduction to the Command Line September 27 from 2:00pm-4:00pm in Bass Library, L06 Get familiar with the command line at the DHLab's next Coffee and Code! During the workshop,..."
+  "Get familiar with the command line at the DHLab's next Coffee and Code! During the workshop,..."
 ---
 
-### Coffee and Code: Introduction to the Command Line
-*September 27 from 2:00pm-4:00pm in Bass Library, L06*  
+### Coffee and Code Workshop
    
 Get familiar with the command line at the DHLab's next Coffee and Code! During the workshop, participants will learn the basics of the command line, including how to:
 

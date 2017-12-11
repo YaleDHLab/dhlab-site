@@ -1,7 +1,8 @@
 ---
-title: "Sonic Space Making with Bailey, Burrell"
-date: March 29, 2016
-image: /assets/images/placeholder-hero.jpg
+title: Sonic Space Making with Bailey, Burrell
+date: 2016-03-29 
+time: 5:30 - 7:30 pm
+location: 203 Luce Hall, 34 Hillhouse Ave
 thumbnail: /assets/images/events/audio-waves.jpg
 caption: ""
 categories: 
@@ -11,13 +12,10 @@ tags:
 spotlight: false 
 image_layout: landscape
 teaser: |
-  "The Sounds of Digital Joy: Black Women's Sonic Space Making Online Workshop with Moya Bailey and Jalylah Burrell Date: Tuesday, March 29th, 5:30pm-7:30pm Room: 203 Luce Hall (34 Hillhouse Ave)..."
+  "The Sounds of Digital Joy: Black Women's Sonic Space Making Online Workshop with Moya Bailey and Jalylah Burrell 
 ---
 
 ### The Sounds of Digital Joy: Black Women's Sonic Space Making Online
-Workshop with Moya Bailey and Jalylah Burrell
-*Date: Tuesday, March 29th, 5:30pm-7:30pm*
-*Room: 203 Luce Hall (34 Hillhouse Ave)*
    
 **Space is limited, so please go to the [YUL Instruction Calendar](http://schedule.yale.edu/event.php?id=1104707) to register.**
    

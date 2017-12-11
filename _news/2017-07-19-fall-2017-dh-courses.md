@@ -1,8 +1,8 @@
 ---
 title: "Fall 2017 DH Courses"
 date: July 19, 2017
-image: /assets/images/banners/workshop.jpg
 thumbnail: /assets/images/events/network-class.jpg
+image: /assets/images/banners/workshop.jpg
 caption: ""
 categories: 
   - Courses

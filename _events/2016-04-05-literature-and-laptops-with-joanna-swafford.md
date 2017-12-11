@@ -1,7 +1,6 @@
 ---
-title: "Literature and Laptops with Joanna Swafford"
-date: April 5, 2016
-image: /assets/images/placeholder-hero.jpg
+title: Literature and Laptops with Joanna Swafford
+date: 2016-04-05 
 thumbnail: /assets/images/events/sherlock.jpg
 caption: ""
 categories: 
@@ -9,8 +8,7 @@ categories:
 tags:
   - Textual Analysis
 spotlight: false 
-image_layout: landscape
-teaser: |
+teaser: >
   "The Digital Humanities Lab sponsored two events with Joanna Swafford, Assistant Professor for Interdisciplinary and Digital Teaching and Scholarship at SUNY New Paltz. Events were open to the Yale..."
 ---
 

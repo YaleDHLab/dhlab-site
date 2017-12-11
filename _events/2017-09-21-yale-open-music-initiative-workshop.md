@@ -1,7 +1,8 @@
 ---
-title: "Yale Open Music Initiative Workshop"
-date: September 21, 2017
-image: /assets/images/placeholder-hero.jpg
+title: Yale Open Music Initiative Workshop
+date: 2017-09-21
+time: 4:00 pm
+location: Center for Collaborative Arts and Media, 149 York St
 thumbnail: /assets/images/events/omipod.jpg
 caption: ""
 categories: 
@@ -13,9 +14,6 @@ image_layout: landscape
 teaser: |
   "Yale Open Music Initiative Workshop September 21 at 4:00pm at the Center for Collaborative Arts and Media, 149 York St. The Yale Open Music Initiative, Digital Humanities Lab, and Center for..."
 ---
-
-### Yale Open Music Initiative Workshop
-*September 21 at 4:00pm at theCenter for Collaborative Arts and Media, 149 York St.*
    
 The Yale Open Music Initiative, Digital Humanities Lab, and Center for Collaborative Arts and Media are happy to present a workshop on the OMIPOD, a wireless musical instrument that uses wi-fi to relay information from different sensors (light, touch, tilt) to any computer on the Yale network. In this interactive workshop, participants will be able to experiment with the OMIPOD and learn about the hardware configuration, sensors, and software necessary to program it.
    
