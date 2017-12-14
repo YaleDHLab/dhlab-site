@@ -1992,7 +1992,7 @@ section {
 .rectangle-image-grid .image-title-container {
   position: absolute;
   z-index: 2;
-  transform: translate(0, 50%);
+  transform: translate(0, 47%);
   width: 100%;
   text-align: center;
   height: 100%;
@@ -2099,15 +2099,6 @@ section {
 @media (min-width: 1200px) {
   .four-rectangle-grid-cell:hover .dark-overlay {
     background-color: rgba(0,0,0,0.5);
-  }
-
-  .four-rectangle-grid-cell:hover .background-image,
-  .four-rectangle-grid-cell:hover .background-image {
-    -webkit-filter: blur(2px);
-    -moz-filter: blur(2px);
-    -o-filter: blur(2px);
-    -ms-filter: blur(2px);
-    filter: blur(2px);
   }
 
   .four-rectangle-grid-cell:hover .image-title-container,
