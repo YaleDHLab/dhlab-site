@@ -20,7 +20,7 @@ categories:
 
 ### Overview
 
-<em>Neural Neighbors</em> uses cutting-edge "machine vision" techniques to detect patterns in the visual figuration of this unique collection, now part of the Beinecke Rare Book & Manuscript Library.
+*Neural Neighbors* uses cutting-edge "machine vision" techniques to detect patterns in the visual figuration of this unique collection, now part of the Beinecke Rare Book & Manuscript Library.
 
 ### Convolutional Neural Networks
 
@@ -32,4 +32,4 @@ Humans have difficulty conceptualizing more than three dimensions, but modern al
 
 ### Pictoral Tropes
 
-<em>Neural Neighbors</em> combines these two data-mining techniques to illuminate the conventions of portraiture and other visual genres in the 19th century. The project reveals how technical limitations, the economics of commercial photography, and received ideals of visual composition produced marked patterns in how individuals and objects were figured. <em>Neural Neighbors</em> suggests new ways of understanding this interaction between circulation, social context, and artistic form in the Meserve-Kunhardt Collection. More collections will be added to the site over time.
+*Neural Neighbors* combines these two data-mining techniques to illuminate the conventions of portraiture and other visual genres in the 19th century. The project reveals how technical limitations, the economics of commercial photography, and received ideals of visual composition produced marked patterns in how individuals and objects were figured. *Neural Neighbors* suggests new ways of understanding this interaction between circulation, social context, and artistic form in the Meserve-Kunhardt Collection. More collections will be added to the site over time.

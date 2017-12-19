@@ -17,7 +17,7 @@ categories:
 
 ### Overview
 
-<em>Gathering a Building: The New Yale Colleges</em> uses archival as well as original documentation to analyze social, physical, historical, and artistic aspects of the two new residential colleges on Yale’s campus. The project site consists of four parts: Site History, Architecture and Urbanism, Material Journeys, People and Building.
+*Gathering a Building: The New Yale Colleges* uses archival as well as original documentation to analyze social, physical, historical, and artistic aspects of the two new residential colleges on Yale’s campus. The project site consists of four parts: Site History, Architecture and Urbanism, Material Journeys, People and Building.
 
 ### Site History
 
@@ -25,11 +25,11 @@ Through maps and other archival documents, this section explores how the land on
 
 ### Architecture and Urbanism
 
-The new colleges expand upon the architectural tradition established by James Gamble Rogers at Yale’s Memorial Quadrangle (1917-1921), as well as more distant and more immediate references. In addition, the colleges represent a new chapter in the shifting boundaries of campus and city. This section uses the considerable research already done on Yale’s campus architecture to contextualize the new designs by the office of Robert A.M. Stern and examine how architecture affects the urban fabric of New Haven.
+The new colleges expand upon the architectural tradition established by James Gamble Rogers at Yale's Memorial Quadrangle (1917-1921), as well as more distant and more immediate references. In addition, the colleges represent a new chapter in the shifting boundaries of campus and city. This section uses the considerable research already done on Yale's campus architecture to contextualize the new designs by the office of Robert A.M. Stern and examine how architecture affects the urban fabric of New Haven.
 
 ### Material Journeys
 
-No less than the ingredients on one’s dinner plate, each building material or component can be traced back through a chain of suppliers, fabricators, and producers, revealing both economic and ecological processes. This section seeks to map the journeys of several architectural materials, revealing wider geographies set in motion by the process of building.
+No less than the ingredients on one's dinner plate, each building material or component can be traced back through a chain of suppliers, fabricators, and producers, revealing both economic and ecological processes. This section seeks to map the journeys of several architectural materials, revealing wider geographies set in motion by the process of building.
 
 ### People and Buildings
 
