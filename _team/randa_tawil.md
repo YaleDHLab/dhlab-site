@@ -4,6 +4,7 @@ role: DH Fellow
 image: /assets/images/about/rtawil300x300.jpg
 order: 2
 group: teaching_fellow
+render: false
 ---
 
 Randa Tawil holds a BA in American Studies from Wesleyan University. Before beginning her PhD, she worked as an ethnographic consultant in Denmark, working on projects in Japan, Russia, the US, and the UK. Her research interests focus on migration and diaspora studies, critical race theory, and Arab American racial formations.

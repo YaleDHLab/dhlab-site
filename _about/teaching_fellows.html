@@ -31,7 +31,9 @@ class: personnel about-page
   <div class='color-background circle-caret'>
     {% assign team_members = site.team | where: 'group','teaching_fellow' | sort: 'order' %}
     {% for team_member in team_members %}
-      {% include about/team_member.html team_member=team_member %}
+      {% unless team_member.render == false %}  
+        {% include about/team_member.html team_member=team_member %}
+      {% endunless %}
     {% endfor %}
   </div>
 

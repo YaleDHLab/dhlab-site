@@ -7,13 +7,13 @@ caption: |
 
 ---
 
-### Digital Humanities Lab Consultations (DHLab)
+### Digital Humanities Lab (DHLab)
 
 The DHLab offers individual and group consultations for digital humanities projects at any stage of development. Staff address questions related to best practices, data management, corpus creation, visualizations, digital tools, and more. In addition to scheduled meetings, the DHLab also offers weekly Office Hours as another opportunity to discuss projects or general digital humanities ideas. <br/><a href='https://docs.google.com/forms/d/e/1FAIpQLSe4Lyo8EEdoiTLosfnmOUNEsZZToCD_n7dZ10ypCerw4diJGA/viewform?usp=sf_link' class='color-button' target='_blank'>Make an Appointment</a>
 
 ### StatLab
 
-StatLab serves as a center for information, research and quantitative analysis. Staff provide in-depth consulting for data management, statistical software, quantitative methods, data resources, geospatial resources and analysis, and the emerging technologies in support of interdisciplinary scholarship.<br/><a href='http://statlab.stat.yale.edu/' class='color-button' target='_blank'>Make an Appointment</a>
+StatLab works with teachers, learners, and researchers at Yale to support data analysis. Staff provide in-depth consulting on statistical packages, data management software, and quantitative methods.<br/><a href='http://statlab.stat.yale.edu/' class='color-button' target='_blank'>Make an Appointment</a>
 
 ### Center for Science and Social Science Information (CSSSI)
 
