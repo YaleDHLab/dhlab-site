@@ -17,11 +17,11 @@ categories:
 
 ### Overview
 
-*Gathering a Building: The New Yale Colleges* uses archival as well as original documentation to analyze social, physical, historical, and artistic aspects of the two new residential colleges on Yale's campus. The project site consists of four parts: Site History, Architecture and Urbanism, Material Journeys, People and Building.
+*Gathering a Building: The New Yale Colleges* uses archival as well as original documentation to analyze social, physical, historical, and artistic aspects of the two new residential colleges on Yale’s campus. The project site consists of four parts: Site History, Architecture and Urbanism, Material Journeys, People and Building.
 
 ### Site History
 
-Through maps and other archival documents, this section explores how the land on which the new colleges are being built has changed over time. Once a nameless field abutting the town cemetery, a wood, and a marshy depression that became a canal and then a railroad, it came to hold several notable buildings in the late nineteenth and twentieth centuries, some of them University-affiliated. Yale's decision to start from scratch in constructing the new residential colleges introduces an architectural coherence that has never before existed in this part of New Haven.
+Through maps and other archival documents, this section explores how the land on which the new colleges are being built has changed over time. Once a nameless field abutting the town cemetery, a wood, and a marshy depression that became a canal and then a railroad, it came to hold several notable buildings in the late nineteenth and twentieth centuries, some of them University-affiliated. Yale’s decision to start from scratch in constructing the new residential colleges introduces an architectural coherence that has never before existed in this part of New Haven.
 
 ### Architecture and Urbanism
 
@@ -33,4 +33,4 @@ No less than the ingredients on one's dinner plate, each building material or co
 
 ### People and Buildings
 
-The story of a building is in part composed of the stories of the people who make it, occupy it, maintain it, and otherwise find their lives affected by it. Research on life in and around Yale's older residential colleges will serve as a framework for original interviews and oral histories with architects, students, University officials, builders, facilities staff, and New Haven residents to find out what the new residential colleges mean to them.
+The story of a building is in part composed of the stories of the people who make it, occupy it, maintain it, and otherwise find their lives affected by it. Research on life in and around Yale’s older residential colleges will serve as a framework for original interviews and oral histories with architects, students, University officials, builders, facilities staff, and New Haven residents to find out what the new residential colleges mean to them.

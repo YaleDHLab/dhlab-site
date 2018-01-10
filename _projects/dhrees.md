@@ -15,7 +15,7 @@ team:
     position: Slavic Languages and Literatures
   - name: Masha Shpolberg
     position: Comparative Literature, Film & Media Studies
-  - name: Anna Arrays
+  - name: Anna Arays
     position: Slavic and East European Studies
   - name: Trip Kirkpatrick
     position: Center for Teaching and Learning

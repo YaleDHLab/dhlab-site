@@ -33,3 +33,7 @@ Taking the information collected during the requirement gathering phase, sketch 
 For best results, prototype your ideas with pencil and paper first in order to try out a range of design iterations before committing your resources to prototype development. After you've selected the leading design, begin prototyping and selectively iterate based on feedback you solicit during the process.
 
 Once you have a working prototype, move on to the user-testing phase of the project. Bring potential users together to try out the design.
+
+### Finding On-Campus Collaborators
+
+If you're looking for Yale students who might be interested in joining your project, we recommend sending out calls of interest to department registrars on campus. For instance, if you would like to hire a programmer for your project, you could send a job call to the Computer Science registrar. The DHLab can also post job calls to our <a href='{{ site.baseurl }}/opportunities/student-jobs.html' target='_blank'>Student Jobs page</a>. 

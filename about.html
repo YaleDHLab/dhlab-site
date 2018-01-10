@@ -4,7 +4,7 @@ class: about-page
 ---
 
 {% capture caption %}
-  The image shown here is kindly made available under a Creative Commons CC-BY-NC license by permission of CIRCSE Research Centre, Università Cattolica del Sacro Cuore, Milan, Italy. For further information or to request permission for reuse, please contact Marco Passarotti, on marco.passarotti AT unicatt.it, or by post: Largo Gemelli 1, 20123 Milan, Italy.
+  Father Roberto Busa at Yale on September 24, 1956. The image shown here is kindly made available under a Creative Commons CC-BY-NC license by permission of CIRCSE Research Centre, Università Cattolica del Sacro Cuore, Milan, Italy. For further information or to request permission for reuse, please contact Marco Passarotti by <a href='mailto:marco.passarotti@unicatt.it'>email</a> or by post: Largo Gemelli 1, 20123 Milan, Italy.
 {% endcapture %}
 
 {% assign image_url = '/assets/images/about/busa.png' | prepend: site.baseurl %}
@@ -25,8 +25,8 @@ class: about-page
         category='About'
         title='The Yale Digital Humanities Laboratory'
       %}
-      <p>The 2015 founding of the Yale University Library Digital Humanities Laboratory (DHLab) signifies the University's continued commitment to cutting-edge research and teaching in the humanities. Offering space, community, and resources within the Library for Yale researchers who are working with digital methods to pursue humanistic inquiries, the DHLab functions as a hub on campus for digital humanities resarch and teaching. Staff are available to help at any stage in a project, from conceptualization through implementation.</p>
-      <p>Yale's roots in digital humanities undertakings date back (at least) to Father Roberto Busa's visit to our campus on September 24, 1956. Father Busa is credited with being the founder of humanities computing. His concordance of the works of Saint Thomas Aquinas is often cited as the founding example of digital humanities research. </p>
+      <p>The 2015 founding of the Yale University Library Digital Humanities Laboratory (DHLab) signifies the University's continued commitment to cutting-edge research and teaching in the humanities. Offering space, community, and resources within the Library for Yale researchers who are working with digital methods to pursue humanistic inquiries, the DHLab functions as a hub on campus for digital humanities resarch and teaching. Staff are available to consult at any stage in a project, from conceptualization through implementation.</p>
+      <p>Yale's roots in digital humanities undertakings date back (at least) to Father Roberto Busa's visit to our campus in 1956 and the Computers for the Humanities conference that was sponsored by Yale on a grant from IBM in 1965. Stop by the lab to read through the conference proceedings and see what has and hasn't changed in discussions of the field!</p>
       <p>Generously funded by the Goizueta Foundation, the DHLab is committed to advancing science, technology, engineering, the arts, and mathematics (STEAM) teaching and research at Yale. In addition to facilitating cross-disciplinary collaborations on campus, the DHLab also promotes faculty and student initiatives that reach beyond the University to engage wider publics.</p>
       <p>The DHLab is a part of <a href='http://web.library.yale.edu/sd/dept/digital-scholarship-services' target='_blank'>Digital Scholarship Services</a> within Yale University Library, a group which also includes the <a href='http://statlab.stat.yale.edu/' target='_blank'>StatLab</a> and support for Research Data.</p>
     </div>
@@ -54,7 +54,7 @@ class: about-page
     {% include about/personnel_list.html items=site.data.assistants.right %}
     <br/>
     <h2>Work With Us</h2>
-    <p>Are you a programmer or designer interested in working in digital humanities? <a href='mailto:dhlab@yale.edu'>Contact us</a> for information on becoming a DHLab assistant and explore our current Student Job Openings for this academic year.</p>
+    <p>Are you a programmer or designer interested in working in digital humanities? <a href='mailto:dhlab@yale.edu'>Contact us</a> for information on becoming a DHLab Assistant and explore our Student Job Openings.</p>
   {% endcapture %}
 
   {% assign left_button_url = '/projects.html' | prepend: site.baseurl %}
@@ -62,12 +62,12 @@ class: about-page
 
   <div class='tablet-center'>
     {% include text/half-width/two_column_text.html
-      left_title = 'Former Project Assistants'
+      left_title = 'Project Assistants'
       left_text = left_text
       left_button_url = left_button_url
       left_button_label = 'View Projects'
 
-      right_title = 'DHLab Consultants'
+      right_title = 'Consultants'
       right_text = right_text
       right_button_url = right_button_url
       right_button_label = 'Student Jobs'

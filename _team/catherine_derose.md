@@ -6,7 +6,7 @@ order: 2
 group: core_team
 ---
 
-Catherine DeRose is the Engagement and Outreach Manager for the DHLab. She meets with researchers for consultations, teaches workshops on data analysis and visualization, and works with DH Fellows who are thinking about DH in the classroom. Catherine comes to Yale from the University of Wisconsin-Madison, where she received a PhD in English literature alongside a minor in Humanities Computing and Design.
+As the Engagement and Outreach Manager for the DHLab, Catherine meets with researchers for consultations, teaches workshops on data analysis and visualization, and works with DH Fellows who are thinking about DH in the classroom. Catherine comes to Yale from the University of Wisconsin-Madison, where she received a PhD in English literature alongside a minor in Humanities Computing and Design.
 
 Catherine has been actively involved in digital humanities initiatives at UW-Madison, as well as at Carnegie Hall and the Folger Shakespeare Library. Her work has appeared in *Victorian Review* and *Significance*, and she has received grants for digital humanities research from the American Council of Learned Societies (ACLS) and the New Arts Venture Challenge.
 

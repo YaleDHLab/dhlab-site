@@ -1,0 +1,20 @@
+<div class='two-column-container one-third-width personnel-archive'>
+  <div class='left-column'>
+    <h2>{{ include.title }}</h2>
+    <br/>
+    {% for year in include.data %}
+      <a href='#personnel-{{ year[0] }}'>{{ year[0] }}</a>
+    {% endfor %}
+  </div>
+  <div class='right-column'>
+    {% for year in include.data %}
+      <h3 id='personnel-{{ year[0] }}'>{{ year[0] }}</h3>
+      {% for person in year[1] %}
+        <div class='person'>
+          <b>{{ person.name }}</b>,
+          <span class='dept'>{{ person.short_affiliation }}</span>
+        </div>
+      {% endfor %}
+    {% endfor %}
+  </div>
+</div>

@@ -20,7 +20,7 @@ class: personnel about-page
       %}
 
       <p>Each semester, the Digital Humanities Lab appoints a cohort of Digital Humanities Fellows to assist with courses that have a strong digital humanities component. What that component looks like depends on the course's objectives and the Fellow's interests.</p>
-      <p>During the semester, DH Fellows work closely with each other and DHLab staff to design and integrate digital humanities assignments and demonstrations into their classrooms. Prior projects include a network graph of course syllabi, an Omeka exhibition on Latin American History, and a Story Map that charts Paui Murray's life.</p>
+      <p>During the semester, DH Fellows work closely with each other and DHLab staff to design and integrate digital humanities assignments and demonstrations into their classrooms. Prior projects include a network graph of course syllabi, an Omeka exhibition on Latin American History, and a Story Map that charts Paui Murray's life. To apply, visit our <a href='{{ site.baseurl }}/opportunities/dh-teaching-fellows.html' target='_blank'>DH Teaching Fellows page</a> under "Opportunities."</p>
     </div>
   </div>
 
@@ -31,7 +31,9 @@ class: personnel about-page
   <div class='color-background circle-caret'>
     {% assign team_members = site.team | where: 'group','teaching_fellow' | sort: 'order' %}
     {% for team_member in team_members %}
-      {% include about/team_member.html team_member=team_member %}
+      {% unless team_member.render == false %}  
+        {% include about/team_member.html team_member=team_member %}
+      {% endunless %}
     {% endfor %}
   </div>
 

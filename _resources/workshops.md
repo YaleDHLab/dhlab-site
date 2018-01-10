@@ -12,4 +12,4 @@ The Digital Humanities Lab leads workshops throughout the year on methods and to
 
 Find information about upcoming and past workshops below. 
 
-Couldn't make a workshop? Most of our tutorials are posted to the DHLab's [GitHub repository](https://github.com/YaleDHLab/lab-workshops).
+Couldn't make a workshop? Most of our tutorials are posted to the DHLab's <a href='https://github.com/YaleDHLab/lab-workshops' target='_blank'>GitHub Repository</a>.
