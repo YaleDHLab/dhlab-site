@@ -38,7 +38,7 @@
     <li>Budget outlining your estimated expenses and how you will use the funds</li>
     <li>If you have already identified students to hire for the project, please include their names. Please note that recipients cannot use grant funds to pay themselves toward work on their own project.</li>
   </ul>
-  <a href='https://docs.google.com/forms/d/e/1FAIpQLSexGVHbJkmcMWPASaHj1ThBjP3vNq87TIHIbw5388SfQHSuvw/viewform?usp=sf_link' target='_blank' class='white-button'>Apply Here</a>
+  <a href='{{ include.page.application_url }}' target='_blank' class='white-button'>Apply Here</a>
 {% endcapture %}
 
 {% capture right_text_two %}
@@ -48,7 +48,6 @@
     <li>Recipients commit to writing a brief blog post for the Digital Humanities Lab's website about their project.</li>
     <li>For Corpus Creation applications that include digitization and/or Optical Character Recognition (OCR), applicants are required to digitize and/or OCR a portion of their text prior to applying in order to test feasibility. Applicants are encouraged to contact dhlab@yale.edu in order to discuss what portion of the text to try.</li>
   </ul>
-  <a href='{{ include.page.application_url }}' target='_blank' class='white-button'>Apply Here</a>
 {% endcapture %}
 
 {% include text/color_blocks.html
