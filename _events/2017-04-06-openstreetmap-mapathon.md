@@ -1,6 +1,6 @@
 ---
 title: OpenStreetMap Mapathon
-date: 04-06-17
+date: 2017-04-06
 time: 4:00 - 6:00 pm
 location: 17 Hillhouse Ave, Room 101
 thumbnail: /assets/images/events/map-nyc.jpg
