@@ -7,7 +7,7 @@ thumbnail: /assets/images/events/2018-04-08-BB-sq.jpg
 categories:
   - Symposia
 tags:
-  - Javascript
+  - JavaScript
   - Visualization
   - Network Analysis
   - Coding
