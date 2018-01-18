@@ -7,7 +7,6 @@
   {% include heroes/mobile_hero.html image=include.page.thumbnail %}
 {% endif %}
 
-
 {% case include.label %}
   {% when 'NEWS' %}
     {% assign page_type = 'news' %}
@@ -71,6 +70,7 @@
             {% include tags.html page=page query_route=page_type %}
           </div>
         {% endif %}
+
         {%- capture now %}{{ 'now' | date: '%s' | minus: 0 }}{% endcapture -%}
         {%- capture date %}{{ include.page.date | date: '%s' | minus: 0 }}{% endcapture -%}
         {% if include.page.registerurl and page_type == 'events' and date >= now %}
@@ -79,6 +79,7 @@
       </div>
     </div>
   </section>
+
   {% if page_type == 'events' %}
     <div class='hide-tablet'>
       {% include text/three_text_blocks.html
@@ -95,6 +96,7 @@
         {%- include cards/horizontal_card.html item=item -%}
       {% endfor %}
     </div>
+
   {% else %}
     {% include text/three_text_blocks.html
       items=include.bottom_items
