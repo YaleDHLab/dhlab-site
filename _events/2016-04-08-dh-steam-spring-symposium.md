@@ -8,7 +8,7 @@ categories:
 spotlight: false 
 image_layout: landscape
 teaser: |
-  "Beyond Boundaries: A Symposium on Hybrid Scholarship at Yale University April 8, 2016 from 9:30am-1:00pmSterling Memorial Library, Lecture Hall What does computer-generated poetry look like? How..."
+  "Beyond Boundaries: A Symposium on Hybrid Scholarship at Yale University April 8, 2016 from 9:30am-1:00pmSterling Memorial Library, Lecture Hall"
 ---
 
 ### Beyond Boundaries: A Symposium on Hybrid Scholarship at Yale University
