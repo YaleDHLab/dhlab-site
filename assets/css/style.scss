@@ -1721,6 +1721,14 @@ section {
 
 .archive-grid .archive-item .background-image {
   padding-bottom: 100%;
+  position: relative;
+}
+
+.archive-item img {
+  position: absolute;
+  bottom: 5px;
+  left: 5px;
+  width: 55px;
 }
 
 @media (max-width: $desktop_breakpoint) {
