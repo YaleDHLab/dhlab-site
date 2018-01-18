@@ -2,7 +2,6 @@
 title: DH Teaching Fellows
 order: 0
 image: '/assets/images/banners/teaching-fellows.jpg'
-
 caption: >
   Fall 2016 Digital Humanities Teaching Fellows. Photo by Michael Marsland.
 
@@ -12,7 +11,7 @@ application_text: >
 application_url: >
   https://docs.google.com/forms/d/e/1FAIpQLScvKOG9RgwKW5nbzHYHHwG9N_yMeoLpaBH-RNbSB1BH0clenA/viewform?usp=sf_link
 
-deadline: October 24, 2018
+deadline: April 9, 2018
 overview: teaching_fellows
 ---
 
@@ -27,7 +26,7 @@ overview: teaching_fellows
         title=page.title
       %}
 
-      <p>Each semester, the Digital Humanities Lab appoints a cohort of Digital Humanities Fellows to assist with courses that have a strong digital humanities component. These positions provide semester-long support for graduate students to engage with digital humanities methods and theories in a classroom setting. DHLab staff will work with Fellows to design digital humanities assignments, arrange access to electronic content, and provide specialized technical training. Visit the <a href='{{ site.baseurl }}/about/teaching_fellows.html' target='_blank'>DH Teaching Fellows page</a> under "About" to learn about our current recipients and their courses.</p>
+      <p>Each semester, the Digital Humanities Lab appoints a cohort of Digital Humanities Fellows to assist with courses that have a strong digital humanities component. These positions provide semester-long support for graduate students to engage with digital humanities methods and theories in a classroom setting. DHLab staff will work with Fellows to design digital humanities assignments, arrange access to electronic content, and provide specialized technical training. Visit the <a href='{{ site.baseurl }}/about/teaching_fellows.html' target='_blank'>DH Teaching Fellows page</a> under "About" to see our current recipients and their courses.</p>
     </div>
   </div>
 
@@ -36,16 +35,16 @@ overview: teaching_fellows
   %}
 
   {% capture left_text_one %}
-    <p>Fellows are responsible for introducing digital humanities approaches into their class. As a Fellow, you are required to meet with DHLab staff at least once before the semester starts to discuss goals (for the course as well as yourself), look through a syllabus, and identify what methods/theories you will introduce to students. Prior to your teaching the students, DHLab staff will work with you and your cohort to provide training and consider ways to teach the material.</p> 
+    <p>Fellows are responsible for introducing digital humanities approaches into their class. As a Fellow, you are required to meet with Digital Humanities Lab staff at least once before the semester starts to discuss goals (for the course as well as yourself), look through a syllabus, and identify what methods/theories you will introduce to students. Prior to your teaching the students, DHLab staff will work with you and your cohort to provide training sessions and consider ways to teach the material.</p> 
 
-    <p>Fellows are also expected to attend occasional "cohort" meetings during the semester, which are opportunities to learn about what everyone is doing and to share any successes or challenges you encounter.</p>
+    <p>Fellows are also expected to attend occasional "cohort" meetings during the semester, which are opportunities to learn about what everyone is doing in their classes and to share any successes or challenges you encounter.</p>
   {% endcapture %}
 
   {% capture left_text_two %}
     <ul>
       <li>DH Fellows retain standard benefits associated with their graduate student status.
       </li>
-      <li>DH Fellows are appointed as a Part-Time Acting Instructor (PTAI) within the Graduate School of Arts and Sciences.
+      <li>DH Fellows are appointed as Part-Time Acting Instructors (PTAI) within the Graduate School of Arts and Sciences.
       </li>
       <li>Estimated hours of work are 15-20 hours per week.
       </li>
@@ -61,15 +60,15 @@ overview: teaching_fellows
       </li>
       <li>No previous experience in digital humanities is necessary — willingness to learn and teach are.
       </li>
-      <li>Undergraduate, graduate, and mixed courses are eligible.
+      <li>Undergraduate, graduate, and combined courses are eligible.
       </li>
-      <li>Graduate students should pre-arrange to work with a faculty member on a specific course.
+      <li>Graduate students should pre-arrange to work with a faculty member on a specific course before they apply.
       </li>
     </ul>
   {% endcapture %}
 
   {% capture right_text_two %}
-    <p>To apply, please click on the "Apply Here" button below, which will take you to a brief Google form that will ask you for information about your course and the DH methods you anticipate incorporating.</p>
+    <p>To apply, please click on the "Apply Here" button below, which will take you to a brief form that will ask you for information about your course and the DH methods you anticipate incorporating.</p>
     <a href='{{ page.application_url }}' target='_blank' class='white-button'>Apply Here</a>
   {% endcapture %}
 
