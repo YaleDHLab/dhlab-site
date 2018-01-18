@@ -4,7 +4,14 @@ class: archive-page simple-page
 header_color: gray
 ---
 
-{% assign bottom_items = site.projects | limit: 3 %}
+{% assign items = '' | split: '' %}
+{% for item in site.projects %}
+  {% if item.title != page.title %}
+    {% assign items = items | push: item %}
+  {% endif %}
+{% endfor %}
+
+{% assign bottom_items = items | limit: 3 %}
 
 {% include simple.html 
   page=page 
