@@ -8,7 +8,7 @@ registerurl: http://schedule.yale.edu/event/3606999
 categories:
   - Workshops
 tags:
-  - Javascript
+  - JavaScript
 teaser: >
   This workshop will introduce the very basics of the JavaScript programming language, the language that runs nearly all modern websites. We will cover data structures, conditionals, and loops, and will also have time for participants to build small websites of their own design. 
 ---
