@@ -3,7 +3,7 @@
 {% else %}
 <header>
 {% endif %}
-  <a href='{{ site.baseurl }}/#'>
+  <a href='{{ site.baseurl }}/#' title='Yale Digital Humanities Lab - home page'>
     <div class='site-brand'>
       {% include header/header_logo.html %}
     </div>
@@ -56,10 +56,10 @@
         </div>
       </div>
       <div class='nav-icons'>
-        <a class='twitter' href='https://twitter.com/{{ site.twitter }}' target='_blank'>Twitter</a>
-        <a class='github' href='https://www.github.com/{{ site.github }}' target='_blank'>GitHub</a>
-        <a class='instagram' href='https://instagram.com/{{ site.instagram }}' target='_blank'>Instagram</a>
-        <a class='search'>Search</a>
+        <a class='twitter' href='https://twitter.com/{{ site.twitter }}' alt='twitter icon' target='_blank'>Twitter</a>
+        <a class='github' href='https://www.github.com/{{ site.github }}' alt='github icon' target='_blank'>GitHub</a>
+        <a class='instagram' href='https://instagram.com/{{ site.instagram }}' alt='instagram icon' target='_blank'>Instagram</a>
+        <a class='search' alt='search icon' >Search</a>
       </div>
       <div class='nav-links-mobile bottom'>
         <a href='{{ site.baseurl }}/resources/events.html'>Events Calendar</a>
