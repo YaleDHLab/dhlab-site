@@ -1,7 +1,12 @@
 <% _.forEach(items, function(item) { %>
   <div class='archive-item'>
     <a href='<%= baseurl %><%= item.url %>'>
-      <div class='background-image' style='background-image: url(<%= baseurl %><%= item.thumbnail %>)'></div>
+      <div class='background-image'
+        style='background-image: url(<%= baseurl %><%= item.thumbnail %>)'>
+          <% if (item.funded) { %>
+            <img src='<%= baseurl %>/assets/images/branding/dhlab-badge.svg'/>
+          <% }; %>
+        </div>
       <div class='title'><%= item.title %></div>
     </a>
   </div>
