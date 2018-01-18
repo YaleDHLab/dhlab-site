@@ -22,10 +22,10 @@ header_color: gray
     </section>
   {% endif %}
 
-  {% assign items = site.events | limit: 3 %}
+  {% assign items = site.events | sort: 'date' | reverse | limit: 3 %}
   {% include text/three_text_blocks.html
     items=items
-    label='ON CAMPUS'
+    label='UPCOMING/RECENT'
   %}
 
   {% include events/get_past_events.html %}
