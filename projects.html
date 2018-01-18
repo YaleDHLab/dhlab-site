@@ -28,7 +28,7 @@ title: Projects
 
 {% assign counter = 0 %}
 <div class='center-column'>
-  <div class='projects-container'>
+  <div class='projects-container' role='main'>
     <div class='mobile section-title'>LAB PROJECTS</div>
     {% for project in site.projects %}
       {% unless project.featured or project.funded or project.layout == 'archive' %}

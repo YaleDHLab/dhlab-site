@@ -3,12 +3,12 @@
 {% else %}
 <header>
 {% endif %}
-  <a href='{{ site.baseurl }}/#' title='Yale Digital Humanities Lab - home page'>
+  <a href='{{ site.baseurl }}/#'>
     <div class='site-brand'>
       {% include header/header_logo.html %}
     </div>
   </a>
-  <div class='nav-links-container'>
+  <div class='nav-links-container' role='navigation'>
     {% include header/navicon.html %}
     <div class='nav-links'>
       <div class='nav-links-mobile'>
@@ -56,10 +56,10 @@
         </div>
       </div>
       <div class='nav-icons'>
-        <a class='twitter' href='https://twitter.com/{{ site.twitter }}' alt='twitter icon' target='_blank'>Twitter</a>
-        <a class='github' href='https://www.github.com/{{ site.github }}' alt='github icon' target='_blank'>GitHub</a>
-        <a class='instagram' href='https://instagram.com/{{ site.instagram }}' alt='instagram icon' target='_blank'>Instagram</a>
-        <a class='search' alt='search icon' >Search</a>
+        <a class='twitter' href='https://twitter.com/{{ site.twitter }}' aria-label='twitter icon' target='_blank'>Twitter</a>
+        <a class='github' href='https://www.github.com/{{ site.github }}' aria-label='github icon' target='_blank'>GitHub</a>
+        <a class='instagram' href='https://instagram.com/{{ site.instagram }}' aria-label='instagram icon' target='_blank'>Instagram</a>
+        <a class='search' aria-label='search icon'>Search</a>
       </div>
       <div class='nav-links-mobile bottom'>
         <a href='{{ site.baseurl }}/resources/events.html'>Events Calendar</a>

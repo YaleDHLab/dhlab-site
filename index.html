@@ -13,7 +13,7 @@ class: home-page
 <div class='home-center-column'>
 
   <!-- HOME EVENTS DESKTOP -->
-  <section>
+  <section aria-label='events calendar'>
     <a href='{{ site.baseurl }}/events.html'>
       <div class='home-section-title'>EVENTS CALENDAR</div>
     </a>
@@ -41,7 +41,7 @@ class: home-page
   </section>
 
   <!-- HOME NEWS -->
-  <section>
+  <section aria-label='recent news'>
     <a href='{{ site.baseurl }}/news.html'>
       <div class='home-section-title'>WHAT'S NEW</div>
     </a>
@@ -78,13 +78,13 @@ class: home-page
   </div>
 
   <!-- HOME SPOTLIGHT -->
-  <section>
+  <section aria-label='spotlight'>
     <div class='home-section-title'>SPOTLIGHT</div>
     {% include news/get_featured_news.html %}
 
     {% capture square_html %}
     <div class='news-card-square color-background'>
-      <div><h2>Office Hours</h2></div>
+      <div><h2 aria-labelledby='Office Hours'>Office Hours</h2></div>
       <div class='white-text'><b>Tue &amp; Wed. 2-4 pm</b></div>
       <p>Offering space, community, and resources, the DHLab supports Yale faculty and students who are working with digital methods to pursue humanistic inquiries</p>
       <p>We support projects in all stages of development&mdash;from conceptualization through implementation.</p>
