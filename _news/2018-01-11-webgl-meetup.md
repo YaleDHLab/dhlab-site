@@ -1,6 +1,6 @@
 ---
-title: WebGL Meetup - Call for Interest
-date: January 20, 2018
+title: "WebGL Meetup - Call for Interest"
+date: January 11, 2018
 thumbnail: /assets/images/events/web-gl.jpg
 categories:
   - Workshops
