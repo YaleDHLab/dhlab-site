@@ -2,6 +2,7 @@
 layout: default
 class: events-page mobile-dark-header
 header_color: gray
+title: Events
 ---
 
 {% include events/get_future_events.html %}
@@ -13,7 +14,7 @@ header_color: gray
 
 <div class='center-column {{ class }}'>
   {% if future_events.size > 0 %}
-    <section>
+    <section aria-labelledby='events calendar'>
       <div class='section-title'>EVENTS CALENDAR</div>
       <hr class='hide-tablet' />
       {% for item in future_events %}

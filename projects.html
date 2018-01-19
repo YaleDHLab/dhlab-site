@@ -1,6 +1,7 @@
 ---
 layout: default
 class: projects-page mobile-dark-header
+title: Projects
 ---
 
 {% for project in site.projects %}
@@ -27,7 +28,7 @@ class: projects-page mobile-dark-header
 
 {% assign counter = 0 %}
 <div class='center-column'>
-  <div class='projects-container'>
+  <div class='projects-container' role='main'>
     <div class='mobile section-title'>LAB PROJECTS</div>
     {% for project in site.projects %}
       {% unless project.featured or project.funded or project.layout == 'archive' %}

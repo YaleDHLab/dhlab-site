@@ -2,17 +2,18 @@
 layout: default
 class: news-page mobile-dark-header
 header_color: gray
+title: News
 ---
 
 <div class='center-column'>
-  <section>
+  <section aria-labelledby='Recent News'>
     <div class='filters'>
       <h3>WHAT'S NEW</h3>
       <select id='sort-by'>
         <option value='date' disabled selected>Sort by</option>
         <option value='date'>Date</option>
       </select>
-      <select id='tags'>
+      <select id='tags' aria-label='filter tags'>
         <option value='ALL'>All Topics</option>
       </select>
       <hr />
