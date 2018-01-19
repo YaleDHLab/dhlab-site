@@ -1,6 +1,7 @@
 ---
 layout: default
 class: about-page
+title: About
 ---
 
 {% capture caption %}
@@ -20,7 +21,7 @@ class: about-page
     <div class='left-column'>
       {% include sidebars/about_left_sidebar.html page=page %}
     </div>
-    <div class='right-column'>
+    <div class='right-column' role='main'>
       {% include text/mobile_section_title.html
         category='About'
         title='The Yale Digital Humanities Laboratory'
