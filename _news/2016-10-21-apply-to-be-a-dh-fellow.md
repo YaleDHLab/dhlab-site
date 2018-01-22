@@ -10,7 +10,7 @@ tags:
 spotlight: false 
 image_layout: simple
 teaser: |
-  Each semester, the Digital Humanities Lab appoints one or more Digital Humanities Fellows to assist with courses that have a strong digital humanities component. These positions provide semester-long...
+  Each semester, the Digital Humanities Lab appoints one or more Digital Humanities Fellows to assist with courses that have a strong digital humanities component. 
 ---
 
 Each semester, the Digital Humanities Lab appoints one or more Digital Humanities Fellows to assist with courses that have a strong digital humanities component. These positions provide semester-long support for graduate students to engage with DH methods and theories in a classroom setting. DHLab staff will work with fellows to design DH assignments, arrange access to electronic content, and provide specialized technical training. Visit the [DH Fellows page](http://web.library.yale.edu/dhlab/dhfellows) to learn about our current recipients and their courses!

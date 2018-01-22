@@ -9,7 +9,7 @@ categories:
 spotlight: false 
 image_layout: simple
 teaser: |
-  What is the most-produced play at Yale? Which actors have played Hamlet on our stages? To find out, the Digital Humanities Lab and Robert B. Haas Family Arts Library created Ensemble @ Yale, a...
+  What is the most-produced play at Yale? Which actors have played Hamlet on our stages? To find out, the Digital Humanities Lab and Robert B. Haas Family Arts Library created Ensemble @ Yale, a platform for crowdsourced transcription, that was recently featured in YaleNews.
 ---
 
 What is the most-produced play at Yale? Which actors have played Hamlet on our stages?

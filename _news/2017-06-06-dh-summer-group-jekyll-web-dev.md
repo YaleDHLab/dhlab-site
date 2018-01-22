@@ -8,7 +8,7 @@ categories:
 spotlight: false 
 image_layout: simple
 teaser: |
-  Call for Participants The Digital Humanities Lab and Center for Teaching and Learning are putting together an informal working group to brainstorm, design, and build a Jekyll-based web application...
+  Call for Participants The Digital Humanities Lab and Center for Teaching and Learning are putting together an informal working group to brainstorm, design, and build a Jekyll-based web application this summer.
 ---
 
    
