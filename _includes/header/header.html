@@ -3,7 +3,7 @@
 {% else %}
 <header>
 {% endif %}
-  <a href='{{ site.baseurl }}/#' tabindex="0">
+  <a href='{{ site.baseurl }}/#' tabindex='0'>
     <div class='site-brand'>
       {% include header/header_logo.html %}
     </div>
@@ -16,7 +16,7 @@
       </div>
       <input id='mobile-search' class='mobile-search' placeholder='Search'>
       <div id='mobile-search-results' class='mobile-search-results'></div>
-      <div class='link about' role='menu' aria-label='about-dropdown' aria-haspopup='true' aria-expanded="false" data-toggle="dropdown">
+      <div class='link about' role='menu' aria-label='about-dropdown' aria-haspopup='true' aria-expanded='false' data-toggle='dropdown'>
         <a href='{{ site.baseurl }}/about.html' role='menuitem' aria-label='about' tabindex='0'>About</a>
         <div class='about-links sublinks'>
           <a class='subheader' href='{{ site.baseurl }}/about.html' role='menuitem' aria-label='Yale-DHLab' tabindex='0'>Yale DHLab</a>
@@ -26,7 +26,7 @@
           {% include header/header_links.html items=site.resources %}
         </div>
       </div>
-      <div class='link opportunities' role='menu' aria-label='opportunities-dropdown'  aria-haspopup='true' aria-expanded="false" data-toggle="dropdown">
+      <div class='link opportunities' role='menu' aria-label='opportunities-dropdown'  aria-haspopup='true' aria-expanded='false' data-toggle='dropdown'>
         <a href='{{ site.baseurl }}/opportunities.html' role='menuitem' aria-label='opportunities' tabindex='0'>Opportunities</a>
         <div class='opportunities-links sublinks'>
           <a class='subheader' href='{{ site.baseurl }}/awards.html' role='menuitem' aria-label='awards' tabindex='0'>Awards</a>
@@ -35,7 +35,7 @@
           {% include header/header_links.html items=site.opportunities %}
         </div>
       </div>
-      <div class='link events' role='menu' aria-label='events-dropdown' aria-haspopup='true' aria-expanded="false" data-toggle="dropdown">
+      <div class='link events' role='menu' aria-label='events-dropdown' aria-haspopup='true' aria-expanded='false' data-toggle='dropdown'>
         <a href='{{ site.baseurl }}/events.html' role='menuitem' aria-label='news and events' tabindex='0'>News & Events</a>
         <div class='events-links sublinks'>
           <a href='{{ site.baseurl }}/news.html' role='menuitem' aria-label='news' tabindex='0'>Current News</a>
@@ -46,7 +46,7 @@
       <div class='link projects'>
         <a href='{{ site.baseurl }}/projects.html' role='menuitem' aria-label='projects' tabindex='0'>Projects</a>
       </div>
-      <div class='link guides' role='menu' aria-label='guides-dropdown' aria-haspopup='true' aria-expanded="false" data-toggle="dropdown">
+      <div class='link guides' role='menu' aria-label='guides-dropdown' aria-haspopup='true' aria-expanded='false' data-toggle='dropdown'>
         <a href='methods.html' role='menuitem' aria-label='get started' tabindex='0'>Get Started</a>
         <div class='guide-links sublinks'>
           <a class='subheader' href='{{ site.baseurl }}/methods.html' role='menuitem' aria-label='methods' tabindex='0'>What Is DH?</a>
