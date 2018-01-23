@@ -6,6 +6,9 @@
 {% if image_url %}
   {% include heroes/mobile_hero.html image=include.page.thumbnail %}
 {% endif %}
+{% if image_url %}
+  {% assign image_alt = include.page.alt %}
+{% endif %}
 
 {% case include.label %}
   {% when 'NEWS' %}
@@ -40,7 +43,8 @@
         {% assign image_url = include.page.thumbnail | prepend: site.baseurl %}
 
         <div class='square-image background-image event-date-container'
-          style='background-image:url({{ image_url }})'>
+          style='background-image:url({{ image_url }})' 
+          alt='{{ image_alt }}'>
           {% if page_type == 'events' %}
             {% include events/event_date.html event=include.page %}
           {% endif %}
