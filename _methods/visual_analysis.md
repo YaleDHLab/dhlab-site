@@ -13,16 +13,24 @@ teaser: >
 
 ### Overview
 
-Visual analysis consists of using computational processes to study large collections of images. Some work in this field has focused on using algorithms to study patterns in datasets, such as Lev Manovich’s work on the [covers of Time Magazine](http://manovich.net/index.php/exhibitions/timeline) over time. Others such as the [Early Modern OCR Project](http://emop.tamu.edu/) (eMOP) have focused on using image processing techniques to improve OCR transcription accuracy for researchers working printed texts from the early modern period. Still others, such as researchers at the [University of Nebraska](http://netnebraska.org/article/culture/943643/how-find-poem-200-year-old-newspapers) research team linked below, have used image processing methods to identify poetic passages in unstructured image sets.
+Visual analysis consists of using computational processes to study large collections of images. This work can take a variety of forms. Some work in this field has focused on using algorithms to study patterns in visual datasets, such as Lev Manovich’s work on the <a href='http://manovich.net/index.php/exhibitions/timeline' target='_blank'>covers of Time Magazine</a> over time. Others such as the <a href='http://emop.tamu.edu' target='_blank'>Early Modern OCR Project</a> (eMOP) have focused on using image processing techniques to improve OCR transcription accuracy for researchers working printed texts from the early modern period. Additionally, researchers at the University of Nebraska have used image processing methods to identify <a href='http://netnebraska.org/article/culture/943643/how-find-poem-200-year-old-newspapers' target='_blank'>poetic passages</a> in unstructured image sets.
 
 ### Methods & Tools
 
-While there are fewer open source tools for image analysis than there are for text analysis, there are some great resources you can use to get started in this field. For an overview of some of the operations you can perform on images, try looking at the [scikit-image gallery](http://scikit-image.org/docs/stable/auto_examples/), which includes code that can help perform lots of image operations. Additionally, the links below offer code that can help you accomplish many popular tasks in image processing:
+While there are fewer open source tools for image analysis than there are for text analysis, there are some great resources you can use to get started in this field. For an overview of some of the operations you can perform on images, try looking at the <a href='http://scikit-image.org/docs/stable/auto_examples/' target='_blank'>scikit-image gallery</a>, which includes code that can help perform many image operations. The links below offer code that can help you accomplish many popular tasks in image processing:
 
-[Identify objects in images](https://www.tensorflow.org/tutorials/image_recognition)
+<a href='https://www.tensorflow.org/tutorials/image_recognition' target='_blank'>Identify objects in images</a>
 
-[Transfer styles from one image to another](https://github.com/lengstrom/fast-style-transfer)
+<a href='https://github.com/lengstrom/fast-style-transfer' target='_blank'>Transfer styles from one image to another</a>
 
-[Create fictional images that resemble input images](https://github.com/carpedm20/BEGAN-tensorflow)
+<a href='https://github.com/carpedm20/BEGAN-tensorflow' target='_blank'>Create fictional images that resemble input images</a>
 
-[Find similar images within a corpus](http://douglasduhaime.com/posts/identifying-similar-images-with-tensorflow.html)
+<a href='http://douglasduhaime.com/posts/identifying-similar-images-with-tensorflow.html' target='_blank'>Find similar images within a corpus</a>
+
+### Datasets
+
+<a href='http://cvcl.mit.edu/database.htm' target='_blank'>MIT's Computational Visual Cognition Laboratory LabelMe images</a>
+
+<a href='http://yann.lecun.com/exdb/mnist/' target='_blank'>The MNIST Database of Handwritten Digits</a>
+
+<a href='https://deeplearning4j.org/opendata' target='_blank'>Deep Learning for Java's (DL4J) list of Open Data for Deep Learning</a>
