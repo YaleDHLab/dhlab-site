@@ -8,7 +8,7 @@ categories:
 spotlight: false 
 image_layout: simple
 teaser: |
-  Award Recipients The Digital Humanities Lab is pleased to announce the recipients of our 2017 Project Grants. These awards support both the initial planning phases and also the continued development...
+  Award Recipients The Digital Humanities Lab is pleased to announce the recipients of our 2017 Project Grants. These awards support both the initial planning phases and also the continued development of Yale faculty projects that pursue innovation and excellence in the humanities by way of digital methods.
 ---
 
 The Digital Humanities Lab is pleased to announce the recipients of our 2017 Project Grants. These awards support both the initial planning phases and also the continued development of Yale faculty projects that pursue innovation and excellence in the humanities by way of digital methods.

@@ -8,7 +8,7 @@ categories:
 spotlight: false 
 image_layout: simple
 teaser: |
-  The Digital Humanities Lab is excited to announce a new round of Seed Grants to support digital humanities research over the spring semester. These grants may be used to hire a developer, create a...
+  The Digital Humanities Lab is excited to announce a new round of Seed Grants to support digital humanities research over the spring semester. 
 ---
 
 The Digital Humanities Lab is excited to announce a new round of Seed Grants to support digital humanities research over the spring semester. These grants may be used to hire a developer, create a digital corpus, or host a workshop.

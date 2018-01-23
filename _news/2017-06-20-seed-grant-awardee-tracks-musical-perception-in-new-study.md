@@ -9,7 +9,7 @@ categories:
 spotlight: false 
 image_layout: simple
 teaser: |
-  Call for Participants Earn extra money while benefiting music cognition research at Yale. Subjects are needed for an EEG study of musical perception. Participants should be 18 years old or older and...
+  Call for Participants Earn extra money while benefiting music cognition research at Yale. Subjects are needed for an EEG study of musical perception. Participants should be 18 years old or older and should have no hearing loss or history of neurological injury or disease. Musicians and non-musicians are welcome.
 ---
    
 Earn extra money while benefiting music cognition research at Yale. Subjects are needed for an EEG study of musical perception. Participants should be 18 years old or older and should have no hearing loss or history of neurological injury or disease. Musicians and non-musicians are welcome.

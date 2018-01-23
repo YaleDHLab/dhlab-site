@@ -8,7 +8,7 @@ categories:
 spotlight: false 
 image_layout: simple
 teaser: |
-  eThe Digital Humanities Lab is thrilled to announce the launch of Ashbery’s Nest, a virtual tour of the American poet's Victorian home. Beginning with a prototype of the Center Hall, the site provides...
+  The Digital Humanities Lab is thrilled to announce the launch of Ashbery’s Nest, a virtual tour of the American poet's Victorian home. 
 ---
 
 The Digital Humanities Lab is thrilled to announce the launch of Ashbery’s Nest, a virtual tour of the American poet's Victorian home. Beginning with a prototype of the Center Hall, the site provides a unique opportunity both to see the art, objects, books, and furniture in the house, and also to hear clips from Ashbery himself, as he reads from related poems and discusses the role that these things, including the space itself, have played in his creative life.
