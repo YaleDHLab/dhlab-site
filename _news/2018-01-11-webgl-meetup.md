@@ -3,7 +3,7 @@ title: "WebGL Meetup - Call for Interest"
 date: January 11, 2018
 thumbnail: /assets/images/events/web-gl.jpg
 image: /assets/images/banners/meetup.jpg
-caption: ""
+alt: laptop on desk with WebGL logo screen
 categories:
   - Workshops
 tags:
