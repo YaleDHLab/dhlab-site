@@ -17,11 +17,11 @@
       {% if include.item.date and include.item.time %}
         {% include events/event_metadata.html event=include.item %}
         <br/>
-        <div class='teaser hide-mobile'>{{ include.item.teaser | truncatewords: 50 }}</div>
+        <div class='teaser hide-mobile'><p>{{ include.item.teaser | truncatewords: 50 }}</p></div>
       {% else %}
         {% include news/news_metadata.html item=include.item %}
         <br/>
-        <div class='teaser hide-mobile'>{{ include.item.teaser | truncatewords: 50 }}</div>
+        <div class='teaser hide-mobile'><p>{{ include.item.teaser | truncatewords: 50 }}</p></div>
       {% endif %}
     </a>
     {%- capture now %}{{ 'now' | date: '%s' | minus: 0 }}{% endcapture -%}
