@@ -90,6 +90,9 @@ newsletter: 'https://messages.yale.edu/Subscribe?ReturnUrl=%2fSubscribe%2fList%2
 # submit news url
 submit_news: 'https://docs.google.com/forms/d/1HvwWecpYODW3DoMVTnJy7beOMfechLPIiVhV5ekvYNI'
 
+# request consultation
+consultation: 'https://docs.google.com/forms/d/e/1FAIpQLSe4Lyo8EEdoiTLosfnmOUNEsZZToCD_n7dZ10ypCerw4diJGA/viewform?usp=sf_link'
+
 # configure gems
 plugins:
   - octopress-minify-html
