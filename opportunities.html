@@ -40,6 +40,12 @@ title: Opportunities
       class='white-button'>Learn More</a>
   {% endcapture %}
 
+  {% capture right_text_two %}
+    <p>The Digital Humanities Lab is seeking a Digital Scholarship Developer to build rich-client, web-based applications to support the work of the DHLab at Yale University, with a special emphasis on the needs of the Fortunoff Video Archive for Holocaust Testimonies (FVAHT). Using dynamic scripting languages such as Python and Ruby, the Programmer/Analyst produces code that turns research ideas into concrete reality. Working in a team including a DH developer and a UX & Visual Designer, this position is responsible for both new software platforms as well as the integration of existing library enterprise systems in support of digital scholarship at Yale. This is a two-year term position. </p>
+    <a href='http://bit.ly/DigitalScholarshipdev' target='_blank' 
+      class='white-button'>Learn More</a>
+  {% endcapture %}
+
   {% include text/color_blocks.html
     left_title_one='DH Teaching Fellows'
     left_text_one=left_text_one
@@ -49,6 +55,9 @@ title: Opportunities
 
     right_title_one='Student Jobs'
     right_text_one=right_text_one
+
+    right_title_two='Full-Time Job Opening'
+    right_text_two=right_text_two
   %}
 
   {% assign items = site.projects | limit: 3 %}
