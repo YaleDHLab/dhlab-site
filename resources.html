@@ -85,7 +85,7 @@ title: Resources
     right_text_three=right_text_three
   %}
 
-  {% assign events = site.events | limit: 3 %}
+  {% assign events = site.events | where: 'categories' , 'Workshops' | sort: 'date' | reverse | limit: 3 %}
   {% include text/three_text_blocks.html
     items=events
     label='WORKSHOPS'
