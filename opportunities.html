@@ -51,7 +51,7 @@ title: Opportunities
     right_text_one=right_text_one
   %}
 
-  {% assign items = site.projects | limit: 3 %}
+  {% assign items = site.projects | limit: 3 | where: 'funded', 'true' %}
   {% include grids/three_spaced_squares.html
     items=items
     label='FUNDED PROJECTS'
