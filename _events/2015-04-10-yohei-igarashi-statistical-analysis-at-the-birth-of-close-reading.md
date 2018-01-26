@@ -8,7 +8,7 @@ categories:
   - Talks
 tags:
   - Statistics
-  - Textual Analysis
+  - Text Analysis
 spotlight: false 
 image_layout: landscape
 teaser: |

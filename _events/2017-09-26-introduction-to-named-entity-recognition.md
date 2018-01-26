@@ -8,7 +8,7 @@ registerurl: http://schedule.yale.edu/event/3569740
 categories:
   - Workshops
 tags:
-  - Textual Analysis
+  - Text Analysis
   - Python
 teaser: >
   This workshop will introduce participants to Named Entity Recognition (NER), or the process of algorithmically identifying people, locations, corporations, and other classes of nouns in text corpora. We will help users install and run Stanford's flagship CoreNLP (Natural Language Processing) toolkit to identify entities in text files.

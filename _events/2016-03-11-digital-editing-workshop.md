@@ -7,7 +7,7 @@ caption: ""
 categories: 
   - On Campus
 tags:
-  - Textual Analysis
+  - Text Analysis
   - Manuscripts
 spotlight: false 
 image_layout: landscape

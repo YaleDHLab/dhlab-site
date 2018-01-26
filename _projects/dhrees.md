@@ -24,7 +24,7 @@ team:
 
 categories:
   - Network Analysis
-  - Textual Analysis
+  - Text Analysis
 ---
 
 ### Overview

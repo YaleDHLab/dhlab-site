@@ -8,7 +8,7 @@ caption: ""
 categories: 
   - Workshops
 tags:
-  - Textual Analysis
+  - Text Analysis
   - Visualization
   - Python
   - Coding
