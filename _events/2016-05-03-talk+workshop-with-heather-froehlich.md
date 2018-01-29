@@ -4,7 +4,7 @@ date: May 3, 2016
 thumbnail: /assets/images/events/old-books.jpg
 caption: ""
 categories: 
-  - Talks
+  - Talk
 tags:
   - Text Analysis
 spotlight: false 

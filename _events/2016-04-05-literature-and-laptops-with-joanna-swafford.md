@@ -4,7 +4,7 @@ date: 2016-04-05
 thumbnail: /assets/images/events/sherlock.jpg
 caption: ""
 categories: 
-  - Talks
+  - Talk
 tags:
   - Text Analysis
 spotlight: false 

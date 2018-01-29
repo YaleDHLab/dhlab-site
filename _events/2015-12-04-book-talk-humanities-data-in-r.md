@@ -6,7 +6,7 @@ location: Sterling Memorial Library, 315
 thumbnail: /assets/images/events/humanities-in-r.jpg
 caption: Humanities Data in R
 categories: 
-  - Talks
+  - Talk
 tags:
   - R
 spotlight: false 

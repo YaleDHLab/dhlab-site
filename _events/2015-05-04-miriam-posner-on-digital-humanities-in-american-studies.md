@@ -5,7 +5,7 @@ location: Hall of Graduate Studies
 thumbnail: /assets/images/events/posner.jpg
 caption: Miriam Posner, Yale Digital Humanities Lab
 categories: 
-  - Talks
+  - Talk
 tags:
   - Pedagogy
 spotlight: false 
