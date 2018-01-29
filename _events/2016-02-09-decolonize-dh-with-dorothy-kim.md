@@ -5,7 +5,7 @@ time: 6:00 - 7:39 pm
 location: William L. Harkness Hall, 309
 thumbnail: /assets/images/events/neural-body.jpg
 categories: 
-  - Talks
+  - Talk
 spotlight: false 
 teaser: >
   "How to #DeColonize the Digital Humanities: or A Practical Guide to Making #DH Less White Tuesday, February 9 at 6:00-7:30pm William L. Harkness Hall (WLH), 309 Drawing from digital humanities (DH..."

@@ -5,7 +5,7 @@ time: 1:00 - 5:00 pm
 location: Bass Library L06
 thumbnail: /assets/images/events/networks2.jpg
 categories: 
-  - Talks
+  - Talk
 tags:
   - Network Analysis
 spotlight: false 

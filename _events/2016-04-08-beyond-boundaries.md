@@ -4,7 +4,7 @@ date: April 8, 2016
 thumbnail: /assets/images/events/beyond-boundaries-2017.jpg
 caption: ""
 categories: 
-  - Symposia
+  - Symposium
 spotlight: false 
 image_layout: landscape
 teaser: |

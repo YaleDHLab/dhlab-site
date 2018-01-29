@@ -5,7 +5,7 @@ location: Bass Library, L01
 thumbnail: /assets/images/events/igarashi.jpg
 caption: Yohei Igarashi, Digital Humanities Lab
 categories: 
-  - Talks
+  - Talk
 tags:
   - Statistics
   - Textual Analysis

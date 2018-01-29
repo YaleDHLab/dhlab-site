@@ -6,7 +6,7 @@ location: LC 319
 thumbnail: /assets/images/events/richard-so.jpg
 caption: Richard Jean So, Yale Digital Humanities Lab
 categories: 
-  - Talks
+  - Talk
 tags:
   - Statistics
   - Race Studies

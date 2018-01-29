@@ -1,16 +1,16 @@
 news_and_events:
   categories:
-    - Announcements
+    - Announcement
     - Courses
-    - Meetups
+    - Meetup
     - Off Campus
     - Office Hours
     - On Campus
     - Opportunities
     - Student Jobs
-    - Symposia
-    - Talks
-    - Workshops
+    - Symposium
+    - Talk
+    - Workshop
   tags:
     - Accessibility
     - Coding
