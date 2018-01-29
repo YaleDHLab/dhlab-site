@@ -11,9 +11,20 @@
     <div class='footer-column footer-bottom'>
       <div class='hours'>
         <div>
-          <b>TODAY'S HOURS</b>
+          <b>HOURS</b>
         </div>
-        <div class='color-text'>10 am&ndash;12 pm &amp; 1:30&ndash;4 pm</div>
+        <div class='color-text' id='displayHours'>
+          <script>
+              var day = Date().split(' ')[0];
+              var hours;
+              if (day === 'Sat' || day === 'Sun') {
+                  hours = 'Closed';
+                } else {
+                  hours = '10 am–12 pm & 1:30–4 pm';
+                }
+              document.getElementById('displayHours').innerHTML = hours;
+          </script>
+        </div>
       </div>
       <br/>
       <div>Sterling Memorial Library, Room 316</div>
