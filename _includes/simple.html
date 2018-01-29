@@ -16,7 +16,11 @@
     {% assign page_type = 'projects' %}
 {% endcase %}
 
-<div class='center-column {{ include.page.class }}'>
+{% if include.page_type == 'archive' %}
+  {% assign page_type = 'archive' %}
+{% endif %}
+
+<div class='center-column {{ include.page.class page_type }}'>
   <section>
     <div class='section-title hide-tablet'>{{ include.label }}</div>
     <hr class='no-margin-bottom hide-tablet'>
