@@ -7,7 +7,7 @@ categories:
   - Announcements
 tags:
   - Manuscripts
-  - Textual Analysis
+  - Text Analysis
   - XML
   - TEI
 spotlight: false 
