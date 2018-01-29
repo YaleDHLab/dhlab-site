@@ -1,7 +1,7 @@
 ---
 title: Text Analysis
 order: 0
-project_category: Textual Analysis
+project_category: Text Analysis
 image: '/assets/images/banners/text-mining.jpg'
 
 caption: >

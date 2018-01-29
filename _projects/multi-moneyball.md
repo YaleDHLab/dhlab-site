@@ -8,7 +8,7 @@ team:
     position: School of Public Health
 
 categories:
-  - Textual Analysis
+  - Text Analysis
 
 tags:
   - Political Science

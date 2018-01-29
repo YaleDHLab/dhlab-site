@@ -8,7 +8,7 @@ caption: ""
 categories: 
   - Talks
 tags:
-  - Textual Analysis
+  - Text Analysis
 spotlight: false 
 image_layout: simple
 teaser: |

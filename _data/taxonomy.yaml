@@ -30,7 +30,7 @@ news_and_events:
     - Statistics
     - Team Members
     - TEI
-    - Textual Analysis
+    - Text Analysis
     - Training
     - Visual Analysis
     - User Testing
@@ -43,7 +43,7 @@ projects:
     - Crowdsourced Data
     - Geospatial Analysis
     - Network Analysis
-    - Textual Analysis
+    - Text Analysis
     - Visual Analysis
     - 360 Environments
   tags:

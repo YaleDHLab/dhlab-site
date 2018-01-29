@@ -8,7 +8,7 @@ caption: Matthew Jockers, Digital Humanities Lab
 categories: 
   - Workshops
 tags:
-  - Textual Analysis
+  - Text Analysis
   - R
   - Coding
 teaser: >

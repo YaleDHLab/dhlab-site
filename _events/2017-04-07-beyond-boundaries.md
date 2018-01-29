@@ -10,7 +10,7 @@ categories:
 tags:
   - Network Analysis
   - Visual Analysis
-  - Textual Analysis
+  - Text Analysis
   - Geospatial Analysis
   - Pedagogy
 spotlight: false 
