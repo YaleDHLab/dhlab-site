@@ -6,7 +6,7 @@ location: Bass Library, L01
 thumbnail: /assets/images/events/jockers.jpg
 caption: Matthew Jockers, Digital Humanities Lab
 categories: 
-  - Workshops
+  - Workshop
 tags:
   - Text Analysis
   - R

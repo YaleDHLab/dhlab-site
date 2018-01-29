@@ -4,7 +4,7 @@ date: June 5, 2017
 thumbnail: /assets/images/news/grantees.jpg
 caption: ""
 categories: 
-  - Announcements
+  - Announcement
 spotlight: false 
 image_layout: simple
 teaser: |

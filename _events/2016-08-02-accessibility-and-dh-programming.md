@@ -5,7 +5,7 @@ time: 2:00 pm
 location: Yale Digital Humanities Lab
 thumbnail: /assets/images/events/accessibility.jpg
 categories: 
-  - Talks
+  - Talk
 tags:
   - Pedagogy
   - Accessibility

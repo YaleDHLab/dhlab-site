@@ -6,7 +6,7 @@ location: Bass Library, L06
 thumbnail: /assets/images/events/bookworm.jpg
 caption: ""
 categories: 
-  - Workshops
+  - Workshop
 tags:
   - Text Analysis
   - Visualization

@@ -6,7 +6,7 @@ location: Bass Library, L06
 thumbnail: /assets/images/events/GIS-globe.jpg
 caption: ""
 categories: 
-  - Meetups
+  - Meetup
 tags:
   - Geospatial Analysis
 spotlight: false 

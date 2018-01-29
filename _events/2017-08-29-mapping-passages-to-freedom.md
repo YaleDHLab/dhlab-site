@@ -6,7 +6,7 @@ location: Digital Humanities Lab, SML 316
 thumbnail: /assets/images/events/passages.jpg
 caption: ""
 categories: 
-  - Talks
+  - Talk
 tags:
   - Geospatial Analysis
 spotlight: false 

@@ -4,7 +4,7 @@ date: May 27, 2016
 thumbnail: /assets/images/news/grant.jpg
 caption: ""
 categories: 
-  - Announcements
+  - Announcement
   - Opportunities
 spotlight: false 
 image_layout: simple

@@ -4,7 +4,7 @@ date: May 25, 2016
 thumbnail: /assets/images/events/students.jpg
 caption: ""
 categories: 
-  - Workshops
+  - Workshop
 tags:
   - Pedagogy
 spotlight: false 

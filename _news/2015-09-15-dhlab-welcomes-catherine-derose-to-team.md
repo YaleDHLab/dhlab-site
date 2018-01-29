@@ -4,7 +4,7 @@ date: September 15, 2015
 thumbnail: /assets/images/about/team/CD-sq.jpg
 caption: "Cathy DeRose, Yale University "
 categories: 
-  - Announcements
+  - Announcement
 tags: 
   - Team Members
 spotlight: false 

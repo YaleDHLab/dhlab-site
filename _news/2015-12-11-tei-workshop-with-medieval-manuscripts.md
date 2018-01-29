@@ -4,7 +4,7 @@ date: December 11, 2015
 thumbnail: /assets/images/events/medieval-manuscripts.jpg
 caption: "Medieval Manuscript Roll, Beinecke and DHLab"
 categories: 
-  - Announcements
+  - Workshop
 tags:
   - TEI
 spotlight: false 

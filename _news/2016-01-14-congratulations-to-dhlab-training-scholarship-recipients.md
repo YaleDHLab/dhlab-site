@@ -4,7 +4,7 @@ date: January 14, 2016
 thumbnail: /assets/images/news/dh-lab.jpg
 caption: "Yale Digital Humanities Lab"
 categories: 
-  - Announcements
+  - Announcement
 spotlight: false 
 image_layout: simple
 teaser: |

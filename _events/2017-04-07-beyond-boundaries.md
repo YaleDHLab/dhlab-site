@@ -6,7 +6,7 @@ location: Sterling Memorial Library, Lecture Hall and Exhibition Room
 thumbnail: /assets/images/events/beyond-boundaries-2017.jpg
 caption: ""
 categories: 
-  - Symposia
+  - Symposium
 tags:
   - Network Analysis
   - Visual Analysis

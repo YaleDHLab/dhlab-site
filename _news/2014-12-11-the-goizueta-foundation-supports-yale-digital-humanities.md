@@ -4,7 +4,7 @@ date: December 11, 2014
 thumbnail: /assets/images/events/dhlab.jpg
 caption: "Yale Digital Humanities Lab"
 categories:
-  - Announcements
+  - Announcement
 tags:
   - Funding
 spotlight: false 

@@ -6,7 +6,7 @@ location: Hall of Graduate Studies, Rm 221
 thumbnail: /assets/images/events/sterling-student.jpg
 caption: ""
 categories: 
-  - Talks
+  - Talk
 spotlight: false 
 image_layout: landscape
 teaser: |

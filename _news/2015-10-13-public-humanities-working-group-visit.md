@@ -4,7 +4,7 @@ date: October 13, 2015
 thumbnail: /assets/images/events/sterling-library.jpg
 caption: "Yale Digital Humanities Lab, Public Humanities, Ensemble project"
 categories: 
-  - Announcements
+  - Announcement
 spotlight: false 
 image_layout: simple
 teaser: |

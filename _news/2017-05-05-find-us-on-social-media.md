@@ -4,7 +4,7 @@ date: May 5, 2017
 thumbnail: /assets/images/news/dh-lab.jpg
 caption: ""
 categories: 
-  - Announcements
+  - Announcement
 spotlight: false 
 image_layout: simple
 teaser: |

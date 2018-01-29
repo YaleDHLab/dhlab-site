@@ -7,7 +7,7 @@ thumbnail: /assets/images/news/dh-fellows.jpg
 caption: ""
 categories: 
   - Office Hours
-  - Talks
+  - Talk
 tags:
   - Pedagogy
 spotlight: false 

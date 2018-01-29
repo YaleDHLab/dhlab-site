@@ -6,7 +6,7 @@ location: Sterling Memorial Library, 218
 thumbnail: /assets/images/events/radical-media.jpg
 caption: ""
 categories: 
-  - Workshops
+  - Workshop
 spotlight: false 
 image_layout: landscape
 teaser: |
