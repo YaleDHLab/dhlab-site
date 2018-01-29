@@ -60,21 +60,21 @@ title: Welcome
       </a>
       <div class='large-card-text'>
         <div class='button-prompt'>
-          <b>Subscribe to our e-newsletter</b> to stay posted on the latest digital humanities news, events, and opportunities.
+          <b>Come to DHLab Office Hours</b> for space, community, and resources that support faculty and students exploring ditial methods to pursue humanistic inquiries.
         </div>
-        <a href='{{ site.newsletter }}' class='color-button'>
-          <b>Sign up for E-News</b>
+        <a href='{{ site.baseurl }}/resources/office-hours.html' class='color-button'>
+          <b>Plan Your Visit</b>
         </a>
       </div>
     </div>
   </section>
 
-  <!-- MOBILE NEWSLETTER -->
+  <!-- MOBILE OFFICE HOURS -->
   <div class='mobile newsletter background-image'>
-    <div class='small-uppercase center-text'>NEWSLETTER</div>
+    <div class='small-uppercase center-text'>OOFICE HOURS</div>
     <div class='newsletter-text'>
-      <div><b>Subscribe to our e-newsletter</b>to stay posted on the latest digital humanities news, events, and opportunities.</div>
-      <a href='{{ site.newsletter }}' target='_blank' class='color-button'><b>Sign up for E-News</b></a>
+      <div><p><b>Come to DHLab Office Hours</b> for space, community, and resources that support faculty and students exploring ditial methods to pursue humanistic inquiries.</p></div>
+      <a href='{{ site.baseurl }}/resources/office-hours.html' target='_blank' class='color-button'><b>Plan Your Visit</b></a>
     </div>
   </div>
 
@@ -85,11 +85,11 @@ title: Welcome
 
     {% capture square_html %}
     <div class='news-card-square color-background'>
-      <div><h2 aria-labelledby='Office Hours'>Office Hours</h2></div>
-      <div class='white-text'><b>Tue &amp; Wed. 2-4 pm</b></div>
-      <p>Offering space, community, and resources, the DHLab supports Yale faculty and students who are working with digital methods to pursue humanistic inquiries</p>
+      <div><h2 aria-labelledby='Newsletter Signup'>Sign up for the <br/>DHLab e-newsletter!</h2></div>
+      <p>Join our mailing list to stay posted on the latest news, events, and opportunities at the Yale Digital Humanities Lab.</p>
+
       <p>We support projects in all stages of development&mdash;from conceptualization through implementation.</p>
-      <a href='mailto:{{ site.email }}' class='white-text'><b>Plan your visit &raquo;</b></a>
+      <a href='{{ site.newsletter }}'><b><span class='white-text'>Subscribe &raquo;</span></b></a>
     </div>
     {% endcapture %}
     {% capture button_prompt %}
