@@ -6,7 +6,7 @@ caption: ""
 categories: 
   - Opportunities
 tags:
-  - Textual Analysis
+  - Text Analysis
   - Visual Analysis
 spotlight: false 
 image_layout: simple

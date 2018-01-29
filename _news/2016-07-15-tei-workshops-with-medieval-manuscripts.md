@@ -6,7 +6,7 @@ caption: ""
 categories: 
   - Workshops
 tags:
-  - Textual Analysis
+  - Text Analysis
   - Manuscripts
   - TEI
   - XML
