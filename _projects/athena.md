@@ -2,7 +2,7 @@
 title: ATHENA
 thumbnail: /assets/images/projects/archive-thumbs/athena-thumb.jpg
 layout: archive
-project_url: http://ccp.yale.edu/
+project_url: http://ydc2.yale.edu/athena-automatic-text-height-extraction-analysis-old-handwritten-manuscripts
 
 team:
   - name: Ruggero Pintus

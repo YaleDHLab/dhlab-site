@@ -11,12 +11,15 @@ header_color: gray
   {% endif %}
 {% endfor %}
 
+{% include tags.html page=page query_route='projects' %}
+
 {% assign bottom_items = items | limit: 3 %}
 
 {% include simple.html 
   page=page 
   content=content
   label='DIGITAL SCHOLARSHIP @ YALE'
+  page_type='archive'
   bottom_label='FROM THE ARCHIVE' 
   bottom_items=bottom_items
 %}
