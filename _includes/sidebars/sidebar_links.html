@@ -1,5 +1,10 @@
 <div class='sidebar-links'>
-  {% assign items = include.items | sort: 'order' %}
+  {% if include.sort == 'none' %}
+    {% assign items = include.items %}
+  {% else %}
+    {% assign items = include.items | sort: 'order' %}
+  {% endif %}
+
   {% for item in items %}
     {% if item.url == include.page.url %}
       {% assign class = 'active' %}

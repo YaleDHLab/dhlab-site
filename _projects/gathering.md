@@ -13,6 +13,8 @@ team:
 
 categories:
   - Geospatial Analysis
+
+dhlab_project: true
 ---
 
 ### Overview

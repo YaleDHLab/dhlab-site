@@ -16,6 +16,8 @@ team:
 
 categories:
   - Crowdsourced Data
+
+dhlab_project: true
 ---
 
 ### Overview

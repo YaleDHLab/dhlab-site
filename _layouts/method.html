@@ -5,10 +5,10 @@ class: method-detail-page
 
 {% assign image_url = page.image | prepend: site.baseurl %}
 {% include heroes/captioned_hero.html
-  label='WHAT IS DIGITAL HUMANITIES?'
-  title=page.title
-  image=image_url
-  caption=page.caption
+  label = 'WHAT IS DIGITAL HUMANITIES?'
+  title = page.title
+  image = image_url
+  caption = page.caption
 %}
 
 <div class='center-column'>
@@ -19,15 +19,20 @@ class: method-detail-page
     {% for project in site.projects %}
       {% for category in project.categories %}
         {% if category == page.project_category %}
-          {% assign projects = projects | push: project %}
+          {% if project.dhlab_project %}
+            {% assign projects = projects | unshift: project %}
+          {% else %}
+            {% assign projects = projects | push: project %}
+          {% endif %}
         {% endif %}
       {% endfor %}
     {% endfor %}
 
     {% include sidebars/standalone_link_list.html
-      items=projects
-      page=page
-      label='Selected Projects'
+      items = projects
+      page = page
+      label = 'Selected Projects'
+      sort = 'none'
     %}
     
     </div>

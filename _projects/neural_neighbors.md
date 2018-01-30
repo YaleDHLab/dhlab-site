@@ -16,6 +16,8 @@ team:
 
 categories:
   - Visual Analysis
+
+dhlab_project: true
 ---
 
 ### Overview

@@ -17,6 +17,8 @@ team:
 categories:
   - Text Analysis
   - Visual Analysis
+
+dhlab_project: true
 ---
 
 ### Overview
