@@ -7,12 +7,12 @@
   {% include heroes/mobile_hero.html image=include.page.thumbnail %}
 {% endif %}
 
-{% case include.page_type %}
-  {% when 'NEWS' %}
+{% case include.page.layout %}
+  {% when 'news' %}
     {% assign page_type = 'news' %}
-  {% when 'EVENTS' %}
+  {% when 'event' %}
     {% assign page_type = 'events' %}
-  {% when 'ARCHIVE' %}
+  {% when 'archive' %}
     {% assign page_type = 'projects' %}
 {% endcase %}
 
@@ -40,12 +40,13 @@
         {% assign image_url = include.page.thumbnail | prepend: site.baseurl %}
 
         <div class='square-image background-image event-date-container'
-          style='background-image:url({{ image_url }})'>
+            style='background-image: url({{ image_url }})'>
           {% if page_type == 'events' %}
             {% include events/event_date.html event=include.page %}
           {% endif %}
         </div>
         <br/>
+
         {% if page_type == 'events' %}
           {% include events/event_timestamp.html event=include.page %}
           {% include social_media/share_and_directions.html page=include.page %}
@@ -56,12 +57,15 @@
           {% include social_media/social_media_icons.html page=include.page %}
         {% endif %}
 
-        {% if page_type == 'archive' %}
+        {% if page_type == 'projects' %}
           {% include projects/team_members.html page=include.page %}
           <br/>
-          <a href='{{ include.page.project_url }}' target='_blank' class='color-button'>View Project</a>
+          <a href='{{ include.page.project_url }}' target='_blank'
+              class='color-button'>View Project</a>
         {% endif %}
+
         {% include tags.html page=include.page query_route=page_type %}
+
       </div>
       <div class='right-column'>
         {{ include.content }}
@@ -74,7 +78,8 @@
         {%- capture now %}{{ 'now' | date: '%s' | minus: 0 }}{% endcapture -%}
         {%- capture date %}{{ include.page.date | date: '%s' | minus: 0 }}{% endcapture -%}
         {% if include.page.registerurl and page_type == 'events' and date >= now %}
-          <a href='{{ include.page.registerurl }}' target='_blank' class='color-button'>Register</a>
+          <a href='{{ include.page.registerurl }}' target='_blank'
+              class='color-button'>Register</a>
         {% endif %}
       </div>
     </div>
