@@ -4,7 +4,7 @@ date: June 6, 2017
 thumbnail: /assets/images/news/code-coffee.jpg
 caption: ""
 categories: 
-  - Announcements
+  - Meetup
 spotlight: false 
 image_layout: simple
 teaser: |

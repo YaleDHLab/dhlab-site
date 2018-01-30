@@ -6,7 +6,7 @@ location: Bass Library, L06
 thumbnail: /assets/images/events/code.jpg
 registerurl: http://schedule.yale.edu/event/3606999
 categories:
-  - Workshops
+  - Workshop
 tags:
   - JavaScript
 teaser: >

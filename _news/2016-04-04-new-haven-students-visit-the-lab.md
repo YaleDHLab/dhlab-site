@@ -4,7 +4,7 @@ date: April 4, 2016
 thumbnail: /assets/images/news/workshop-code.jpg
 caption: "New Haven students interact with Photogrammar "
 categories: 
-  - Announcements
+  - Announcement
   - On Campus
 tags:
   - Pedagogy

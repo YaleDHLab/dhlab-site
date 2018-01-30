@@ -6,7 +6,7 @@ location: Bass Library, L06
 thumbnail: /assets/images/events/git.jpg
 caption: ""
 categories: 
-  - Workshops
+  - Workshop
 tags:
   - Git
 spotlight: false 

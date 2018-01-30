@@ -6,7 +6,7 @@ location: 17 Hillhouse Ave, Room 101
 thumbnail: /assets/images/events/map-nyc.jpg
 caption: ""
 categories: 
-  - Symposia
+  - Symposium
 tags:
   - Pedagogy
   - Geospatial Analysis

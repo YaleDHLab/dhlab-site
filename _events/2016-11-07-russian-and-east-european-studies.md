@@ -6,7 +6,7 @@ location: 451 College Street
 thumbnail: /assets/images/events/dh-rees.jpg
 caption: ""
 categories: 
-  - Symposia
+  - Symposium
 spotlight: false 
 teaser: |
   "Digital Humanities & Russian and East European Studies Saturday, November 12, 10:00am-8:00pm at 451 College Street Our workshop explores the intersection of Digital Humanities and Russian and..."

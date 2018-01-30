@@ -4,7 +4,7 @@ date: October 29, 2015
 thumbnail: /assets/images/news/chiodo2.jpg
 caption: "Yale Digital Humanities Lab, Carol Chiodo "
 categories: 
-  - Announcements
+  - Announcement
 tags: 
   - Team Members
 spotlight: false 

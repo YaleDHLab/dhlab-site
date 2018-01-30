@@ -6,7 +6,7 @@ location: Linsly-Chittenden Hall, Rm 209
 thumbnail: /assets/images/events/tenen.jpg
 caption: ""
 categories: 
-  - Talks
+  - Talk
 tags:
   - Text Analysis
 spotlight: false 

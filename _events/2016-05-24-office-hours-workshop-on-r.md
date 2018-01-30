@@ -5,7 +5,7 @@ thumbnail: /assets/images/events/office-hours.jpg
 caption: ""
 categories: 
   - Office Hours
-  - Workshops
+  - Workshop
 tags:
   - R
 spotlight: false 

@@ -3,7 +3,7 @@ title: Intro to XML and XPath
 date: September 23, 2016
 thumbnail: /assets/images/events/coding.jpg
 categories: 
-  - Workshops
+  - Workshop
 tags:
   - Text Analysis
   - XML

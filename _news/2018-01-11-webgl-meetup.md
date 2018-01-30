@@ -5,7 +5,7 @@ thumbnail: /assets/images/events/web-gl.jpg
 image: /assets/images/banners/meetup.jpg
 alt: laptop on desk with WebGL logo screen
 categories:
-  - Workshops
+  - Meetup
 tags:
   - WebGL
   - Coding

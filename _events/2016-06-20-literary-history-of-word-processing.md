@@ -6,7 +6,7 @@ location: Yale Center for British Art, Lecture Hall
 thumbnail: /assets/images/events/vintage-computer.jpg
 caption: ""
 categories: 
-  - Talks
+  - Talk
 spotlight: false 
 image_layout: landscape
 teaser: |

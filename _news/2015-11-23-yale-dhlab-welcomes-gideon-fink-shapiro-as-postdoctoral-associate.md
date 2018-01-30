@@ -4,7 +4,7 @@ date: November 23, 2015
 thumbnail: /assets/images/news/shapiro.jpg
 caption: "Gideon Fink Shapiro, Yale Digital Humanities Lab"
 categories: 
-  - Announcements
+  - Announcement
 tags: 
   - Team Members
 spotlight: false 

@@ -5,7 +5,7 @@ time: 2:00 pm
 location: Digital Humanities Lab, SML 316
 thumbnail: /assets/images/events/data-circle.jpg
 categories:
-  - Talks
+  - Talk
 tags:
   - Visualization
 teaser: >

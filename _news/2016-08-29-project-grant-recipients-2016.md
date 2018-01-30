@@ -4,7 +4,7 @@ date: August 29, 2016
 thumbnail: /assets/images/news/highlights.jpg
 caption: ""
 categories: 
-  - Announcements
+  - Announcement
 spotlight: false 
 image_layout: simple
 teaser: |
