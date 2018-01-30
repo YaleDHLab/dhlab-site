@@ -6,7 +6,7 @@ location: Evans Hall
 thumbnail: /assets/images/events/tech-summit-2015.jpg
 caption: 2015 Yale Technology Summit, Digital Humanities Lab
 categories: 
-  - Meetups
+  - Symposium
 spotlight: false 
 image_layout: landscape
 teaser: |

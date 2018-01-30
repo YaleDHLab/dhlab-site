@@ -4,7 +4,7 @@ date: July 15, 2016
 thumbnail: /assets/images/events/medieval-manuscripts.jpg
 caption: ""
 categories: 
-  - Workshops
+  - Workshop
 tags:
   - Text Analysis
   - Manuscripts

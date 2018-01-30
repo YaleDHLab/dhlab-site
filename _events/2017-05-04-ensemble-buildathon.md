@@ -5,7 +5,7 @@ time: 2:00 pm
 location: Digital Humanities Lab, SML 316
 thumbnail: /assets/images/events/ensemble.jpg
 categories:
-  - Talks
+  - Talk
 tags:
   - Data Collection
 teaser: >

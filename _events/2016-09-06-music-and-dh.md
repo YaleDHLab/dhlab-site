@@ -6,7 +6,7 @@ location: Digital Humanities Lab, SML 316
 thumbnail: /assets/images/events/music.jpg
 caption: ""
 categories: 
-  - Talks
+  - Talk
   - Office Hours
 tags:
   - Sound Analysis

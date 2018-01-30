@@ -5,7 +5,7 @@ thumbnail: /assets/images/news/ensemble.jpg
 image: /assets/images/banners/ensemble.jpg
 caption: ""
 categories: 
-  - Announcements
+  - Announcement
 spotlight: false 
 image_layout: simple
 teaser: |

@@ -6,7 +6,7 @@ location: Center for Collaborative Arts and Media, 149 York St
 thumbnail: /assets/images/events/omipod.jpg
 caption: ""
 categories: 
-  - Workshops
+  - Workshop
 tags:
   - Sound Analysis
 spotlight: false 

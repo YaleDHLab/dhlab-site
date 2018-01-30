@@ -6,7 +6,7 @@ location: Bass Library, L01
 thumbnail: /assets/images/news/audio-waves.jpg
 caption: ""
 categories: 
-  - Talks
+  - Talk
 spotlight: false 
 teaser: |
   "Beyond the 'Juicy Quotes Syndrome': Digital Oral History and the Politics of Secondary Analysis April 28 at 12:00pm in Bass Library, L01 This presentation responds directly to the policy and cultural..."

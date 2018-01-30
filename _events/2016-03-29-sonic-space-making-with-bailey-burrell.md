@@ -6,7 +6,7 @@ location: 203 Luce Hall, 34 Hillhouse Ave
 thumbnail: /assets/images/events/audio-waves.jpg
 caption: ""
 categories: 
-  - Workshops
+  - Workshop
 tags:
   - Sound Analysis
 spotlight: false 

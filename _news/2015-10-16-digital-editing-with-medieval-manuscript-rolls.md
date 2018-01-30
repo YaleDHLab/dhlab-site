@@ -4,7 +4,7 @@ date: October 16, 2015
 thumbnail: /assets/images/events/beinecke.jpg
 caption: "Manuscript "
 categories: 
-  - Announcements
+  - Announcement
 tags:
   - Manuscripts
   - Text Analysis

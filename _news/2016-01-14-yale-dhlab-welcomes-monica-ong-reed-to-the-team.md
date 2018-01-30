@@ -4,7 +4,7 @@ date: January 14, 2016
 thumbnail: /assets/images/about/team/MO-sq.jpg
 caption: "Monica Ong Reed, Yale Digital Humanities Lab "
 categories: 
-  - Announcements
+  - Announcement
 tags: 
   - Team Members
 spotlight: false 

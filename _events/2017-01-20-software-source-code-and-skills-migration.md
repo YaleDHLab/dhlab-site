@@ -6,7 +6,7 @@ location: Bass Library, L01
 thumbnail: /assets/images/events/coffee_code.jpg
 caption: ""
 categories: 
-  - Talks
+  - Talk
 spotlight: false 
 image_layout: landscape
 teaser: |

@@ -4,7 +4,7 @@ date: 2016-09-15
 thumbnail: /assets/images/events/day-of-data.jpg
 caption: ""
 categories: 
-  - Symposia
+  - Symposium
 spotlight: false 
 teaser: |
   "Yale Day of Data 2016 December 1 and 2 The Center for Science and Social Science Information, the Yale Center for Research Computing, and the Yale Digital Humanities Lab are excited to announce the..."

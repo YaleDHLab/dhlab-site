@@ -5,7 +5,7 @@ thumbnail: /assets/images/news/workshop.jpg
 image: /assets/images/banners/workshop.jpg
 caption: ""
 categories: 
-  - Workshops
+  - Workshop
 tags:
   - Pedagogy
 spotlight: false

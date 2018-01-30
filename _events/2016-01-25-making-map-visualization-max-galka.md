@@ -6,7 +6,7 @@ location: Bass Library, L70
 thumbnail: /assets/images/events/GIS-globe.jpg
 caption: "Every hurricane of the past 150 years: Metrocosm"
 categories: 
-  - Workshops
+  - Workshop
 tags:
   - Geospatial Analysis
   - Visualization

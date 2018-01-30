@@ -6,7 +6,7 @@ location: Digital Humanities Lab, SML 316
 thumbnail: /assets/images/events/photogrammar.jpg
 caption: ""
 categories: 
-  - Talks
+  - Talk
 tags:
   - Pedagogy
 spotlight: false 

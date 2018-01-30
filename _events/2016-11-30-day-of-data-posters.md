@@ -6,7 +6,7 @@ location: Center for Science and Social Science Information
 thumbnail: /assets/images/events/day-of-data.jpg
 caption: ""
 categories: 
-  - Symposia
+  - Symposium
 spotlight: false 
 image_layout: landscape
 teaser: |

@@ -5,7 +5,7 @@ time: 3:00 pm
 location: Digital Humanities Lab, SML 316
 thumbnail: /assets/images/events/photo-data.jpg
 categories:
-  - Talks
+  - Talk
 tags:
   - Visual Analysis
 teaser: >

@@ -6,7 +6,7 @@ location: Bass Library, L01
 thumbnail: /assets/images/events/code.jpg
 caption: ""
 categories: 
-  - Workshops
+  - Workshop
 tags:
   - Text Analysis
   - XML

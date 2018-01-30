@@ -5,7 +5,7 @@ location: Linsly-Chittenden Hall, Rm 317 and 319
 thumbnail: /assets/images/events/black-press.jpg
 caption: ""
 categories: 
-  - Symposia
+  - Symposium
 tags:
   - Race Studies
 spotlight: false 

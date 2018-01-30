@@ -4,7 +4,7 @@ date: May 6, 2016
 thumbnail: /assets/images/projects/originals/photogrammar.jpg
 caption: ""
 categories: 
-  - Announcements
+  - Announcement
 tags:
   - Visual Analysis
 spotlight: false 

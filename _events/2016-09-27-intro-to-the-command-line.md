@@ -6,7 +6,7 @@ location: Bass Library, L06
 thumbnail: /assets/images/events/code.jpg
 caption: ""
 categories: 
-  - Workshops
+  - Workshop
 spotlight: false 
 image_layout: landscape
 teaser: |

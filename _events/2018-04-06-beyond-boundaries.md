@@ -5,7 +5,7 @@ time: 9:30 - 1:00 pm
 location: Sterling Memorial Library, Lecture Hall
 thumbnail: /assets/images/events/2018-04-08-BB-sq.jpg
 categories:
-  - Symposia
+  - Symposium
 tags:
   - JavaScript
   - Visualization

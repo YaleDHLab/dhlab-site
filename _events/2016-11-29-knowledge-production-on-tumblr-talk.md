@@ -6,7 +6,7 @@ location: WLH 309
 thumbnail: /assets/images/events/networks.jpg
 caption: ""
 categories: 
-  - Talks
+  - Talk
 spotlight: false 
 image_layout: landscape
 teaser: |

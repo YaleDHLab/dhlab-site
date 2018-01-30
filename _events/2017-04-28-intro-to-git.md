@@ -6,7 +6,7 @@ location: Bass Library, L06
 thumbnail: /assets/images/events/git.jpg
 registerurl: http://schedule.yale.edu/event/3217695
 categories:
-  - Workshops
+  - Workshop
 tags:
   - Git
 teaser: >

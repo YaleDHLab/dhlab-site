@@ -6,7 +6,7 @@ location: Digital Humanities Lab, SML 316
 thumbnail: /assets/images/events/coffee_code.jpg
 caption: ""
 categories: 
-  - Workshops
+  - Workshop
 tags:
   - Data Collection
 teaser: |

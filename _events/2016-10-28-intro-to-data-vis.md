@@ -6,7 +6,7 @@ location: Kline Biology Tower, C27 (CSSSI)
 thumbnail: /assets/images/events/dataviz.jpg
 caption: ""
 categories: 
-  - Workshops
+  - Workshop
 tags:
   - Visualization
 spotlight: false 
