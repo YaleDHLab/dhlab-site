@@ -7,7 +7,7 @@
   {% include heroes/mobile_hero.html image=include.page.thumbnail %}
 {% endif %}
 
-{% case include.label %}
+{% case include.page_type %}
   {% when 'NEWS' %}
     {% assign page_type = 'news' %}
   {% when 'EVENTS' %}
