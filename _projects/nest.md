@@ -33,6 +33,8 @@ categories:
 tags:
   - Virtual Reality
   - Archives
+
+dhlab_project: true
 ---
 
 ### Overview
