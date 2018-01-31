@@ -15,8 +15,10 @@ team:
     position: Digital Humanities Lab
 
 categories:
-  - Textual Analysis
+  - Text Analysis
   - Visual Analysis
+
+dhlab_project: true
 ---
 
 ### Overview

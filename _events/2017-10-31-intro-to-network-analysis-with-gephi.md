@@ -4,9 +4,10 @@ date: 2017-10-31
 time: 2:00 - 3:30 pm
 location: Bass Library, L06
 thumbnail: /assets/images/events/networks3.jpg
+alt: Two-dimensional image showing a globe-like object surrounded by various connected lines that form triangles. Some of the triangles are colored in, others are blank. A logo-like V sits atop the whole object.
 registerurl: http://schedule.yale.edu/event/3629405
 categories:
-  - Workshops
+  - Workshop
 tags:
   - Network Analysis
   - Visualization

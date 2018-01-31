@@ -2,6 +2,7 @@
 title: Call for Users to Test Virtual Tour
 date: 2017-06-15 
 thumbnail: /assets/images/news/nest.jpg
+alt: Image of luxurious Victorian room with various objects marked with digital indicators to show points of interest, such as a rug, a chair, a lamp, and a painting.
 caption: ""
 categories: 
   - On Campus

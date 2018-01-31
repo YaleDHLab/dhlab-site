@@ -4,9 +4,10 @@ date: 2016-11-07
 time: 10:00 am - 8:00 pm
 location: 451 College Street
 thumbnail: /assets/images/events/dh-rees.jpg
+alt: Stylized image in white and red shows several line-drawn objects that resemble government street signs. Below that is a black-and-white photograph of a man dressed in a white turtleneck staring directly past the photographer.
 caption: ""
 categories: 
-  - Symposia
+  - Symposium
 spotlight: false 
 teaser: |
   "Digital Humanities & Russian and East European Studies Saturday, November 12, 10:00am-8:00pm at 451 College Street Our workshop explores the intersection of Digital Humanities and Russian and..."

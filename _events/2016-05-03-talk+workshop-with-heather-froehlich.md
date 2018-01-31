@@ -2,11 +2,12 @@
 title: Talk+Workshop with Heather Froehlich
 date: May 3, 2016
 thumbnail: /assets/images/events/old-books.jpg
+alt: Several leatherbound books sit on a shelf. One of them has Old English text written along the spine.
 caption: ""
 categories: 
-  - Talks
+  - Talk
 tags:
-  - Textual Analysis
+  - Text Analysis
 spotlight: false 
 image_layout: landscape
 teaser: |

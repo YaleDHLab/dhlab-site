@@ -4,11 +4,12 @@ date: 2017-04-12
 time: 3:00 - 5:00 pm
 location: Bass Library, L01
 thumbnail: /assets/images/events/code.jpg
+alt: Blue vector image displays code floating through space with flickering edges.
 caption: ""
 categories: 
-  - Workshops
+  - Workshop
 tags:
-  - Textual Analysis
+  - Text Analysis
   - XML
   - TEI
 spotlight: false 

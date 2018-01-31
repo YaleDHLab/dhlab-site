@@ -5,7 +5,6 @@ project_category: Geospatial Analysis
 image: '/assets/images/banners/globe.jpg'
 
 caption: >
-  Geospatial analysis consists of studying patterns in the distributions of entities in space. Read more about geographic analysis methods and resources below.
 
 teaser: >
   Geospatial analysis consists of studying patterns in the distributions of entities in space. Click to read more about geographic analysis methods.
@@ -13,14 +12,19 @@ teaser: >
 
 ### Overview
 
-Geospatial analysis can be used for a variety of projects, from mapping hundreds of thousands of photographs to the routes that characters take in a collection of novels. For some projects, you may want to compare how a place has changed over time. To do that, you could take several maps and overlay them on top of one another through a process call georectification. For other projects, you might be placing points on a map and altering the size or color of the points to show a pattern.  
+Geospatial analysis and spatial humanities more generally can take many shapes, from mapping the routes that characters take in a collection of novels to using 360 photography to create virtual reconstructions of historic places. For some projects, you may want to compare how a place has changed over time. To do that, you could take several maps and overlay them on top of one another through a process call georectification. For other projects, you might be placing points on a map and altering the size or color of the points to reveal a pattern in your dataset.
 
-### Tools
+### Methods & Tools
 
-There are numerous tools you could turn to for a geospatial project. Popular options for which we often offer workshops on campus include: [ArcGIS](https://www.arcgis.com/home/index.html), [Carto](https://carto.com/), and [Leaflet](http://leafletjs.com/). To present texts, visuals, and videos alongside maps, try [Story Maps](https://storymaps.arcgis.com/en/) (one product in the ArcGIS line).
+There are numerous tools you could turn to for a geospatial project. Popular options for mapping data include: <a href='https://www.arcgis.com/home/index.html' target='_blank'>ArcGIS</a>, <a href='https://carto.com/' target='_blank'>Carto</a>, and with a litte programming required, <a href='http://leafletjs.com/' target='_blank'>Leaflet</a>. To present texts, visuals, videos, and audio alongside maps, try <a href='https://storymaps.arcgis.com/en/' target='_blank'>Story Maps</a>.
 
-For ArcGIS, Yale has an enterprise account that provides affiliates with access to content created by others at the university, as well as free training videos. For more information on how to sign in with your NetID so that you can access these benefits, visit the recommended reading below by GIS Librarian, Miriam Olivares.
+For augmented reality (AR), you could try <a href='https://www.aurasma.com/' target='_blank'>Aurasma</a> or, with a steeper learning curve, <a href='https://unity3d.com/' target='_blank'>Unity</a>. 
+
+### Datasets
+<a href='http://lincolnmullen.com/projects/spatial-workshop/resources.html' target='_blank'>Lincoln Mullen's list of datasets for spatial humanities</a>
 
 ### Recommended Readings
 
-["Geographic Information Systems at Yale: Getting Started with GIS"](https://guides.library.yale.edu/GIS) by Miriam Olivares
+<a href='https://guides.library.yale.edu/GIS' target='_blank'>"Geographic Information Systems at Yale: Getting Started with GIS"</a> by Miriam Olivares outlines support on campus for mapping projects
+
+<a href='https://programminghistorian.org/lessons/intro-to-augmented-reality-with-unity' target='_blank'>"Introduction to Mobile Augmented Reality Development in Unity"</a> by Jacob W. Greene provides an overview of AR methods as well as a tutorial

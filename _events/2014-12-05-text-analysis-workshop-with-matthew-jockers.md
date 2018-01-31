@@ -4,11 +4,12 @@ date: 2014-12-05
 time: 3:30 - 6:30 pm
 location: Bass Library, L01
 thumbnail: /assets/images/events/jockers.jpg
+alt: Man holds the book The Bestseller Code in hallway lit with red light.
 caption: Matthew Jockers, Digital Humanities Lab
 categories: 
-  - Workshops
+  - Workshop
 tags:
-  - Textual Analysis
+  - Text Analysis
   - R
   - Coding
 teaser: >

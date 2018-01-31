@@ -4,8 +4,9 @@ date: 2016-08-02
 time: 2:00 pm
 location: Yale Digital Humanities Lab
 thumbnail: /assets/images/events/accessibility.jpg
+alt: A user manipulates a brail keyboard to operate a laptop computer.
 categories: 
-  - Talks
+  - Talk
 tags:
   - Pedagogy
   - Accessibility

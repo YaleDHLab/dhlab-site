@@ -24,7 +24,9 @@ team:
 
 categories:
   - Network Analysis
-  - Textual Analysis
+  - Text Analysis
+
+dhlab_project: true
 ---
 
 ### Overview

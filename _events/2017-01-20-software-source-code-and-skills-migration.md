@@ -4,9 +4,10 @@ date: 2017-01-20
 time: 2:00 pm
 location: Bass Library, L01
 thumbnail: /assets/images/events/coffee_code.jpg
+alt: Image of laptop computer with multi-colored code displayed.
 caption: ""
 categories: 
-  - Talks
+  - Talk
 spotlight: false 
 image_layout: landscape
 teaser: |

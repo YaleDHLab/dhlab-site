@@ -2,6 +2,7 @@
 title: "Beinecke Fellowship"
 date: June 30, 2017
 thumbnail: /assets/images/news/beinecke2.jpg
+alt: Beinecke stacks in transparent enclosures with rare books on display.
 caption: ""
 categories: 
   - Student Jobs

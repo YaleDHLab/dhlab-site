@@ -3,8 +3,9 @@ title: "Yale DHLab Welcomes Gideon Fink Shapiro as Postdoctoral Associate"
 date: November 23, 2015
 thumbnail: /assets/images/news/shapiro.jpg
 caption: "Gideon Fink Shapiro, Yale Digital Humanities Lab"
+alt: DHLab postdoctoral associate in Beinecke plaza.
 categories: 
-  - Announcements
+  - Announcement
 tags: 
   - Team Members
 spotlight: false 

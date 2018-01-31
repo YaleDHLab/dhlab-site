@@ -2,9 +2,10 @@
 title: "Public Humanities Working Group Visit"
 date: October 13, 2015
 thumbnail: /assets/images/events/sterling-library.jpg
+alt: Students moving about the entrance hallway of Sterling Memorial Library.
 caption: "Yale Digital Humanities Lab, Public Humanities, Ensemble project"
 categories: 
-  - Announcements
+  - Announcement
 spotlight: false 
 image_layout: simple
 teaser: |

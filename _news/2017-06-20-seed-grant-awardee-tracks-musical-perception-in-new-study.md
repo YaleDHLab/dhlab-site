@@ -2,6 +2,7 @@
 title: "Seed Grant Awardee Tracks Musical Perception in New Study"
 date: June 20, 2017
 thumbnail: /assets/images/news/dialogue.jpg
+alt: Grant awardee explains research to student in front of computers in Bass Library.
 caption: ""
 categories: 
   - On Campus

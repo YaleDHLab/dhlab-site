@@ -4,9 +4,10 @@ date: 2016-07-12
 time: 2:00 - 4:00 pm
 location: Bass Library, L06
 thumbnail: /assets/images/events/GIS-globe.jpg
+alt: Vector image over Africa shows lines that connect in various places, indicating the connections established by GIS mapping software.
 caption: ""
 categories: 
-  - Meetups
+  - Meetup
 tags:
   - Geospatial Analysis
 spotlight: false 

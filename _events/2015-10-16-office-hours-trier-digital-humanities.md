@@ -4,6 +4,7 @@ date: 2015-10-16
 time: 2:00 - 3:00 pm
 location: Digital Humanities Lab, SML 316
 thumbnail: /assets/images/events/office-hours.jpg
+alt: Instructor demonstrates mapping software in DHLab to listening students.
 caption: Trier Digital Humanities School
 categories: 
   - Office Hours
@@ -18,6 +19,6 @@ During Office Hours, Gideon Fink Shapiro will report on [Trier Digital Humanitie
    
 Photos from the event:
    
-[<img src="http://web.library.yale.edu/sites/default/files/resize/images/2015TrierSchool_Gideon-300x200.jpg" />](http://web.library.yale.edu/sites/default/files/images/2015TrierSchool_Gideon.jpg)
+[<img src="http://web.library.yale.edu/sites/default/files/resize/images/2015TrierSchool_Gideon-300x200.jpg" alt: Instructor gives talk to seated students in DHLab. />](http://web.library.yale.edu/sites/default/files/images/2015TrierSchool_Gideon.jpg)
 
-[<img src="http://web.library.yale.edu/sites/default/files/resize/images/2015TrierSchool_GideonPanorama2-449x142.jpg" />](http://web.library.yale.edu/sites/default/files/images/2015TrierSchool_GideonPanorama2.jpg)
+[<img src="http://web.library.yale.edu/sites/default/files/resize/images/2015TrierSchool_GideonPanorama2-449x142.jpg" alt: Wide shot of students in DHLab cubicles listening to instructor lecture. />](http://web.library.yale.edu/sites/default/files/images/2015TrierSchool_GideonPanorama2.jpg)

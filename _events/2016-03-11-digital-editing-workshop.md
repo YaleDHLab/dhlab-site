@@ -3,11 +3,12 @@ title: Digital Editing Workshop
 date: 2016-03-11
 location: Sterling Memorial Library
 thumbnail: /assets/images/events/manuscript.jpg
+alt: Instructor points to line in medieval manuscript, showing it to student, in the Beinecke classroom.
 caption: ""
 categories: 
   - On Campus
 tags:
-  - Textual Analysis
+  - Text Analysis
   - Manuscripts
 spotlight: false 
 image_layout: landscape

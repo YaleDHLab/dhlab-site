@@ -2,6 +2,7 @@
 title: "Take a Virtual Tour: Ashbery's Nest"
 date: July 5, 2017
 thumbnail: /assets/images/news/nest.jpg
+alt: John Ashberry's Victorian house with objects of interest marked with digital links, including paintings, a lamp, a rug, and a chair.
 caption: ""
 categories: 
   - On Campus

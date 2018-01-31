@@ -4,8 +4,9 @@ date: 2017-09-12
 time: 2:00 pm
 location: Digital Humanities Lab, SML 316
 thumbnail: /assets/images/events/data-circle.jpg
+alt: Vector image of astral object radiating multicolored lines against midnight blue background.
 categories:
-  - Talks
+  - Talk
 tags:
   - Visualization
 teaser: >

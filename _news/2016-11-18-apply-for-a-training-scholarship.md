@@ -2,6 +2,7 @@
 title: "Apply for a Training Scholarship"
 date: November 18, 2016
 thumbnail: /assets/images/events/coding.jpg
+alt: Laptop computer shows multi-tiered code.
 caption: ""
 categories: 
   - Opportunities

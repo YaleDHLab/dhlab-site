@@ -2,10 +2,11 @@
 title: Intro to XML and XPath
 date: September 23, 2016
 thumbnail: /assets/images/events/coding.jpg
+alt: Laptop shows XML code in orange and green.
 categories: 
-  - Workshops
+  - Workshop
 tags:
-  - Textual Analysis
+  - Text Analysis
   - XML
   - TEI
 spotlight: false 

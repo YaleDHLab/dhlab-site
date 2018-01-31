@@ -3,9 +3,10 @@ title: Miriam Posner on Digital Humanities in American Studies
 date: 2015-05-04
 location: Hall of Graduate Studies 
 thumbnail: /assets/images/events/posner.jpg
+alt: Instructor headshot against white background.
 caption: Miriam Posner, Yale Digital Humanities Lab
 categories: 
-  - Talks
+  - Talk
 tags:
   - Pedagogy
 spotlight: false 

@@ -4,9 +4,10 @@ date: 2016-09-06
 time: 2:00 pm
 location: Digital Humanities Lab, SML 316
 thumbnail: /assets/images/events/music.jpg
+alt: Image of sheet music for a gospel song arranged in a circular pattern on the page. The very center of the image shows special instructions for performance.
 caption: ""
 categories: 
-  - Talks
+  - Talk
   - Office Hours
 tags:
   - Sound Analysis

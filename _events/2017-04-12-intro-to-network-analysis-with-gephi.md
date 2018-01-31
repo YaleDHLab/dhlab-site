@@ -4,9 +4,10 @@ date: 2017-04-12
 time: 2:00 - 3:30 pm
 location: Bass Library, L06
 thumbnail: /assets/images/events/networks2.jpg
+alt: Yellow vector image in polyhedron shape against purple background.
 registerurl: http://schedule.yale.edu/event/3217695
 categories:
-  - Workshops
+  - Workshop
 tags:
   - Network Analysis
   - Visualization

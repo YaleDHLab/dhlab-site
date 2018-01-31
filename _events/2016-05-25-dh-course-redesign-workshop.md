@@ -2,9 +2,10 @@
 title: DH Course [Re]Design Workshop
 date: May 25, 2016
 thumbnail: /assets/images/events/students.jpg
+alt: Three students gather around laptop to show off software.
 caption: ""
 categories: 
-  - Workshops
+  - Workshop
 tags:
   - Pedagogy
 spotlight: false 

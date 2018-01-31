@@ -3,6 +3,7 @@ title: ALA Students Visit the DHLab
 date: 2016-03-15
 location: Yale Digital Humnanities Lab
 thumbnail: /assets/images/events/sterling-library.jpg
+alt: Students move about entrance hallway to Sterling Memorial Library.
 caption: ""
 categories: 
   - On Campus

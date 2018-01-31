@@ -4,11 +4,12 @@ date: 2017-10-13
 time: 4:00 pm
 location: Linsly-Chittenden Hall, Rm 209
 thumbnail: /assets/images/events/tenen.jpg
+alt: Speaker's headshot against glazed windows.
 caption: ""
 categories: 
-  - Talks
+  - Talk
 tags:
-  - Textual Analysis
+  - Text Analysis
 spotlight: false 
 image_layout: simple
 teaser: |

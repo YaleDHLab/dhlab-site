@@ -2,6 +2,7 @@
 title: Tableau Data Vis Competition
 date: August 17, 2017
 thumbnail: /assets/images/events/dataviz.jpg
+alt: A person holds a tablet that displays Tableau software depcting a map of the earth with areas of interest marked in pink and yellow.
 caption: ""
 categories: 
   - Off Campus

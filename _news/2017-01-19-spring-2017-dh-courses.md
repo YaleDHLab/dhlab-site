@@ -2,6 +2,7 @@
 title: "Spring 2017 DH Courses"
 date: January 19, 2017
 thumbnail: /assets/images/events/sterling-student.jpg
+alt: Student walks in front of the door to the courtyard of Sterling Memorial Library.
 caption: ""
 categories: 
   - Courses

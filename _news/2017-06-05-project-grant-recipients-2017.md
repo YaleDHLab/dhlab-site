@@ -2,9 +2,10 @@
 title: "Project Grant Recipients, 2017"
 date: June 5, 2017
 thumbnail: /assets/images/news/grantees.jpg
+alt: Collage image of six project grant recipients.
 caption: ""
 categories: 
-  - Announcements
+  - Announcement
 spotlight: false 
 image_layout: simple
 teaser: |

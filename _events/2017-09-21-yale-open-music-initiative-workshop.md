@@ -4,9 +4,10 @@ date: 2017-09-21
 time: 4:00 pm
 location: Center for Collaborative Arts and Media, 149 York St
 thumbnail: /assets/images/events/omipod.jpg
+alt: Image of a circuitboard with many wires attached to it and to other circuitboards.
 caption: ""
 categories: 
-  - Workshops
+  - Workshop
 tags:
   - Sound Analysis
 spotlight: false 

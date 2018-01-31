@@ -2,6 +2,7 @@
 title: "Job Opportunities with the DHLab"
 date: August 28, 2017
 thumbnail: /assets/images/news/office-hours.jpg
+alt: DHLab worker shows off digital map on Apple computer to two seated students in the Lab.
 caption: ""
 categories: 
   - Student Jobs

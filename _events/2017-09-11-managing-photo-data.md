@@ -4,8 +4,9 @@ date: 2017-09-11
 time: 3:00 pm
 location: Digital Humanities Lab, SML 316
 thumbnail: /assets/images/events/photo-data.jpg
+alt: Nine black-and-white photographs are displayed across several screens, with some objects circled. The photographs display large gatherings of people outside at what appear to be political demonstrations.
 categories:
-  - Talks
+  - Talk
 tags:
   - Visual Analysis
 teaser: >

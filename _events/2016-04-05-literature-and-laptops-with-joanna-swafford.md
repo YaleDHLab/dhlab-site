@@ -2,11 +2,12 @@
 title: Literature and Laptops with Joanna Swafford
 date: 2016-04-05 
 thumbnail: /assets/images/events/sherlock.jpg
+alt: 19th-century map of London in blue overlaid with distinctive silhouette of Sherlock Holmes with deerstalker cap and pipe.
 caption: ""
 categories: 
-  - Talks
+  - Talk
 tags:
-  - Textual Analysis
+  - Text Analysis
 spotlight: false 
 teaser: >
   "The Digital Humanities Lab sponsored two events with Joanna Swafford, Assistant Professor for Interdisciplinary and Digital Teaching and Scholarship at SUNY New Paltz. Events were open to the Yale..."

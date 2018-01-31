@@ -4,11 +4,12 @@ date: 2017-09-26
 time: 2:00 - 4:00 pm
 location: Bass Library, L06
 thumbnail: /assets/images/events/ner.jpg
+alt: Stylized image of computer software displaying various nodes connected to each other against background of vertically-scrolling binary code.
 registerurl: http://schedule.yale.edu/event/3569740
 categories:
-  - Workshops
+  - Workshop
 tags:
-  - Textual Analysis
+  - Text Analysis
   - Python
 teaser: >
   This workshop will introduce participants to Named Entity Recognition (NER), or the process of algorithmically identifying people, locations, corporations, and other classes of nouns in text corpora. We will help users install and run Stanford's flagship CoreNLP (Natural Language Processing) toolkit to identify entities in text files.

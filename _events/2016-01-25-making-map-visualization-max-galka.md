@@ -4,9 +4,10 @@ date: 2016-01-25
 time: 1:30 - 2:30 pm
 location: Bass Library, L70
 thumbnail: /assets/images/events/GIS-globe.jpg
+alt: Map of Africa with various network points converging across the continent.
 caption: "Every hurricane of the past 150 years: Metrocosm"
 categories: 
-  - Workshops
+  - Workshop
 tags:
   - Geospatial Analysis
   - Visualization

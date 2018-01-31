@@ -4,9 +4,10 @@ date: 2017-10-25
 time: 2:00 - 4:00 pm
 location: Bass Library, L06
 thumbnail: /assets/images/events/code.jpg
+alt: Blue vector image with code floating space surrounded by smeared light.
 registerurl: http://schedule.yale.edu/event/3606999
 categories:
-  - Workshops
+  - Workshop
 tags:
   - JavaScript
 teaser: >

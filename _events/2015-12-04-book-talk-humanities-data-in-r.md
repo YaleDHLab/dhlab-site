@@ -4,9 +4,10 @@ date: 2015-12-04
 time: 3:30 pm
 location: Sterling Memorial Library, 315
 thumbnail: /assets/images/events/humanities-in-r.jpg
+alt: Book cover of Humanities Data in R by Taylor Arnold and Lauren Tilton, green and brown.
 caption: Humanities Data in R
 categories: 
-  - Talks
+  - Talk
 tags:
   - R
 spotlight: false 
@@ -21,8 +22,8 @@ A physical copy of <em>Humanities Data in R</em> is available through retailers 
    
 Photos from the event:
 
-[<img src="http://web.library.yale.edu/sites/default/files/resize/images/Lauren%2CTaylor-329x219.jpeg" />](http://web.library.yale.edu/sites/default/files/images/Lauren%2CTaylor.jpeg)
-[<img src="http://web.library.yale.edu/sites/default/files/resize/images/rScatterRaster-326x216.jpg" />](http://web.library.yale.edu/sites/default/files/images/rScatterRaster.jpg)
+[<img src="http://web.library.yale.edu/sites/default/files/resize/images/Lauren%2CTaylor-329x219.jpeg" alt: The two authors hold their book in front of DHLab library. />](http://web.library.yale.edu/sites/default/files/images/Lauren%2CTaylor.jpeg)
+[<img src="http://web.library.yale.edu/sites/default/files/resize/images/rScatterRaster-326x216.jpg" alt: Collage of photographs showing urban landscapes. />](http://web.library.yale.edu/sites/default/files/images/rScatterRaster.jpg)
    
 ### About the authors:
    

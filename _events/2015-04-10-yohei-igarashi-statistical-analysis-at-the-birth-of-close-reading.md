@@ -3,12 +3,13 @@ title: Statistical Analysis at the Birth of Close Reading
 date: 2015-04-10
 location: Bass Library, L01 
 thumbnail: /assets/images/events/igarashi.jpg
+alt: Instructor gives a talk with Powerpoint in front of tables where listeners sit in Bass Library.
 caption: Yohei Igarashi, Digital Humanities Lab
 categories: 
-  - Talks
+  - Talk
 tags:
   - Statistics
-  - Textual Analysis
+  - Text Analysis
 spotlight: false 
 image_layout: landscape
 teaser: |

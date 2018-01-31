@@ -4,9 +4,10 @@ date: 2016-11-16
 time: 4:00 - 6:00 pm
 location: Hall of Graduate Studies, Rm 221
 thumbnail: /assets/images/events/sterling-student.jpg
+alt: A student walks to class while framed by the elaborately designed doorway to the courtyard of Sterling Memorial Library.
 caption: ""
 categories: 
-  - Talks
+  - Talk
 spotlight: false 
 image_layout: landscape
 teaser: |

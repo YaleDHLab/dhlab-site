@@ -2,9 +2,10 @@
 title: DH, STEAM Spring Symposium
 date: April 8, 2016
 thumbnail: /assets/images/events/beyond-boundaries-2017.jpg
+alt: Beyond Boundaries logo displayed slantwise over pink vector art against midnight blue background.
 caption: ""
 categories: 
-  - Symposia
+  - Symposium
 spotlight: false 
 image_layout: landscape
 teaser: |
@@ -144,16 +145,16 @@ The symposium is open to the entire Yale community and public. Coffee and refres
        
 A few photos from the event:
 
-[<img src="http://web.library.yale.edu/sites/default/files/resize/images/Valencia2-300x200.jpg" />](http://web.library.yale.edu/sites/default/files/images/Valencia2.jpg)
+[<img src="http://web.library.yale.edu/sites/default/files/resize/images/Valencia2-300x200.jpg" alt: Event speaker talking from behind podium./>](http://web.library.yale.edu/sites/default/files/images/Valencia2.jpg)
 
-[<img src="http://web.library.yale.edu/sites/default/files/resize/images/Acevedo-300x200.jpg" />](http://web.library.yale.edu/sites/default/files/images/Acevedo.jpg)
+[<img src="http://web.library.yale.edu/sites/default/files/resize/images/Acevedo-300x200.jpg" alt: Event speaker talking from behind podium. />](http://web.library.yale.edu/sites/default/files/images/Acevedo.jpg)
 
-[<img src="http://web.library.yale.edu/sites/default/files/resize/images/Roundtable-300x200.jpg" />](http://web.library.yale.edu/sites/default/files/images/Roundtable.jpg)
+[<img src="http://web.library.yale.edu/sites/default/files/resize/images/Roundtable-300x200.jpg" alt: Six roundtable speakers demonstrate a Powerpoint at the front of event space./>](http://web.library.yale.edu/sites/default/files/images/Roundtable.jpg)
 
-[<img src="http://web.library.yale.edu/sites/default/files/resize/images/Pellegrini3-300x200.jpg" />](http://web.library.yale.edu/sites/default/files/images/Pellegrini3.jpg)
+[<img src="http://web.library.yale.edu/sites/default/files/resize/images/Pellegrini3-300x200.jpg" alt: Event attendees listen to presentation in front of student-made poster./>](http://web.library.yale.edu/sites/default/files/images/Pellegrini3.jpg)
 
-[<img src="http://web.library.yale.edu/sites/default/files/resize/images/Krewson2-300x200.jpg" />](http://web.library.yale.edu/sites/default/files/images/Krewson2.jpg)
+[<img src="http://web.library.yale.edu/sites/default/files/resize/images/Krewson2-300x200.jpg" alt: Event attendees observe software demosntration on laptop./>](http://web.library.yale.edu/sites/default/files/images/Krewson2.jpg)
 
-[<img src="http://web.library.yale.edu/sites/default/files/resize/images/Marina-300x200.jpg" />](http://web.library.yale.edu/sites/default/files/images/Marina.jpg)
+[<img src="http://web.library.yale.edu/sites/default/files/resize/images/Marina-300x200.jpg" alt: Event attendees listen to speaker seated in rows./>](http://web.library.yale.edu/sites/default/files/images/Marina.jpg)
 
-[<img src="http://web.library.yale.edu/sites/default/files/resize/images/Nate%202-300x200.jpg" />](http://web.library.yale.edu/sites/default/files/images/Nate%202.jpg)
+[<img src="http://web.library.yale.edu/sites/default/files/resize/images/Nate%202-300x200.jpg" alt: Student demonstrates printed map to three event attendees. />](http://web.library.yale.edu/sites/default/files/images/Nate%202.jpg)

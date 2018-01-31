@@ -1,12 +1,13 @@
----
+                                                                                                                                                                                        ---
 title: Intro to Git Workshop
 date: 2016-10-25
 time: 2:00 - 4:00 pm
 location: Bass Library, L06
 thumbnail: /assets/images/events/git.jpg
+alt: Laptop sitting on table shows Git logo.
 caption: ""
 categories: 
-  - Workshops
+  - Workshop
 tags:
   - Git
 spotlight: false 

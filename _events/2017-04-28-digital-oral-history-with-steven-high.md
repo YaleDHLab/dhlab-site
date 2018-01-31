@@ -4,9 +4,10 @@ date: 2017-04-28
 time: 12:00 pm
 location: Bass Library, L01
 thumbnail: /assets/images/news/audio-waves.jpg
+alt: Purple image of music waveform in warm colors with spike near the middle of the spectrum.
 caption: ""
 categories: 
-  - Talks
+  - Talk
 spotlight: false 
 teaser: |
   "Beyond the 'Juicy Quotes Syndrome': Digital Oral History and the Politics of Secondary Analysis April 28 at 12:00pm in Bass Library, L01 This presentation responds directly to the policy and cultural..."

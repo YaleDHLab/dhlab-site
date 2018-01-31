@@ -4,13 +4,14 @@ date: 2017-04-07
 time: 9:30 am - 1:00 pm
 location: Sterling Memorial Library, Lecture Hall and Exhibition Room
 thumbnail: /assets/images/events/beyond-boundaries-2017.jpg
+alt: Beyond Boundaries logo displayed slantwise above pink vector image.
 caption: ""
 categories: 
-  - Symposia
+  - Symposium
 tags:
   - Network Analysis
   - Visual Analysis
-  - Textual Analysis
+  - Text Analysis
   - Geospatial Analysis
   - Pedagogy
 spotlight: false 
@@ -25,9 +26,9 @@ How can 3D printing help preserve cultural heritage sites? What might digital ma
    
 The symposium is open to the entire Yale community and public. Coffee and refreshments will be provided.
    
-[<img src="http://web.library.yale.edu/sites/default/files/resize/images/BB2017-300x218.png" />](http://web.library.yale.edu/sites/default/files/images/BB2017.png)
+[<img src="http://web.library.yale.edu/sites/default/files/resize/images/BB2017-300x218.png" alt: Beyond Boundaries conference bill showing conference location and program. The logo is suspended above a pink and blue vector image on the lower part of the page. />](http://web.library.yale.edu/sites/default/files/images/BB2017.png)
 
-[<img src="http://web.library.yale.edu/sites/default/files/resize/images/BB2017_2-300x215.png" />](http://web.library.yale.edu/sites/default/files/images/BB2017_2.png)
+[<img src="http://web.library.yale.edu/sites/default/files/resize/images/BB2017_2-300x215.png" alt: Conference bill showing program of speakers./>](http://web.library.yale.edu/sites/default/files/images/BB2017_2.png)
    
 ### Event Schedule
 <table>

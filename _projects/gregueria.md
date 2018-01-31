@@ -16,7 +16,7 @@ team:
 
 categories:
   - Geospatial Analysis
-  - Textual Analysis
+  - Text Analysis
 
 tags:
   - Archives

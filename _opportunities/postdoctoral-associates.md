@@ -13,6 +13,7 @@ application_url: >
   https://docs.google.com/forms/d/e/1FAIpQLSdF0PVOMAg-XhAcIBLwIffuE6usr7FuJtBVSuqfzYkz52Si7A/viewform?usp=sf_link
 
 deadline: Not accepting applications
+apply_button: hidden
 ---
 
 <div class='center-column'>

@@ -2,9 +2,10 @@
 title: "DH Summer Group: Jekyll Web Dev"
 date: June 6, 2017
 thumbnail: /assets/images/news/code-coffee.jpg
+alt: Laptop with Jekyll code on table with coffee.
 caption: ""
 categories: 
-  - Announcements
+  - Meetup
 spotlight: false 
 image_layout: simple
 teaser: |

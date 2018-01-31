@@ -10,22 +10,17 @@ teaser: >
 
 ### Visualize and Share Your Work
 
-There are a number of platforms for visualizing and sharing your digital humanities work. Below are a few free options to try out that require no to some programming knowledge. For more tools that are specific to visualizing certain types of data (for example - network graphs), visit the relevant pages under [What is DH]({{site.baseurl}}/methods.html).
+There are a number of platforms for visualizing and analyzing your digital humanities work. Below are a few free options to try out that require no to some programming knowledge. For more tools that are specific to visualizing certain types of data (for example - network graphs), visit the relevant pages under <a href='{{site.baseurl}}/methods.html' target='_blank'>What is DH</a>. For presentation platforms, visit <a href='{{site.baseurl}}/guides/digital-dissemination' target='_blank'>Digital Dissemination</a>.
 
 For tools that contain a suite of visualizations, try:
-* [Raw Graphs](http://app.rawgraphs.io/)
-* [Voyant](http://voyant-tools.org/)
-* [Tableau Public](https://public.tableau.com/en-us/s/)
+* <a href='http://app.rawgraphs.io/' target='_blank'>Raw Graphs</a>
+* <a href='http://voyant-tools.org/' target='_blank'>Voyant</a>
+* <a href='https://public.tableau.com/en-us/s/' target='_blank'>Tableau Public</a>
 
-For presentation platforms that combine different media types, try:
-* [Story Maps](https://www.arcgis.com/home/index.html)
-* [Scalar](https://scalar.usc.edu/scalar/)
-* [Omeka](https://omeka.org/)
-
-For programming libraries, try:
-* [ggplot](http://ggplot2.org/)
-* [D3.js](https://d3js.org/)
-* [plotly](https://plot.ly/python/line-charts/')
-* [shiny](http://shiny.rstudio.com/)
-* [FusionCharts](https://www.fusioncharts.com/)
-* [Highcharts](https://www.highcharts.com/)
+For popular programming libraries and packages, try:
+* <a href='http://ggplot2.org/' target='_blank'>ggplot</a>
+* <a href='https://d3js.org/' target='_blank'>D3.js</a>
+* <a href='https://plot.ly/python/line-charts/' target='_blank'>plotly</a>
+* <a href='http://shiny.rstudio.com/' target='_blank'>shiny</a>
+* <a href='https://www.fusioncharts.com/' target='_blank'>FusionCharts</a>
+* <a href='https://www.highcharts.com/' target='_blank'>Highcharts</a>

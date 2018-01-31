@@ -2,9 +2,10 @@
 title: "Find us on Social Media"
 date: May 5, 2017
 thumbnail: /assets/images/news/dh-lab.jpg
+alt: DHLab logo against gray background above multi-colored vector image.
 caption: ""
 categories: 
-  - Announcements
+  - Announcement
 spotlight: false 
 image_layout: simple
 teaser: |
