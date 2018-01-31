@@ -2,6 +2,7 @@
 title: "Digital Editing with Medieval Manuscript Rolls"
 date: October 16, 2015
 thumbnail: /assets/images/events/beinecke.jpg
+alt: A view from the Beinecke mezzanine of the Beinecke rare book collections in their insulated transparent stacks.
 caption: "Manuscript "
 categories: 
   - Announcement

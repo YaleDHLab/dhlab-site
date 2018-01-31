@@ -4,6 +4,7 @@ date: 2016-06-21
 time: 2:00 pm 
 location: Digital Humanities Lab, SML 316
 thumbnail: /assets/images/events/photogrammar.jpg
+alt: A black-black-and white image of a woman standing beneath palm trees and looking to the left. The image comes from the Photogrammar archive on the DHLab site.
 caption: ""
 categories: 
   - Talk

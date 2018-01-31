@@ -3,6 +3,7 @@ spotlight: true
 title: "New DH Postdocs"
 date: July 25, 2017
 thumbnail: /assets/images/news/postdocs-2017.jpg
+alt: Three DHLab workers in entrance hall of Sterling Memorial Library.
 image: /assets/images/banners/postdocs-2017.jpg
 caption: ""
 categories: 

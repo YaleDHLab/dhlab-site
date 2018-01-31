@@ -4,6 +4,7 @@ date: 2016-03-28
 time: 5:30 pm
 location: LC 319
 thumbnail: /assets/images/events/richard-so.jpg
+alt: Instructor headshot against gray background.
 caption: Richard Jean So, Yale Digital Humanities Lab
 categories: 
   - Talk

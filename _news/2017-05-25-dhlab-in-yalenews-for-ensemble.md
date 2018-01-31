@@ -2,6 +2,7 @@
 title: "DHLab in YaleNews for Ensemble"
 date: May 25, 2017
 thumbnail: /assets/images/news/ensemble.jpg
+alt: Student actors dance on stage beneath lanterns in 19th-century garb during play performance.
 image: /assets/images/banners/ensemble.jpg
 caption: ""
 categories: 

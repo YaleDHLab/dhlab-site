@@ -4,6 +4,7 @@ date: 2017-04-28
 time: 12:00 pm
 location: Bass Library, L01
 thumbnail: /assets/images/news/audio-waves.jpg
+alt: Purple image of music waveform in warm colors with spike near the middle of the spectrum.
 caption: ""
 categories: 
   - Talk

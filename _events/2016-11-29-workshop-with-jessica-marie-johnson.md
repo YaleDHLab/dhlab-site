@@ -4,6 +4,7 @@ date: 2016-11-29
 time: 4:00 - 6:00 pm
 location: Sterling Memorial Library, 218
 thumbnail: /assets/images/events/radical-media.jpg
+alt: An image of a woman's face drawn in red stands against a black background. The woman is wearing a white necklace and her eyes, mouth, and nose are drawn with red splotches. The words Confessions of a Sable Fan Gyrl are written across the top and reserved on the bottom of the image.
 caption: ""
 categories: 
   - Workshop

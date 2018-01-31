@@ -2,6 +2,7 @@
 title: "Apply for a DH Seed Grant"
 date: November 4, 2016
 thumbnail: /assets/images/news/data-heart.jpg
+alt: Four students sit in DHLab and observe a presentation given by another student, who stands and reads from paper.
 caption: ""
 categories:
   - Opportunities

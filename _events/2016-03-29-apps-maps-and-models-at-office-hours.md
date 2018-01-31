@@ -4,6 +4,7 @@ date: 2016-03-29
 time: 2:00 pm
 location: Digital Humanities Lab, SML 316
 thumbnail: /assets/images/events/digital-map.jpg
+alt: Dot map of earth in blue and red with event date in top left corner.
 caption: ""
 categories: 
   - Office Hours

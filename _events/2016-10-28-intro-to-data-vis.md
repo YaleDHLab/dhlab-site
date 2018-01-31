@@ -4,6 +4,7 @@ date: 2016-10-28
 time: 1:30 - 3:30 pm
 location: Kline Biology Tower, C27 (CSSSI)
 thumbnail: /assets/images/events/dataviz.jpg
+alt: Person holds tablet demonstrating a visual mapping project with highlighted areas across the globe marked in pink and yellow.
 caption: ""
 categories: 
   - Workshop

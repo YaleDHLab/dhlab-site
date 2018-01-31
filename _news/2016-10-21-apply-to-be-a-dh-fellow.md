@@ -2,6 +2,7 @@
 title: "Apply to be a DH Fellow"
 date: October 21, 2016
 thumbnail: /assets/images/news/dh-fellows.jpg
+alt: Three DH fellows sit in front of computers and Lab library.
 caption: ""
 categories: 
   - Opportunities

@@ -2,6 +2,7 @@
 title: Office Hours Workshop on APIs
 date: April 26, 2016
 thumbnail: /assets/images/events/workshop-code.jpg
+alt: In the Lab space, a lab worker demonstrates software functionality on desktop while two seated attendees follow along on their lapots.
 caption: ""
 categories: 
   - Office Hours
@@ -22,6 +23,6 @@ All were welcome; no prior programming experience was required. Coffee and tea w
     
 Photos from the event:
 
-[<img src="http://web.library.yale.edu/sites/default/files/resize/images/IMG_0496%281%29-223x223.JPG" />](http://web.library.yale.edu/sites/default/files/images/IMG_0496%281%29.JPG)
+[<img src="http://web.library.yale.edu/sites/default/files/resize/images/IMG_0496%281%29-223x223.JPG" alt: DHLab worker demonstrates software to several seated attendees in a wide image that also captures the DHLab ceiling and library./>](http://web.library.yale.edu/sites/default/files/images/IMG_0496%281%29.JPG)
 
-[<img src="http://web.library.yale.edu/sites/default/files/resize/images/IMG_0497%282%29-300x225.JPG" />](http://web.library.yale.edu/sites/default/files/images/IMG_0497%282%29.JPG)
+[<img src="http://web.library.yale.edu/sites/default/files/resize/images/IMG_0497%282%29-300x225.JPG" alt: DHLab worker answers student question in Lab cubicle area./>](http://web.library.yale.edu/sites/default/files/images/IMG_0497%282%29.JPG)

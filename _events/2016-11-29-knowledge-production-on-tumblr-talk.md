@@ -4,6 +4,7 @@ date: 2016-11-29
 time: 11:30 am - 12:45 pm
 location: WLH 309
 thumbnail: /assets/images/events/networks.jpg
+alt: A sparkling white vector image forms a polyhedron poised against a midnight blue background.
 caption: ""
 categories: 
   - Talk

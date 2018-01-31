@@ -2,6 +2,7 @@
 title: Yale Day of Data
 date: 2016-09-15 
 thumbnail: /assets/images/events/day-of-data.jpg
+alt: Image of Yale Day of Data logo against blue background.
 caption: ""
 categories: 
   - Symposium

@@ -4,6 +4,7 @@ date: 2016-02-18
 time: 2:30 pm
 location: Sterling Memorial Library, 315
 thumbnail: /assets/images/events/text-mining.jpg
+alt: Book in computerized background showing multi-colored code.
 categories: 
   - Talk
 spotlight: false 

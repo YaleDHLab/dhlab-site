@@ -4,6 +4,7 @@ date: 2017-08-29
 time: 2:00 pm
 location: Digital Humanities Lab, SML 316
 thumbnail: /assets/images/events/passages.jpg
+Alt: A map of the North Carolina coastline marked with red and blue dots.
 caption: ""
 categories: 
   - Talk

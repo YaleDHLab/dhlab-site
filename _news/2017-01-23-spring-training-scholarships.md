@@ -2,6 +2,7 @@
 title: "Spring Training Scholarships"
 date: January 23, 2017
 thumbnail: /assets/images/news/students.jpg
+alt: Three students confer around laptops and desktops in Bass Library.
 caption: ""
 categories: 
   - Opportunities

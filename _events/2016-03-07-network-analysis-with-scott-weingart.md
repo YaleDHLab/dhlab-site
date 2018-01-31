@@ -4,6 +4,8 @@ date: 2016-03-07
 time: 1:00 - 5:00 pm
 location: Bass Library L06
 thumbnail: /assets/images/events/networks2.jpg
+alt: Vector image against purple background.
+  - Talks
 categories: 
   - Talk
 tags:
@@ -22,17 +24,17 @@ Networks are simple formal representations for how the world intermingles with i
    
 Photos from the workshop:  
 
-[<img src="http://web.library.yale.edu/sites/default/files/resize/images/DSC_0429-300x200.jpg" />](http://web.library.yale.edu/sites/default/files/images/DSC_0429.jpg)
+[<img src="http://web.library.yale.edu/sites/default/files/resize/images/DSC_0429-300x200.jpg" alt: Students sit in Bass Library lab listening to presentation. />](http://web.library.yale.edu/sites/default/files/images/DSC_0429.jpg)
 
-[<img src="http://web.library.yale.edu/sites/default/files/resize/images/DSC_0637-300x200.jpg" />](http://web.library.yale.edu/sites/default/files/images/DSC_0637.jpg)
+[<img src="http://web.library.yale.edu/sites/default/files/resize/images/DSC_0637-300x200.jpg" alt: Instructors assist students at their computers. />](http://web.library.yale.edu/sites/default/files/images/DSC_0637.jpg)
 
-[<img src="http://web.library.yale.edu/sites/default/files/resize/images/DSC_0635-300x200.jpg" />](http://web.library.yale.edu/sites/default/files/images/DSC_0635.jpg)
+[<img src="http://web.library.yale.edu/sites/default/files/resize/images/DSC_0635-300x200.jpg" alt: Students confer around laptops. />](http://web.library.yale.edu/sites/default/files/images/DSC_0635.jpg)
 
-[<img src="http://web.library.yale.edu/sites/default/files/resize/images/DSC_0484-300x200.jpg" />](http://web.library.yale.edu/sites/default/files/images/DSC_0484.jpg)
+[<img src="http://web.library.yale.edu/sites/default/files/resize/images/DSC_0484-300x200.jpg" alt: Students and instructors confer around desktop. />](http://web.library.yale.edu/sites/default/files/images/DSC_0484.jpg)
 
-[<img src="http://web.library.yale.edu/sites/default/files/resize/images/DSC_0579-300x200.jpg" />](http://web.library.yale.edu/sites/default/files/images/DSC_0579.jpg)
+[<img src="http://web.library.yale.edu/sites/default/files/resize/images/DSC_0579-300x200.jpg" alt: Students and instructors confer around laptops. />](http://web.library.yale.edu/sites/default/files/images/DSC_0579.jpg)
 
-[<img src="http://web.library.yale.edu/sites/default/files/resize/images/DSC_0685-300x200.jpg" />](http://web.library.yale.edu/sites/default/files/images/DSC_0685.jpg)
+[<img src="http://web.library.yale.edu/sites/default/files/resize/images/DSC_0685-300x200.jpg" alt: Instructor confers with Lab director in front of projected screen showing digital data. />](http://web.library.yale.edu/sites/default/files/images/DSC_0685.jpg)
    
 ### **Talk, 3/8:** "Distributed Scholarship in Early Modern Europe"
 *Bass Library L01, 2:00-3:30pm*

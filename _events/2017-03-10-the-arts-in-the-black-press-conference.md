@@ -3,6 +3,7 @@ title: The Arts in the Black Press Conference
 date: 2017-03-10 
 location: Linsly-Chittenden Hall, Rm 317 and 319
 thumbnail: /assets/images/events/black-press.jpg
+alt: Conference bill reads The Arts in the Black Press During the Age of Jim Crow and gives location and date of conference in stylized black lettering on aged paper.
 caption: ""
 categories: 
   - Symposium

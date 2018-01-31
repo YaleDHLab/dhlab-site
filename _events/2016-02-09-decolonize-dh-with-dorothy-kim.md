@@ -4,6 +4,7 @@ date: 2016-02-09
 time: 6:00 - 7:39 pm
 location: William L. Harkness Hall, 309
 thumbnail: /assets/images/events/neural-body.jpg
+alt: Image of human form made from blue-colored neural wiring against black background.
 categories: 
   - Talk
 spotlight: false 
@@ -25,7 +26,7 @@ To download a copy of the talk's poster, click [here](http://web.library.yale.ed
    
 Photo from the event:
    
-[<img src="http://web.library.yale.edu/sites/default/files/resize/images/DorothyKim-300x400.jpg" />](http://web.library.yale.edu/sites/default/files/images/DorothyKim.jpg)
+[<img src="http://web.library.yale.edu/sites/default/files/resize/images/DorothyKim-300x400.jpg" alt: Lecturer stands at podium during presentation. />](http://web.library.yale.edu/sites/default/files/images/DorothyKim.jpg)
    
 ---   
 **Dorothy Kim** is a Digital Humanist and Assistant Professor of English at Vassar College.

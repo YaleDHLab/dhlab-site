@@ -4,6 +4,7 @@ date: 2017-09-26
 time: 2:00 - 4:00 pm
 location: Bass Library, L06
 thumbnail: /assets/images/events/ner.jpg
+alt: Stylized image of computer software displaying various nodes connected to each other against background of vertically-scrolling binary code.
 registerurl: http://schedule.yale.edu/event/3569740
 categories:
   - Workshop

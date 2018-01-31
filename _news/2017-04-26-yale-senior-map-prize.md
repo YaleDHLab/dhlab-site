@@ -2,6 +2,7 @@
 title: "Yale Senior Map Prize"
 date: April 26, 2017
 thumbnail: /assets/images/news/library-map.jpg
+alt: Library Map Prize logo with star and globe against green background.
 caption: ""
 categories: 
   - Opportunities

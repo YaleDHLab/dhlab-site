@@ -2,6 +2,7 @@
 title: Call for DHWG Co-Conveners
 date: 2017-10-06 
 thumbnail: /assets/images/events/students.jpg
+alt: Students cluster around laptop computers.
 caption: ""
 categories: 
   - On Campus

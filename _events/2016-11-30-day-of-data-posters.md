@@ -4,6 +4,7 @@ date: 2016-11-30
 time: 4:00 - 6:00 pm
 location: Center for Science and Social Science Information
 thumbnail: /assets/images/events/day-of-data.jpg
+alt: Yale Day of Data logo in white against blue background.
 caption: ""
 categories: 
   - Symposium

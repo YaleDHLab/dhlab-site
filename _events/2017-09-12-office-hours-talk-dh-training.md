@@ -4,7 +4,7 @@ date: 2017-09-12
 time: 2:00 pm
 location: Digital Humanities Lab, SML 316
 thumbnail: /assets/images/news/office-hours.jpg
-caption: ""
+alt: In the DHLab, students demonstrate mapping functionality on desktop computer.
 categories: 
   - Office Hours
 tags:

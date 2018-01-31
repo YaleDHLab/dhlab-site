@@ -2,6 +2,7 @@
 title: "Project Grant Recipients, 2016"
 date: August 29, 2016
 thumbnail: /assets/images/news/highlights.jpg
+alt: Stars shoot upward and explode into various colors against a midnight blue background.
 caption: ""
 categories: 
   - Announcement

@@ -2,6 +2,7 @@
 title: Office Hours Workshop on R
 date: May 24, 2016
 thumbnail: /assets/images/events/office-hours.jpg
+alt: DHLab worker shows off mapping software on dekstop computer to several seated students.
 caption: ""
 categories: 
   - Office Hours

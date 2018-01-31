@@ -2,6 +2,7 @@
 title: "Fall 2016 DH courses"
 date: August 19, 2016
 thumbnail: /assets/images/events/data-circle.jpg
+alt: Multi-colored astral object against midnight blue background radiates colored beads.
 caption: ""
 categories: 
   - Courses

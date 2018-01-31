@@ -2,6 +2,7 @@
 title: "New Haven Students Visit the Lab"
 date: April 4, 2016
 thumbnail: /assets/images/news/workshop-code.jpg
+alt: New Haven students sit with laptops around programmer's computer during demonstration of Photogrammar software.
 caption: "New Haven students interact with Photogrammar "
 categories: 
   - Announcement

@@ -4,6 +4,7 @@ date: 2018-04-06
 time: 9:30 - 1:00 pm
 location: Sterling Memorial Library, Lecture Hall
 thumbnail: /assets/images/events/2018-04-08-BB-sq.jpg
+alt: Beyond Boundaries logo on blue above vector image.
 categories:
   - Symposium
 tags:

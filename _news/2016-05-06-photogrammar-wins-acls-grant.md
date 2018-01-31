@@ -2,6 +2,7 @@
 title: "Photogrammar Wins ACLS Grant!"
 date: May 6, 2016
 thumbnail: /assets/images/projects/originals/photogrammar.jpg
+alt: Screenshot of Photogrammar software showing black and white photographs against a map showing the locations where the photographs were taken.
 caption: ""
 categories: 
   - Announcement

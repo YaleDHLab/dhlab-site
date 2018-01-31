@@ -4,6 +4,7 @@ date: 2016-07-14
 time: 2:00 - 3:00 pm
 location: Digital Humanities Lab, SML 316
 thumbnail: /assets/images/events/coffee_code.jpg
+alt: A hand uses a laptop that sits on a table and displays program code.
 caption: ""
 categories: 
   - Workshop

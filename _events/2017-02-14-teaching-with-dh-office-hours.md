@@ -4,6 +4,7 @@ date: 2017-02-14
 time: 2:30 pm
 location: Digital Humanities Lab, SML 316
 thumbnail: /assets/images/news/dh-fellows.jpg
+alt: Three DH Fellows sit in lab space in front of library.x
 caption: ""
 categories: 
   - Office Hours

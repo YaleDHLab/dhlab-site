@@ -4,6 +4,7 @@ date: 2017-04-18
 time: 4:00 - 5:00 pm
 location: Bass Library, L06
 thumbnail: /assets/images/events/git.jpg
+alt: Laptop sits on desk with Git logo displayed.
 registerurl: http://schedule.yale.edu/event/3217695
 categories:
   - Workshop

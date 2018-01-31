@@ -3,6 +3,7 @@ title: "DHLab Welcomes Catherine DeRose to Team "
 date: September 15, 2015
 thumbnail: /assets/images/about/team/CD-sq.jpg
 caption: "Cathy DeRose, Yale University "
+alt: DHLab worker sitting at desk in Sterling Memorial Library.
 categories: 
   - Announcement
 tags: 

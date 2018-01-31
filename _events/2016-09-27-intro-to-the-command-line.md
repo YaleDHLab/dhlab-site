@@ -4,6 +4,7 @@ date: 2016-09-27
 time: 2:00 - 4:00 pm
 location: Bass Library, L06
 thumbnail: /assets/images/events/code.jpg
+alt: Blue vector image of the command line floating in space with smeared lights streaking away on the left and right.
 caption: ""
 categories: 
   - Workshop

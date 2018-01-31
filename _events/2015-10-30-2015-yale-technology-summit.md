@@ -4,6 +4,7 @@ date: 2015-10-30
 time: 9:00 am - 4:00 pm
 location: Evans Hall
 thumbnail: /assets/images/events/tech-summit-2015.jpg
+alt: Yale Technology Summit logo on green and blue polyhedron against dark gray background.
 caption: 2015 Yale Technology Summit, Digital Humanities Lab
 categories: 
   - Symposium

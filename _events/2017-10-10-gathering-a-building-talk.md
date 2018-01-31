@@ -4,6 +4,7 @@ date: 2017-10-10
 time: 2:00 pm
 location: Digital Humanities Lab, SML 316
 thumbnail: /assets/images/events/gathering.jpg
+alt: Digital overhead image of Yale's new residential college overlaid onto a photograph depicting the physical space to be occupied by that building.
 caption: ""
 categories: 
   - Talk

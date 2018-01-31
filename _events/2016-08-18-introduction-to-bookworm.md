@@ -4,6 +4,7 @@ date: 2016-08-18
 time: 2:00 - 3:30 pm
 location: Bass Library, L06
 thumbnail: /assets/images/events/bookworm.jpg
+alt: Bookworm software displays a graph charting the use of the word woman in Vogue magazine over time. The 1970s and early 80s show a huge increase in the word's use.
 caption: ""
 categories: 
   - Workshop
@@ -32,6 +33,6 @@ For the cloud-based version of Bookworm, visit [Culturomics](http://bookworm.cul
    
 To see one deployment of Bookworm in action, check out the n-gram search on Yale's ["Robots Reading Vogue"](http://dh.library.yale.edu/projects/vogue/) project site.
     
-[<img src="http://web.library.yale.edu/sites/default/files/resize/images/BookwormPeter2-300x400.jpg" />](http://web.library.yale.edu/sites/default/files/images/BookwormPeter2.jpg)
+[<img src="http://web.library.yale.edu/sites/default/files/resize/images/BookwormPeter2-300x400.jpg" alt: DHLab director demonstrates Bookworm software in conference space using a Bash terminal displayed on a large screen. />](http://web.library.yale.edu/sites/default/files/images/BookwormPeter2.jpg)
     
-[<img src="http://web.library.yale.edu/sites/default/files/resize/images/BookwormDoug-400x300.jpg" />](http://web.library.yale.edu/sites/default/files/images/BookwormDoug.jpg)
+[<img src="http://web.library.yale.edu/sites/default/files/resize/images/BookwormDoug-400x300.jpg" alt: DHLab worker demonstrates Bookworm data displayed on large screen at front of conference space./>](http://web.library.yale.edu/sites/default/files/images/BookwormDoug.jpg)

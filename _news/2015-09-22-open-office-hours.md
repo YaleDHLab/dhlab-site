@@ -3,6 +3,7 @@ title: "Open Office Hours"
 date: September 22, 2015
 thumbnail: /assets/images/news/office-hours.jpg
 caption: "Digital Humanities Lab"
+alt: Users demonstrating software to students on Apple computer in DHLab during office hours.
 categories: 
   - Office Hours
 spotlight: false 

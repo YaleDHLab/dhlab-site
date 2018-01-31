@@ -4,6 +4,7 @@ date: 2016-06-20
 time: 10:30 - 11:30 am
 location: Yale Center for British Art, Lecture Hall
 thumbnail: /assets/images/events/vintage-computer.jpg
+alt: An old Apple2 computer sits on a desk of similar computers and demonstrates Zig Zag, an old word processing software.
 caption: ""
 categories: 
   - Talk

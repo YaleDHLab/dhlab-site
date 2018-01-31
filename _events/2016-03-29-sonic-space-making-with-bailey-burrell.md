@@ -4,6 +4,7 @@ date: 2016-03-29
 time: 5:30 - 7:30 pm
 location: 203 Luce Hall, 34 Hillhouse Ave
 thumbnail: /assets/images/events/audio-waves.jpg
+alt: Purple image of digital waveform against dark background.
 caption: ""
 categories: 
   - Workshop

@@ -2,6 +2,7 @@
 title: "TEI Workshop with Medieval Manuscripts"
 date: December 11, 2015
 thumbnail: /assets/images/events/medieval-manuscripts.jpg
+alt: Embroidered medieval manuscript showing a saint and demon against a pastoral background, with Latin writing around the image, including rubricated lettering.
 caption: "Medieval Manuscript Roll, Beinecke and DHLab"
 categories: 
   - Workshop

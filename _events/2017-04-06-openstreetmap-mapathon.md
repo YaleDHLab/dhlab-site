@@ -4,6 +4,7 @@ date: 2017-04-06
 time: 4:00 - 6:00 pm
 location: 17 Hillhouse Ave, Room 101
 thumbnail: /assets/images/events/map-nyc.jpg
+alt: An overhead image of Manhattan Island and surrounding burroughs marked in green and black.
 caption: ""
 categories: 
   - Symposium
