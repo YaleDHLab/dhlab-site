@@ -2,7 +2,7 @@
   <div id='grid-target' class='grid-target'></div>
 </div>
 <script>
-  var items = [
+  var {{ include.var }} = [
     {%- for item in include.items %}
       {% include json/jsonify_item.html item=item %}
     {%- endfor %}

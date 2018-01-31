@@ -4,6 +4,11 @@ image: /assets/images/projects/originals/dhrees.jpg
 thumbnail: /assets/images/projects/thumbs/dhrees-thumb.jpg
 project_url: http://dhrees.yale.edu  
 
+tags:
+  - Languages
+  - Literature
+  - Modernism
+
 team:
   - name: Marijeta Bozovic
     position: Slavic Languages and Literatures; Film & Media Studies; Women's, Gender, & Sexuality Studies; Principal Investigator
