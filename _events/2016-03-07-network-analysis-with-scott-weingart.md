@@ -4,13 +4,10 @@ date: 2016-03-07
 time: 1:00 - 5:00 pm
 location: Bass Library L06
 thumbnail: /assets/images/events/networks2.jpg
-<<<<<<< HEAD
 alt: Vector image against purple background.
   - Talks
-=======
 categories: 
   - Talk
->>>>>>> 1d04b17c903510aac8e37b2eb99da8c9eb8936a9
 tags:
   - Network Analysis
 spotlight: false 
