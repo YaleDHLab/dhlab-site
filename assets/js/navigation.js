@@ -11,7 +11,8 @@
 
   const navicon = document.querySelector('.navicon'),
     mobileClose = document.querySelector('.close-mobile-header'),
-    containers = document.querySelectorAll('.link');
+    containers = document.querySelectorAll('.link'),
+    expandNavButtons = document.querySelectorAll('.link-expand-button');
 
   /**
   * Toggle navicon visibility
@@ -54,7 +55,9 @@
     try {
       /* Projects is a special case as it has no children */
       const parentClass = e.target.parentNode.className;
-      if (parentClass.includes('link') && !parentClass.includes('projects') && window.innerWidth < 900) {
+      if (parentClass.includes('link') &&
+          !parentClass.includes('projects') &&
+          window.innerWidth < 900) {
         e.preventDefault();
         e.stopPropagation();
       }
@@ -65,6 +68,17 @@
       ? elem.className.replace(' active ', '')
       : elem.className + ' active ';
   }
+
+  /**
+  * On click of hidden buttons, show/hide nav subitems (for accessibility)
+  **/
+
+  expandNavButtons.forEach((b) => b.addEventListener('click', (e) => {
+    expandNavButtons.forEach((b) => {
+      b.parentNode.className = b.parentNode.className.replace(' expanded', '');
+    })
+    e.target.parentNode.className = e.target.parentNode.className + ' expanded';
+  }))
 
   /**
   * Main
