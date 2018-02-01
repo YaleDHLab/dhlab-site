@@ -6,62 +6,38 @@ title: Projects
 
 {% for project in site.projects %}
   {% if project.featured %}
-    {% assign project = project %}
+    {% assign featured_project = project %}
   {% endif %}
 {% endfor %}
 
-{% assign image_url = project.image | prepend: site.baseurl %}
+{% assign image_url = featured_project.image | prepend: site.baseurl %}
 {% include heroes/captioned_hero.html
-  label='Feature'
-  title=project.title
-  image=image_url
-  caption=project.caption
-  deeplink=project.url
+  label = 'Feature'
+  title = featured_project.title
+  image = image_url
+  caption = featured_project.caption
+  deeplink = featured_project.url
 %}
 
+{% assign projects = '' | split: '' %}
 {% assign n_projects = 0 %}
 {% for project in site.projects %}
   {% unless project.featured or project.funded or project.layout == 'archive' %}
     {% assign n_projects = n_projects | plus: 1 %}
+    {% assign projects = projects | push: project %}
   {% endunless %}
 {% endfor %}
 
-{% assign counter = 0 %}
+<script>
+  var projects = [
+    {%- for item in projects %}
+      {% include json/jsonify_item.html item=item %}
+    {%- endfor %}
+  ];
+</script>
+
 <div class='center-column'>
-  <div class='projects-container' role='main'>
-    <div class='mobile section-title'>LAB PROJECTS</div>
-    {% for project in site.projects %}
-      {% unless project.featured or project.funded or project.layout == 'archive' %}
-        {% assign category = project.categories | first %}
-        {% assign mod = counter | modulo:2 %}
-        {% if mod == 0 %}
-        <div class='two-column-container half-width'>
-        {% endif %}
-          <div class={% cycle 'left-column', 'right-column' %}>
-            <div class='project-image-container desktop-project'>
-              <a href='{{ project.url | prepend: site.baseurl }}'>
-                {% assign image_url = project.thumbnail | prepend: site.baseurl %}
-                <div class='background-image blur-container'
-                  style='background-image:url("{{ image_url }}")'>
-                  {% include cards/card_title_box.html
-                    label=category
-                    title=project.title
-                  %}
-                </div>
-              </a>
-            </div>
-            {% include cards/mobile_project_card.html item=project %}
-          </div>
-          {% assign counter = counter | plus: 1 %}
-          {% if counter == n_projects and mod == 0 %}
-            <div class='right-column'></div>
-          {% endif %}
-        {% if mod==1 %}
-        </div>
-        {% endif %}
-      {% endunless %}
-    {% endfor %}
-  </div>
+  <div class='projects-container' role='main' id='dhlab-projects'></div>
 
   {% assign items = site.projects | where: 'layout', 'archive' %}
   

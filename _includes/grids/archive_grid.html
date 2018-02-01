@@ -11,7 +11,7 @@
   </div>
   <div class='mobile section-title'>{{ include.label }}</div>
   {% if include.render == 'json' %}
-    {% include json/jsonify_items.html items=items %}
+    {% include json/jsonify_items.html items=items var='items' %}
   {% else %}
     {% for item in include.items | sort: 'order' %}
       {% assign url = item.url | prepend: site.baseurl %}

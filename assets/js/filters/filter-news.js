@@ -7,6 +7,7 @@ import { filter } from './filter.js';
     elemSelector: '.archive-item',
     field1: 'tags',
     field2: 'sort-by',
-    type: 'news'
+    type: 'news',
+    items: window.items,
   });
 })()

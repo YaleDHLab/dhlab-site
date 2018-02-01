@@ -14,6 +14,9 @@ team:
 categories:
   - Geospatial Analysis
 
+tags:
+  - Archives
+
 dhlab_project: true
 ---
 

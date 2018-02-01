@@ -3,7 +3,7 @@ process: true
 ---
 
 import _ from 'lodash';
-import { renderArchive, renderNews } from './render';
+import { renderArchive, renderNews, renderProjects } from './render';
 
 // polyfill to ensure doc.querySelectorAll returns array
 NodeList.prototype.forEach = Array.prototype.forEach;
@@ -11,7 +11,7 @@ NodeList.prototype.forEach = Array.prototype.forEach;
 export const filter = (config) => {
 
   const bindEventListeners = () => {
-    [id1, id2].forEach((selector) => {
+    ['#' + config.field1, '#' + config.field2].forEach((selector) => {
       const elem = document.querySelector(selector);
       elem.addEventListener('change', refilter);
     })
@@ -20,20 +20,19 @@ export const filter = (config) => {
   const refilter = () => {
     let selected = {};
     let itemsToRender = [];
-    selected[field1] = document.querySelector(id1).value;
-    selected[field2] = document.querySelector(id2).value;
-    items.map((item) => {
+    selected[config.field1] = document.querySelector('#' + config.field1).value;
+    selected[config.field2] = document.querySelector('#' + config.field2).value;
+    config.items.map((item) => {
       let fields = [];
-      [field1, field2].map((f) => {
+      [config.field1, config.field2].map((f) => {
         if (f !== 'sort-by') fields.push(f)
       });
       let render = true;
       fields.map((field) => {
         const fieldVals = item[field];
-        if (selected[field].toLowerCase() !== 'all') {
-          if (!_.includes(fieldVals, selected[field])) {
-            render = false;
-          }
+        if (selected[field].toLowerCase() !== 'all' &&
+            !_.includes(fieldVals, selected[field])) {
+          render = false;
         }
       })
       if (render) itemsToRender.push(item);
@@ -46,10 +45,25 @@ export const filter = (config) => {
   **/
 
   const renderItems = (itemsToRender) => {
-    document.querySelector(target).innerHTML = '';
-    type === 'archive'
-      ? renderArchive(target, itemsToRender)
-      : renderNews(target, itemsToRender);
+    const renderTarget = document.querySelector(config.target);
+    if (!renderTarget) {
+      console.warn('render target is not available:', config.target);
+      return;
+    }
+    renderTarget.innerHTML = '';
+    switch(config.type) {
+      case 'archive':
+        renderArchive(config.target, itemsToRender)
+        break;
+
+      case 'project':
+        renderProjects(config.target, itemsToRender)
+        break;
+
+      default:
+        renderNews(config.target, itemsToRender)
+        break;
+    }
   }
 
   /**
@@ -57,14 +71,10 @@ export const filter = (config) => {
   **/
 
   const findExtantValues = () => {
-    items.map((item) => {
-      [field1, field2].map((field) => {
+    config.items.map((item) => {
+      [config.field1, config.field2].map((field) => {
         const fieldVals = item[field];
-        if (fieldVals) {
-          fieldVals.map((val) => {
-            values[field].push(val);
-          })
-        }
+        if (fieldVals) fieldVals.map((val) => values[field].push(val))
       })
     })
   }
@@ -87,13 +97,15 @@ export const filter = (config) => {
   * Helper that sorts items if necessary
   **/
 
-  const sortItems = (items) => {
+  const sortItems = (arr) => {
     const sortBy = document.querySelector('#sort-by');
-    return sortBy ? _.chain(items).sortBy(sortBy.value).reverse().value() : items;
+    return sortBy ?
+        _.chain(arr).sortBy(sortBy.value).reverse().value()
+      : arr;
   }
 
   /**
-  * Filter a given select by query params if present
+  * Set the state of a select using query params on page load
   **/
 
   const filterByQueryParams = () => {
@@ -103,46 +115,42 @@ export const filter = (config) => {
       const split = q.split('=');
       const key = decodeURIComponent(split[0]);
       const val = decodeURIComponent(split[1]);
-      if (key === field1) {
-        document.querySelector(id1).value = val;
-      } else if (key === field2) {
-        document.querySelector(id2).value = val;
+      if (key === config.field1) {
+        document.querySelector('#' + config.field1).value = val;
+      } else if (key === config.field2) {
+        document.querySelector('#' + config.field2).value = val;
       }
     })
   }
 
   /**
   * Globals
+  *
+  * All configuration is defined in a single incoming object `config`
+  *   config.target - selector for the element that will render all children
+  *   config.field1 - string for the first selector id used for filtering
+  *   config.field2 - string for the second selector id used for filtering
+  *   config.type - string that determines the kind of objects rendered
+  *   config.items - list of objects to filter and render
+  *   config.setFilters - (optional) should we initialize the selects?
   **/
 
-  // All configuration is defined in a single incoming object `config`
-  var items = window.items || [];
-  var config = config || {};
-  const target = config.target || '#grid-target';
-  const field1 = config.field1 || 'categories';
-  const field2 = config.field2 || 'tags';
-  const type = config.type || 'archive';
+  // Items to render - inlined in page source :yeehaw:
+  const setFilters = config.setFilters || true;
 
-  // Selector ids are identical to the item field they search
-  const id1 = '#' + field1;
-  const id2 = '#' + field2;
-
-  // Ensure the required params are present
-  if (!id1 ||
-      !id2 ||
-      !document.querySelector(id1) ||
-      !document.querySelector(id2)) return;
-
-  // App State
+  // App state
   let values = {};
-  values[field1] = [];
-  values[field2] = [];
+  values[config.field1] = [];
+  values[config.field2] = [];
 
   // Initialize listeners and renders
   findExtantValues();
-  addOptions(id1, values[field1]);
-  addOptions(id2, values[field2]);
-  bindEventListeners();
-  filterByQueryParams();
+  if (setFilters) {
+    addOptions('#' + config.field1, values[config.field1]);
+    addOptions('#' + config.field2, values[config.field2]);
+    bindEventListeners();
+    filterByQueryParams();
+  }
+
   refilter();
 };
