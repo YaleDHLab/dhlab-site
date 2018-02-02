@@ -27,9 +27,15 @@ title: Welcome
               style='background-image: url({{ image_url }})'>
             {% include events/event_date.html event=event %}
             {% assign label=event.categories | first %}
-            {% include cards/card_title_box.html
-              label=label
-              title=event.title %}
+            {% if event.short_title %}
+                {% include cards/card_title_box.html
+                  label=label
+                  title=event.short_title %}
+                {% else %}
+                {% include cards/card_title_box.html
+                  label=label
+                  title=event.title %}
+            {% endif %}
           </div>
         </a>
       {% endfor %}
