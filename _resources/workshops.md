@@ -4,7 +4,7 @@ order: 3
 layout: resource
 image: '/assets/images/banners/workshop.jpg'
 caption: |
-  Photo from a network analysis workshop led by guest instructor Scott Weingart. Photo by Michael Marsland.
+  Network analysis workshop led by guest instructor Scott Weingart. Photo by Michael Marsland.
 include_workshops: true
 ---
 
