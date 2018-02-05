@@ -2,6 +2,6 @@
 {% assign sorted_events = '' | split: '' %}
 {% for event in events reversed %}
   {% unless event.render == false %} 
-   {% assign sorted_events = sorted_events | push: event %}
+    {% assign sorted_events = sorted_events | push: event %}
   {% endunless %}
 {% endfor %}

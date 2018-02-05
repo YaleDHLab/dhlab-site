@@ -1,6 +1,6 @@
 {% for news_item in site.news reversed %}
   {% if news_item.spotlight %}
-     {% assign item = news_item %}
+    {% assign item = news_item %}
   {% endif %}
 {% endfor %}
 {% unless item %}
