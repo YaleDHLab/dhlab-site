@@ -4,7 +4,9 @@
 <script>
   var {{ include.var }} = [
     {%- for item in include.items %}
-      {% include json/jsonify_item.html item=item %}
+      {% unless item.render == false %}  
+        {% include json/jsonify_item.html item=item %}
+      {% endunless %}
     {%- endfor %}
   ];
 </script>
