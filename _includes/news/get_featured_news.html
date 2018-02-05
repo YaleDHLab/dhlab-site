@@ -1,8 +1,8 @@
-{%- for news_item in site.news reversed %}
-  {%- if news_item.spotlight %}
-    {%- assign item = news_item %}
-  {%- endif %}
-{%- endfor %}
-{%- unless item %}
-  {%- assign item = site.news | reverse | first %}
-{%- endunless %}
+{% for news_item in site.news reversed %}
+  {% if news_item.spotlight %}
+    {% assign item = news_item %}
+  {% endif %}
+{% endfor %}
+{% unless item %}
+  {% assign item = site.news | reverse | first %}
+{% endunless %}

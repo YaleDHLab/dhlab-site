@@ -34,7 +34,7 @@ title: News
       {{ submit_news }}
     </div>
     {% endcapture %}
-
+    
     {% capture button_prompt %}
     <div class='button-prompt'>
       Subscribe to receive the latest DHLab news and events.
@@ -43,13 +43,11 @@ title: News
       <b>Sign up for E-News</b>
     </a>
     {% endcapture %}
-
-    {% include cards/news_card.html
-      item=item
-      square_html=square_html
-      button_prompt=button_prompt
-    %}
+        {% include cards/news_card.html
+          item=item
+          square_html=square_html
+          button_prompt=button_prompt
+        %}
   </section>
-
-  {% include json/jsonify_items.html items=site.news var='items' %}
+        {% include json/jsonify_items.html items=site.news var='items' %}
 </div>
