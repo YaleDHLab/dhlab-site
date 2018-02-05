@@ -7,7 +7,12 @@
       {% assign url = item.url | prepend: site.baseurl %}
       <div class='block block-{{ forloop.index }}'>
         <a href='{{ url }}'>
-          <h2>{{ item.title }}</h2>
+          <h2>
+          {% if item.short_title %}
+            {{ item.short_title }}
+          {% else %}
+            {{ item.title }}
+          {% endif %}</h2>
         </a>
         <div class='small-uppercase'>{{ item.date | date: '%b %d' }}</div>
         <p>{{ item.content | markdownify | strip_html | truncatewords: 30 | replace_first:'Overview ','' }}</p>
