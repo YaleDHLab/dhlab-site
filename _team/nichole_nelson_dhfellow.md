@@ -2,7 +2,7 @@
 name: Nichole Nelson
 role: DH Fellow
 image: /assets/images/about/nnelson_dhfellow.jpg
-order: 2
+order: 3
 group: teaching_fellow
 ---
 
