@@ -136,7 +136,7 @@ export const filter = (config) => {
   **/
 
   // Items to render - inlined in page source :yeehaw:
-  const setFilters = config.setFilters || true;
+  const setFilters = 'setFilters' in config ? config.setFilters : true;
 
   // App state
   let values = {};
