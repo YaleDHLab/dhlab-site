@@ -26,20 +26,23 @@ import moment from 'moment';
     });
 
     // hours are served as an ordered array over time
-    let open = parseHour(hours[0].opens);
-    let close = parseHour(hours[ hours.length-1 ].closes);
+    let open = parseHour(hours[0].opens) + ' - ' + parseHour(hours[0].closes);
+    let close = parseHour(hours[ hours.length-1 ].opens) + ' - ' +
+      parseHour(hours[ hours.length-1 ].closes);
 
     // add the hours to the page
     const timeElem = document.querySelector('#open-hours');
-    timeElem.innerHTML = open + ' - ' + close;
+    timeElem.innerHTML = open + ' & ' + close;
   };
 
   const parseHour = (time) => {
     const split = time.split(':');
     const hours = parseInt(split[0]);
     const minutes = split[1];
-    const suffix = hours > 12 ? 'pm' : 'am';
-    return (hours % 12) + ':' + minutes + ' ' + suffix;
+    const suffix = hours >= 12 ? 'pm' : 'am';
+    let hour = hours % 12;
+    if (hour === 0) hour = 12;
+    return hour + ':' + minutes + ' ' + suffix;
   }
 
   const requestHours = () => {
