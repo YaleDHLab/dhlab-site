@@ -33,6 +33,7 @@ categories:
 tags:
   - Virtual Reality
   - Archives
+  - Literature
 
 dhlab_project: true
 ---
@@ -43,11 +44,13 @@ dhlab_project: true
  
 While the Hudson House has always been a private space, this project provides, through a website highlighting Ashbery’s creation of each room (including photographs, biographical details, archival records, and audio clips of Ashbery and his partner, David Kermani, discussing each room), both crucial documentation and an experience of how he has used and imagined the home. Links to related poetic texts demonstrate how deeply objects and houses have resonated in Ashbery’s artistic life. 
 
-Using new virtual reality technologies to explore rooms and interact with objects inside the house, this project—which begins with a prototype view of the Center Hall—enables users to experience the intimacy of being in “the middle of things,” a reality that echoes in Ashbery’s greatest poems.  
+Using new virtual reality technologies to explore rooms and interact with objects inside the house, this project—which begins with a prototype view of the Center Hall—enables users to experience the intimacy of being in "the middle of things," a reality that echoes in Ashbery’s greatest poems.  
 
-A collaboration by the Yale Digital Humanities Lab, VRH Solutions, and Yale ITS, each room will include 360 degree photography, panoramas, and still photography. A viewer will be able to:
+A collaboration by the Yale Digital Humanities Lab, VRH Solutions, and Yale ITS, each room will include 360-degree photography, panoramas, and still photography. A viewer will be able to:
 
 * move through each room and view objects closely
 * listen to audio of John Ashbery and David Kermani discussing the provenance of objects
 * read additional archival information on objects and rooms
-* explore links to related Ashbery poems to highlight the relationship between physical objects and poetic imagination.
+* explore links to related Ashbery's poems to highlight the relationship between physical objects and poetic imagination.
+
+*This project was funded in part by Yale Digital Humanities Lab Project and Software Development Seed Grants*

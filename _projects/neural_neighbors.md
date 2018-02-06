@@ -17,6 +17,9 @@ team:
 categories:
   - Visual Analysis
 
+tags:
+  - Photographs
+
 dhlab_project: true
 ---
 

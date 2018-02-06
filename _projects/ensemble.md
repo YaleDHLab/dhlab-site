@@ -1,6 +1,6 @@
 ---
 featured: true
-title: 'Ensemble: Crowdsource Yale Theatre History'
+title: 'Ensemble: Crowdsource Yale Theater History'
 image: /assets/images/projects/originals/ensemble.jpg
 thumbnail: /assets/images/projects/thumbs/ensemble-thumb.jpg
 caption: >
@@ -18,17 +18,15 @@ categories:
 
 tags:
   - Archives
-  - Modernism
 
 dhlab_project: true
 ---
 
 ### Overview
 
-Ensemble @ Yale is an experiment with crowdsourced transcription of 90 years of programs from the Yale School of Drama, Yale Repertory Theatre, and other theatrical groups on campus. The project enlists users to extract crucial relationship information from programs: Which actors and directors worked together? Which playwrights' works have been produced the most often at Yale? Which actors have played major roles onstage at Yale? Simple OCR (Optical Character Recognition) would not be able to discover complex semantic relationships, but human users can do so while they browse through the archive.
+*Ensemble @ Yale* is an experiment with crowdsourced transcriptions of 90 years of programs from the Yale School of Drama, Yale Repertory Theatre, and other theatrical groups on campus. The project enlists users to extract crucial relationship information from programs: which actors and directors worked together? which playwrights' works have been produced the most often on campus? which actors have played major roles onstage at Yale? Simple optical character recognition (OCR) cannot discover such complex semantic relationships, but human users can do so while they browse through the archive.
 
-Ensemble @ Yale would not be possible without the pioneering Ensemble software, a project of NYPL Labs and The New York Public Library for the Performing Arts. We are thankful to the New York Public Library for their advice, efforts and expertise.
 
 ### Methods &amp; Tools
 
-Ensemble @ Yale would not be possible without the pioneering Ensemble software, a project of [NYPL Labs](https://www.nypl.org/collections/labs) and [The New York Public Library for the Performing Arts](https://www.nypl.org/locations/lpa). We are thankful to the New York Public Library for their advice, efforts and expertise.
+*Ensemble @ Yale* would not be possible without the pioneering *Ensemble* software, a project of <a href='https://www.nypl.org/collections/labs' target='_blank'>NYPL Labs</a> and <a href='https://www.nypl.org/locations/lpa' target='_blank'>The New York Public Library for the Performing Arts</a>. We are thankful to the New York Public Library for their advice, efforts, and expertise.
