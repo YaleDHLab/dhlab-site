@@ -4055,6 +4055,10 @@ br + .tags,
     padding-bottom: 0;
   }
 
+  .projects-page select {
+    display: none;
+  }
+
   .projects-page .center-column {
     padding: 30px;
   }
