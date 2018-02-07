@@ -29,13 +29,13 @@ class: resource-detail-page
   </div>
   {% if page.include_workshops %}
     <div class='resource-page-workshops'>
-      {% include events/get_future_events.html category='Workshops' %}
+      {% include events/get_future_events.html category='Workshop' %}
       {% include resources/workshops.html
         items=future_events
         label='Upcoming Workshops'
       %}
 
-      {% include events/get_past_events.html category='Workshops' %}
+      {% include events/get_past_events.html category='Workshop' %}
       {% include resources/workshops.html
         items=past_events
         label='Past Workshops'
