@@ -27,16 +27,16 @@ apply_button: hidden
         title=page.title
       %}
 
-      <p>During 2015-2018, the Digital Humanities Lab (DHLab) at Yale University Library invited applications for 12-month Postdoctoral Associate positions for each academic year. We sought energetic and creative applicants who demonstrated innovative thinking and a proactive approach to the questions that digital humanities methods, approaches, tools, and theories raise in their academic disciplines.</p>
+      <p>During 2015–2018, the Digital Humanities Lab (DHLab) at Yale University Library invited applications for 12-month Postdoctoral Associate positions for each academic year. We sought energetic and creative applicants who demonstrated innovative thinking and a proactive approach to the questions that digital humanities methods, approaches, tools, and theories raise in their academic disciplines.</p>
 
-      <p>The focus of these positions was on a research project defined by the applicant. Scholars with a background in any humanities discipline were eligible to apply. For the 2017-2018 academic year, the committee especially encouraged applicants with a research focus in:
+      <p>The focus of these positions was on a research project defined by the applicant. Scholars with a background in any humanities discipline were eligible to apply. For the 2017–2018 academic year, the committee especially encouraged applicants with a research focus in:
         <ul>
           <li>Visual Culture, Art, and/or History of Art</li>
           <li>Holocaust and Genocide Studies, Twentieth-Century European History and Literature, and/or Jewish Studies</li>
         </ul>
       </p>
 
-      <p>Each Postdoctoral Associate had a dedicated workspace in the DHLab in Sterling Memorial Library; the opportunity to collaborate with technical staff, including a DH Developer and UX Designer; and a budget for computing equipment, professional development, and relocation expenses. The Postdoctoral Associate's primary responsibility was to his or her own research project. Candidates were also active participants in the intellectual life of the DHLab. One of the three Postdoctoral Associate positions in 2017-2018 was a joint appointment with Yale's Fortunoff Video Archive for Holocaust Testimonies (FVAHT).</p>
+      <p>Each Postdoctoral Associate had a dedicated workspace in the DHLab in Sterling Memorial Library; the opportunity to collaborate with technical staff, including a DH Developer and UX Designer; and a budget for computing equipment, professional development, and relocation expenses. The Postdoctoral Associate's primary responsibility was to his or her own research project. Candidates were also active participants in the intellectual life of the DHLab. One of the three Postdoctoral Associate positions in 2017–2018 was a joint appointment with Yale's Fortunoff Video Archive for Holocaust Testimonies (FVAHT).</p>
     </div>
   </div>
 
