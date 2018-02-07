@@ -17,6 +17,7 @@ team:
 categories:
   - Text Analysis
   - Visual Analysis
+  - Web Applications
 
 tags:
   - Literature

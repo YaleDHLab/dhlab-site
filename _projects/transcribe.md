@@ -16,6 +16,7 @@ team:
 
 categories:
   - Crowdsourced Data
+  - Web Applications
 
 tags:
   - Archives

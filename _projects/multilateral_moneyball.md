@@ -8,8 +8,6 @@ team:
 categories:
   - Text Analysis
 
-tags:
-  - Political Science
 ---
 
 ### Overview

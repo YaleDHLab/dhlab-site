@@ -17,6 +17,7 @@ team:
 
 categories:
   - Geospatial Analysis
+  - Web Applications
 ---
 
 ### Overview

@@ -1,14 +1,7 @@
 <section id='archive-grid' class='archive-grid' aria-label='related'>
-  <div class='filters'>
-    <h3>{{ include.label }}</h3>
-    <select id='categories' aria-label='filter categories'>
-      <option value='ALL'>All Types</option>
-    </select>
-    <select id='tags' aria-label='filter tags'>
-      <option value='ALL'>All Topics</option>
-    </select>
-    <hr/>
-  </div>
+  {% unless include.filters == false %}
+    {% include filters.html label=include.label %}
+  {% endunless %}
   <div class='mobile section-title'>{{ include.label }}</div>
   {% if include.render == 'json' %}
     {% include json/jsonify_items.html items=items var='items' %}

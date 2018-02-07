@@ -80,16 +80,22 @@ export const filter = (config) => {
   }
 
   /**
-  * Helper to render each select's options
+  * Helper to render all new options to each select
   **/
 
   const addOptions = (selector, options) => {
     const parent = document.querySelector(selector);
+    const elems = document.querySelector(selector).querySelectorAll('option');
+    let extant = [];
+    elems.forEach((e) => extant.push(e.textContent.trim()))
+
     _.uniq(options).map((option) => {
-      let child = document.createElement('option');
-      child.setAttribute('value', option);
-      child.text = option;
-      parent.appendChild(child);
+      if (extant.indexOf(option) === -1) {
+        let child = document.createElement('option');
+        child.setAttribute('value', option);
+        child.text = option;
+        parent.appendChild(child);
+      }
     })
   }
   
@@ -135,9 +141,6 @@ export const filter = (config) => {
   *   config.setFilters - (optional) should we initialize the selects?
   **/
 
-  // Items to render - inlined in page source :yeehaw:
-  const setFilters = 'setFilters' in config ? config.setFilters : true;
-
   // App state
   let values = {};
   values[config.field1] = [];
@@ -145,12 +148,9 @@ export const filter = (config) => {
 
   // Initialize listeners and renders
   findExtantValues();
-  if (setFilters) {
-    addOptions('#' + config.field1, values[config.field1]);
-    addOptions('#' + config.field2, values[config.field2]);
-    bindEventListeners();
-    filterByQueryParams();
-  }
-
+  addOptions('#' + config.field1, values[config.field1]);
+  addOptions('#' + config.field2, values[config.field2]);
+  bindEventListeners();
+  filterByQueryParams();
   refilter();
 };
