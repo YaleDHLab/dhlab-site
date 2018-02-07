@@ -66,13 +66,13 @@ _projects:
   required:
     - title
     - thumbnail
-    - team
   optional:
     - layout
     - categories
     - tags
     - class
     - project_url
+    - team
 
 _resources:
   required:
