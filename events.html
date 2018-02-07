@@ -23,7 +23,7 @@ title: Events
     </section>
   {% endif %}
 
-  {% assign items = site.events | where: 'categories' , 'Workshops' | sort: 'date' | reverse | limit: 3 %}
+  {% assign items = site.events | where: 'categories' , 'Workshop' | sort: 'date' | reverse | limit: 3 %}
   {% include text/three_text_blocks.html
     items=items
     label='WORKSHOPS'

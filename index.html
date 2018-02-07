@@ -19,8 +19,8 @@ title: Welcome
       <div class='home-section-title'>EVENTS CALENDAR</div>
     </a>
     <div class='home-events-container hide-tablet'>
-      {% include events/get_sorted_events.html %}
-      {% for event in sorted_events reversed limit:3 %}
+      {% include events/get_future_events.html %}
+      {% for event in future_events limit:3 %}
         <a href='{{ event.url | prepend: site.baseurl }}' class='hide-tablet'>
           {% assign image_url = event.thumbnail | prepend: site.baseurl %}
           <div class='home-event-image background-image event-date-container blur-container'
