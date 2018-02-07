@@ -13,6 +13,7 @@ tags:
   - Network Analysis
   - Coding
   - Geospatial Analysis
+permalink: '/bb2018/'
 teaser: >
   How can virtual reality technologies help us understand poetry? What does music reveal about the brain? Find out at this year's Beyond Boundaries: An Annual Symposium on Hybrid Scholarship at Yale.
 ---

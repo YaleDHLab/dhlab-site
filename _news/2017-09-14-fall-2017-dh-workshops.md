@@ -11,6 +11,7 @@ tags:
   - Pedagogy
 spotlight: false
 image_layout: landscape
+permalink: '/fall-2017-workshops/'
 teaser: |
   Looking for new ways to collect, analyze, and present humanities data? Try one or more of these DH-related workshops this fall!
 ---
