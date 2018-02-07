@@ -26,8 +26,8 @@ import moment from 'moment';
     });
 
     // hours are served as an ordered array over time
-    let open = parseHour(hours[0].opens) + ' - ' + parseHour(hours[0].closes);
-    let close = parseHour(hours[ hours.length-1 ].opens) + ' - ' +
+    let open = parseHour(hours[0].opens) + '–' + parseHour(hours[0].closes);
+    let close = parseHour(hours[ hours.length-1 ].opens) + '–' +
       parseHour(hours[ hours.length-1 ].closes);
 
     // add the hours to the page
