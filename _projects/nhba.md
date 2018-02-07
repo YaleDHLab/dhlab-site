@@ -14,6 +14,7 @@ team:
 
 categories:
   - Geospatial Analysis
+  - Web Applications
 
 tags:
   - Architecture

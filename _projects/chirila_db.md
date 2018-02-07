@@ -14,6 +14,7 @@ team:
 categories:
   - Geospatial Analysis
   - Text Analysis
+  - Web Applications
 
 tags:
   - Linguistics

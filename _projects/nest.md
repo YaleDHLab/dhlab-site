@@ -28,10 +28,9 @@ team:
 project_url: http://ashberyhouse.yale.edu
 
 categories:
-  - 360 Environments
+  - Web Applications
 
 tags:
-  - Virtual Reality
   - Archives
   - Literature
 

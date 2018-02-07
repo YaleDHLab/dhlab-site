@@ -16,6 +16,7 @@ team:
 
 categories:
   - Visual Analysis
+  - Web Applications
 
 tags:
   - Photographs

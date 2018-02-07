@@ -27,6 +27,7 @@ team:
 categories:
   - Geospatial Analysis
   - Visual Analysis
+  - Web Applications
 
 tags:
   - Archives

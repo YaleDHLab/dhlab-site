@@ -27,7 +27,6 @@ team:
     position: Beinecke Rare Book & Manuscript Library
 
 categories:
-  - Network Analysis
   - Text Analysis
 
 dhlab_project: true

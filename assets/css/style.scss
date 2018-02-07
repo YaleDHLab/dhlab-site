@@ -4005,6 +4005,11 @@ br + .tags,
   margin-bottom: 70px;
 }
 
+.projects-page .project-filters select {
+  float: right;
+  margin-left: 7px;
+}
+
 .projects-container .two-column-container .left-column,
 .projects-container .two-column-container .right-column {
   padding-top: 20px;
@@ -4033,6 +4038,10 @@ br + .tags,
   right: 0;
 }
 
+.projects-page hr {
+  padding-bottom: 0;
+}
+
 .mobile-project {
   display: none;
 }
@@ -4044,6 +4053,10 @@ br + .tags,
 
   .projects-page .hero-link {
     padding-bottom: 0;
+  }
+
+  .projects-page select {
+    display: none;
   }
 
   .projects-page .center-column {

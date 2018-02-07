@@ -42,10 +42,9 @@ projects:
   categories:
     - Crowdsourced Data
     - Geospatial Analysis
-    - Network Analysis
     - Text Analysis
     - Visual Analysis
-    - 360 Environments
+    - Web Applications
   tags:
     - Architecture
     - Archives
@@ -56,5 +55,4 @@ projects:
     - Manuscripts
     - Medieval
     - Photographs
-    - Political Science
     - Virtual Reality

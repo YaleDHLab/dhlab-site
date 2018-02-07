@@ -18,7 +18,6 @@ import { filter } from './filter.js';
     field2: 'tags',
     type: 'project',
     items: window.projects,
-    setFilters: false,
   });
 
 })()
