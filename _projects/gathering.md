@@ -15,6 +15,7 @@ categories:
   - Geospatial Analysis
 
 tags:
+  - Architecture  
   - Archives
 
 dhlab_project: true
@@ -34,7 +35,7 @@ The new colleges expand upon the architectural tradition established by James Ga
 
 ### Material Journeys
 
-No less than the ingredients on one's dinner plate, each building material or component can be traced back through a chain of suppliers, fabricators, and producers, revealing both economic and ecological processes. This section seeks to map the journeys of several architectural materials, revealing wider geographies set in motion by the process of building.
+No different than the ingredients on one's dinner plate, each building material or component can be traced back through a chain of suppliers, fabricators, and producers, revealing both economic and ecological processes. This section seeks to map the journeys of several architectural materials, revealing wider geographies set in motion by the process of building.
 
 ### People and Buildings
 
