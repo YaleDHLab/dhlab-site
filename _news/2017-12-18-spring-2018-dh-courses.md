@@ -8,6 +8,7 @@ categories:
   - Courses
 spotlight: false 
 image_layout: simple
+permalink: '/spring-2018-courses/'
 teaser: |
   Looking for classes to take this spring? Here are some exciting DH-related courses that will be offered!
 ---

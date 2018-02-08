@@ -13,6 +13,7 @@ tags:
   - Network Analysis
   - Coding
   - Geospatial Analysis
+permalink: '/bb2018/'
 teaser: >
   How can virtual reality technologies help us understand poetry? What does music reveal about the brain? Find out at this year's Beyond Boundaries: An Annual Symposium on Hybrid Scholarship at Yale.
 ---
@@ -28,20 +29,20 @@ For projects from previous years, please visit: <a href='{{ site.baseurl }}/even
 
 ### Schedule
 
-9:30am - 9:55am - Coffee, refreshments, sign in
+9:30 am–9:55 am — Coffee, refreshments, sign in
 No advanced registration is required; the whole event is open to the public
  
-9:55am - 10:00am - Welcome
+9:55 am–10:00 am — Welcome
 Peter Leonard, Director of the Digital Humanities Lab
  
-10:00am - 11:00am - Lightning talks
+10:00 am–11:00 am — Lightning talks
 Presentations by undergraduate and graduate students
  
-11:00am - 12:00pm - Roundtable discussion
+11:00 am–12:00 pm — Roundtable discussion
 Presentations by faculty and staff on the benefits and challenges digital methods pose for research and teaching
  
-12:00pm - 12:05pm - Closing remarks
+12:00 pm–12:05 pm — Closing remarks
 Susan Gibbons, University Librarian and Deputy Provost for Libraries & Scholarly Communication
  
-12:05pm - 1:00pm - Poster session
+12:05 pm–1:00 pm — Poster session
 Showcase of projects by students, faculty, and staff
