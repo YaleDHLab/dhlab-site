@@ -14,8 +14,7 @@
   "scripts": {
     "compress": "./node_modules/webpack/bin/webpack.js --config webpack.config.js",
     "build": "bundle exec jekyll build",
-    "deploy": "cp -r _site ~ && git checkout gh-pages && rm -r * && mv ~/_site/* . && git add . && git commit -m 'update gh-pages' && git push origin gh-pages && git checkout master",
-    "deploy-aws": "npm run dhlab-deploy && npm run digitalhumanities-deploy",
+    "deploy": "npm run dhlab-deploy && npm run digitalhumanities-deploy",
     "dhlab-deploy": "aws s3 cp _site/ s3://dhlab.yale.edu/ --include '*' --acl public-read --cache-control max-age=604800 --recursive --metadata-directive='REPLACE' --profile yale-admin",
     "digitalhumanities-deploy": "aws s3 cp _site/ s3://digitalhumanities.yale.edu/ --include '*' --acl public-read --cache-control max-age=604800 --recursive --metadata-directive='REPLACE' --profile yale-admin",
     "index": "node _site/assets/js/search/build-index.js",
