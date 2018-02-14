@@ -11,7 +11,7 @@ import resultTemplate from '../../templates/search-result-template.html';
   let idx,
     idToMetadata;
   
-  const url = '/dhlab-site/assets/js/search/',
+  const url = '/assets/js/search/',
     container = document.querySelector('.search-results-container'),
     target = document.querySelector('.nav-icons .search'),
     searchBar = document.querySelector('.search-bar'),
