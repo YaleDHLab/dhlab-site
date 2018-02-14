@@ -1,3 +1,5 @@
+import './js/polyfills/object-includes-polyfill.js';
+import './js/polyfills/string-includes-polyfill.js';
 import './js/navigation.js';
 import './js/footer.js';
 import './js/filters/filter-events.js';
@@ -10,4 +12,3 @@ import './js/scrollto.js';
 import './js/social-media-icons.js';
 import './js/header-animation.js';
 import './js/four-oh-four.js';
-import './js/includes-polyfill.js';
