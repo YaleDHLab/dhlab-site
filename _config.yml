@@ -1,4 +1,4 @@
-baseurl: '/dhlab-site'
+baseurl: ''
 
 # render posts with dates in the future
 future: true
