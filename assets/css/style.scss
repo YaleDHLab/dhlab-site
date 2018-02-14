@@ -1274,6 +1274,11 @@ footer .footer-column:nth-of-type(2) {
     display: block;
   }
 
+  footer .footer-mobile-icons a {
+    overflow: auto;
+    display: inline-block;
+  }
+
   footer .footer-mobile-icons img {
     width: 36px;
     margin-right: 13px;
