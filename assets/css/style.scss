@@ -200,6 +200,7 @@ img {
 
 pre {
   white-space: pre-wrap;
+  white-space: -ms-pre-wrap;
   white-space: -moz-pre-wrap;
   white-space: -pre-wrap;
   white-space: -o-pre-wrap;
@@ -355,6 +356,7 @@ pre {
 .background-image {
   background-repeat: no-repeat;
   background-position: center center;
+  -ms-background-size: cover;
   -webkit-background-size: cover;
   -moz-background-size: cover;
   -o-background-size: cover;
@@ -686,6 +688,7 @@ footer {
   text-align: center;
   -webkit-perspective: 1000px;
      -moz-perspective: 1000px;
+      -ms-perspective: 1000px;
        -o-perspective: 1000px;
           perspective: 1000px;
 }
@@ -702,21 +705,25 @@ footer {
 .site-brand #rotating-block {
   -webkit-transform: translateZ( -100px );
      -moz-transform: translateZ( -100px );
+      -ms-transform: translateZ( -100px );
        -o-transform: translateZ( -100px );
           transform: translateZ( -100px );
 
   -webkit-backface-visibility: hidden;
      -moz-backface-visibility: hidden;
+      -ms-backface-visibility: hidden;
        -o-backface-visibility: hidden;
           backface-visibility: hidden;
 
   -webkit-transform-style: preserve-3d;
      -moz-transform-style: preserve-3d;
+      -ms-transform-style: preserve-3d;
        -o-transform-style: preserve-3d;
           transform-style: preserve-3d;
 
   -webkit-transition: -webkit-transform 1s;
      -moz-transition: -moz-transform 1s;
+      -ms-transition: -ms-transform 1s;
        -o-transition: -o-transform 1s;
           transition: transform 1s;
 }
@@ -2986,6 +2993,7 @@ br + .tags,
 @keyframes rotatemove {
   0% {
     -webkit-transform: scale(1) translateX(0px);
+    -moz-transform: scale(1) translateX(0px);
     -ms-transform: scale(1) translateX(0px);
     -o-transform: scale(1) translateX(0px);
     transform: scale(1) translateX(0px);
@@ -2993,6 +3001,7 @@ br + .tags,
 
   100% {
     -webkit-transform: scale(2) translateX(45px);
+    -moz-transform: scale(1) translateX(0px);
     -ms-transform: scale(2) translateX(45px);
     -o-transform: scale(2) translateX(45px);
     transform: scale(2) translateX(45px);
