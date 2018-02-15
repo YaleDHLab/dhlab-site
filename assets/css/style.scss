@@ -1094,7 +1094,7 @@ header.gray-header svg {
     display: block;
     color: #2c385d;
     font-size: 24px;
-    font-family: 'Yale New';
+    font-family: 'Yale New', Georgia, serif;
     font-weight: 100;
     padding: 0;
   }
@@ -3956,7 +3956,7 @@ br + .tags,
 
 @media (max-width: $mobile_breakpoint) {
   .events-page .center-column {
-    padding: 0 0 30px 0;
+    padding: 100px 0 30px 0;
   }
 
   /* case where there are no upcoming events */
