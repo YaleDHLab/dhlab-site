@@ -2593,7 +2593,7 @@ section {
   .horizontal-card h2 {
     font-size: 14px;
     margin-top: 10px;
-    margin-bottom: 3px;
+    margin-bottom: 10px;
   }
 }
 
@@ -3413,7 +3413,9 @@ br + .tags,
   }
 
   .home-page .hero h1 {
-    font-size: 2.5em;
+    font-size: 32px;
+    letter-spacing: 1px;
+    margin: 6px 0 18px 0;
   }
 
   .home-page .hero video {
@@ -3431,7 +3433,8 @@ br + .tags,
   }
 
   .home-page .hero .subhead {
-    font-size: 14px;
+    font-size: 16px;
+    letter-spacing: 2px;
   }
 
   .home-page .hero h1 {
