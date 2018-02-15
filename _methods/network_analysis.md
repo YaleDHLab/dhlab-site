@@ -24,6 +24,8 @@ There are many free, open-source options for generating network graphs. Popular 
 
 <a href='https://networkdata.ics.uci.edu/' target='_blank'>UCIrvine Network Data Repository</a>
 
+<a href='https://github.com/gephi/gephi/wiki/Datasets' target='_blank'>Gephi Datasets</a>
+
 ### Recommended Readings
 
 <a href='http://journalofdigitalhumanities.org/1-1/demystifying-networks-by-scott-weingart/' target='_blank'>"Demystifying Networks, Parts I & 2"</a> by Scott Weingart
