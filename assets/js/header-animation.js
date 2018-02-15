@@ -5,5 +5,5 @@
     container.style.overflow = 'visible';
     block.className = 'rotated';
   }
-  setTimeout(rotate, 1800);
+  if (!window.document.documentMode) setTimeout(rotate, 1800);
 })()
