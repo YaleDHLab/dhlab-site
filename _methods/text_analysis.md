@@ -20,7 +20,7 @@ Out-of-the-box tools that don't require any custom programming include JSTOR Lab
 
 Tools that require minimal command line usage include Stanford's <a href='https://stanfordnlp.github.io/CoreNLP/' target='_blank'>CoreNLP</a> (which can identify people, locations, and even sentiment in unstructured text) and Andrew McCallum's <a href='http://mallet.cs.umass.edu/' target='_blank'>MALLET</a> (which generates topic models).
 
-Platforms that require some programming include <a href='http://bookworm.culturomics.org/' target='_blank'>Bookworm</a> (for tracking a word's frequency over time) and Andrew Goldstone's <a href='https://github.com/agoldst/dfrtopics/' target='_blank'>dfrtopics</a> (for visualizing topic models).
+Platforms that require some programming include <a href='https://github.com/Bookworm-project/BookwormDB' target='_blank'>Bookworm</a> (for tracking a word's frequency over time) and Andrew Goldstone's <a href='https://github.com/agoldst/dfrtopics/' target='_blank'>dfrtopics</a> (for visualizing topic models).
 
 Popular packages that require more intensive levels of programming include <a href='http://www.nltk.org/' target='_blank'>the Natural Language Toolkit</a> and the Python libraries: datasketch, NumPy, SciPy, and scikit-learn.
 
