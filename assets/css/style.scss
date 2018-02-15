@@ -200,6 +200,7 @@ img {
 
 pre {
   white-space: pre-wrap;
+  white-space: -ms-pre-wrap;
   white-space: -moz-pre-wrap;
   white-space: -pre-wrap;
   white-space: -o-pre-wrap;
@@ -355,6 +356,7 @@ pre {
 .background-image {
   background-repeat: no-repeat;
   background-position: center center;
+  -ms-background-size: cover;
   -webkit-background-size: cover;
   -moz-background-size: cover;
   -o-background-size: cover;
@@ -686,6 +688,7 @@ footer {
   text-align: center;
   -webkit-perspective: 1000px;
      -moz-perspective: 1000px;
+      -ms-perspective: 1000px;
        -o-perspective: 1000px;
           perspective: 1000px;
 }
@@ -702,21 +705,25 @@ footer {
 .site-brand #rotating-block {
   -webkit-transform: translateZ( -100px );
      -moz-transform: translateZ( -100px );
+      -ms-transform: translateZ( -100px );
        -o-transform: translateZ( -100px );
           transform: translateZ( -100px );
 
   -webkit-backface-visibility: hidden;
      -moz-backface-visibility: hidden;
+      -ms-backface-visibility: hidden;
        -o-backface-visibility: hidden;
           backface-visibility: hidden;
 
   -webkit-transform-style: preserve-3d;
      -moz-transform-style: preserve-3d;
+      -ms-transform-style: preserve-3d;
        -o-transform-style: preserve-3d;
           transform-style: preserve-3d;
 
   -webkit-transition: -webkit-transform 1s;
      -moz-transition: -moz-transform 1s;
+      -ms-transition: -ms-transform 1s;
        -o-transition: -o-transform 1s;
           transition: transform 1s;
 }
@@ -733,25 +740,45 @@ footer {
 .site-brand #yale-mark {
   width: 56%;
   padding: 16px 46px 20px 38px;
-  transform: translateZ( 88px );
+  -webkit-transform: translateZ( 88px );
+     -moz-transform: translateZ( 88px );
+      -ms-transform: translateZ( 88px );
+       -o-transform: translateZ( 88px );
+          transform: translateZ( 88px );
 }
 
 .site-brand #dhlab-mark {
   width: 70%;
   padding: 21px 27px;
-  transform: rotateY( 90deg ) translateZ( 88px );
+  -webkit-transform: rotateY( 90deg ) translateZ( 88px );
+     -moz-transform: rotateY( 90deg ) translateZ( 88px );
+      -ms-transform: rotateY( 90deg ) translateZ( 88px );
+       -o-transform: rotateY( 90deg ) translateZ( 88px );
+          transform: rotateY( 90deg ) translateZ( 88px );
 }
 
 .site-brand #rotating-block.rotated {
-  transform: translateZ( -100px ) rotateY( -90deg );
+  -webkit-transform: translateZ( -100px ) rotateY( -90deg );
+     -moz-transform: translateZ( -100px ) rotateY( -90deg );
+      -ms-transform: translateZ( -100px ) rotateY( -90deg );
+       -o-transform: translateZ( -100px ) rotateY( -90deg );
+          transform: translateZ( -100px ) rotateY( -90deg );
 }
 
 .site-brand #rotating-block.rotated #yale-mark {
-  transform: translateZ(88px);
+  -webkit-transform: translateZ( 88px );
+     -moz-transform: translateZ( 88px );
+      -ms-transform: translateZ( 88px );
+       -o-transform: translateZ( 88px );
+          transform: translateZ( 88px );
 }
 
 .site-brand #rotating-block.rotated #dhlab-mark {
-  transform: rotateY( 90deg ) translateZ( 88px );
+  -webkit-transform: rotateY( 90deg ) translateZ( 88px );
+     -moz-transform: rotateY( 90deg ) translateZ( 88px );
+      -ms-transform: rotateY( 90deg ) translateZ( 88px );
+       -o-transform: rotateY( 90deg ) translateZ( 88px );
+          transform: rotateY( 90deg ) translateZ( 88px );
 }
 
 @media (min-width: 1000px) and (max-width: 1210px) {
@@ -873,7 +900,11 @@ header.gray-header .nav-links .link.expanded .sublinks {
   display: block;
   position: absolute;
   bottom: 0px;
-  transform: translate(0, 100%);
+  -webkit-transform: translate(0, 100%);
+     -moz-transform: translate(0, 100%);
+      -ms-transform: translate(0, 100%);
+       -o-transform: translate(0, 100%);
+          transform: translate(0, 100%);
   font-weight: 600;
   background: rgba(0,0,0,0.9);
   padding: 0 20px 20px;
@@ -1120,7 +1151,11 @@ header.gray-header svg {
     font-weight: 600;
     position: relative;
     bottom: none;
-    transform: none;
+    -webkit-transform: none;
+       -moz-transform: none;
+        -ms-transform: none;
+         -o-transform: none;
+            transform: none;
     background: #fff;
     padding: 0;
     display: none;
@@ -1412,7 +1447,11 @@ section {
     right: 0;
     bottom: 0;
     left: 0;
-    transform: initial;
+    -webkit-transform: initial;
+       -moz-transform: initial;
+        -ms-transform: initial;
+         -o-transform: initial;
+            transform: initial;
     padding: 0;
   }
 
@@ -1872,7 +1911,11 @@ section {
 **/
 
 .card-title-container {
-  transform: translate(0, -50px);
+  -webkit-transform: translate(0, -50px);
+     -moz-transform: translate(0, -50px);
+      -ms-transform: translate(0, -50px);
+       -o-transform: translate(0, -50px);
+          transform: translate(0, -50px);
   text-align: left;
   width: 90%;
   max-width: 300px;
@@ -1978,7 +2021,11 @@ section {
     left: 0;
     width: 100%;
     max-width: 100%;
-    transform: none;
+    -webkit-transform: none;
+       -moz-transform: none;
+        -ms-transform: none;
+         -o-transform: none;
+            transform: none;
     background-position-y: initial;
   }
 
@@ -2017,7 +2064,11 @@ section {
 .rectangle-image-grid .image-title-container {
   position: absolute;
   z-index: 2;
-  transform: translate(0, 47%);
+  -webkit-transform: translate(0, 47%);
+     -moz-transform: translate(0, 47%);
+      -ms-transform: translate(0, 47%);
+       -o-transform: translate(0, 47%);
+          transform: translate(0, 47%);
   width: 100%;
   text-align: center;
   height: 100%;
@@ -2073,7 +2124,11 @@ section {
 
 .rectangle-image-grid .four-rectangle-grid-cell .teaser {
   transition: transform .2s, filter .2s;
-  transform: translate(0, 400px);
+  -webkit-transform: translate(0, 400px);
+     -moz-transform: translate(0, 400px);
+      -ms-transform: translate(0, 400px);
+       -o-transform: translate(0, 400px);
+          transform: translate(0, 400px);
   position: relative;
   color: #fff;
   width: 100%;
@@ -2128,22 +2183,38 @@ section {
 
   .four-rectangle-grid-cell:hover .image-title-container,
   .four-rectangle-grid-cell:hover .image-title-container {
-    transform: translate(0px,40%);
+    -webkit-transform: translate(0, 40%);
+       -moz-transform: translate(0, 40%);
+        -ms-transform: translate(0, 40%);
+         -o-transform: translate(0, 40%);
+            transform: translate(0, 40%);
   }
 
   .guides-page .four-rectangle-grid-cell:hover .image-title-container {
-    transform: translate(0px,30%);
+    -webkit-transform: translate(0, 30%);
+       -moz-transform: translate(0, 30%);
+        -ms-transform: translate(0, 30%);
+         -o-transform: translate(0, 30%);
+            transform: translate(0, 30%);
   }
 
   .four-rectangle-grid-cell:hover .teaser {
     position: absolute;
-    transform: translate(0,150px);
+    -webkit-transform: translate(0, 150px);
+       -moz-transform: translate(0, 150px);
+        -ms-transform: translate(0, 150px);
+         -o-transform: translate(0, 150px);
+            transform: translate(0, 150px);
     z-index: 4;
   }
 
   .methods-page .four-rectangle-grid-cell:hover .teaser {
     position: absolute;
-    transform: translate(0,140px);
+    -webkit-transform: translate(0, 140px);
+       -moz-transform: translate(0, 140px);
+        -ms-transform: translate(0, 140px);
+         -o-transform: translate(0, 140px);
+            transform: translate(0, 140px);
     z-index: 4;
   }
 }
@@ -2755,7 +2826,11 @@ section {
 
 .share-icon {
   background-image: url('{{ site.baseurl }}/assets/images/icons/share-icon-dark.svg');
-  transform: rotate(180deg);
+  -webkit-transform: rotate(180deg);
+     -moz-transform: rotate(180deg);
+      -ms-transform: rotate(180deg);
+       -o-transform: rotate(180deg);
+          transform: rotate(180deg);
   margin-left: -2px;
 }
 
@@ -2986,6 +3061,7 @@ br + .tags,
 @keyframes rotatemove {
   0% {
     -webkit-transform: scale(1) translateX(0px);
+    -moz-transform: scale(1) translateX(0px);
     -ms-transform: scale(1) translateX(0px);
     -o-transform: scale(1) translateX(0px);
     transform: scale(1) translateX(0px);
@@ -2993,6 +3069,7 @@ br + .tags,
 
   100% {
     -webkit-transform: scale(2) translateX(45px);
+    -moz-transform: scale(1) translateX(0px);
     -ms-transform: scale(2) translateX(45px);
     -o-transform: scale(2) translateX(45px);
     transform: scale(2) translateX(45px);
