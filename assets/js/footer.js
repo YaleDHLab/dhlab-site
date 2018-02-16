@@ -66,6 +66,6 @@ import moment from 'moment';
   **/
 
   target.addEventListener('click', toggleActiveClass);
-  requestHours()
+  setTimeout(requestHours, 50);
 
 })();
