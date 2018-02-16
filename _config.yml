@@ -1,10 +1,11 @@
 baseurl: ''
+url: http://dhlab.yale.edu
 
 # render posts with dates in the future
 future: true
 
 # minify html in production
-minify_html: false
+minify_html: true
 
 # bust cache
 bust_cache: true

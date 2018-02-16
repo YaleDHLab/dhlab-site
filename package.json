@@ -13,7 +13,7 @@
   },
   "scripts": {
     "compress": "./node_modules/webpack/bin/webpack.js --config webpack.config.js",
-    "build": "bundle exec jekyll build",
+    "build": "bundle exec jekyll build JEKYLL_ENV=production",
     "deploy": "npm run dhlab-deploy && npm run digitalhumanities-deploy",
     "dhlab-deploy": "aws s3 cp _site/ s3://dhlab.yale.edu/ --include '*' --acl public-read --recursive --metadata-directive='REPLACE' --profile yale-admin",
     "digitalhumanities-deploy": "aws s3 cp _site/ s3://digitalhumanities.yale.edu/ --include '*' --acl public-read --recursive --metadata-directive='REPLACE' --profile yale-admin",
