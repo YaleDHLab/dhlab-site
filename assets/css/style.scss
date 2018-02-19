@@ -1,7 +1,6 @@
 ---
 process: true
 ---
-@import url('https://fonts.googleapis.com/css?family=Open+Sans:300,400,600,700');
 
 $color: #F9BE00;
 $hotlink: #edb021;
@@ -3178,6 +3177,7 @@ br + .tags,
 .search-result-title {
   font-size: 19px;
   font-weight: 800;
+  margin-top: 15px;
 }
 
 .search-result-teaser {
