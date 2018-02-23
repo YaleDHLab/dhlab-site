@@ -14,6 +14,8 @@ team:
   - name: Thomas Zembowicz
     position: Yale College
 
+alt: Snippet of masonry view of several Gregueria's or aphorisms by Gómez de la Serna
+
 categories:
   - Geospatial Analysis
   - Text Analysis

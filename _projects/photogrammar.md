@@ -29,6 +29,8 @@ categories:
   - Visual Analysis
   - Web Applications
 
+alt: Photogrammar US map with sample historical images overlayed.
+
 tags:
   - Archives
   - Photographs

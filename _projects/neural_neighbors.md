@@ -21,6 +21,8 @@ categories:
 tags:
   - Photographs
 
+alt: View of interface showing images similar to boxers of early 1900s
+
 dhlab_project: true
 ---
 

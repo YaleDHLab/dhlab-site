@@ -18,6 +18,8 @@ categories:
   - Crowdsourced Data
   - Web Applications
 
+alt: View of user holding a written page from the Kilpatrick Collection of documents written in the Cherokee language 
+
 tags:
   - Archives
   - Languages

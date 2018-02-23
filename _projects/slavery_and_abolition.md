@@ -7,6 +7,8 @@ project_url: http://slavery.yale.edu/
 
 team:
 
+alt: Sample pen-and-ink sketch of Amistad captive by W.H. Tounsend.
+
 tags:
   - Archives
 ---

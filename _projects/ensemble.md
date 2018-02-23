@@ -17,6 +17,8 @@ categories:
   - Crowdsourced Data
   - Web Applications
 
+alt: Scene from The Winter&apos;s Tale at Yale Repertory Theatre featuring Lupita Nyong&apos;o, one of the productions whose program is featured in the Ensemble application
+
 tags:
   - Archives
 

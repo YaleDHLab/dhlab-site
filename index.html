@@ -24,7 +24,7 @@ title: Welcome
         <a href='{{ event.url | prepend: site.baseurl }}' class='hide-tablet'>
           {% assign image_url = event.thumbnail | prepend: site.baseurl %}
           <div class='home-event-image background-image event-date-container blur-container'
-              style='background-image: url({{ image_url }})'>
+              style='background-image: url({{ image_url }})' alt='{{ event.alt }}'>
             {% include events/event_date.html event=event %}
             {% assign label=event.categories | first %}
             {% if event.short_title %}
@@ -63,7 +63,7 @@ title: Welcome
       <a href='{{ item.url | prepend: site.baseurl }}'>
         {% assign image_url = item.image | prepend: site.baseurl %}
         <div class='full-width-card-image background-image blur-container'
-          style='background-image: url({{ image_url }})'>
+          style='background-image: url({{ image_url }})' alt='{{ item.alt }}'>
           {% assign label = item.categories | first %}
           {% include cards/card_title_box.html
             label=label

@@ -4,6 +4,7 @@ thumbnail: /assets/images/projects/archive-thumbs/historians_eye-thumb.jpg
 layout: archive
 project_url: http://campuspress.yale.edu/historianseye
 
+alt: Black and white photograph of abandoned shopping cart in empty parking lot
 team:
 
 categories:
