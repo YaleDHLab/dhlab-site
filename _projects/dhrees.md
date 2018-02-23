@@ -26,6 +26,8 @@ team:
   - name: Kevin Repp
     position: Beinecke Rare Book & Manuscript Library
 
+alt: Image of Joseph Brodsky in conversation in front of Russian constructivist map graphic
+
 categories:
   - Text Analysis
 

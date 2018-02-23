@@ -4,6 +4,8 @@ thumbnail: /assets/images/projects/archive-thumbs/babylonian-thumb.jpg
 layout: archive
 project_url: http://ydc2.yale.edu/babylonian-collection-digital-imaging-demonstration-project
 
+alt: Pythagorean tablet from the Babylonian collection
+
 team:
 
 categories:

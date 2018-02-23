@@ -2,7 +2,7 @@
   <div class='archive-item'>
     <a href='<%= baseurl %><%= item.url %>'>
       <div class='background-image'
-        style='background-image: url(<%= baseurl %><%= item.thumbnail %>)'>
+        style='background-image: url(<%= baseurl %><%= item.thumbnail %>)' alt='<%= item.alt %>'>
           <% if (item.funded) { %>
             <img src='<%= baseurl %>/assets/images/branding/dhlab-badge.svg'/>
           <% }; %>

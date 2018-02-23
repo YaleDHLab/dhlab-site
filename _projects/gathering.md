@@ -19,6 +19,8 @@ tags:
   - Architecture  
   - Archives
 
+alt: Architectural rendering of overhead view of the new Yale Colleges (2017)
+
 dhlab_project: true
 ---
 

@@ -5,6 +5,8 @@ layout: archive
 funded: true
 project_url: http://cinecircuits.yale.edu/
 
+alt: Excerpt of Cinecircuits map visualization of the distribution of networks of the global film festival circuit
+
 team:
   - name: Masha Shpolberg
     position: PhD student in Comparative Literature <br/>and Film and Media Studies

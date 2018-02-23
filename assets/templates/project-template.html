@@ -10,7 +10,7 @@
           <div class='project-image-container desktop-project'>
             <a href='<%- baseurl %><%- item.url %>'>
               <div class='background-image blur-container'
-                  style='background-image: url("<%- baseurl %><%- item.thumbnail %>"'>
+              style='background-image: url("<%- baseurl %><%- item.thumbnail %>")' alt='<%- item.alt %>'>
                 <div class='card-title-container'>
                   <div class='card-title-blur'></div>
                   <div class='card-title-text'>
@@ -24,7 +24,7 @@
           <a href='<%- baseurl %><%- item.url %>'>
             <div class='mobile-project'>
               <div class='background-image'
-                  style='background-image: url("<%- baseurl %><%- item.thumbnail %>"'></div>
+                  style='background-image: url("<%- baseurl %><%- item.thumbnail %>")' alt='<%- item.alt %>'></div>
               <div class='mobile-project-text'>
                 <div class='small-uppercase'><%- _.unescape(item.categories[0]) %></div>
                 <div class='project-title'><%- _.unescape(item.title) %></div>

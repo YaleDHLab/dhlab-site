@@ -5,7 +5,7 @@ layout: archive
 project_url: https://modernism.coursepress.yale.edu/
 
 team:
-
+alt: Painting titled Studland Beach by Vanessa Bell.
 categories:
   - Visual Analysis
 

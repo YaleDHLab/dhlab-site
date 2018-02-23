@@ -5,6 +5,8 @@ layout: archive
 
 team:
 
+alt: International flags at the United Nations
+
 categories:
   - Text Analysis
 

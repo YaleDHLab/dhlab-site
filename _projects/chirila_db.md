@@ -5,6 +5,8 @@ layout: archive
 funded: true
 project_url: http://chirila.yale.edu/
 
+alt: Chirila logo for the Contemporary and Historical Reconstruction in the Indigenous Languages of Australia
+
 team:
   - name: Claire Bowern
     position: Professor of Linguistics

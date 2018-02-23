@@ -16,6 +16,8 @@ categories:
   - Geospatial Analysis
   - Web Applications
 
+alt: Map of New Haven with thumnail images of highlighted buildings
+
 tags:
   - Architecture
   - Archives
