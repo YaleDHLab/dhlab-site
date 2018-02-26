@@ -25,7 +25,7 @@ def upload(bucket, gzipped=False, filetype=None):
     if filetype == 'html':
       cmd += "--exclude '*' --include '*.html' "
       cmd += "--content-type 'text/html' "
-      
+
     elif filetype == 'css':
       cmd += "--exclude '*' --include '*.css' "
       cmd += "--content-type 'text/css' "
