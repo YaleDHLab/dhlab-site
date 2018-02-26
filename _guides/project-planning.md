@@ -17,20 +17,20 @@ Those who manage projects for a living often speak of a "minimum viable product"
 For help articulating and prioritizing goals, you might look at the Digital Humanities Lab's project tool kit:
 
 <ul>
-    <li>
-		<a href='{{site.baseurl}}/assets/docs/DH-LeanCanvas.pdf' target='_blank'><b>Lean Canvas</b></a> – This worksheet focuses on establishing the project vision beginning with the high level concepts, the research question, as well as the audience and goals.<br>
-    </li>
-    <li>
-		<a href='{{site.baseurl}}/assets/docs/DH-User-Analysis.pdf' target='_blank'><b>User Analysis</b></a> – This will walk you through key user experience research methods for defining the user stories as well as mapping the user scenarios that will drive the key design decisions for the project.<br>
-	</li>
-	<li>
-		<a href='{{site.baseurl}}/assets/docs/DH-Ideation.pdf' target='_blank'><b>Ideation</b></a> – These are designed to translate your user scenarios into a series of sketches that will lay the foundation for the MVP and can be very useful for collaborating with designers and developers. For additional templates, you might search online for a "software requirements document."
-    </li>
+  <li>
+    <a href='{{site.baseurl}}/assets/docs/DH-LeanCanvas.pdf' target='_blank'><b>Lean Canvas</b></a> – This worksheet focuses on establishing the project vision beginning with the high level concepts, the research question, as well as the audience and goals.<br>
+  </li>
+  <li>
+    <a href='{{site.baseurl}}/assets/docs/DH-User-Analysis.pdf' target='_blank'><b>User Analysis</b></a> – This will walk you through key user experience research methods for defining the user stories as well as mapping the user scenarios that will drive the key design decisions for the project.<br>
+  </li>
+  <li>
+    <a href='{{site.baseurl}}/assets/docs/DH-Ideation.pdf' target='_blank'><b>Ideation</b></a> – These are designed to translate your user scenarios into a series of sketches that will lay the foundation for the MVP and can be very useful for collaborating with designers and developers. For additional templates, you might search online for a "software requirements document."
+  </li>
 </ul>
 
 ### Identifying Project Timeline
 
-Collaborators on a digital humanities project should have a shared, manageable timeline within which to complete the work. It's therefore helpful to sketch out early on an overview of all of your major project milestones along with the dates by which you need to achieve those milestones.  
+Collaborators on a digital humanities project should have a shared, manageable timeline within which to complete the work. It's therefore helpful to sketch out early on an overview of all of your major project milestones along with the dates by which you need to achieve those milestones.
 
 If you're working toward a conference presentation, are on a grant cycle, or otherwise have a date by which you need to wrap up all project work, try working backwards with your timeline to determine whether your full project vision can be achieved in your available time. List all of your project goals along with conservative estimations of the time required for each — build in some time for project iteration and back-up plans. If you need help estimating timelines or identifying your project's core milestones, stop by the Digital Humanities Lab so we can discuss your project together!
 
@@ -48,8 +48,8 @@ Once you have a working prototype, move on to the user-testing phase of the proj
 
 ### Finding On-Campus Collaborators
 
-Many digital humanities projects are the result of generative, cross-discplinary collaborations. Reach out to people from different fields with varied interests and skillsets to see if they might be interested in collaborating. To identify potential partners, you might email relevant listservs and/or contact people directly. 
+Many digital humanities projects are the result of generative, cross-discplinary collaborations. Reach out to people from different fields with varied interests and skillsets to see if they might be interested in collaborating. To identify potential partners, you might email relevant listservs and/or contact people directly.
 
-If you're looking for Yale students who might be interested in joining your project, we recommend sending out calls of interest to department registrars on campus. For instance, if you would like to work with a programmer, you could send a job call to the Computer Science registrar. Or if you're looking for a literary dataset to visualize, you might email the English Department listserv. 
+If you're looking for Yale students who might be interested in joining your project, we recommend sending out calls of interest to department registrars on campus. For instance, if you would like to work with a programmer, you could send a job call to the Computer Science registrar. Or if you're looking for a literary dataset to visualize, you might email the English Department listserv.
 
-The Digital Humanities Lab can also post job calls to our <a href='{{site.baseurl}}/opportunities/student-jobs.html' target='_blank'>Student Jobs page</a>. 
+The Digital Humanities Lab can also post job calls to our <a href='{{site.baseurl}}/opportunities/student-jobs.html' target='_blank'>Student Jobs page</a>.
