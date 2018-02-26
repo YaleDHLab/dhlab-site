@@ -14,7 +14,19 @@ When starting a project, it's important that all team members have a clear under
 
 Those who manage projects for a living often speak of a "minimum viable product" (MVP), or the minimal set of functionality that completes a project's fundamental requirements. If you haven't done so yet, try drafting your own idea of an MVP. Once your draft is complete, ask a colleague if there's anything more that can be removed. Iterating on this process over a period of time can help you identify the fundamental goals of the project.  
 
-For help articulating and prioritizing goals, you might look at the Digital Humanities Lab's <a href='{{site.baseurl}}/assets/docs/DH-LeanCanvas.pdf' target='_blank'>Lean Canvas</a> and <a href='{{site.baseurl}}/assets/docs/DH-Ideation.pdf' target='_blank'>Ideation templates</a>. These are designed to walk researchers through the phases of creating an MVP. For additional templates, you might search online for a "software requirements document."
+For help articulating and prioritizing goals, you might look at the Digital Humanities Lab's project tool kit:
+
+<ul>
+    <li>
+		<a href='{{site.baseurl}}/assets/docs/DH-LeanCanvas.pdf' target='_blank'><b>Lean Canvas</b></a> – This worksheet focuses on establishing the project vision beginning with the high level concepts, the resarch question, as well as the audience and goals.<br>
+    </li>
+    <li>
+		<a href='{{site.baseurl}}/assets/docs/DH-User-Analysis.pdf' target='_blank'><b>User Analysis</b></a>. – This will walk you through key user experience research methods for defining the intended audiences as well as mapping the user scenarios that will drive the key design decisions for the project.<br>
+	</li>
+	<li>
+		<a href='{{site.baseurl}}/assets/docs/DH-Ideation.pdf' target='_blank'><b>Ideation templates</b></a>. – These are designed to translate your users' stories into a series of sketches that will lay the foundation for the MVP and can be very useful for collaborating with designers and developers. For additional templates, you might search online for a "software requirements document."
+    </li>
+</ul>
 
 ### Identifying Project Timeline
 
