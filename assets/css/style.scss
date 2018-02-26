@@ -104,6 +104,10 @@ li a {
   font-weight: 600;
 }
 
+li {
+  margin-bottom: 10px;
+}
+
 li a:hover {
   font-weight: 600;
   color: $hotlink;
