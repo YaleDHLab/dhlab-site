@@ -5,6 +5,7 @@ layout: archive
 project_url: http://ydc2.yale.edu/research-support/digitally-enabled-scholarship-medieval-manuscripts
 
 team:
+alt: Page view of medieval manuscript
 
 categories:
   - Visual Analysis

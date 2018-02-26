@@ -9,6 +9,8 @@ team:
 categories:
   - Crowdsourced Data
 
+alt: Ten Thousand Room project logo over scroll of Chinese calligraphy
+
 tags:
   - Languages
 ---

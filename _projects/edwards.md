@@ -6,6 +6,8 @@ project_url: http://edwards.yale.edu
 
 team:
 
+alt: Page view from The Works of Jonathan Edwards
+
 tags:
   - Archives
 ---

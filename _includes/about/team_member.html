@@ -2,7 +2,7 @@
   <div class='left-column'>
     {% assign image_url = include.team_member.image | prepend: site.baseurl %}
     <div class='square-image background-image'
-      style='background-image:url({{ image_url }})'></div>
+      style='background-image:url({{ image_url }})' alt='{{ include.team_member.name }}'></div>
   </div>
   <div class='right-column'>
     <h2>{{ include.team_member.name }}</h2>

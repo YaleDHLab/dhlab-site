@@ -8,6 +8,8 @@ caption: >
 
 project_url: http://dh.library.yale.edu/projects/vogue/
 
+alt: Vogue covers processed to show decennial sampling, that is, all the covers in one year, every ten years. 
+
 team:
   - name: Lindsay King
     position: Robert B. Haas Family Arts Library

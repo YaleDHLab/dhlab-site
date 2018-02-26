@@ -4,6 +4,8 @@ thumbnail: /assets/images/projects/archive-thumbs/athena-thumb.jpg
 layout: archive
 project_url: http://ydc2.yale.edu/athena-automatic-text-height-extraction-analysis-old-handwritten-manuscripts
 
+alt: Medieval manuscript with comparison of text heights
+
 team:
 
 categories:

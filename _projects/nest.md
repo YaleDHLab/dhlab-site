@@ -25,6 +25,8 @@ team:
   - name: Julie Ramaccia
     position: Yale ITS
 
+alt: View of the Center Hall of John Ashbery's house
+
 project_url: http://ashberyhouse.yale.edu
 
 categories:

@@ -4,6 +4,7 @@ thumbnail: /assets/images/projects/archive-thumbs/decretum-thumb.jpg
 layout: archive
 project_url: https://sites.google.com/a/yale.edu/decretumgratiani/home
 
+alt: Page view from Gratian's Decretum 
 team:
 
 tags:

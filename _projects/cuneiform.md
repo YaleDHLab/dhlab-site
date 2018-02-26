@@ -4,6 +4,8 @@ thumbnail: /assets/images/projects/archive-thumbs/cuneiform-thumb.jpg
 layout: archive
 project_url: http://ccp.yale.edu/
 
+alt: Detailed view of Cuneiform tablet
+
 team:
 
 tags:
