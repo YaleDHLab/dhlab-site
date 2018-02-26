@@ -18,13 +18,13 @@ For help articulating and prioritizing goals, you might look at the Digital Huma
 
 <ul>
     <li>
-		<a href='{{site.baseurl}}/assets/docs/DH-LeanCanvas.pdf' target='_blank'><b>Lean Canvas</b></a> – This worksheet focuses on establishing the project vision beginning with the high level concepts, the resarch question, as well as the audience and goals.<br>
+		<a href='{{site.baseurl}}/assets/docs/DH-LeanCanvas.pdf' target='_blank'><b>Lean Canvas</b></a> – This worksheet focuses on establishing the project vision beginning with the high level concepts, the research question, as well as the audience and goals.<br>
     </li>
     <li>
-		<a href='{{site.baseurl}}/assets/docs/DH-User-Analysis.pdf' target='_blank'><b>User Analysis</b></a> – This will walk you through key user experience research methods for defining the intended audiences as well as mapping the user scenarios that will drive the key design decisions for the project.<br>
+		<a href='{{site.baseurl}}/assets/docs/DH-User-Analysis.pdf' target='_blank'><b>User Analysis</b></a> – This will walk you through key user experience research methods for defining the user stories as well as mapping the user scenarios that will drive the key design decisions for the project.<br>
 	</li>
 	<li>
-		<a href='{{site.baseurl}}/assets/docs/DH-Ideation.pdf' target='_blank'><b>Ideation</b></a> – These are designed to translate your users' stories into a series of sketches that will lay the foundation for the MVP and can be very useful for collaborating with designers and developers. For additional templates, you might search online for a "software requirements document."
+		<a href='{{site.baseurl}}/assets/docs/DH-Ideation.pdf' target='_blank'><b>Ideation</b></a> – These are designed to translate your user scenarios into a series of sketches that will lay the foundation for the MVP and can be very useful for collaborating with designers and developers. For additional templates, you might search online for a "software requirements document."
     </li>
 </ul>
 
