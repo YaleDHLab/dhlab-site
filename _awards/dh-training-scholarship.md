@@ -5,7 +5,7 @@ image: '/assets/images/banners/campus.jpg'
 caption: Photo by Michael Marsland.
 overview: training_scholarship
 deadline: Forthcoming, 2018
-
+apply_button: hidden
 application_text: Apply to become one of our 2018 training scaholarship recipients.
 
 application_url: |
