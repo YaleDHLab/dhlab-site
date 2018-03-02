@@ -1,45 +1,23 @@
 ---
-title: "ArcGIS Project"
-date: March 2, 2018
-thumbnail: /assets/images/news/lenski-map.png
-alt: Map of refugees in the Roman Period.
+title: "Beinecke Fellowship"
+date: June 30, 2017
+thumbnail: /assets/images/news/beinecke2.jpg
+alt: Beinecke stacks in transparent enclosures with rare books on display.
 caption: ""
 categories: 
   - Student Jobs
   - Opportunities
 spotlight: false 
 image_layout: simple
-<!--status: fulfilled-->
+status: fulfilled
 teaser: |
-  Map refugees in the Roman Empire by helping to integrate data from ancient sources on the forced migration and resettlment of peoples into the Roman Empire in the period between 200 BCE and 800 CE. 
+  Fellowship opportunity to digitize Dickens The Beinecke Rare Book & Manuscript Library will be funding a graduate student fellowship, the official announcement of which is on the Graduate School' website.
 ---
 
-### "Refugees in the Roman Empire: A Pre-Modern Millennium of Forced Migration 200 BCE – 800 CE"
-
-**Primary Investigator**: Noel Lenski, Professor of Classics and History
+### Fellowship opportunity to digitize Dickens
+   
+The Beinecke Rare Book &amp; Manuscript Library will be funding a graduate student fellowship, the official announcement of which is on the Graduate School's website. This fellowship will support the development of a website that will make widely available a digitized selection of the manuscripts, first editions, unique art objects, and memorabilia in its Gimbel Dickens collection. Elizabeth Frengel, head of research at the Beinecke , is collaborating on this project with Janice Carlisle, Professor of English. They are soliciting statements of interest from graduate students who would like to be considered for the position.
   
-**Goal**: To integrate data assembled from ancient sources on the forced migration and resettlment of peoples into the Roman Empire in the period between 200 BCE and 800 CE.
+The graduate student chosen to hold this fellowship will curate materials for online presentation by choosing items to be digitized, compiling meta-data, and writing brief descriptions of and commentaries on such items. Yale graduate students who will be in their fourth, fifth, or sixth years in 2017-2018 are eligible to apply. The fellowship would replace a regular teaching appointment, and it will require approximately fifteen hours of work per week on a schedule more flexible than that of a teaching assignment. No experience designing or building websites is required, though knowledge of Dickens’s life and writings would be helpful.
 
-**Description**: This project requires software expertise in ArcGIS in order to assist with the production of a digital map structure that charts the date, size, causal factors, distance, durability and frequency of these events.
-
-A preliminary set of GIS maps has already been completed but help is needed to develop:  
-
-1. A time-slider.
-2. Dynamic linking of origin sites and destination sites.
-3. Dynamic distance measurement between origin and destination.
-4. Dynamic scaler to display the relative size of settlements.
-5. Dynamic cataloging of sites based on the nature, cause, and success of settlements.
-6. External links to images of relevant archaeological sites and objects.
-7. Creation of Storymap for webhosting.
-
-**Estimated time commitment**: 75 hours
-
-**Closing date**: June 22, 2018
-
-**Payrate**: $35/hour
-
-**Total project budget**: $2600
-
-**Contact**: [Noel Lenski](mailto:noel.lenski@yale.edu)
-
-*This project is funded with a Digital Humanities Lab Seed Grant*
+Please let [Elizabeth Frengel](mailto:elizabeth.frengel@yale.edu) know as soon as possible if you are interested in this opportunity, which would give you experience in one form of digital humanities and in the work of a rare-books collection. [Janice Carlisle](mailto:janice.carlisle@yale.edu) would be also happy to talk with anyone who would like more information about this fellowship. 
