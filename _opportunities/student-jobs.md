@@ -45,7 +45,7 @@ class: hide-color-hr
       </p>
     </div>
   </div>
-  {% assign items = site.news | where: 'categories', 'Student Jobs' | limit: 3 %}
+  {% assign items = site.news | where: 'categories', 'Student Jobs' | sort: 'date' | reverse | limit: 3 %}
   {% if items.size > 0 %}
     {% include text/three_text_blocks.html
       items=items
