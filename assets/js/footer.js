@@ -25,14 +25,17 @@ import moment from 'moment';
       return d.validFrom === moment().format('YYYY-MM-DD');
     });
 
+    const timeElem = document.querySelector('#open-hours');
     // hours are served as an ordered array over time
     let open = parseHour(hours[0].opens) + '–' + parseHour(hours[0].closes);
-    let close = parseHour(hours[ hours.length-1 ].opens) + '–' +
-      parseHour(hours[ hours.length-1 ].closes);
-
-    // add the hours to the page
-    const timeElem = document.querySelector('#open-hours');
-    timeElem.innerHTML = open + ' & ' + close;
+    // case where we have only one time block, instead of the usual two
+    if (hours.length === 1) {
+      timeElem.innerHTML = open;
+    } else {
+      let close = parseHour(hours[ hours.length-1 ].opens) + '–' +
+        parseHour(hours[ hours.length-1 ].closes);
+      timeElem.innerHTML = open + ' & ' + close;
+    }
   };
 
   const parseHour = (time) => {
