@@ -1,13 +1,14 @@
 ---
 title: "ArcGIS Project"
 date: March 2, 2018
-thumbnail: /assets/images/news/lenski-map.png
+thumbnail: /assets/images/news/lenski-map.jpg
 alt: Map of refugees in the Roman Period.
 caption: ""
 categories: 
   - Student Jobs
   - Opportunities
-spotlight: false 
+render: false
+<!--spotlight: false-->
 image_layout: simple
 <!--status: fulfilled-->
 teaser: |
