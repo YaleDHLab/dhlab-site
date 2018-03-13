@@ -10,6 +10,7 @@ categories:
 tags:
   - Text Analysis
   - Visualization
+permalink: '/dh-in-china/'
 teaser: >
   This talk will highlight early DH practitioners, looking at their understanding of the role of digital media, computational tools, and algorithms in humanities research.
 ---
