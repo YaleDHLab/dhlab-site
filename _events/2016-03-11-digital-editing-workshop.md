@@ -6,7 +6,7 @@ thumbnail: /assets/images/events/manuscript.jpg
 alt: Instructor points to line in medieval manuscript, showing it to student, in the Beinecke classroom.
 caption: ""
 categories: 
-  - On Campus
+  - Workshop
 tags:
   - Text Analysis
   - Manuscripts
