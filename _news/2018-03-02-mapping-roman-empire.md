@@ -9,7 +9,6 @@ caption: ""
 categories: 
   - Student Jobs
   - Opportunities
-render: false
 image_layout: simple
 <!--status: fulfilled-->
 teaser: |
