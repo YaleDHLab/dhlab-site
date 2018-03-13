@@ -6,7 +6,7 @@ thumbnail: /assets/images/events/sterling-library.jpg
 alt: Students move about entrance hallway to Sterling Memorial Library.
 caption: ""
 categories: 
-  - On Campus
+  - Meetup
 tags:
   - Pedagogy
 spotlight: false 

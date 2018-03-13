@@ -23,7 +23,7 @@ quantitative tools like Natural Language Processing, GIS, or digital archiving, 
 
 This talk highlights early DH practitioners, particularly their understanding of the role of digital media, computational tools, and algorithms in humanities research by reflecting on local media practices, shifts in incentives from doing library-based research to more individual work, the new urgency to share resources and improve cyberinfrastructure, and the necessity of advancing digital literacy in the newest generation of scholars. 
 
-*This event is co-sponsored by the East Asia Library, Yale Digital Humanities Lab, Yale University Library, and Council on East Asian Studies* 
+*This event is co-sponsored by the East Asia Library, Yale Digital Humanities Lab, Yale University Library, and Council on East Asian Studies.* 
 
 ### Bio
 Jing Chen is an Associate Professor in the School of Arts at Nanjing University. She is also the Founder and Editor of 01lab.

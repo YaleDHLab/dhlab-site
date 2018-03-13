@@ -6,7 +6,7 @@ location: Sterling Memorial Library Lecture Hall
 thumbnail: /assets/images/events/photogrammar.jpg
 caption: Julieanna Richardson, The HistoryMakers
 categories: 
-  - On Campus
+  - Meetup
 tags:
   - Race Studies
 spotlight: false 

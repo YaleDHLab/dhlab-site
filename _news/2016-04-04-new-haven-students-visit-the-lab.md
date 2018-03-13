@@ -5,8 +5,7 @@ thumbnail: /assets/images/news/workshop-code.jpg
 alt: New Haven students sit with laptops around programmer's computer during demonstration of Photogrammar software.
 caption: "New Haven students interact with Photogrammar "
 categories: 
-  - Announcement
-  - On Campus
+  - Workshop
 tags:
   - Pedagogy
 spotlight: false 
