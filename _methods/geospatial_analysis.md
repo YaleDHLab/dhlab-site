@@ -20,11 +20,14 @@ There are numerous tools you could turn to for a geospatial project. Popular opt
 
 For augmented reality (AR), you could try <a href='https://www.aurasma.com/' target='_blank'>Aurasma</a> or, with a steeper learning curve, <a href='https://unity3d.com/' target='_blank'>Unity</a>. 
 
+### Support
+Miriam Olivares is the Yale GIS Librarian. To schedule a consultation with Miriam to discuss your research project or class, please visit her <a href='https://guides.library.yale.edu/prf.php?account_id=78588' target='_blank'>staff page</a>. She holds consultations in the Center for Science and Social Science Information, Digital Humanities Lab, and 17 Hillhouse. 
+
 ### Datasets
 <a href='http://lincolnmullen.com/projects/spatial-workshop/resources.html' target='_blank'>Lincoln Mullen's list of datasets for spatial humanities</a>
 
 ### Recommended Readings
 
-<a href='https://guides.library.yale.edu/GIS' target='_blank'>"Geographic Information Systems at Yale: Getting Started with GIS"</a> by Miriam Olivares outlines support on campus for mapping projects
+<a href='https://guides.library.yale.edu/GIS' target='_blank'>"Geographic Information Systems at Yale: Getting Started with GIS"</a> a Research Guide by Miriam Olivares (GIS Librarian) that outlines tools and support options available to the Yale community for mapping projects
 
 <a href='https://programminghistorian.org/lessons/intro-to-augmented-reality-with-unity' target='_blank'>"Introduction to Mobile Augmented Reality Development in Unity"</a> by Jacob W. Greene provides an overview of AR methods as well as a tutorial
