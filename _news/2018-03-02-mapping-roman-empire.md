@@ -43,4 +43,4 @@ A preliminary set of GIS maps has already been completed but help is needed to d
 
 **Contact**: [Noel Lenski](mailto:noel.lenski@yale.edu)
 
-*This project is funded with a Digital Humanities Lab Seed Grant*
+*This project is funded with a Digital Humanities Lab Seed Grant.*
