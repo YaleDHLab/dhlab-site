@@ -8,9 +8,9 @@ location: Bass Library, L01
 thumbnail: /assets/images/events/DESCRIPTION
 alt: DESCRIPTION
 categories:
-  - Workshop
+  - Meetup
 tags:
-  - Text Analysis
+  - WebGL
 permalink: '/NAME/'
 spotlight: false
 image_layout: simple
