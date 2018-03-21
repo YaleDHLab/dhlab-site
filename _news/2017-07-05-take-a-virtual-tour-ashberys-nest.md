@@ -5,7 +5,7 @@ thumbnail: /assets/images/news/nest.jpg
 alt: John Ashberry's Victorian house with objects of interest marked with digital links, including paintings, a lamp, a rug, and a chair.
 caption: ""
 categories: 
-  - On Campus
+  - Announcement
 spotlight: false 
 image_layout: simple
 teaser: |

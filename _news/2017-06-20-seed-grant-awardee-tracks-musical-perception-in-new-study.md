@@ -5,8 +5,8 @@ thumbnail: /assets/images/news/dialogue.jpg
 alt: Grant awardee explains research to student in front of computers in Bass Library.
 caption: ""
 categories: 
-  - On Campus
-
+  - Opportunities
+  - Student Jobs
 spotlight: false 
 image_layout: simple
 teaser: |

@@ -5,7 +5,7 @@ thumbnail: /assets/images/events/students.jpg
 alt: Students cluster around laptop computers.
 caption: ""
 categories: 
-  - On Campus
+  - Opportunities
 spotlight: false 
 teaser: >
   "Join the Digital Humanities Working Group The Digital Humanities Working Group (DHWG) at Yale is delighted to announce a call for co-conveners for the 2017-2018 academic year. The DHWG is organized..."

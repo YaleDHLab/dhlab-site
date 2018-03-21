@@ -1,13 +1,14 @@
 ---
 title: "ArcGIS Project"
 date: March 2, 2018
-thumbnail: /assets/images/news/lenski-map.png
+thumbnail: /assets/images/news/lenski-map.jpg
 alt: Map of refugees in the Roman Period.
+image: /assets/images/banners/meetup.jpg
+alt: Photo of workshop participants in the lab.
 caption: ""
 categories: 
   - Student Jobs
   - Opportunities
-spotlight: false 
 image_layout: simple
 <!--status: fulfilled-->
 teaser: |
@@ -42,4 +43,4 @@ A preliminary set of GIS maps has already been completed but help is needed to d
 
 **Contact**: [Noel Lenski](mailto:noel.lenski@yale.edu)
 
-*This project is funded with a Digital Humanities Lab Seed Grant*
+*This project is funded with a Digital Humanities Lab Seed Grant.*
