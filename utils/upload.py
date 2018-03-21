@@ -17,7 +17,7 @@ def upload(bucket, gzipped=False, filetype=None):
   cmd += "--recursive "
   cmd += "--metadata-directive='REPLACE' "
   cmd += "--profile yale-admin "
-  cmd += "--cache-control max-age=604800 "
+  cmd += "--cache-control max-age=86400 "
 
   if gzipped and filetype:
     cmd += "--content-encoding 'gzip' "
