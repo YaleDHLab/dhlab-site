@@ -18,11 +18,11 @@ teaser: >
 
 The new frontier of metadata is at the level of the page, not the volume. Digital libraries like HathiTrust now provide counts of word tokens, sentences, and lines for each page. These are just some of the available "features" that can be used for text mining tasks. Importantly, language statistics like these are non-consumptive, which means they can be provided for in-copyright works. 
 
-This demo will show how to use the HathiTrust Research Center (HTRC) feature reader for basic semantic analysis. Stephen Krewson will also discuss ways to access non-linguistic information such as "image on page," one of a few experimental features that Google has been offering to HathiTrust. As time and interest dictate, Stephen can give a high-level overview of computer vision and the page segmentation techniques that make this feature possible. 
+This demo will show how to use the HathiTrust Research Center (HTRC) feature reader for basic semantic analysis. Stephen Krewson will discuss ways to access non-linguistic information such as "image on page," one of a few experimental features that Google has been offering to HathiTrust. As time and interest dictate, Stephen can give a high-level overview of computer vision and the page segmentation techniques that make this feature possible. 
 
 By the end of the demo, we'll have produced code that will be available on GitHub as a Jupyter Notebook that participants will be able to use with Python and a few APIs to richly characterize the distribution of linguistic and visual content in a volume of their choosing.
 
-Please bring a laptop, if you would like to follow along in the hands-on portion of the workshop. 
+Please bring a laptop, if you would like to follow along during the hands-on portion of the workshop. 
 
 ### Bio
 
