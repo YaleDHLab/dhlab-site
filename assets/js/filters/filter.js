@@ -98,7 +98,7 @@ export const filter = (config) => {
       }
     })
   }
-  
+
   /**
   * Helper that sorts items if necessary
   **/
@@ -106,7 +106,7 @@ export const filter = (config) => {
   const sortItems = (arr) => {
     const sortBy = document.querySelector('#sort-by');
     return sortBy ?
-        _.chain(arr).sortBy(sortBy.value).reverse().value()
+      _.chain(arr).sortBy(sortBy.value).reverse().value()
       : arr;
   }
 

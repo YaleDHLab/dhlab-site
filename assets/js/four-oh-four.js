@@ -3,10 +3,10 @@ import * as d3 from 'd3';
 (function(d3) {
   if (!document.querySelector('.four-oh-four')) return;
   var rects = d3.select('body').selectAll('rect'),
-      colors = ['#1981AA', '#FFC426', '#fff', '#000'];
+    colors = ['#1981AA', '#FFC426', '#fff', '#000'];
 
   d3.select('body').selectAll('rect').transition()
-    .delay(function(d) {
+    .delay(function() {
       return (d3.select(this).attr('x')/5) + (d3.select(this).attr('y') * 4);
     })
     .attr('fill', getRandomColor())

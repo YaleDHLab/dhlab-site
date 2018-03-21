@@ -10,7 +10,7 @@ import resultTemplate from '../../templates/search-result-template.html';
 
   let idx,
     idToMetadata;
-  
+
   const url = '/assets/js/search/',
     container = document.querySelector('.search-results-container'),
     target = document.querySelector('.nav-icons .search'),
@@ -202,7 +202,7 @@ import resultTemplate from '../../templates/search-result-template.html';
   * Remove search state on window resize
   **/
 
-  const handleResize = (e) => {
+  const handleResize = () => {
     container.style.display = 'none';
     mobileResults.style.display = 'none';
     searchBar.className = searchBar.className.replace('active', '');
