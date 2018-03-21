@@ -1,10 +1,10 @@
 (() => {
   const targets = document.querySelectorAll('.share-container');
 
-  const handleClick = (idx, e) => {
+  const handleClick = (idx) => {
     targets[idx].className = targets[idx].className.includes('active')
       ? 'share-container'
-      : 'share-container active'; 
+      : 'share-container active';
   }
 
   for (let i=0; i<targets.length; i++) {
