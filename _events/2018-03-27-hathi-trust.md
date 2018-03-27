@@ -22,7 +22,7 @@ This demo will show how to use the HathiTrust Research Center (HTRC) Feature Rea
 
 By the end of the demo, we'll have produced code that will be available on GitHub as a Jupyter Notebook that participants will be able to use with Python and a few APIs to richly characterize the distribution of linguistic and visual content in a volume of their choosing.
 
-Please bring a laptop, if you would like to follow along during the hands-on portion of the workshop. 
+Please bring a laptop over which you have administrative control, if you would like to follow along during the hands-on portion of the workshop. 
 
 ### Bio
 
