@@ -13,3 +13,4 @@ import './js/social-media-icons.js';
 import './js/header-animation.js';
 import './js/four-oh-four.js';
 import './js/google-tag-manager.js';
+import './js/accessibility.js';
