@@ -1,0 +1,4 @@
+### Invitation to Present your Work
+Beyond Boundaries features the work of Yale undergraduates, graduate students, faculty, and staff on topics ranging from computer-generated models and data mining to maps of literary characters over the course of a novel. If you are interested in presenting a poster or giving a 7-minute lightning talk at the event, please submit <a href='https://docs.google.com/forms/d/e/1FAIpQLSeTuMU5uVcURVlvH9BXrCtiIN5jfitKBxSRVtZPslQpOzHQzQ/viewform' target='_blank'>a short online application</a> by February 19. Poster presenters will have the option to show their work on a computer. Undergraduates, graduate students, postdoctoral associates, faculty, and staff are encouraged to apply.
+
+For projects from previous years, please visit: <a href='{{ site.baseurl }}/events/2016-04-08-beyond-boundaries.html' target='_blank'>BB2016</a> and <a href='{{ site.baseurl }}/events/2017-04-07-beyond-boundaries.html' target='_blank'>BB2017</a>
