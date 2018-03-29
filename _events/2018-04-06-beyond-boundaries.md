@@ -8,49 +8,116 @@ alt: Beyond Boundaries logo on blue above vector image.
 categories:
   - Symposium
 tags:
-  - JavaScript
-  - Visualization
-  - Network Analysis
-  - Coding
+  - Text Analysis
   - Geospatial Analysis
+  - Network Analysis
+  - Visual Analysis
+  - Coding
+  - Visualization
+  - Pedagogy
 permalink: '/bb2018/'
 teaser: >
   How can virtual reality technologies help us understand poetry? What does music reveal about the brain? Find out at this year's Beyond Boundaries: An Annual Symposium on Hybrid Scholarship at Yale.
 ---
 
-### Learn about Hybrid Scholarship at Yale 
+## Learn about Hybrid Scholarship at Yale 
 
-How can virtual reality technologies help us understand poetry? What does music reveal about the brain? The Yale Digital Humanities Lab and STEAM are excited to open submissions for this year’s Beyond Boundaries: An Annual Symposium on Hybrid Scholarship at Yale, which will take place on Friday, April 6. We welcome submissions from any projects that combine humanistic and scientific approaches. 
+How can virtual reality technologies help us understand poetry? What does music reveal about the brain? Find out at the third annual Beyond Boundaries symposium! Organized by the Yale Digital Humanities Lab and STEAM, Beyond Boundaries features the work of Yale undergraduates, graduate students, faculty, postdoctoral associates, and staff on topics ranging from computer-generated models and data mining to literary maps that track characters over the course of a novel.
 
-### Invitation to Present your Work
-Beyond Boundaries features the work of Yale undergraduates, graduate students, faculty, and staff on topics ranging from computer-generated models and data mining to maps of literary characters over the course of a novel. If you are interested in presenting a poster or giving a 7-minute lightning talk at the event, please submit <a href='https://docs.google.com/forms/d/e/1FAIpQLSeTuMU5uVcURVlvH9BXrCtiIN5jfitKBxSRVtZPslQpOzHQzQ/viewform' target='_blank'>a short online application</a> by February 19. Poster presenters will have the option to show their work on a computer. Undergraduates, graduate students, postdoctoral associates, faculty, and staff are encouraged to apply.
+This event is open to the whole Yale community and public. No advance registration is required. 
 
-For projects from previous years, please visit: <a href='{{ site.baseurl }}/events/2016-04-08-beyond-boundaries.html' target='_blank'>BB2016</a> and <a href='{{ site.baseurl }}/events/2017-04-07-beyond-boundaries.html' target='_blank'>BB2017</a>
+## Schedule  
 
-### Schedule
-
-9:30 am–9:55 am — Coffee, refreshments, sign in  
-No advanced registration is required; the whole event is open to the public
+### 9:30 am–9:55 am — Coffee + Refreshments
  
-9:55 am–10:00 am — Welcome  
+### 9:55 am–10:00 am — Welcome  
 Peter Leonard, Director of the Digital Humanities Lab
  
-10:00 am–11:00 am — Lightning talks    
-Presentations by undergraduate and graduate students
+### 10:00 am–11:00 am — Lightning talks  
+Presentations by students and postdoctoral associates
+
+“Science Stories: Using IIIF and Wikidata to Create a Linked-Data Web Application”  
+Kenneth Seals-Nutt, Undergraduate, Computer Science  
+Kat Thornton, CLIR Postdoctoral Associate, Computer Science and Digital Preservation  
+
+“Co-Education at Yale: Through the Eyes of a Pioneer”  
+Jasper Feinberg, Undergraduate, Mechanical Engineering
+
+“Abroad but now Accessible: VR Educational Tours”  
+Amy Giuliano, MA student, Religion and the Visual Arts, Institute of Sacred Music
+
+“The Media Concept”  
+Anna Shechtman, PhD student, English Literature and Film & Media Studies    
+Zachary Kitt, MA student, Global Affairs
+
+“The Relationship between the Style and Impact of Judicial Opinions”  
+Nina Varsava, Yale Law student and Stanford PhD student, Modern Thought & Literature
+
+“Digital Humanity”  
+Jessica Ambrosio, Undergraduate, Computer Science  
+Maria Gargiulo, Undergraduate, Statistics & Data Science and Spanish
+
+“Project Anqa and the Process of Documenting Cultural Heritage in Syria”  
+Saima Akhtar, Postdoctoral Associate, Computer Science and Institute for the Preservation of Cultural Heritage
  
-11:00 am–12:00 pm — Roundtable discussion  
+### 11:00 am–12:00 pm — Roundtable discussion  
 Presentations by faculty and staff on the benefits and challenges digital methods pose for research and teaching
 
 This year's roundtable will include: 
 
-* Benedict Brown, Computer Science
-* Wai Chee Dimock, English
-* Thomas Duffy, Music
-* Paul Messier, Institute for the Preservation of Cultural Heritage
-* Karin Roffman, Humanities
+“Collections | Datasets”  
+Paul Messier, Lens Media Lab of the Institute for the Preservation of Cultureal Heritage
+
+“Performing American Literature Digitally”  
+Wai Chee Dimock, American Studies and English Literature
+
+“‘the arm of that chair’: Poetry and Things in John Ashbery’s Nest”  
+Karin Roffman, Humanities, English, and American Studies
+
+“Reassembling Ancient Frescoes Using Computer Graphics Techniques”  
+Benedict Brown, Computer Science
+
+“Music and Medicine Machines: The Value of Obsolescence in the Digital Arena”  
+Thomas Duffy, Department of Music
  
-12:00 pm–12:05 pm — Closing remarks  
-Susan Gibbons, University Librarian and Deputy Provost for Libraries & Scholarly Communication
+### 12:00 pm–12:05 pm — Closing remarks    
+Susan Gibbons, Stephen F. Gates ’68 University Librarian and Deputy Provost for Libraries & Scholarly Communication
  
-12:05 pm–1:00 pm — Poster session  
-Showcase of projects by students, faculty, and staff
+### 12:05 pm–1:00 pm — Poster session    
+Showcase of projects by students, postdoctoral associates, faculty, and staff
+
+“Becoming Hopper: Mapping the Reclamation of Calhoun College”  
+Seth Anderson, Undergraduate, Molecular Biophysics and Biochemistry
+
+“The Decisive Network: Magnum Photos and the Postwar Image Market”  
+Nadya Bair, Postdoctoral Associate, Yale Digital Humanities Lab and American Studies
+
+“Open the City: A Digital Mapping Project”  
+Amanda Chemeche, MA student, American Studies
+
+“Visualizing Image Data Inside Computational Notebooks”  
+Damon Crockett, Postdoctoral Associate, Yale Digital Humanities Lab and Computer Science
+
+“Digital Editing and Medieval Technologies of Reading”  
+Eric Ensley, PhD student, English Literature  
+Gina Hurley, PhD student, Medieval Studies
+
+“Building a Cloud Road Sign Platform for New Haven”  
+Nadia Irwanto, Undergraduate, Global Affairs  
+Eugene Lim, Undergraduate, Computer Science and History  
+Yi Chern Tan, Undergraduate, Ethics, Politics, and Economics  
+Isabella Teng, Undergraduate, Computer Science  
+Annie Zhou, Undergraduate, Computer Science
+
+“John Ashbery’s Nest: A Virtual Tour of a Poet’s House”  
+J’Vaughn Johnson, Developer, Yale ITS
+
+“Designing a Database Schema and Interface for Babylonian Seals”  
+Eugene Lim, Undergraduate, Computer Science; History
+
+“Re-Viewing the Past: Reconstructing an Accurate 3D Model of Nimrud Stone Reliefs”  
+Nathan Lin, Undergraduate, Computer Science
+
+“‘Let them speak’: Anthologizing Holocaust Testimonies”  
+Stephen Naron, Director, Fortunoff Video Archive for Holocaust Testimonies  
+Gabor Toth, Postdoctoral Associate, Yale Digital Humanities Lab, Fortunoff Video Archive for Holocaust Testimonies and History
