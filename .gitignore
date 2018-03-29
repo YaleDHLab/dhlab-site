@@ -8,3 +8,4 @@ _site
 node_modules
 ngrok
 ghostdriver.log
+package-lock.json
