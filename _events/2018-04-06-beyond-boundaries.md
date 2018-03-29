@@ -63,8 +63,6 @@ Saima Akhtar, Postdoctoral Associate, Computer Science and Institute for the Pre
 ### 11:00 am–12:00 pm — Roundtable discussion  
 Presentations by faculty and staff on the benefits and challenges digital methods pose for research and teaching
 
-This year's roundtable will include: 
-
 “Collections | Datasets”  
 Paul Messier, Lens Media Lab of the Institute for the Preservation of Cultureal Heritage
 
