@@ -4,7 +4,7 @@ image: /assets/images/projects/originals/photogrammar.jpg
 thumbnail: /assets/images/projects/thumbs/photogrammar-thumb.jpg
 
 caption: >
-  *Photogrammar*'s map interface provides a geographic way to explore an archive of photographs from 1935—1945.
+  Photogrammar's map interface provides a geographic way to explore an archive of photographs from 1935—1945.
 
 project_url: http://photogrammar.yale.edu
 
