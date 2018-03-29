@@ -7,13 +7,13 @@ alt: DESCRIPTION
 image: /assets/images/banners/meetup.jpg
 alt: Photo of workshop participants in the lab.
 caption: ""
-categories: 
+categories:
   - Student Jobs
   - Opportunities
 image_layout: simple
 <!--status: fulfilled-->
 teaser: |
-  DESCRIPTION 
+  DESCRIPTION
 ---
 
 ### TITLE

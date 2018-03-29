@@ -1,5 +1,5 @@
-<a href='{{ include.item.url | prepend: site.baseurl }}'>
-  <div class='four-rectangle-grid-cell'>
+<div class='four-rectangle-grid-cell'>
+  <a href='{{ include.item.url | prepend: site.baseurl }}'>
     <div class='dark-overlay'></div>
     <div class='background-image'
       style='background-image:url("{{ include.item.image | prepend: site.baseurl }}")'>
@@ -10,5 +10,5 @@
       teaser=include.item.teaser
     %}
     <div class='teaser hide-tablet hide-mobile'>{{ include.item.teaser }}</div>
-  </div>
-</a>
+  </a>
+</div>

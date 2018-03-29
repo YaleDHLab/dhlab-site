@@ -70,14 +70,33 @@ import resultTemplate from '../../templates/search-result-template.html';
   **/
 
   const toggleSearch = () => {
-    if (searchBar.className.includes('active')) {
-      searchBar.className = searchBar.className.replace('active', '')
-      container.style.display = 'none';
-      container.style.height = '70px';
-    } else {
-      searchBar.className += ' active';
-      input.focus()
-    }
+    if (searchIsShown()) hideSearch();
+    else showSearch();
+  }
+
+  /**
+  * Determine whether the search bar is shown
+  **/
+
+  const searchIsShown = () => searchBar.className.includes('active');
+
+  /**
+  * Show the search bar
+  **/
+
+  const showSearch = () => {
+    searchBar.className += ' active';
+    input.focus()
+  }
+
+  /**
+  * Hide the search bar
+  **/
+
+  const hideSearch = () => {
+    searchBar.className = searchBar.className.replace('active', '')
+    container.style.display = 'none';
+    container.style.height = '70px';
   }
 
   /**
@@ -209,6 +228,18 @@ import resultTemplate from '../../templates/search-result-template.html';
   }
 
   /**
+  * Hide the search bar on body click
+  **/
+
+  const handleBodyClick = (e) => {
+    if (e.target.getAttribute('id') !== 'search-input' &&
+        e.target.getAttribute('id') !== 'search-button' &&
+        e.target.className !== 'search') {
+      if (searchIsShown()) hideSearch()
+    }
+  }
+
+  /**
   * Main
   **/
 
@@ -218,6 +249,7 @@ import resultTemplate from '../../templates/search-result-template.html';
   get(url + 'id-to-metadata.json', handleMetadata);
 
   window.addEventListener('resize', handleResize);
+  window.addEventListener('click', handleBodyClick);
   sortBy.addEventListener('change', search);
   target.addEventListener('click', toggleSearch);
   input.addEventListener('keydown', handleKeys);

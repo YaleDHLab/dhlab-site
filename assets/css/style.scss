@@ -5,6 +5,7 @@ process: true
 $color: #F9BE00;
 $hotlink: #edb021;
 $coldlink: #30888e;
+$focus: lightcoral;
 $nav_breakpoint: 900px;
 $desktop_breakpoint: 1000px;
 $mobile_breakpoint: 700px;
@@ -15,12 +16,20 @@ $mobile_breakpoint: 700px;
   box-sizing: border-box;
 }
 
+*:focus {
+  outline: 4px solid $focus;
+}
+
 html, body {
   height: 100%;
   font-family: 'Open Sans';
   font-size: 14px;
   font-weight: 400;
   background-attachment: fixed;
+}
+
+body:focus {
+  outline: none;
 }
 
 /**
@@ -1658,6 +1667,10 @@ section {
   padding-bottom: 40px;
 }
 
+.three-spaced-squares .spaced-square a {
+  display: block;
+}
+
 .three-spaced-squares .spaced-square:nth-of-type(1) {
   padding-right: 40px;
 }
@@ -1772,6 +1785,10 @@ section {
   font-weight: 600;
   min-height: 40px;
   white-space: normal;
+}
+
+.archive-grid .archive-item a {
+  display: block;
 }
 
 .archive-grid a.archive-item:hover {
@@ -2117,6 +2134,15 @@ section {
   color: #fff;
 }
 
+.rectangle-image-grid .four-rectangle-grid-cell a {
+  position: absolute;
+  z-index: 0;
+  top: 0;
+  bottom: 0;
+  right: 0;
+  left: 0;
+}
+
 .rectangle-image-grid .left-column .four-rectangle-grid-cell {
   right: 8px;
 }
@@ -2177,6 +2203,10 @@ section {
 
 .four-rectangle-grid-cell:hover .dark-overlay {
   border: 6px solid $color;
+}
+
+.four-rectangle-grid-cell a:focus .dark-overlay {
+  border: 6px solid $focus;
 }
 
 @media (min-width: 1200px) {
@@ -2264,6 +2294,10 @@ section {
   outline: 4px solid $color;
 }
 
+.one-third-rectangle-cards .one-third-rectangle-card:focus {
+  outline: 4px solid $focus;
+}
+
 .one-third-rectangle-cards .image-title-container {
   color: #fff;
   z-index: 1;
@@ -2288,6 +2322,14 @@ section {
   letter-spacing: 0;
   padding-top: 2px;
   font-weight: 400;
+}
+
+.one-third-rectangle-card a {
+  position: absolute;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 0;
 }
 
 @media (max-width: 750px) {
@@ -2492,6 +2534,11 @@ section {
   padding-right: 60px;
 }
 
+.horizontal-card a {
+  display: block;
+  overflow: auto;
+}
+
 .horizontal-card a.color-button {
   display: inline-block;
   margin-top: 20px;
@@ -2612,6 +2659,19 @@ section {
 
 .large-card {
   padding-bottom: 60px;
+}
+
+.large-card a {
+  overflow: visible;
+  display: block;
+}
+
+.large-card a.color-text {
+  display: inline-block;
+}
+
+.large-card .large-card-text a {
+  display: inline-block;
 }
 
 @media (max-width: $desktop_breakpoint) {
@@ -3130,6 +3190,10 @@ br + .tags,
   border-radius: 5px;
 }
 
+.search-bar input:focus {
+  outline: 4px solid $focus;
+}
+
 .search-bar .color-button {
   position: absolute;
   right: 0;
@@ -3165,6 +3229,15 @@ br + .tags,
   max-width: 1200px;
   padding: 40px 130px 200px;
   margin: 0 auto;
+}
+
+.search-results a.search-result {
+  display: block;
+}
+
+.search-results .search-result hr {
+  padding-bottom: 0;
+  margin-bottom: 40px;
 }
 
 .search-results-header .section-title {
@@ -3476,6 +3549,10 @@ br + .tags,
 * Home page: events
 **/
 
+.home-page #events-calendar {
+  display: inline-block;
+}
+
 .home-events-container {
   text-align: center;
   display: table;
@@ -3484,7 +3561,7 @@ br + .tags,
   margin-bottom: 80px;
 }
 
-.home-events-container a {
+.home-events-container .home-event-wrapper {
   display: table-cell;
   width: 30%;
   position: relative;
@@ -3492,16 +3569,20 @@ br + .tags,
 }
 
 /* evenly space events in table */
-.home-events-container a:nth-child(1) {
+.home-events-container .home-event-wrapper:nth-child(1) {
   padding-right: 40px;
 }
 
-.home-events-container a:nth-child(2) {
+.home-events-container .home-event-wrapper:nth-child(2) {
   padding: 0 20px;
 }
 
-.home-events-container a:nth-child(3) {
+.home-events-container .home-event-wrapper:nth-child(3) {
   padding-left: 40px;
+}
+
+.home-event-wrapper a {
+  display: block;
 }
 
 .home-events-container .home-event-image {
@@ -3518,15 +3599,15 @@ br + .tags,
 }
 
 @media (max-width: $desktop_breakpoint) {
-  .home-events-container a:nth-child(1) {
+  .home-events-container .home-event-wrapper:nth-child(1) {
     padding-right: 10px;
   }
 
-  .home-events-container a:nth-child(2) {
+  .home-events-container .home-event-wrapper:nth-child(2) {
     padding: 0 5px;
   }
 
-  .home-events-container a:nth-child(3) {
+  .home-events-container .home-event-wrapper:nth-child(3) {
     padding-left: 10px;
   }
 }
@@ -4093,6 +4174,10 @@ br + .tags,
 
 .projects-page .project-image-container {
   margin-bottom: 70px;
+}
+
+.projects-page .project-image-container a {
+  display: block;
 }
 
 .projects-page .project-filters select {

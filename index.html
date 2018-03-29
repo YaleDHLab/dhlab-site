@@ -14,44 +14,46 @@ title: Welcome
 <div class='home-center-column'>
 
   <!-- HOME EVENTS DESKTOP -->
-  <section aria-label='events calendar'>
-    <a href='{{ site.baseurl }}/events.html'>
-      <div class='home-section-title'>EVENTS CALENDAR</div>
-    </a>
+  <section aria-label='events calendar' id='events-calendar'>
+    <div class='home-section-title'>
+      <a href='{{ site.baseurl }}/events.html'>EVENTS CALENDAR</a>
+    </div>
     <div class='home-events-container hide-tablet'>
       {% include events/get_future_events.html %}
       {% for event in future_events limit:3 %}
-        <a href='{{ event.url | prepend: site.baseurl }}' class='hide-tablet'>
-          {% assign image_url = event.thumbnail | prepend: site.baseurl %}
-          <div class='home-event-image background-image event-date-container blur-container'
-              style='background-image: url({{ image_url }})' alt='{{ event.alt }}'>
-            {% include events/event_date.html event=event %}
-            {% assign label=event.categories | first %}
-            {% if event.short_title %}
-              {% include cards/card_title_box.html
-                label=label
-                title=event.short_title %}
-            {% else %}
-              {% include cards/card_title_box.html
-                label=label
-                title=event.title %}
-            {% endif %}
-          </div>
-        </a>
+        <div class='home-event-wrapper'>
+          <a href='{{ event.url | prepend: site.baseurl }}' class='hide-tablet'>
+            {% assign image_url = event.thumbnail | prepend: site.baseurl %}
+            <div class='home-event-image background-image event-date-container blur-container'
+                style='background-image: url({{ image_url }})' alt='{{ event.alt }}'>
+              {% include events/event_date.html event=event %}
+              {% assign label=event.categories | first %}
+              {% if event.short_title %}
+                {% include cards/card_title_box.html
+                  label=label
+                  title=event.short_title %}
+              {% else %}
+                {% include cards/card_title_box.html
+                  label=label
+                  title=event.title %}
+              {% endif %}
+            </div>
+          </a>
+        </div>
       {% endfor %}
     </div>
     <div class='mobile'>
       {% for event in sorted_events reversed limit:3 %}
-        {%- include cards/horizontal_card.html item=event -%}
+        {% include cards/horizontal_card.html item=event %}
       {% endfor %}
     </div>
   </section>
 
   <!-- HOME NEWS -->
   <section aria-label='recent news'>
-    <a href='{{ site.baseurl }}/news.html'>
-      <div class='home-section-title'>WHAT'S NEW</div>
-    </a>
+    <div class='home-section-title'>
+      <a href='{{ site.baseurl }}/news.html'>WHAT'S NEW</a>
+    </div>
     <div class='large-card'>
       {% assign news_items = '' | split: '' %}
       {% for item in site.news %}
