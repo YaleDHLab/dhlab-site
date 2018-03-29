@@ -19,11 +19,13 @@ Visual analysis consists of using computational processes to study large collect
 
 While there are fewer open source tools for image analysis than there are for text analysis, there are some great resources you can use to get started in this field. For an overview of some of the operations you can perform on images, try looking at the <a href='http://scikit-image.org/docs/stable/auto_examples/' target='_blank'>scikit-image gallery</a>, which includes code that can help perform many image operations. The links below offer code that can help you accomplish many popular tasks in image processing:
 
+<a href='https://github.com/YaleDHLab/pix-plot' target='_blank'>Visualize similar images within a large image corpus</a>
+
 <a href='https://www.tensorflow.org/tutorials/image_recognition' target='_blank'>Identify objects in images</a>
 
 <a href='https://github.com/lengstrom/fast-style-transfer' target='_blank'>Transfer styles from one image to another</a>
 
-<a href='https://github.com/carpedm20/BEGAN-tensorflow' target='_blank'>Create fictional images that resemble input images</a>
+<a href='https://github.com/carpedm20/BEGAN-tensorflow' target='_blank'>Create new images that resemble input images</a>
 
 <a href='http://douglasduhaime.com/posts/identifying-similar-images-with-tensorflow.html' target='_blank'>Find similar images within a corpus</a>
 
