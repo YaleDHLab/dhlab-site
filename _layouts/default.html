@@ -2,7 +2,7 @@
 <html lang='en'>
   {% include head.html %}
   {% capture page_class %} {{ page.class }} {{ layout.class }}{% endcapture %}
-  <body class='{{ page_class }}'>
+  <body class='{{ page_class }}' tabindex='-1'>
     <div class='content'>
       <div class='container'>
         {% if page.header_color %}
