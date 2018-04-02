@@ -2527,7 +2527,6 @@ section {
 }
 
 .horizontal-card .text {
-  overflow: hidden;
   vertical-align: top;
   line-height: 1.3em;
   color: #000;
@@ -2535,8 +2534,11 @@ section {
 }
 
 .horizontal-card a {
-  display: block;
   overflow: auto;
+}
+
+.horizontal-card .text > a {
+  display: block;
 }
 
 .horizontal-card a.color-button {
