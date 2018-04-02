@@ -4,9 +4,9 @@ order: 2
 image: '/assets/images/banners/campus.jpg'
 caption: Photo by Michael Marsland.
 overview: training_scholarship
-deadline: Forthcoming, 2018
+deadline: Rolling basis
 apply_button: hidden
-application_text: Apply to become one of our 2018 training scaholarship recipients.
+application_text: Apply to become one of our 2018 training scholarship recipients.
 
 application_url: |
  https://docs.google.com/forms/d/e/1FAIpQLSd19vYL9ny8NSUroCHykeK1ip2-Xz2RnpWXZZoXQZWY9VFBXQ/viewform?usp=sf_lin
@@ -17,7 +17,7 @@ class: hide-color-hr
 
 ### Overview
 
-The Digital Humanities Lab is pleased to announce a limited number of $500 Digital Humanities Training Scholarships. Yale undergraduates, graduate students, and librarians are eligible to apply. These scholarships support participation in digital humanities workshops that are three or more days long.
+The Digital Humanities Lab is pleased to announce a limited number of $500 Digital Humanities Training Scholarships. Yale undergraduates, graduate students, and librarians are eligible to apply. These scholarships support participation in digital humanities workshops that are three or more days long. **Applications will be accepted on a rolling basis until funds are exhausted.**
 
 The application cycle is currently closed. Please check back mid spring 2018 for more information.
 <br/>
