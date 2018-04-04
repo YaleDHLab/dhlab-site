@@ -1,5 +1,4 @@
 ---
-render: false
 title: ""
 date: March 2, 2018
 thumbnail: /assets/images/news/DESCRIPTION
