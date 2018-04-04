@@ -1,5 +1,4 @@
 ---
-render: false
 title: ''
 short_title: ''
 date: 2018-04-06

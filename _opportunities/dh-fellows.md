@@ -11,7 +11,7 @@ application_text: >
 application_url: >
   https://docs.google.com/forms/d/e/1FAIpQLScvKOG9RgwKW5nbzHYHHwG9N_yMeoLpaBH-RNbSB1BH0clenA/viewform?usp=sf_link
 
-deadline: April 16, 2018
+deadline: April 23, 2018
 overview: teaching_fellows
 ---
 
