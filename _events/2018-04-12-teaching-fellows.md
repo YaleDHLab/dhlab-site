@@ -8,7 +8,6 @@ thumbnail: /assets/images/events/jub-teaching.jpg
 alt: Classroom of Yale College students working with a DH Fellow
 categories:
   - Talk
-  - Office Hours
 tags:
   - Geospatial Analysis
   - Text Analysis
@@ -22,7 +21,7 @@ teaser: >
 
 ### Coffee Chat: Teaching with DH
 
-How can digital platforms help students reimagine storytelling possibilities? What are some considerations for adapting digital humanities tools for creative arts courses? How can the tools we teach in the classroom be applied to our research? Hear some answers first-hand from former Digital Humanities Fellows! Four Fellows from the fall semester will present on digital projects they undertook in and out of the classroom. 
+How can digital platforms help students reimagine storytelling possibilities? What are some considerations for adapting digital humanities tools for creative arts courses? How can the tools we teach in the classroom be applied to our research? Hear answers to these questions and more from former Digital Humanities Fellows! Four Fellows from the fall semester will present on digital projects they undertook in and out of the classroom. 
 
 All are welcome to attend! Coffee will be available.
    
