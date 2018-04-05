@@ -20,9 +20,9 @@ teaser: >
   How can digital platforms help students reimagine storytelling possibilties? What are some considerations for adapting digital humanities tools for creative arts courses? Hear some answers first-hand from former Digital Humanities Fellows.
 ---
 
-### Office Hours Coffee Chat: Teaching with DH
+### Coffee Chat: Teaching with DH
 
-How can digital platforms help students reimagine storytelling possibilties? What are some considerations for adapting digital humanities tools for creative arts courses? How can the tools we teach in the classroom be applied to our research? Hear some answers first-hand from former Digital Humanities Fellows! Four Fellows from the fall semester will present on digital projects they undertook in and out of the classroom. 
+How can digital platforms help students reimagine storytelling possibilities? What are some considerations for adapting digital humanities tools for creative arts courses? How can the tools we teach in the classroom be applied to our research? Hear some answers first-hand from former Digital Humanities Fellows! Four Fellows from the fall semester will present on digital projects they undertook in and out of the classroom. 
 
 All are welcome to attend! Coffee will be available.
    
