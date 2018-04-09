@@ -19,6 +19,8 @@ The best way to learn how to program is to do something useful, so this introduc
 
 This hands-on workshop will cover basic concepts and tools, including program design and task automation in Python. Participants will be encouraged to help one another and apply what they have learned to their own research problems.
 
+To see the agenda for the workshop, please visit <a href='https://nesclic.github.io/2018-04-18-YUL/' target='_blank'>the workshop's GitHub page</a>.
+
 Requirements: Participants must bring a laptop with a Mac, Linux, or Windows operating system (not a tablet, Chromebook, etc.) over which they have administrative privileges. 
 
 No prior experience with programming is required.
