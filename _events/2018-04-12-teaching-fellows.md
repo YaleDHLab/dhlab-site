@@ -1,6 +1,5 @@
 ---
 title: 'Teaching with DH'
-short_title: 'Teaching with DH'
 date: 2018-04-12
 time: 2:30 pm
 location: Digital Humanities Lab (SML 316)
@@ -18,9 +17,6 @@ image_layout: simple
 teaser: >
   How can digital platforms help students reimagine storytelling possibilties? What are some considerations for adapting digital humanities tools for creative arts courses? Hear some answers first-hand from former Digital Humanities Fellows.
 ---
-
-### Coffee Chat: Teaching with DH
-
 How can digital platforms help students reimagine storytelling possibilities? What are some considerations for adapting digital humanities tools for creative arts courses? How can the tools we teach in the classroom be applied to our research? Hear answers to these questions and more from former Digital Humanities Fellows! Four Fellows from the fall semester will present on digital projects they undertook in and out of the classroom. 
 
 All are welcome to attend! Coffee will be available.
