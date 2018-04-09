@@ -1,7 +1,7 @@
 ---
 title: DH Teaching Fellows
 order: 0
-image: '/assets/images/banners/teaching-fellows.jpg'
+image: '/assets/images/banners/teaching-fellows2.jpg'
 caption: >
   Fall 2016 Digital Humanities Teaching Fellows. Photo by Michael Marsland.
 
