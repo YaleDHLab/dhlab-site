@@ -3,16 +3,48 @@ layout: default
 class: news-detail-page simple-page
 ---
 
+<!-- Find related items for bottom text squares -->
+{% assign items = '' | split: '' %}
+{% for item in site.news %}
+  {% if item.url != page.url %}
+    {% assign shared = '' | split: '' %}
+    {% for item_category in item.categories %}
+      {% for page_category in page.categories %}
+        {% if item_category == page_category %}
+          {% assign shared = shared | push: item_category %}
+        {% endif %}
+      {% endfor %}
+    {% endfor %}
+    {% for item_tag in item.tags %}
+      {% for page_tag in page.tags %}
+        {% if item_tag == page_tag %}
+          {% assign shared = shared | push: item_tag %}
+        {% endif %}
+      {% endfor %}
+    {% endfor %}
+    {% assign shared_count = shared | size %}
+    {% if shared_count > 1 %}
+      {% assign items = items | push: item %}
+    {% endif %}
+  {% endif %}
+{% endfor %}
+
+{% for item in site.news %}
+  {% assign found_items = items | size %}
+  {% if found_items < 3 %}
+    {% assign items = items | push: item %}
+  {% endif %}
+{% endfor %}
+
 {% if page.image_layout == 'simple' %}
   {% assign page_class = 'simple-page' %}
-  {% assign bottom_items = site.news | limit: 3 %}
   {% include simple.html
     page=page
     content=content
     label='NEWS'
     page_type='news'
     bottom_label='RELATED NEWS'
-    bottom_items=bottom_items
+    bottom_items=items
   %}
 {% endif %}
 
@@ -41,9 +73,9 @@ class: news-detail-page simple-page
       {{ content }}
       </div>
     </div>
-    {% assign events = site.events | limit: 3 %}
+
     {% include text/three_text_blocks.html
-      items=events
+      items=items
       label='RELATED'
     %}
   </div>
