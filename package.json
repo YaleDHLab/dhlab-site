@@ -18,7 +18,8 @@
     "gzip": "find _site \\( -iname '*.html' -o -iname '*.css' -o -iname '*.js' \\) -exec gzip -9 -n {} \\; -exec mv {}.gz {} \\;",
     "index": "node _site/assets/js/search/build-index.js",
     "lint-js": "./node_modules/eslint/bin/eslint.js -c './assets/config/.eslintrc.js' assets/js/",
-    "test": "ruby -Ilib -e 'ARGV.each { |f| require f }' ./tests/test*.rb",
+    "test": "npm run lint-js && npm run test-ruby",
+    "test-ruby": "ruby -Ilib -e 'ARGV.each { |f| require f }' ./tests/test*.rb",
     "stage": "python utils/upload.py staging",
     "deploy": "python utils/upload.py production"
   },
@@ -37,7 +38,7 @@
     "copy-webpack-plugin": "^4.1.0",
     "css-loader": "^0.28.7",
     "eslint": "^4.11.0",
-    "eslint-plugin-frontmatter": "^0.0.3",
+    "eslint-plugin-frontmatter": "^0.0.5",
     "extract-text-webpack-plugin": "^3.0.1",
     "html-webpack-plugin": "^2.30.1",
     "jest": "^21.2.1",

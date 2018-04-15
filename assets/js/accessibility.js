@@ -1,5 +1,5 @@
 (() => {
-  const handleKey = e => {
+  const handleKey = () => {
     const focused = document.activeElement;
     if (focused.className === 'search') {
       find('.search-bar').className = 'search-bar active';
