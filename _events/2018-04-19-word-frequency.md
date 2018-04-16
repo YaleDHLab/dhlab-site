@@ -17,13 +17,13 @@ teaser: >
 ---
 ### Talk
 
-One of the benefits of digital humanities methods is the ability to study texts at scale. But what do these methods look like in practice? In this talk, Gabor Toth will discuss approaches to tracking word frequencies across small and large collections of texts, using Wilkie Collins's *The Moonstone* and texts in the *Early English Books Online* (EEBO) corpus as examples. 
+Gabor Toth will discuss approaches to tracking word frequencies across small and large collections of corpora using Wilkie Collins's *The Moonstone* and texts in *Early English Books Online* (EEBO) as examples. 
 
 Attendees will learn about the mathematical bases of frequency and will be introduced to different types of frequency (relative, absolute, document, inverse, etc.). 
 
 ### Series Information
 
-This is part one of a two-part series that will offer a concise introduction to key quantitative features of textual data. In the talks, Gabor will offer case studies using *The Moonstone*, *Early English Books Online* (EEBO), and Health Reports from London (1850 - 1973). The overall goal of the two talks is to present ways of framing qualitative questions in the Humanities alongside quantitative problems.
+This is part one of a two-part series that will offer a concise introduction to word frequency and collocation analysis for the purpose of literary studies. With *The Moonstone*, *Early English Books Online* (EEBO), and Health Reports from London (1850 - 1973) as case studies, the overall goal of the two talks is to demonstrate how quantitative methods can help inform exploratory text analysis.
 
 Attendees are welcome to attend either or both sessions!
 
