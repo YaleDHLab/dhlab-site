@@ -1,29 +1,27 @@
 ---
-title: ''
-short_title: ''
-date: 2018-04-06
-time: 9:30 - 1:00 pm
+title: 'Quantitative Linguistics for Humanists: Collocation Analysis'
+short_title: 'Quantitative Linguistics for Humanists'
+date: 2018-04-26
+time: 3:00 - 4:00 pm
 location: Bass Library, L01
-thumbnail: /assets/images/events/DESCRIPTION
-alt: DESCRIPTION
+thumbnail: /assets/images/events/video.jpg
 categories:
-  - Meetup
+  - Talk
 tags:
-  - WebGL
-permalink: '/NAME/'
+  - Text Analysis
+permalink: '/collocation-analysis/'
 spotlight: false
 image_layout: simple
 teaser: >
-  DESCRIPTION
+  In this talk, Gabor Toth will discuss collocation analysis and its rich potential for exploratory text analysis.
 ---
 
-### Text title 
+### Talk
 
-DESCRIPTION
+In this talk, Gabor Toth will discuss collocation analysis and its rich potential for exploratory text analysis. He will use the Health Reports from London (1850-1973) as case studies.
 
-### Link options
-<a href='{{ site.baseurl }}/events/2016-04-08-beyond-boundaries.html' target='_blank'>BB2016</a> 
+### Series Information
 
-<a href='' target='_blank'>DESCRIPTION</a>
+This is part two of a two-part series that offers a concise introduction to key quantitative features of textual data. In the talks, Gabor will offer case studies using *The Moonstone*, *Early English Books Online* (EEBO), and Health Reports from London (1850 - 1973). The overall goal of the two talks is to present ways of framing qualitative questions in the Humanities alongside quantitative problems.
 
-**Contact**: [Noel Lenski](mailto:noel.lenski@yale.edu)
+Attendees are welcome to attend even if they missed part one.
