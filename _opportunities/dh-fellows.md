@@ -1,5 +1,5 @@
 ---
-title: DH Teaching Fellows
+title: DH Fellows Application
 order: 0
 image: '/assets/images/banners/teaching-fellows2.jpg'
 caption: >
