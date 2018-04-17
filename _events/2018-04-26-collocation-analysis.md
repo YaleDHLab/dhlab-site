@@ -4,7 +4,7 @@ short_title: 'Quantitative Linguistics for Humanists'
 date: 2018-04-26
 time: 3:00 - 4:00 pm
 location: Bass Library, L01
-thumbnail: /assets/images/events/video.jpg
+thumbnail: /assets/images/events/text-video-2.jpg
 categories:
   - Talk
 tags:
