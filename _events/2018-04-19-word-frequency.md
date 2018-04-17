@@ -4,7 +4,7 @@ short_title: 'Tracking Word Frequency'
 date: 2018-04-19
 time: 3:00pm - 4:00 pm
 location: Bass Library, L01
-thumbnail: /assets/images/events/video.jpg
+thumbnail: /assets/images/events/text-video-1.jpg
 categories:
   - Talk
 tags:
