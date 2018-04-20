@@ -18,8 +18,6 @@ class: hide-color-hr
 ### Overview
 
 The Digital Humanities Lab is pleased to announce a limited number of $500 Digital Humanities Training Scholarships. Yale undergraduates, graduate students, and librarians are eligible to apply. These scholarships support participation in digital humanities workshops that are three or more days long. **Applications will be accepted on a rolling basis until funds are exhausted.**
-
-The application cycle is currently closed. Please check back mid spring 2018 for more information.
 <br/>
 
 ### Popular Workshops
