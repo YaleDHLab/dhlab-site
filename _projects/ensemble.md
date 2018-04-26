@@ -3,25 +3,20 @@ featured: true
 title: 'Ensemble: Crowdsource Yale Theater History'
 image: /assets/images/projects/originals/ensemble.jpg
 thumbnail: /assets/images/projects/thumbs/ensemble-thumb.jpg
+alt: Scene from The Winter&apos;s Tale at Yale Repertory Theatre featuring Lupita Nyong&apos;o, one of the productions whose program is featured in the Ensemble application
 caption: >
   Scene from <em>The Winter's Tale</em> at the Yale Repertory Theatre, directed by Liz Diamond. 
 project_url: http://ensemble.yale.edu/#/
-
 team:
   - name: Lindsay King
     position: Robert B. Haas Family Arts Library
   - name: Peter Leonard
-    position: Digital Humanities Lab
-
+    position: Yale Digital Humanities Lab
 categories:
   - Crowdsourced Data
   - Web Applications
-
-alt: Scene from The Winter&apos;s Tale at Yale Repertory Theatre featuring Lupita Nyong&apos;o, one of the productions whose program is featured in the Ensemble application
-
 tags:
   - Archives
-
 dhlab_project: true
 ---
 

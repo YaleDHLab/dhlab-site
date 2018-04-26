@@ -1,15 +1,14 @@
 ---
 title: "Historian's Eye"
 thumbnail: /assets/images/projects/archive-thumbs/historians_eye-thumb.jpg
+alt: Black and white photograph of abandoned shopping cart in empty parking lot
 layout: archive
 project_url: http://campuspress.yale.edu/historianseye
-
-alt: Black and white photograph of abandoned shopping cart in empty parking lot
 team:
-
+ - name: Matthew Jacobson
+   position: American Studies, <br/> African American Studies <br/>, History
 categories:
   - Crowdsourced Data
-
 tags:
   - Photographs
 ---

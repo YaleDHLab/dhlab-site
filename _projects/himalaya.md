@@ -1,13 +1,9 @@
 ---
 title: Digital Himalaya
 thumbnail: /assets/images/projects/archive-thumbs/himalaya-thumb.jpg
+alt: Screenshot of interface using map of Himalayas with ethnographic portraits
 layout: archive
 project_url: http://www.digitalhimalaya.com
-
-alt: Screenshot of interface using map of Himalayas with ethnographic portraits
-
-team:
-  
 tags:
   - Archives
   - Languages

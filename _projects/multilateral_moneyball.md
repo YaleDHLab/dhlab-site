@@ -1,8 +1,8 @@
 ---
 title: Multilateral Moneyball
 thumbnail: /assets/images/projects/archive-thumbs/multi-moneyball-thumb.jpg
-layout: archive
 alt: International flags at the United Nations
+layout: archive
 categories:
   - Text Analysis
 ---

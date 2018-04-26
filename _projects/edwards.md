@@ -1,13 +1,11 @@
 ---
 title: Jonathan Edwards Online
 thumbnail: /assets/images/projects/archive-thumbs/edwards-thumb.jpg
+alt: Page from The Works of Jonathan Edwards
 layout: archive
 project_url: http://edwards.yale.edu
-
-team:
-
-alt: Page view from The Works of Jonathan Edwards
-
+categories:
+  - Web Applications
 tags:
   - Archives
 ---

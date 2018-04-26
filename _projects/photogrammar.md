@@ -2,39 +2,32 @@
 title: Photogrammar
 image: /assets/images/projects/originals/photogrammar.jpg
 thumbnail: /assets/images/projects/thumbs/photogrammar-thumb.jpg
-
+alt: Photogrammar US map with sample historical images overlayed.
 caption: >
   Photogrammar's map interface provides a geographic way to explore an archive of photographs from 1935—1945.
-
 project_url: http://photogrammar.yale.edu
-
 team:
   - name: Laura Wexler
-    position: Women’s, Gender and Sexuality Studies and American Studies
+    position: Women’s, Gender, and Sexuality Studies; <br/>American Studies
   - name: Lauren Tilton
     position: American Studies
   - name: Taylor Arnold
     position: Statistics
   - name: Peter Leonard
-    position: Digital Humanities Lab
+    position: Yale Digital Humanities Lab
   - name: Trip Kirkpatrick
     position: Center for Teaching and Learning
   - name: Catherine DeRose
-    position: Digital Humanities Lab
+    position: Yale Digital Humanities Lab
   - name: Monica Ong Reed
-    position: Digital Humanities Lab
-
+    position: Yale Digital Humanities Lab
 categories:
   - Geospatial Analysis
   - Visual Analysis
   - Web Applications
-
-alt: Photogrammar US map with sample historical images overlayed.
-
 tags:
   - Archives
   - Photographs
-
 dhlab_project: true
 ---
 

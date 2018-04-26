@@ -1,16 +1,12 @@
 ---
 title: Ten Thousand Rooms
 thumbnail: /assets/images/projects/archive-thumbs/ten-thousand-rooms-thumb.jpg
+alt: Ten Thousand Room project logo over scroll of Chinese calligraphy
 layout: archive
 project_url: http://tenthousandrooms.yale.edu
-
-team:
-
 categories:
   - Crowdsourced Data
-
-alt: Ten Thousand Room project logo over scroll of Chinese calligraphy
-
+  - Web Applications
 tags:
   - Languages
 ---

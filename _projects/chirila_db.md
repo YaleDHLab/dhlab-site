@@ -1,23 +1,19 @@
 ---
 title: ChirilaDB
 thumbnail: /assets/images/projects/archive-thumbs/chirila-thumb.jpg
+alt: Chirila logo for the Contemporary and Historical Reconstruction in the Indigenous Languages of Australia
 layout: archive
 funded: true
 project_url: http://chirila.yale.edu/
-
-alt: Chirila logo for the Contemporary and Historical Reconstruction in the Indigenous Languages of Australia
-
 team:
   - name: Claire Bowern
-    position: Professor of Linguistics
+    position: Linguistics
   - name: Abhi Nayar
     position: Yale College
-
 categories:
   - Geospatial Analysis
   - Text Analysis
   - Web Applications
-
 tags:
   - Linguistics
   - Languages

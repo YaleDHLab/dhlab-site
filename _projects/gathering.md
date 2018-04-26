@@ -2,25 +2,19 @@
 title: Gathering a Building
 image: /assets/images/projects/originals/gathering-banner.jpg
 thumbnail: /assets/images/projects/thumbs/gathering-banner-thumb.jpg
+alt: Architectural rendering of overhead view of the new Yale Colleges (2017)
 caption: >
   View of the project homepage where users can explore Yale University's campus expansion.
-
 project_url: http://gatheringabuilding.yale.edu
-
 team:
   - name: Gideon Fink Shapiro
-    position: Former DHLab Postdoctoral Associate, appointment in American Studies
-
+    position: Yale Digital Humanities Lab; <br/> American Studies
 categories:
   - Geospatial Analysis
   - Web Applications
-
 tags:
   - Architecture  
   - Archives
-
-alt: Architectural rendering of overhead view of the new Yale Colleges (2017)
-
 dhlab_project: true
 ---
 

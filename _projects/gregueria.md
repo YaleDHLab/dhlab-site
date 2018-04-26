@@ -1,25 +1,21 @@
 ---
 title: La Greguería Virtual
 thumbnail: /assets/images/projects/archive-thumbs/gregueria-thumb.jpg
+alt: Snippet of masonry view of several Gregueria's or aphorisms by Gómez de la Serna
 layout: archive
 funded: true
-
 team:
   - name: Diego del Río Arrillaga
-    position: Former PhD student in Spanish and Portuguese, </br>Visiting Assistant Professor of Spanish at Kenyon College
+    position: Spanish and Portuguese
   - name: Janelle Gondar
-    position: PhD student in Spanish and Portuguese
+    position: Spanish and Portuguese
   - name: Christian De Leon
     position: Yale College
   - name: Thomas Zembowicz
     position: Yale College
-
-alt: Snippet of masonry view of several Gregueria's or aphorisms by Gómez de la Serna
-
 categories:
-  - Geospatial Analysis
   - Text Analysis
-
+  - Web Applications
 tags:
   - Archives
   - Languages
@@ -30,4 +26,4 @@ tags:
 
 *La Greguería Virtual, or the Virtual Aphorisms of Ramón Gómez de la Serna*, is an online tool that allows scholars and the general public to search a database of 10,000 greguerías (Gómez de la Serna's aphorisms) using various filters or criteria, including specific words, length, and theme. 
 
-*This project was funded with Digital Humanities Lab Corpus Creation and Software Development Seed Grants.*
+*This project was funded with Yale Digital Humanities Lab Corpus Creation and Software Development Seed Grants to first digitize and tag the texts and then to build a platform for interacting with the aphorisms.*

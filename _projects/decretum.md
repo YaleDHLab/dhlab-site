@@ -1,12 +1,11 @@
 ---
 title: Decretum Gratiani
 thumbnail: /assets/images/projects/archive-thumbs/decretum-thumb.jpg
+alt: Page view from Gratian's Decretum 
 layout: archive
 project_url: https://sites.google.com/a/yale.edu/decretumgratiani/home
-
-alt: Page view from Gratian's Decretum 
-team:
-
+categories:
+  - Web Applications
 tags:
   - Medieval
   - Manuscripts

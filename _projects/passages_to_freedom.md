@@ -6,7 +6,7 @@ layout: archive
 funded: true
 team:
   - name: Jonathan Schroeder
-    position: Former postdoctoral associate in the <br/>Yale Digital Humanities Lab and English
+    position: Yale Digital Humanities Lab, <br/> English
 categories:
   - Geospatial Analysis
   - Web Applications

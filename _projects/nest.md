@@ -2,9 +2,9 @@
 title: "John Ashbery's Nest"
 image: /assets/images/projects/originals/nest.jpg
 thumbnail: /assets/images/projects/thumbs/nest-thumb.jpg
+alt: View of the Center Hall of John Ashbery's house
 caption: >
   View into the center hall of the home of legendary American poet John Ashbery.
-
 team:
   - name: Karin Roffman
     position: Humanities, English, American Studies, Principal Investigator
@@ -24,18 +24,12 @@ team:
     position: Yale ITS
   - name: Julie Ramaccia
     position: Yale ITS
-
-alt: View of the Center Hall of John Ashbery's house
-
 project_url: http://ashberyhouse.yale.edu
-
 categories:
   - Web Applications
-
 tags:
   - Archives
   - Literature
-
 dhlab_project: true
 ---
 
