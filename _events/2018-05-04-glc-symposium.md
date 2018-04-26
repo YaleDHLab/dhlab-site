@@ -16,7 +16,7 @@ tags:
   - Race Studies
   - Visualization
   - Pedagogy
-permalink: '/digital-age-symposium/'
+permalink: '/glc-symposium/'
 spotlight: false
 image_layout: simple
 teaser: >
