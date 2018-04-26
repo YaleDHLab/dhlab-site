@@ -1,22 +1,15 @@
 ---
 title: Cinécircuits
 thumbnail: /assets/images/projects/archive-thumbs/cinecircuits-thumb.jpg
+alt: Excerpt of Cinecircuits map visualization of the distribution of networks of the global film festival circuit
 layout: archive
 funded: true
 project_url: http://cinecircuits.yale.edu/
-
-alt: Excerpt of Cinecircuits map visualization of the distribution of networks of the global film festival circuit
-
 team:
   - name: Masha Shpolberg
     position: PhD student in Comparative Literature <br/>and Film and Media Studies
   - name: Andrew Vielkind
     position: PhD student in Art History <br/>and Film and Media Studies
-  - name: Mehmet Yildiz
-    position: Yale College
-  - name: Abhi Nayar
-    position: Yale College
-
 categories:
   - Geospatial Analysis
   - Web Applications
