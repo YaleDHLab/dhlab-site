@@ -1,15 +1,11 @@
 ---
 title: Medieval Manuscripts
 thumbnail: /assets/images/projects/archive-thumbs/medieval-thumb.jpg
+alt: Page view of medieval manuscript
 layout: archive
 project_url: http://ydc2.yale.edu/research-support/digitally-enabled-scholarship-medieval-manuscripts
-
-team:
-alt: Page view of medieval manuscript
-
 categories:
-  - Visual Analysis
-
+  - Text Analysis
 tags:
   - Medieval
 ---

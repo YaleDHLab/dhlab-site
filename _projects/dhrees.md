@@ -2,12 +2,8 @@
 title: Digital Humanities and Russian & East European Studies
 image: /assets/images/projects/originals/dhrees.jpg
 thumbnail: /assets/images/projects/thumbs/dhrees-thumb.jpg
-project_url: http://dhrees.yale.edu  
-
-tags:
-  - Languages
-  - Literature
-
+alt: Image of Joseph Brodsky in conversation in front of Russian constructivist map graphic
+project_url: http://dhrees.yale.edu
 team:
   - name: Marijeta Bozovic
     position: Slavic Languages and Literatures; <br/>Film and Media Studies; <br/>Women's, Gender, and Sexuality Studies; Principal Investigator
@@ -25,12 +21,11 @@ team:
     position: Center for Teaching and Learning
   - name: Kevin Repp
     position: Beinecke Rare Book & Manuscript Library
-
-alt: Image of Joseph Brodsky in conversation in front of Russian constructivist map graphic
-
 categories:
   - Text Analysis
-
+tags:
+  - Languages
+  - Literature
 dhlab_project: true
 ---
 

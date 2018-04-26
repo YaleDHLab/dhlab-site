@@ -2,28 +2,21 @@
 title: Transcribe at Yale
 image: /assets/images/projects/originals/transcribe.jpg
 thumbnail: /assets/images/projects/thumbs/transcribe-thumb.jpg
-
+alt: View of user holding a written page from the Kilpatrick Collection of documents written in the Cherokee language
 caption: >
   Explore the Kilpatrick collection of nearly 2,000 documents written or printed in the Cherokee language.
-
 project_url: http://transcribe.library.yale.edu
-
 team:
-  - name: The Kilpatrick Collection
+  - name: Lisa Conathan
     position: Beinecke Rare Book and Manuscript Library
   - name: Peter Leonard
-    position: Digital Humanities Lab
-
+    position: Yale Digital Humanities Lab
 categories:
   - Crowdsourced Data
   - Web Applications
-
-alt: View of user holding a written page from the Kilpatrick Collection of documents written in the Cherokee language 
-
 tags:
   - Archives
   - Languages
-
 dhlab_project: true
 ---
 

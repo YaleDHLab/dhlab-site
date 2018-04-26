@@ -2,29 +2,22 @@
 title: Robots Reading Vogue
 image: /assets/images/projects/originals/vogue.jpg
 thumbnail: /assets/images/projects/thumbs/vogue-thumb.jpg
-
+alt: Vogue covers processed to show decennial sampling, that is, all the covers in one year, every ten years.
 caption: >
   Mosaic of cover averages using "decennial sampling" which overlay a decade's worth of covers into one view.
-
 project_url: http://dh.library.yale.edu/projects/vogue/
-
-alt: Vogue covers processed to show decennial sampling, that is, all the covers in one year, every ten years. 
-
 team:
   - name: Lindsay King
     position: Robert B. Haas Family Arts Library
   - name: Peter Leonard
-    position: Digital Humanities Lab
-
+    position: Yale Digital Humanities Lab
 categories:
   - Text Analysis
   - Visual Analysis
   - Web Applications
-
 tags:
   - Literature
   - Photographs
-  
 dhlab_project: true
 ---
 

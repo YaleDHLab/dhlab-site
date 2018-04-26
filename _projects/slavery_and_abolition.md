@@ -1,14 +1,11 @@
 ---
 title: Slavery & Abolition Portal
 thumbnail: /assets/images/projects/archive-thumbs/abolition-thumb.jpg
-layout: archive
-
-project_url: http://slavery.yale.edu/
-
-team:
-
 alt: Sample pen-and-ink sketch of Amistad captive by W.H. Tounsend.
-
+layout: archive
+project_url: http://slavery.yale.edu/
+categories:
+  - Web Applications
 tags:
   - Archives
 ---

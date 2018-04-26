@@ -1,9 +1,9 @@
 ---
 title: Open the City
 thumbnail: /assets/images/projects/archive-thumbs/open-the-city-thumb.jpg
+alt: Map projection of New York City
 layout: archive
 funded: true
-alt: Map projection of New York City
 categories:
   - Geospatial Analysis
 tags:

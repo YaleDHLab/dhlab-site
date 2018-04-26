@@ -2,26 +2,19 @@
 title: New Haven Building Archive
 image: /assets/images/projects/originals/nhba.jpg
 thumbnail: /assets/images/projects/thumbs/nhba-thumb.jpg
-
+alt: Map of New Haven with thumnail images of highlighted buildings
 caption: >
   The New Haven Building Archive is a crowdsourced online repository on the architectural history of New Haven's built environment.
-
 project_url: https://nhba.yale.edu/
-
 team:
   - name: Elihu Rubin
     position: American Studies, </br>Yale School of Architecture
-
 categories:
   - Geospatial Analysis
   - Web Applications
-
-alt: Map of New Haven with thumnail images of highlighted buildings
-
 tags:
   - Architecture
   - Archives
-
 dhlab_project: true
 ---
 

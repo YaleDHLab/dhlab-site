@@ -1,14 +1,11 @@
 ---
 title: Modernism Lab
 thumbnail: /assets/images/projects/archive-thumbs/modernism_lab-thumb.jpg
+alt: Painting titled Studland Beach by Vanessa Bell.
 layout: archive
 project_url: https://modernism.coursepress.yale.edu/
-
-team:
-alt: Painting titled Studland Beach by Vanessa Bell.
 categories:
-  - Visual Analysis
-
+  - Text Analysis
 tags:
   - Literature
 ---

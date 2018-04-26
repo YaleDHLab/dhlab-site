@@ -1,13 +1,11 @@
 ---
 title: Cuneiform Commentaries Project
 thumbnail: /assets/images/projects/archive-thumbs/cuneiform-thumb.jpg
+alt: Detailed view of Cuneiform tablet
 layout: archive
 project_url: http://ccp.yale.edu/
-
-alt: Detailed view of Cuneiform tablet
-
-team:
-
+categories:
+  - Web Applications
 tags:
   - Classics
   - Languages
