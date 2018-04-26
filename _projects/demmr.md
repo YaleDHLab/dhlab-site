@@ -5,12 +5,12 @@ layout: archive
 funded: true
 project_url: https://digitalrollsandfragments.com/workshops/
 alt: Unfurled medieval manuscript rolls
-
 categories:
   - Text Analysis
-  - TEI
+tags:
+  - Archives
   - Manuscripts
-  - Pedagogy
+  - Medieval
 ---
 
 ### Overview
