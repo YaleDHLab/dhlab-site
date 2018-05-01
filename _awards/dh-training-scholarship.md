@@ -6,7 +6,7 @@ caption: Photo by Michael Marsland.
 overview: training_scholarship
 deadline: The cycle is currently closed.
 apply_button: hidden
-application_text: Apply for a training scholarship to attend a DH workshop.
+<!--application_text: Apply for a training scholarship to attend a DH workshop.-->
 class: hide-color-hr
 
 ---
