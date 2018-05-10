@@ -20,7 +20,7 @@ title: Welcome
     </div>
     <div class='home-events-container hide-tablet'>
       {% include events/get_future_events.html %}
-      {% for event in future_events limit:3 %}
+      {% for event in sorted_events reversed limit:3 %}
         <div class='home-event-wrapper'>
           <a href='{{ event.url | prepend: site.baseurl }}' class='hide-tablet'>
             {% assign image_url = event.thumbnail | prepend: site.baseurl %}
