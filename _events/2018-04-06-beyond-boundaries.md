@@ -36,24 +36,24 @@ Peter Leonard, Director of the Digital Humanities Lab
 ### 10:00 am–11:00 am — Lightning talks  
 Presentations by students and postdoctoral associates
 
-“Science Stories: Using IIIF and Wikidata to Create a Linked-Data Web Application”  
+<a href='https://www.slideshare.net/KennethSealsNutt/beyond-boundaries-symposium-18-science-stories' target='_blank'>“Science Stories: Using IIIF and Wikidata to Create a Linked-Data Web Application”</a>  
 Kenneth Seals-Nutt, Undergraduate, Computer Science  
 Kat Thornton, CLIR Postdoctoral Associate, Computer Science and Digital Preservation  
 
-“Co-Education at Yale: Through the Eyes of a Pioneer”  
+<a href='http://yalemaps.maps.arcgis.com/apps/Cascade/index.html?appid=909c32f788e948458078b8ae943a2907' target='_blank'>“Co-Education at Yale: Through the Eyes of a Pioneer”</a>  
 Jasper Feinberg, Undergraduate, Mechanical Engineering
 
-“Abroad but now Accessible: VR Educational Tours”  
+<a href='https://docs.google.com/presentation/d/1wRQlnBgGrj5q9pEoeQvRniMQHZh2GenM2TOQ1vhAID0/edit#slide=id.p' target='_blank'>“Abroad but now Accessible: VR Educational Tours”</a> 
 Amy Giuliano, MA student, Religion and the Visual Arts, Institute of Sacred Music
 
-“The Media Concept”  
+<a href='{{site.baseurl}}/assets/docs/Shechtman.pptx' target='_blank'>“The Media Concept”</a>  
 Anna Shechtman, PhD student, English Literature and Film & Media Studies    
 Zachary Kitt, MA student, Global Affairs
 
 “The Relationship between the Style and Impact of Judicial Opinions”  
 Nina Varsava, Yale Law student and Stanford PhD student, Modern Thought & Literature
 
-“Digital Humanity”  
+<a href='{{site.baseurl}}/assets/docs/Ambrosio-Gargiulo.pptx' target='_blank'>“Digital Humanity”</a>  
 Jessica Ambrosio, Undergraduate, Computer Science  
 Maria Gargiulo, Undergraduate, Statistics & Data Science and Spanish
 
@@ -84,7 +84,7 @@ Susan Gibbons, Stephen F. Gates ’68 University Librarian and Deputy Provost fo
 ### 12:05 pm–1:00 pm — Poster session    
 Showcase of projects by students, postdoctoral associates, faculty, and staff
 
-“Becoming Hopper: Mapping the Reclamation of Calhoun College”  
+<a href='https://yalemaps.maps.arcgis.com/apps/Cascade/index.html?appid=359c246bb0f6424985739a648140cf8d' target='_blank'>“Becoming Hopper: Mapping the Reclamation of Calhoun College”</a>  
 Seth Anderson, Undergraduate, Molecular Biophysics and Biochemistry
 
 “The Decisive Network: Magnum Photos and the Postwar Image Market”  
