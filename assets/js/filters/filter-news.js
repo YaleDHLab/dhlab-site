@@ -7,8 +7,8 @@ import { filter } from './filter.js';
   new filter({
     target: '#grid-target',
     elemSelector: '.archive-item',
-    field1: 'tags',
-    field2: 'sort-by',
+    field1: 'categories',
+    field2: 'tags',
     type: 'news',
     items: window.items,
   });
