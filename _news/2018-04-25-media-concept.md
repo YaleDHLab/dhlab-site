@@ -6,10 +6,12 @@ image: /assets/images/banners/meetup.jpg
 alt: Photo of workshop participants in the lab.
 caption: ""
 categories: 
-  - Student Jobs
   - Opportunities
+  - Student Jobs
+tags:
+  - Text Analysis
 image_layout: simple
-<!--status: fulfilled-->
+status: fulfilled
 teaser: |
   Parse and wrangle large amounts of textual data, turning it from unstructured into highly structured.
 ---
