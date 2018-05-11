@@ -22,7 +22,6 @@ image_layout: simple
 teaser: >
   New digital tools and practices have transformed the study and teaching of the history of slavery and its abolition.
 ---
-
 In recent years, new digital tools and practices have transformed the study and teaching of the history of slavery and its abolition, employing sophisticated database systems, developing innovative crowd-sourcing practices, and forming exciting new partnerships. Join us as our panelists discuss these and other issues.
 
 For the full schedule, please visit the <a href='https://glc.yale.edu/event/glc-digital-humanities-symposium-study-slavery-and-abolition-digital-age' target='_blank'>conference program</a>.

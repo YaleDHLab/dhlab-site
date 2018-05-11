@@ -1,26 +1,36 @@
 ---
-title: DH, STEAM Spring Symposium
+title: 'Beyond Boundaries: A Symposium on Hybrid Scholarship at Yale University'
+short_title: 'Beyond Boundaries 2016'
 date: April 8, 2016
+time: 9:30 am - 1:00 pm
+location: Sterling Memorial Library, Lecture Hall
 thumbnail: /assets/images/events/beyond-boundaries-2017.jpg
 alt: Beyond Boundaries logo displayed slantwise over pink vector art against midnight blue background.
 caption: ""
 categories: 
   - Symposium
+tags:
+  - Text Analysis
+  - Geospatial Analysis
+  - Network Analysis
+  - Visual Analysis
 spotlight: false 
 image_layout: landscape
+permalink: '/bb2016/'
 teaser: |
-  "Beyond Boundaries: A Symposium on Hybrid Scholarship at Yale University April 8, 2016 from 9:30am-1:00pmSterling Memorial Library, Lecture Hall"
+  What does computer-generated poetry look like? How can EEG experiments inform our understandings of musical compositions?
 ---
-
-### Beyond Boundaries: A Symposium on Hybrid Scholarship at Yale University
-*April 8, 2016 from 9:30am-1:00pm*  
-*Sterling Memorial Library, Lecture Hall*  
-   
-What does computer-generated poetry look like? How can EEG experiments inform our understandings of musical compositions? To explore these questions and more, join the Digital Humanities Lab and [Yale STEAM](http://steamwith.us/YaleSTEAM.html) for a spring symposium to showcase hybrid scholarship at Yale University. Undergraduates, graduate students, faculty, and staff will present projects that highlight the questions that can be asked and explored via digital methods and collaborations between the sciences and humanities.
+What does computer-generated poetry look like? How can EEG experiments inform our understandings of musical compositions? To explore these questions and more, join the Digital Humanities Lab and <a href='http://steamwith.us/YaleSTEAM.html' target='_blank'>Yale STEAM</a> for a spring symposium to showcase hybrid scholarship at Yale University. Undergraduates, graduate students, faculty, and staff will present projects that highlight the questions that can be asked and explored via digital methods and collaborations between the sciences and humanities.
    
 The symposium is open to the entire Yale community and public. Coffee and refreshments will be provided.
    
-[**event poster**](http://web.library.yale.edu/sites/default/files/images/BB-concepts-poster.jpg) // [**roundtable poster**](http://web.library.yale.edu/sites/default/files/images/2016-04-08-BB-tabloid-poster2.jpg) // [**program**](https://issuu.com/mongmedia/docs/2016-04-08-symposium-program) // [**event recordings**](https://www.youtube.com/watch?v=LDbomoUsnio&amp;index=1&amp;list=PLqHnHG5X2PXBr9IaxqS5PkgegtLExZ4Lm)
+<a href='http://web.library.yale.edu/sites/default/files/images/BB-concepts-poster.jpg' target='_blank'>**event poster**</a>  
+
+<a href='http://web.library.yale.edu/sites/default/files/images/2016-04-08-BB-tabloid-poster2.jpg' target='_blank'>**roundtable poster**</a>  
+
+<a href='https://issuu.com/mongmedia/docs/2016-04-08-symposium-program' target='_blank'>**program**</a>  
+
+<a href='https://www.youtube.com/watch?v=LDbomoUsnio&amp;index=1&amp;list=PLqHnHG5X2PXBr9IaxqS5PkgegtLExZ4Lm' target='_blank'>**event recordings**</a>
    
 **Event Schedule**
    

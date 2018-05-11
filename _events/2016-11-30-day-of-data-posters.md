@@ -1,5 +1,5 @@
 ---
-title: Day of Data Posters
+title: Yale Day of Data 2016 Posters
 date: 2016-11-30 
 time: 4:00 - 6:00 pm
 location: Center for Science and Social Science Information
@@ -8,15 +8,16 @@ alt: Yale Day of Data logo in white against blue background.
 caption: ""
 categories: 
   - Symposium
+tags:
+  - Geospatial Analysis
+  - Text Analysis
+  - Statistics
 spotlight: false 
 image_layout: landscape
 teaser: |
-  "Yale Day of Data 2016 Poster Session and Opening Reception December 1 from 4:00-6:00pm in the Center for Science and Social Science Information Yale Day of Data is a two-day, University-wide event..."
+  Yale Day of Data is a two-day, University-wide event that will feature speakers from a number of disciplines across Yale. The theme for 2016 will be open data, open software, and reproducibility initiatives.
 ---
-
-### Yale Day of Data 2016 Poster Session and Opening Reception
-
-[Yale Day of Data](http://elischolar.library.yale.edu/dayofdata/) is a two-day, University-wide event that will feature speakers from a number of disciplines across Yale. The theme for 2016 will be open data, open software, and reproducibility initiatives.
+<a href='http://elischolar.library.yale.edu/dayofdata/' target='_blank'>Yale Day of Data</a> is a two-day, University-wide event that will feature speakers from a number of disciplines across Yale. The theme for 2016 will be open data, open software, and reproducibility initiatives.
    
 To kick off Yale Day of Data 2016, we will begin with an Opening Reception and Poster Session at the Center for Science and Social Science Information. No registration is required; all are invited to attend!
    
@@ -66,6 +67,4 @@ Jacob S. Prince (Yale University), Jackson Ding (Yale University), and Owen Morg
 
 Savannah Thais (Yale University)
 
----
-   
-*The 2016 Yale Day of Data is sponsored by the Office of the Provost, Center for Science and Social Science Information, Yale Center for Research Computing, Institution for Social and Policy Studies, Yale Digital Humanities Laboratory, Yale Institute for Network Science, Center for Teaching and Learning, and the Sigma XI Distinguished Visitor Fund.*
+*The 2016 Yale Day of Data is sponsored by the Office of the Provost, Center for Science and Social Science Information, Yale Center for Research Computing, Institution for Social and Policy Studies, Yale Digital Humanities Lab, Yale Institute for Network Science, Center for Teaching and Learning, and the Sigma XI Distinguished Visitor Fund.*

@@ -5,10 +5,12 @@ time: 1:00 - 5:00 pm
 location: Center for Teaching and Learning, 118A
 thumbnail: /assets/images/events/workshop-code.jpg
 alt: Participants in a DHLab workshop
+registerurl: http://schedule.yale.edu/event/4125604
 categories:
   - Workshop
 tags:
   - Python
+  - Coding
 permalink: '/python-spring18/'
 spotlight: false
 image_layout: simple
@@ -25,5 +27,4 @@ Requirements: Participants must bring a laptop with a Mac, Linux, or Windows ope
 
 No prior experience with programming is required.
 
-### Registration
-To register, please visit <a href='http://schedule.yale.edu/event/4125604' target='_blank'>the YUL Instruction Calendar</a>.
+Instructors: Catherine DeRose (DHLab), Joshua Dull (Digital Scholarship), and Kate Nyhan (Medical Library)

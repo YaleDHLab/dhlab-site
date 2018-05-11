@@ -1,5 +1,5 @@
 ---
-title: 'Beyond Boundaries Annual Symposium'
+title: 'Beyond Boundaries Third Annual Symposium'
 date: 2018-04-06
 time: 9:30 - 1:00 pm
 location: Sterling Memorial Library, Lecture Hall
@@ -19,9 +19,6 @@ permalink: '/bb2018/'
 teaser: >
   How can virtual reality technologies help us understand poetry? What does music reveal about the brain? Find out at this year's Beyond Boundaries: An Annual Symposium on Hybrid Scholarship at Yale.
 ---
-
-## Learn about Hybrid Scholarship at Yale 
-
 How can virtual reality technologies help us understand poetry? What does music reveal about the brain? Find out at the third annual Beyond Boundaries symposium! Organized by the Yale Digital Humanities Lab and STEAM, Beyond Boundaries features the work of Yale undergraduates, graduate students, faculty, postdoctoral associates, and staff on topics ranging from computer-generated models and data mining to literary maps that track characters over the course of a novel.
 
 This event is open to the whole Yale community and public. No advance registration is required. 

@@ -1,33 +1,20 @@
 ---
-title: DH Training Highlights
-date: 2017-09-12
-time: 2:00 pm
-location: Digital Humanities Lab, SML 316
-thumbnail: /assets/images/events/data-circle.jpg
-alt: Vector image of astral object radiating multicolored lines against midnight blue background.
+title: Introduction to Data Vis with Tableau
+date: 2017-09-15
+time: 1:30 - 3:30 pm
+location: KBT C27 Classroom at CSSSI
+thumbnail: /assets/images/events/tableau2.jpg
+alt: Open laptops with colorful information graphics on the screens featuring tableau logo over data visualizations.
+registerurl: http://schedule.yale.edu/event/3580229
 categories:
-  - Talk
+  - Workshop
 tags:
   - Visualization
 teaser: >
-  Join the Digital Humanities Lab for an Office Hours talk on DH training opportunities. Graduate students and staff will give lightning talk presentations on courses they participated in this past summer.
+  This workshop will familiarize you with key issues in data visualization with an introduction to Tableau, an application for creating dynamic and interactive visualizations.
 ---
+This workshop will familiarize you with key issues in data visualization. We will review the fundamental principles behind effective visualizations and touch on common pitfalls that result in confusing or misleading graphics. During the workshop, participants will gain hands-on experience using Tableau to produce dynamic, compelling, and interactive visualizations for all kinds of data.
 
-Join the Digital Humanities Lab for an Office Hours talk on DH training opportunities. Graduate students and staff will give lightning talk presentations on courses they participated in this past summer, including:
+Registration is open to all Yale students, faculty, and staff, but space is limited.
 
-Text Processing: Techniques and Traditions (Digital Humanities Summer Institute)
-Programming for Humanists with Python (Humanities Intensive Learning and Teaching)
-Black Publics in the Humanities: Critical and Collaborative DH Projects (Humanities Intensive Learning and Teaching)
-Introduction to the Text Encoding Initiative (Digital Humanities at Oxford Summer School)
-The Perseus Project (Teach the Teachers Workshop)
-
-Following the presentations, we will open the floor to Q&A about the courses, institutes, and DH training opportunities more broadly at and beyond Yale.
-All of the Yale community is welcome to attend. Coffee will be available.
-
-Presenters include the following DHLab Training Scholarship recipients:
-
-Clay Greene (English)
-Amanda Joyce Hall (History, African American Studies)
-Ann Killian (English)
-Colin McCaffrey (Classics Library) 
-Jennifer Weintritt (Classics)
+Instructors: Catherine DeRose (DHLab), Joshua Dull (Digital Scholarship), and Sarah Tudesco (YUL)

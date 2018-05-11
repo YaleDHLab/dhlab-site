@@ -1,11 +1,11 @@
 ---
 title: Intro to Story Maps
-date: 2017-10-17
+date: 2017-03-07
 time: 2:00 - 3:30 pm
 location: Bass Library, L06
 thumbnail: /assets/images/events/map-road.jpg
 alt: Image of winding mountain road at night with snowcapped peaks in backbround. Along the road a multicolored strand of light extends.
-registerurl: http://schedule.yale.edu/event/3592547
+registerurl: http://schedule.yale.edu/event/3160402
 categories:
   - Workshop
 tags:

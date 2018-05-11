@@ -15,7 +15,6 @@ image_layout: simple
 teaser: >
   Three scholars will speak on their work with the Fortunoff Video Archive for Holocaust Testimonies at the first Geoffrey H. Hartman Fellowship Symposium.
 ---
-
 Three scholars will speak on their work with the <a href='https://web.library.yale.edu/testimonies' target='_blank'>Fortunoff Video Archive for Holocaust Testimonies</a> at the first Geoffrey H. Hartman Fellowship Symposium.
 
 - Sarah Garibova, inaugural Hartman Fellow, will present her work on an annotated critical edition of Lubov N.'s (HVT-3280) testimony. Lubov was born in Zvenigorodka in 1921. Garibova received her PhD in history from the University of Michigan.

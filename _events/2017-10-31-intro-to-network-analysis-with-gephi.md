@@ -14,7 +14,6 @@ tags:
 teaser: >
   This workshop will provide a broad overview of network analysis. We'll cover what networks are, how you can interpret them, and why you might want to use them in your research.
 ---
-
 This workshop will provide a broad overview of network analysis. In addition to covering what networks are, how to read them, and why you might want to use them, we'll also demonstrate how to generate them using Gephi — open-source, multi-platform visualization software. During the workshop, participants will learn how to construct node and edge lists, import them into Gephi, and export them using a variety of plugins designed for sharing your network over the web. 
 
 Sample data will be provided at the workshop, but participants are welcome to bring their own data for discussion at the end.
@@ -22,3 +21,5 @@ Sample data will be provided at the workshop, but participants are welcome to br
 Windows machines will be available for use, but participants are encouraged to work from their own (Mac or Windows) laptops. 
 
 This workshop is open to Yale students, faculty, and staff, but space is limited.
+
+Instructors: Catherine DeRose (DHLab) and Joshua Dull (Digital Scholarship)

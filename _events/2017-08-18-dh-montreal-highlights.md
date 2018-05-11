@@ -5,13 +5,17 @@ thumbnail: /assets/images/news/dh2017.jpg
 alt: Montreal skyline shows various highrise buildings brilliantly lit against a night sky, above a logo reading DH 2017.
 caption: ""
 categories: 
+  - Announcement
   - Off Campus
+tags:
+  - Geospatial Analysis
+  - Crowdsourcing
+  - Visual Analysis
 spotlight: false 
 image_layout: landscape
 teaser: |
-  "The Yale digital humanities team participated in the 2017 DH Conference in Montreal from August 7-11. Highlighted projects by faculty and staff included: Photogrammar, a platform for visualizing..."
+  The Yale digital humanities team participated in the 2017 DH Conference in Montreal from August 7-11. Highlighted projects by faculty and staff included: Photogrammar, Ensemble, and Neural Neighbors.
 ---
-
 The Yale digital humanities team participated in the 2017 DH Conference in Montreal from August 7-11. Highlighted projects by faculty and staff included:
  * *Photogrammar*, a platform for visualizing over 170,000 photographs taken during the Great Depression and World War II
     

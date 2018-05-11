@@ -4,15 +4,18 @@ date: 2016-11-07
 time: 10:00 am - 8:00 pm
 location: 451 College Street
 thumbnail: /assets/images/events/dh-rees.jpg
-alt: Stylized image in white and red shows several line-drawn objects that resemble government street signs. Below that is a black-and-white photograph of a man dressed in a white turtleneck staring directly past the photographer.
+alt: Stylized image in white and red shows several line-drawn objects that resemble government street signs. Below that is a black-and-white photograph of a man dressed in a white turtleneck staring directly past the photographer
 caption: ""
 categories: 
   - Symposium
+tags:
+  - Text Analysis
+  - Network Analysis
+  - Geospatial Analysis
 spotlight: false 
 teaser: |
-  "Digital Humanities & Russian and East European Studies Saturday, November 12, 10:00am-8:00pm at 451 College Street Our workshop explores the intersection of Digital Humanities and Russian and..."
+  Our workshop explores the intersection of Digital Humanities and Russian and East European Studies: research, pedagogy, dissemination, and archive. 
 ---
-
 Our workshop explores the intersection of Digital Humanities and Russian and East European Studies: research, pedagogy, dissemination, and archive. We invite participants to join us in considering a list of questions and topics of discussion, ranging from the familiar and unavoidable (labor, ethics, access, funding, training, institutional, and interdisciplinary challenges) to the specific (theoretical continuities and disciplinary embeddedness).
 
 All are welcome to attend! This event is open to the public.
@@ -37,6 +40,6 @@ Marta Figlerowicz (Yale University) • Valentina Izmirlieva (Columbia Universit
 7:00pm
 **Conference Reception and Dinner**
 
----
-
 Co-organizers: Marijeta Bozovic, Carlotta Chenoweth, Catherine DeRose, Nick Kupensky, Jacob Lassin, Ingrid Nordgaard, Masha Shpolberg
+
+*This event is funded in part with a Yale Digital Humanities Lab Project Grant.*

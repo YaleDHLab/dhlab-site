@@ -1,25 +1,26 @@
 ---
 title: Office Hours Workshop on APIs
 date: April 26, 2016
+time: 2:00 pm
+location: Digital Humanities Lab (SML 316)
 thumbnail: /assets/images/events/workshop-code.jpg
-alt: In the Lab space, a lab worker demonstrates software functionality on desktop while two seated attendees follow along on their lapots.
+alt: In the Lab space, a lab worker demonstrates software functionality on desktop while two seated attendees follow along on their lapots
 caption: ""
 categories: 
   - Office Hours
+  - Workshop
 tags:
   - Data Collection
 spotlight: false 
 image_layout: landscape
 teaser: |
-  "Coffee and Code Workshop: APIs April 26, 2:00pm in the Digital Humanities Lab (SML 316) During Office Hours, DH Developer Douglas Duhaime led an informal, live coding session during which he walked..."
+  During Office Hours, DH Developer Douglas Duhaime led an informal, live coding session during which he walked through approaches to requesting data from historical and bibliographic APIs.
 ---
-
-### Coffee and Code Workshop: APIs
-*April 26, 2:00pm in the Digital Humanities Lab (SML 316)*
-    
 During Office Hours, DH Developer Douglas Duhaime led an informal, live coding session during which he walked through approaches to requesting data from historical and bibliographic APIs. He discussed the process of building up and sending queries algorithmically, as well as parsing results in both JSON and XML formats. Together, participants practiced on the Google Books API and the Wikipedia API, two valuable resources for researchers working with various digital materials.
    
-All were welcome; no prior programming experience was required. Coffee and tea was provided!
+All were welcome; no prior programming experience was required. Coffee and tea were provided.
+
+Instructor: Douglas Duhaime (DHLab)
     
 Photos from the event:
 
