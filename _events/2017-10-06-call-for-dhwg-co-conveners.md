@@ -10,9 +10,6 @@ spotlight: false
 teaser: >
   "Join the Digital Humanities Working Group The Digital Humanities Working Group (DHWG) at Yale is delighted to announce a call for co-conveners for the 2017-2018 academic year. The DHWG is organized..."
 ---
-
-### Join the Digital Humanities Working Group
-   
 The Digital Humanities Working Group (DHWG) at Yale is delighted to announce a call for co-conveners for the 2017-2018 academic year.
    
 The DHWG is organized by Yale graduate students and focuses on the digital humanities broadly defined, from data mining, online preservation, and teaching with technology to digital mapping, the use of geographic information systems, data visualization, and digital publishing.

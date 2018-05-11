@@ -9,12 +9,12 @@ categories:
   - Office Hours
 tags:
   - Pedagogy
+  - Text Analysis
 spotlight: false 
 image_layout: landscape
 teaser: >
-  "Office Hours Talk: DH Training Highlights September 12 at 2:00pm in the DHLab (SML 316) Join the Digital Humanities Lab for an Office Hours talk on DH training opportunities. Graduate students and..."
+  Office Hours Talk: DH Training Highlights September 12 at 2:00pm in the DHLab (SML 316) Join the Digital Humanities Lab for an Office Hours talk on DH training opportunities.
 ---
-
 Join the Digital Humanities Lab for an Office Hours talk on DH training opportunities. Graduate students and staff will give lightning talk presentations on courses they participated in this past summer, including:
 
  * Text Processing: Techniques and Traditions (Digital Humanities Summer Institute)
@@ -26,8 +26,6 @@ Join the Digital Humanities Lab for an Office Hours talk on DH training opportun
 Following the presentations, we will open the floor to Q&amp;A about the courses, institutes, and DH training opportunities more broadly at and beyond Yale.
 
 All of the Yale community is welcome to attend. Coffee will be available.
-   
----
 
 Presenters include the following DHLab Training Scholarship recipients:
 * Clay Greene (English)

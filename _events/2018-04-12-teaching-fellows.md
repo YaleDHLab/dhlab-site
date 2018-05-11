@@ -24,7 +24,6 @@ All are welcome to attend! Coffee will be available.
 For more information on current and past DH Fellows, visit our <a href='http://web.library.yale.edu/dhlab/dhfellows' target='_blank'>DH Fellows page</a>. The deadline for applying to be a fall 2018 Fellow is Monday, April 23.
 
 ### Presenters 
-
 Amanda Joyce Hall, History and African American Studies
 
 jub Sankofa, American Studies and African American Studies

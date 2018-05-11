@@ -1,5 +1,6 @@
 ---
-title: DH, STEAM Spring Symposium 2017
+title: 'Beyond Boundaries Second Annual Symposium'
+short_title: 'Beyond Boundaries 2017'
 date: 2017-04-07 
 time: 9:30 am - 1:00 pm
 location: Sterling Memorial Library, Lecture Hall and Exhibition Room
@@ -16,13 +17,11 @@ tags:
   - Pedagogy
 spotlight: false 
 image_layout: landscape
+permalink: '/bb2017/'
 teaser: |
-  "Beyond Boundaries: Second Annual Symposium on Hybrid Scholarship at Yale University April 7, 2017 from 9:30am-1:00pmSterling Memorial Library, Lecture Hall and Exhibition Room How can 3D printing..."
+  How can 3D printing help preserve cultural heritage sites? What might digital maps tell us about the political, commercial, and historical realities of film festivals?
 ---
-
-### "Second Annual Symposium on Hybrid Scholarship at Yale University"
-
-How can 3D printing help preserve cultural heritage sites? What might digital maps tell us about the political, commercial, and historical realities of film festivals? To explore these questions and more, join the Digital Humanities Lab and [Yale STEAM](http://steamwith.us/YaleSTEAM.html) for the second annual spring symposium to showcase hybrid scholarship at Yale University. Undergraduates, graduate students, faculty, and staff will present projects that highlight the questions that can be asked and considered via digital methods and collaborations between the sciences and humanities.
+How can 3D printing help preserve cultural heritage sites? What might digital maps tell us about the political, commercial, and historical realities of film festivals? To explore these questions and more, join the Digital Humanities Lab and <a href='http://steamwith.us/YaleSTEAM.html' target='_blank'>Yale STEAM</a> for the second annual spring symposium to showcase hybrid scholarship at Yale University. Undergraduates, graduate students, faculty, and staff will present projects that highlight the questions that can be asked and considered via digital methods and collaborations between the sciences and humanities.
    
 The symposium is open to the entire Yale community and public. Coffee and refreshments will be provided.
    

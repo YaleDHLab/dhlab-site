@@ -1,5 +1,5 @@
 ---
-title: GIS Training Meetups
+title: Summer GIS Training Meetups
 date: 2016-07-12
 time: 2:00 - 4:00 pm
 location: Bass Library, L06
@@ -13,12 +13,9 @@ tags:
 spotlight: false 
 image_layout: landscape
 teaser: |
-  "Summer DH Meetups: GIS Training July 12 and 26 at 2:00-4:00pm in Bass Library, L06 Interested in working with maps? Looking to learn GIS fundamentals at your own pace? Join the DHLab and CSSSI for..."
+  Interested in working with maps? Looking to learn GIS fundamentals at your own pace? Join the Yale Digital Humanities Lab and GIS Services for one or both of our summer GIS Training Meetups.
 ---
-
-### Summer DH Meetups: GIS Training
-   
-Interested in working with maps? Looking to learn GIS fundamentals at your own pace? Join the DHLab and CSSSI for one or both of our summer GIS Training Meetups!
+Interested in working with maps? Looking to learn GIS fundamentals at your own pace? Join the Yale Digital Humanities Lab and GIS Services for one or both of our summer GIS Training Meetups!
 
 Esri, a leader in GIS software, has created an interactive, online course that introduces the basics of geographic information systems. During each Training Meetup, participants will work through the course in a group setting, with Miriam Olivares (the GIS Librarian) and DHLab staff on hand to assist with questions.
 
@@ -31,8 +28,10 @@ Once you complete the training session, you will be able to:
  * Query the map for location and attribute information
  * And more!
    
-After registering for a free Esri account, the training video may be accessed anytime from [Esri's website](http://training.esri.com/gateway/index.cfm?fa=catalog.webcoursedetail&amp;courseid=2500).
+After registering for a free Esri account, the training video may be accessed anytime from <a href='http://training.esri.com/gateway/index.cfm?fa=catalog.webcoursedetail&amp;courseid=2500' target='_blank'>Esri's website</a>.
    
-**Space for the meetups is limited; to register, please go to the [YUL Instruction Calendar](http://csssi.yale.edu/instruction/workshop-and-instruction-calendar) and click on the day(s) you'd like to register!**
+Registration is open to all Yale students, faculty, and staff, but space is limited.
 
-**If you have already completed the online training, please join us for the July 26 session, where participants will have the option to work with real data in ArcGIS. We will provide sample data, but participants should also feel free to bring their own.**
+**If you have already completed the online training, please join us for the July 26 session - same time and place - where participants will have the option to work with real data in ArcGIS. We will provide sample data, but participants should also feel free to bring their own.**
+
+Instructors: Catherine DeRose (DHLab) and Miriam Olivares (GIS)
