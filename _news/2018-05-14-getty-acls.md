@@ -2,7 +2,7 @@
 title: 'DHLab Postdoc awarded a Getty/ACLS Fellowship'
 date: May 14, 2018
 thumbnail: /assets/images/about/bair.jpg
-image: /assets/images/banners/meetup.jpg
+image: /assets/images/banners/magnum-acls-getty.jpg
 alt: Photo of workshop participants in the lab.
 caption: ""
 categories: 
