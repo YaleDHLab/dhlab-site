@@ -1,5 +1,5 @@
 ---
-title: 'New York Times covers text mining project'
+title: 'The New York Times covers text mining project'
 date: May 13, 2018
 thumbnail: /assets/images/news/varsava.jpg
 image: /assets/images/banners/meetup.jpg
