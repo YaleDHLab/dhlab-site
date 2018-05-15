@@ -1,5 +1,5 @@
 ---
-title: "Yale DHLab Welcomes Monica Ong Reed to the Team"
+title: "Yale DHLab welcomes Monica Ong Reed to the team"
 date: January 14, 2016
 thumbnail: /assets/images/about/team/MO-sq.jpg
 alt: DHLab worker standing in front of bookshelves in Sterling Memorial Library.

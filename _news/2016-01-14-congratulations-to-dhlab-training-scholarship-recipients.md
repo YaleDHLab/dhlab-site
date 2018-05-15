@@ -1,5 +1,5 @@
 ---
-title: "Congratulations to DHLab Training Scholarship Recipients"
+title: "Congratulations to DHLab Training Scholarship recipients"
 date: January 14, 2016
 thumbnail: /assets/images/news/dh-lab.jpg
 alt: DHLab logo in gray above multi-colored vector image.

@@ -1,6 +1,6 @@
 ---
 spotlight: true
-title: "New DH Postdocs"
+title: "New DH postdocs"
 date: July 25, 2017
 thumbnail: /assets/images/news/postdocs-2017.jpg
 alt: Three DHLab Postdoctoral Associates in entrance hall of Sterling Memorial Library.

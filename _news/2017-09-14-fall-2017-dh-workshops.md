@@ -1,5 +1,5 @@
 ---
-title: "Fall 2017 DH Workshops"
+title: "Fall 2017 DH workshops"
 date: September 14, 2017
 thumbnail: /assets/images/news/workshop.jpg
 alt: An instructor demonstrates network data analysis on overhead projector in Bass Library computer lab to ten students.

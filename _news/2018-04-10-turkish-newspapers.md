@@ -1,5 +1,5 @@
 ---
-title: "Text Mining Turkish Newspapers"
+title: "Text mining Turkish newspapers"
 date: April 10, 2018
 thumbnail: /assets/images/news/code.jpg
 image: /assets/images/banners/meetup.jpg

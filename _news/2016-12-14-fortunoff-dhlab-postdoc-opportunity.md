@@ -1,5 +1,5 @@
 ---
-title: "Fortunoff-DHLab Postdoc Opportunity"
+title: "Fortunoff-DHLab postdoc opportunity"
 date: December 14, 2016
 thumbnail: /assets/images/news/fortunoff.jpg
 alt: Image composed of four rows of still frames, each one showing moments from interviews of 20th-century people from the Fortunoff archive.

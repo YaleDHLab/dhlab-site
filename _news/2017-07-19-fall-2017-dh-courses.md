@@ -1,5 +1,5 @@
 ---
-title: "Fall 2017 DH Courses"
+title: "Fall 2017 DH courses"
 date: July 19, 2017
 thumbnail: /assets/images/events/network-class.jpg
 alt: DHLab worker delivering talk that demonstrates network analysis on a large projection screen.

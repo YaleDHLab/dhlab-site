@@ -1,5 +1,5 @@
 ---
-title: "TEI Workshop with Medieval Manuscripts"
+title: "TEI workshop with medieval manuscripts"
 date: December 11, 2015
 thumbnail: /assets/images/events/medieval-manuscripts.jpg
 alt: Embroidered medieval manuscript showing a saint and demon against a pastoral background, with Latin writing around the image, including rubricated lettering.
