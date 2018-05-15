@@ -1,5 +1,5 @@
 ---
-title: "Upcoming Courses, Spring 2018"
+title: "Upcoming courses, Spring 2018"
 date: December 18, 2017
 thumbnail: /assets/images/news/highlights.jpg
 alt: Shooting stars rise upward and explode in multi-colored bursts.

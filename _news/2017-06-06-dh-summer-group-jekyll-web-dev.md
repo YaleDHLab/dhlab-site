@@ -1,5 +1,5 @@
 ---
-title: "DH Summer Group: Jekyll Web Dev"
+title: "DH summer group: Jekyll web dev"
 date: June 6, 2017
 thumbnail: /assets/images/news/code-coffee.jpg
 alt: Laptop with Jekyll code on table with coffee.

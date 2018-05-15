@@ -1,5 +1,5 @@
 ---
-title: "Preview the DHLab's New Space"
+title: "Preview the DHLab's new space"
 spotlight: false
 date: February 15, 2018
 thumbnail: /assets/images/news/dh-lab.jpg

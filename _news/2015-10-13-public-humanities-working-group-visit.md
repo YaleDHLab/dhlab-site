@@ -1,5 +1,5 @@
 ---
-title: "Public Humanities Working Group Visit"
+title: "Public humanities working group visit"
 date: October 13, 2015
 thumbnail: /assets/images/events/sterling-library.jpg
 alt: Students moving about the entrance hallway of Sterling Memorial Library.

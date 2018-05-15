@@ -1,5 +1,5 @@
 ---
-title: "Data Wrangling"
+title: "Data wrangling"
 date: April 25, 2018
 thumbnail: /assets/images/news/coffee-code.jpg
 image: /assets/images/banners/meetup.jpg

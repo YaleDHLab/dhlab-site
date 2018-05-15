@@ -1,5 +1,5 @@
 ---
-title: "ArcGIS Project"
+title: "Work on an ArcGIS project"
 date: March 2, 2018
 thumbnail: /assets/images/news/lenski-map.jpg
 alt: Map of refugees in the Roman Period.

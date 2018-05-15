@@ -1,5 +1,5 @@
 ---
-title: "Summer/Fall DH Funding"
+title: "Summer/Fall DH funding"
 date: May 27, 2016
 thumbnail: /assets/images/news/grant.jpg
 alt: Vector image on foggy teal background.
