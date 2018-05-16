@@ -1,5 +1,4 @@
 ---
-spotlight: true
 title: "New DH postdocs"
 date: July 25, 2017
 thumbnail: /assets/images/news/postdocs-2017.jpg
