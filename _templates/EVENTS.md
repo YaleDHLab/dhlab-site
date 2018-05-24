@@ -27,3 +27,7 @@ DESCRIPTION
 <a href='' target='_blank'>DESCRIPTION</a>
 
 **Contact**: [Noel Lenski](mailto:noel.lenski@yale.edu)
+
+<img src='{{site.baseurl}}/assets/images/events/simsek02.jpg'
+     alt='Map of Ottoman Empire census data'
+     style='float: left; margin-right: 10px; padding-bottom: 10px' />
