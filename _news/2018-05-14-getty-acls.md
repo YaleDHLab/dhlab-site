@@ -8,6 +8,7 @@ caption: ""
 categories: 
   - Announcement
 tags:
+  - Network Analysis
   - Visual Analysis
 image_layout: simple
 teaser: |
