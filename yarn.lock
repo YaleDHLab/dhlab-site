@@ -2310,9 +2310,9 @@ escope@^3.6.0:
     esrecurse "^4.1.0"
     estraverse "^4.1.1"
 
-eslint-plugin-frontmatter@^0.0.3:
-  version "0.0.3"
-  resolved "https://registry.yarnpkg.com/eslint-plugin-frontmatter/-/eslint-plugin-frontmatter-0.0.3.tgz#ce71ea1f1201a490fcdd296b7c69ab5225d0301c"
+eslint-plugin-frontmatter@^0.0.5:
+  version "0.0.5"
+  resolved "https://registry.yarnpkg.com/eslint-plugin-frontmatter/-/eslint-plugin-frontmatter-0.0.5.tgz#456d19de64a08041ac4199f00dba0180ee4cf092"
   dependencies:
     lodash "^4.17.4"
     requireindex "~1.1.0"
