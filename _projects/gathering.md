@@ -13,7 +13,7 @@ team:
     position: Staff
 categories:
   - Geospatial Analysis
-  - Web Applications
+  - Web Application
 tags:
   - Architecture  
   - Archives
