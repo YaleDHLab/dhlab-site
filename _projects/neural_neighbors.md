@@ -13,7 +13,7 @@ team:
     position: Yale Digital Humanities Lab
 categories:
   - Visual Analysis
-  - Web Applications
+  - Web Application
 tags:
   - Photographs
 dhlab_project: true

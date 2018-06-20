@@ -13,7 +13,7 @@ team:
 categories:
   - Network Analysis
   - Geospatial Analysis
-  - Web Applications
+  - Web Application
 tags:  
   - Archives
   - Photographs

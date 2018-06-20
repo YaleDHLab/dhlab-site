@@ -5,7 +5,7 @@ alt: Detailed view of Cuneiform tablet
 layout: archive
 project_url: http://ccp.yale.edu/
 categories:
-  - Web Applications
+  - Web Application
 tags:
   - Classics
   - Languages

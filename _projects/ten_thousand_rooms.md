@@ -6,7 +6,7 @@ layout: archive
 project_url: http://tenthousandrooms.yale.edu
 categories:
   - Crowdsourced Data
-  - Web Applications
+  - Web Application
 tags:
   - Languages
 ---

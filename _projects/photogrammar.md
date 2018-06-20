@@ -23,8 +23,7 @@ team:
     position: Yale Digital Humanities Lab
 categories:
   - Geospatial Analysis
-  - Visual Analysis
-  - Web Applications
+  - Web Application
 tags:
   - Archives
   - Photographs

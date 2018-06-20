@@ -13,7 +13,7 @@ team:
     position: Yale Digital Humanities Lab
 categories:
   - Crowdsourced Data
-  - Web Applications
+  - Web Application
 tags:
   - Archives
   - Languages
