@@ -5,7 +5,7 @@ alt: Page from The Works of Jonathan Edwards
 layout: archive
 project_url: http://edwards.yale.edu
 categories:
-  - Web Applications
+  - Web Application
 tags:
   - Archives
 ---

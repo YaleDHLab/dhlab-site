@@ -5,7 +5,7 @@ alt: Page view from Gratian's Decretum
 layout: archive
 project_url: https://sites.google.com/a/yale.edu/decretumgratiani/home
 categories:
-  - Web Applications
+  - Web Application
 tags:
   - Medieval
   - Manuscripts

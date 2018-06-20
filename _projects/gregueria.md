@@ -15,7 +15,7 @@ team:
     position: Yale College
 categories:
   - Text Analysis
-  - Web Applications
+  - Web Application
 tags:
   - Archives
   - Languages

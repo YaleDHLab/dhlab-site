@@ -12,7 +12,7 @@ team:
     position: PhD student in Art History <br/>and Film and Media Studies
 categories:
   - Geospatial Analysis
-  - Web Applications
+  - Web Application
 ---
 
 ### Overview

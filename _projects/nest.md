@@ -26,7 +26,7 @@ team:
     position: Yale ITS
 project_url: http://ashberyhouse.yale.edu
 categories:
-  - Web Applications
+  - Web Application
 tags:
   - Archives
   - Literature

@@ -14,7 +14,7 @@ team:
     position: Yale Digital Humanities Lab
 categories:
   - Crowdsourced Data
-  - Web Applications
+  - Web Application
 tags:
   - Archives
 dhlab_project: true

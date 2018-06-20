@@ -9,7 +9,7 @@ team:
     position: Yale Digital Humanities Lab, <br/> English
 categories:
   - Geospatial Analysis
-  - Web Applications
+  - Web Application
 tags:
   - Literature
 ---
