@@ -43,6 +43,7 @@ projects:
   categories:
     - Crowdsourced Data
     - Geospatial Analysis
+    - Network Analysis
     - Text Analysis
     - Visual Analysis
     - Web Applications
