@@ -32,17 +32,21 @@ Each section of the site looks at different collaborations and transactions that
 
 In “Staff,” visitors can see who worked in Magnum’s New York and Paris offices and what they contributed to the organization.
 
-<img src='{{site.baseurl}}/assets/images/projects/project-extras/magnum-morris-network.jpg'
+<img src='{{site.baseurl}}/assets/images/projects/project-extras/magnum-network.jpg'
      alt="Network of John Morris's contacts at Magnum" 
      style='float: left; margin-right: 10px; padding-bottom: 10px' />
 
 In “Agents,” visitors can explore how Magnum’s pictures were distributed and sold in postwar Europe. 
 
-<img src='{{site.baseurl}}/assets/images/projects/project-extras/magnum-agents-view.jpg'
+<img src='{{site.baseurl}}/assets/images/projects/project-extras/magnum-agents.jpg'
      alt="Map of Magnum's distribution coverage in Europe" 
      style='float: left; margin-right: 10px; padding-bottom: 10px' />
 
 In “Stories,” visitors can examine Magnum’s photo essays as they appeared in magazines around the world. 
+
+<img src='{{site.baseurl}}/assets/images/projects/project-extras/magnum-stories.jpg'
+     alt="Map of Magnum's distribution coverage in Europe" 
+     style='float: left; margin-right: 10px; padding-bottom: 10px' />
 
 ### Visualizing the Story: Motivation and Methods 
 
