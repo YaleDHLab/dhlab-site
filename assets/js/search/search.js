@@ -70,8 +70,7 @@ import resultTemplate from '../../templates/search-result-template.html';
   **/
 
   const toggleSearch = () => {
-    if (searchIsShown()) hideSearch();
-    else showSearch();
+    searchIsShown() ? hideSearch() : showSearch();
   }
 
   /**
@@ -186,11 +185,10 @@ import resultTemplate from '../../templates/search-result-template.html';
 
   const formatMatches = (matches) => {
     if (getWidth() > breakpoint) return matches;
-    const formatted = matches.map((m) => {
+    return matches.map((m) => {
       m.teaser = m.teaser.substring(0, 120) + '...';
       return m;
     })
-    return formatted;
   }
 
   /**
@@ -234,6 +232,7 @@ import resultTemplate from '../../templates/search-result-template.html';
   const handleBodyClick = (e) => {
     if (e.target.getAttribute('id') !== 'search-input' &&
         e.target.getAttribute('id') !== 'search-button' &&
+        e.target.getAttribute('id') !== 'search-select' &&
         e.target.className !== 'search') {
       if (searchIsShown()) hideSearch()
     }
