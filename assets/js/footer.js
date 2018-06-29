@@ -24,17 +24,23 @@ import moment from 'moment';
     const hours = dh.openingHoursSpecification.filter((d) => {
       return d.validFrom === moment().format('YYYY-MM-DD');
     });
-
     const timeElem = document.querySelector('#open-hours');
-    // hours are served as an ordered array over time
-    let open = parseHour(hours[0].opens) + '–' + parseHour(hours[0].closes);
+    // if this is the weekend indicate there are no hours
+    if (hours[0].opens == '00:00' && hours[0].closes == '00:00') {
+      timeElem.innerHTML = 'Closed';
+      return;
+    }
+    // parse out the first block of time the lab is open
+    let firstBlock = parseHour(hours[0].opens) + '–' + parseHour(hours[0].closes);
     // case where we have only one time block, instead of the usual two
     if (hours.length === 1) {
-      timeElem.innerHTML = open;
+      timeElem.innerHTML = firstBlock;
+    // case where we have two blocks of time
     } else {
-      let close = parseHour(hours[ hours.length-1 ].opens) + '–' +
+      // parse out the second block of time during which we're open
+      let secondBlock = parseHour(hours[ hours.length-1 ].opens) + '–' +
         parseHour(hours[ hours.length-1 ].closes);
-      timeElem.innerHTML = open + ' & ' + close;
+      timeElem.innerHTML = firstBlock + ' & ' + secondBlock;
     }
   };
 
