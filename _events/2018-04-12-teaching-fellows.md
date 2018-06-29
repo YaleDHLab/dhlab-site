@@ -17,13 +17,13 @@ image_layout: simple
 teaser: >
   How can digital platforms help students reimagine storytelling possibilties? What are some considerations for adapting digital humanities tools for creative arts courses? Hear some answers first-hand from former Digital Humanities Fellows.
 ---
-How can digital platforms help students reimagine storytelling possibilities? What are some considerations for adapting digital humanities tools for creative arts courses? How can the tools we teach in the classroom be applied to our research? Hear answers to these questions and more from former Digital Humanities Fellows! Four Fellows from the fall semester will present on digital projects they undertook in and out of the classroom. 
+How can digital platforms help students reimagine storytelling possibilities? What are some considerations for adapting digital humanities tools for creative arts courses? How can the tools we teach in the classroom be applied to our research? Hear answers to these questions and more from former Digital Humanities Fellows! Four Fellows from the fall semester will present on digital projects they undertook in and out of the classroom.
 
 All are welcome to attend! Coffee will be available.
-   
+
 For more information on current and past DH Fellows, visit our <a href='http://web.library.yale.edu/dhlab/dhfellows' target='_blank'>DH Fellows page</a>. The deadline for applying to be a fall 2018 Fellow is Monday, April 23.
 
-### Presenters 
+### Presenters
 Amanda Joyce Hall, History and African American Studies
 
 jub Sankofa, American Studies and African American Studies

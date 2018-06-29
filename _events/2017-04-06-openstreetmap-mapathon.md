@@ -7,12 +7,12 @@ thumbnail: /assets/images/events/map-nyc.jpg
 alt: An overhead image of Manhattan Island and surrounding burroughs marked in green and black.
 registerurl: https://www.eventbrite.com/e/mapathon-at-yale-tickets-32397818748
 caption: ""
-categories: 
+categories:
   - Symposium
 tags:
   - Pedagogy
   - Geospatial Analysis
-spotlight: false 
+spotlight: false
 teaser: |
   Many of the places where natural disasters and health crises occur are literally "missing" from the map, and responders lack the information to properly provide relief. Learn how to contribute to responders' efforts with OpenStreetMap.
 ---

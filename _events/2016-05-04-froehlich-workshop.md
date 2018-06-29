@@ -1,27 +1,27 @@
 ---
 title: '11 Things You Can Do with EEBO-TCP, Phase I'
 date: May 4, 2016
-time: 1:00 - 4:00 pm 
+time: 1:00 - 4:00 pm
 location: Bass Library, L06
 thumbnail: /assets/images/events/text-video-2.jpg
 alt: Several leatherbound books sit on a shelf. One of them has Old English text written along the spine
 registerurl: http://schedule.yale.edu/event.php?id=1119217
 caption: ""
-categories: 
+categories:
   - Workshop
 tags:
   - Text Analysis
-spotlight: false 
+spotlight: false
 image_layout: landscape
 teaser: |
   This text mining workshop will overview several ways of interacting with the Early English Books Online-Text Creation Partnership.
 ---
 This text mining workshop will overview several ways of interacting with the Early English Books Online-Text Creation Partnership (EEBO-TCP), a full-text transcription database of 25,000 early modern printed books between 1470 and 1700. We will cover strategies for accessing EEBO-TCP, identifying specific transcriptions, tracing specific words/concepts, identifying and modernizing variant spellings, curating subcorpora, and using these resources in a pedagogical context.
-   
+
 In advance of the workshop, please <a href='http://corpus.byu.edu/eebo' target='_blank'>sign up for an EEBO account</a> and <a href='http://cqpweb.lancs.ac.uk' target='_blank'>register for CQPweb</a> with a Yale email address, if you have one.
-   
+
 Registration is open to all Yale students, faculty, and staff, but space is limited.
-   
+
 *This is part two of a two-part series with Heather Froehlich, a historical sociolinguist from the University of Strathclyde. Both events are sponsored by the Yale Digital Humanities Lab.*
 
 ### Bio

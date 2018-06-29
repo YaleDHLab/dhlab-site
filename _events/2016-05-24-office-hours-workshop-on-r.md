@@ -1,28 +1,28 @@
 ---
 title: Office Hours Workshop on R
 date: May 24, 2016
-time: 2:00 pm 
+time: 2:00 pm
 location: Digital Humanities Lab (SML 316)
 thumbnail: /assets/images/events/office-hours.jpg
 alt: DHLab worker shows off mapping software on dekstop computer to several seated students
 caption: ""
-categories: 
+categories:
   - Office Hours
   - Workshop
 tags:
   - R
   - Coding
-spotlight: false 
+spotlight: false
 image_layout: landscape
 teaser: |
-  DH Developer Douglas Duhaime will lead an informal, two-part workshop on creating distribution plots in R to visualize word frequencies. 
+  DH Developer Douglas Duhaime will lead an informal, two-part workshop on creating distribution plots in R to visualize word frequencies.
 ---
 DH Developer Douglas Duhaime will lead an informal, two-part workshop on creating distribution plots in R to visualize word frequencies. In Part 1, participants will learn how to create a plot based on a single text file. In Part 2, participants will incorporate facet wrapping into the code produced during Part 1 in order to plot "small multiples" (this is what you would do if you had more than one text file you were working with). To structure the workshop, we will be referring to Chapter 4 of Matthew Jockers's *Text Analysis with R for Students of Literature*. For Yale affiliates, the book is available electronically via <a href='http://link.springer.com/book/10.1007%2F978-3-319-03164-4' target='_blank'>Springer Link</a>. A print copy is also available for reading in the DHLab.
-   
+
 All are welcome; no programming experience is required! Participants should bring a laptop with them to the workshop.
-   
+
 **Prior to the workshops, participants should <a href='https://cran.r-project.org/' target='_blank'>download R</a> and <a href'http://www.rstudio.com/' target='_blank'>RStudio</a>. Please also install the package "ggplot2" in RStudio. Sample text files will be provided, but participants are encouraged to work with their own data during the week between the two workshops.**
-   
+
 To install the ggplot2 package:
  * Open RStudio
  * Click "File" in the top header and select "New File -> R Script"

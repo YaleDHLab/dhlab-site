@@ -20,7 +20,7 @@ teaser: >
 ---
 The maps created by the Home Owners' Loan Corporation are infamous for reflecting and reinforcing discriminatory redlining practices in Depression-era America. This presentation will focus on a less explored but no less revealing part of the HOLC archive: the textual "area descriptions" they created for thousands of neighborhoods. It will showcase some preliminary insights about the contours of race, class, and yes, smell in American cities surfaced from text-mining analysis of thousands of these newly transcribed documents.
 
-Light refreshments will be available. 
+Light refreshments will be available.
 
 This talk is part of the Digital Witness and Testimony speaker series, organized by Professors Laura Wexler and Angel David Nieves.
 

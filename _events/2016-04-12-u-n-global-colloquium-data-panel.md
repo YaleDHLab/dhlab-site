@@ -7,9 +7,9 @@ location: Zhang Auditorium, School of Management
 thumbnail: /assets/images/events/GIS.jpg
 alt: Blue vector image of globe.
 caption: ""
-categories: 
+categories:
   - Symposium
-spotlight: false 
+spotlight: false
 image_layout: landscape
 teaser: |
   Led by Holly Rushmeier (Yale Computer Science/IPCH Digitization Lab), this Institute for the Preservation of Cultural Heritage panel will discuss the great and fundamental questions about human history, behavior, and enterprise
@@ -27,5 +27,5 @@ Miloš Drdácký, Czech Academy of Sciences
 Stefano de Caro, ICCROM
 Tim Whalen, Getty Conservation Institute
 Martin Roth, Victoria and Albert Museum
-   
+
 This panel is part of the U.N. Global Colloquium of University Presidents. For the full schedule of events, visit the <a href='http://ungc.yale.edu/calendar' target='_blank'>UNGC page</a>.

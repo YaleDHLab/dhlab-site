@@ -6,7 +6,7 @@ location: Bass Library, L01
 thumbnail: /assets/images/events/jockers.jpg
 alt: Matthew Jockers portrait in hallway.
 caption: Matthew Jockers, Digital Humanities Lab
-categories: 
+categories:
   - Workshop
 tags:
   - Text Analysis

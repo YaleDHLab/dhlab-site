@@ -26,4 +26,4 @@ In recent years, new digital tools and practices have transformed the study and 
 
 For the full schedule, please visit the <a href='https://glc.yale.edu/event/glc-digital-humanities-symposium-study-slavery-and-abolition-digital-age' target='_blank'>conference program</a>.
 
-The conference is organized by the Yale Macmillan Center; Gilder Lehrman Center for the Study of Slavery, Resistance, and Abolition; Yale Digital Humanities Lab; and Public Humanities at Yale. 
+The conference is organized by the Yale Macmillan Center; Gilder Lehrman Center for the Study of Slavery, Resistance, and Abolition; Yale Digital Humanities Lab; and Public Humanities at Yale.

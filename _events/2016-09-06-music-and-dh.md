@@ -1,17 +1,17 @@
 ---
 title: Music and DH
-date: 2016-09-06 
+date: 2016-09-06
 time: 2:00 pm
 location: Digital Humanities Lab, SML 316
 thumbnail: /assets/images/events/music.jpg
 alt: Image of sheet music for a gospel song arranged in a circular pattern on the page. The very center of the image shows special instructions for performance
 caption: ""
-categories: 
+categories:
   - Talk
   - Office Hours
 tags:
   - Sound Analysis
-spotlight: false 
+spotlight: false
 image_layout: landscape
 teaser: |
   "Office Hours Talk: Music and DH September 6 at 2:00pm in the DHLab (SML 316) During Office Hours, Jonathan Manton, the Music Librarian for Access Services, will present on the Digital Libraries for..."
@@ -23,5 +23,5 @@ The Digital Libraries for Musicology (DLfM) workshop provides a forum for discus
  * intersections with conversations around "linked data" and "big data"
  * to consider the suitability of existing Music Digital Libraries, particularly in light of new methods and applications emerging from musicology
  * the potential for Optical Music Recognition
-   
+
 All are welcome! Coffee and tea will be provided.
