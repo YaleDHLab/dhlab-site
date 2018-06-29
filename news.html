@@ -23,7 +23,7 @@ title: News
     </div>
 
     <!-- NEWS CARD -->
-    {% include news/get_featured_news.html %}
+    {% include news/get_news_spotlight_top.html %}
 
     {% capture submit_news %}
       <div><b>Got Something To Share?</b></div>
@@ -37,7 +37,7 @@ title: News
       {{ submit_news }}
     </div>
     {% endcapture %}
-    
+
     {% capture button_prompt %}
     <div class='button-prompt'>
       Subscribe to receive the latest DHLab news and events.

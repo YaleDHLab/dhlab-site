@@ -9,7 +9,8 @@ _events:
     - caption
     - categories
     - tags
-    - spotlight
+    - spotlight_top
+    - spotlight_bottom
     - image_layout
 
 _guides:
@@ -46,7 +47,8 @@ _news:
     - caption
     - categories
     - tags
-    - spotlight
+    - spotlight_top
+    - spotlight_bottom
     - class
 
 _opportunities:

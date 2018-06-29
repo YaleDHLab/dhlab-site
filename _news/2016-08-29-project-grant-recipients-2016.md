@@ -4,9 +4,9 @@ date: August 29, 2016
 thumbnail: /assets/images/news/highlights.jpg
 alt: Stars shoot upward and explode into various colors against a midnight blue background.
 caption: ""
-categories: 
+categories:
   - Announcement
-spotlight: false 
+spotlight: false
 image_layout: simple
 teaser: |
   Award Recipients The Digital Humanities Lab is delighted to announce the recipients of our 2016 Project Grants. These awards support the initial phases of faculty projects that pursue innovation...
@@ -18,15 +18,15 @@ The Digital Humanities Lab is delighted to announce the recipients of our 2016 P
 
 #### 2016 Recipients
 
-**Marijeta Bozovic**, Assistant Professor of Slavic Languages and Literatures  
+**Marijeta Bozovic**, Assistant Professor of Slavic Languages and Literatures
 
-**Fabian Drixler**, Associate Professor of History  
+**Fabian Drixler**, Associate Professor of History
 
-**Peter C. Perdue**, Professor of History 
+**Peter C. Perdue**, Professor of History
 
-**Karin Roffman**, Senior Lecturer in Humanities, English, and American Studies  
+**Karin Roffman**, Senior Lecturer in Humanities, English, and American Studies
 
-**Elihu Rubin**, Associate Professor, Yale School of Architecture and American Studies  
+**Elihu Rubin**, Associate Professor, Yale School of Architecture and American Studies
 
 **Francesca Trivellato**, Frederick W. Hilles Professor, Department of History
 

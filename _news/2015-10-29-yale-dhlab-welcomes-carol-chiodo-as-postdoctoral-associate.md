@@ -4,11 +4,11 @@ date: October 29, 2015
 thumbnail: /assets/images/news/chiodo2.jpg
 alt: DHLab postdoctoral associate standing in front of the windows of Sterling Memorial Library.
 caption: "Yale Digital Humanities Lab, Carol Chiodo "
-categories: 
+categories:
   - Announcement
-tags: 
+tags:
   - Team Members
-spotlight: false 
+spotlight: false
 image_layout: simple
 teaser: |
   The Digital Humanities Lab (DHLab) is excited to share that Carol Chiodo has joined on as one of our Postdoctoral Associates. Carol is a writer, scholar, and educator whose work investigates how the...

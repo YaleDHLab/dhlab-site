@@ -5,7 +5,7 @@ thumbnail: /assets/images/news/magnum-collage.jpg
 image: /assets/images/banners/magnum-acls-getty.jpg
 alt: Photo of Magnum Photo employees
 caption: ""
-categories: 
+categories:
   - Announcement
   - Opportunities
 tags:

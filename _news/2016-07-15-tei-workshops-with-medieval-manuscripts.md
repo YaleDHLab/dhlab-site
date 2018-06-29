@@ -4,14 +4,14 @@ date: July 15, 2016
 thumbnail: /assets/images/events/medieval-manuscripts.jpg
 alt: Embroidered medieval manuscript showing a saint and demon against a pastoral background, with Latin writing around the image, including rubricated lettering.
 caption: ""
-categories: 
+categories:
   - Workshop
 tags:
   - Text Analysis
   - Manuscripts
   - TEI
   - XML
-spotlight: false 
+spotlight: false
 image_layout: simple
 teaser: |
   Applications are now open for two TEI workshops at Yale: Digital Editing and the Medieval Manuscripts Roll and Digital Editing and the Medieval Manuscript Fragment. Both workshops will cover the...
