@@ -55,7 +55,7 @@ title: Welcome
       <a href='{{ site.baseurl }}/news.html'>WHAT'S NEW</a>
     </div>
     <div class='large-card'>
-     {% include news/get_spotlight_top_news.html %}
+     {% include news/get_news_spotlight_top.html %}
       <a href='{{ item.url | prepend: site.baseurl }}'>
         {% assign image_url = item.image | prepend: site.baseurl %}
         <div class='full-width-card-image background-image blur-container'
@@ -89,7 +89,7 @@ title: Welcome
   <!-- HOME SPOTLIGHT-BOTTOM -->
   <section aria-label='spotlight-bottom'>
     <div class='home-section-title'>SPOTLIGHT</div>
-    {% include news/get_featured_news.html %}
+    {% include news/get_news_spotlight_bottom.html %}
 
     {% capture square_html %}
     <div class='news-card-square color-background'>
