@@ -1,4 +1,5 @@
 ---
+spotlight-top: true
 title: 'DHLab Postdoc awarded a Getty/ACLS Fellowship'
 date: May 14, 2018
 thumbnail: /assets/images/about/bair.jpg
