@@ -6,13 +6,13 @@ alt: Map of refugees in the Roman Period.
 image: /assets/images/banners/meetup.jpg
 alt: Photo of workshop participants in the lab.
 caption: ""
-categories: 
+categories:
   - Student Jobs
   - Opportunities
 image_layout: simple
 <!--status: fulfilled-->
 teaser: |
-  Map refugees in the Roman Empire by helping to integrate data from ancient sources on the forced migration and resettlment of peoples into the Roman Empire in the period between 200 BCE and 800 CE. 
+  Map refugees in the Roman Empire by helping to integrate data from ancient sources on the forced migration and resettlment of peoples into the Roman Empire in the period between 200 BCE and 800 CE.
 ---
 
 ## "Refugees in the Roman Empire: A Pre-Modern Millennium of Forced Migration 200 BCE – 800 CE"
@@ -26,7 +26,7 @@ The goal of this project is to integrate data assembled from ancient sources on 
 ### Qualifications
 This project requires software expertise in ArcGIS in order to assist with the production of a digital map structure that charts the date, size, causal factors, distance, durability and frequency of these events.
 
-A preliminary set of GIS maps has already been completed but help is needed to develop:  
+A preliminary set of GIS maps has already been completed but help is needed to develop:
 
 1. A time-slider
 2. Dynamic linking of origin sites and destination sites

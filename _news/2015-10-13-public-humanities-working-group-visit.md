@@ -4,9 +4,9 @@ date: October 13, 2015
 thumbnail: /assets/images/events/sterling-library.jpg
 alt: Students moving about the entrance hallway of Sterling Memorial Library.
 caption: "Yale Digital Humanities Lab, Public Humanities, Ensemble project"
-categories: 
+categories:
   - Announcement
-spotlight: false 
+spotlight: false
 image_layout: simple
 teaser: |
   The Yale Public Humanities Working Group visited the DHLab on October 13 to tour the space and discuss productive crossovers in digital humanities and public humanities initiatives. DHLab Director,...

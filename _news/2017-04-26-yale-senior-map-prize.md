@@ -4,11 +4,11 @@ date: April 26, 2017
 thumbnail: /assets/images/news/library-map.jpg
 alt: Library Map Prize logo with star and globe against green background.
 caption: ""
-categories: 
+categories:
   - Opportunities
 tags:
   - Geospatial Analysis
-spotlight: false 
+spotlight: false
 image_layout: simple
 teaser: |
   The Library Map Prize is awarded to a Yale College senior for the best use of maps in a senior essay or its equivalent. Essays submitted for consideration must be supported by one or more maps.

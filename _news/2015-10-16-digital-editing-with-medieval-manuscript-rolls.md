@@ -4,14 +4,14 @@ date: October 16, 2015
 thumbnail: /assets/images/events/beinecke.jpg
 alt: A view from the Beinecke mezzanine of the Beinecke rare book collections in their insulated transparent stacks.
 caption: "Manuscript "
-categories: 
+categories:
   - Announcement
 tags:
   - Manuscripts
   - Text Analysis
   - XML
   - TEI
-spotlight: false 
+spotlight: false
 image_layout: simple
 teaser: |
   The Yale Working Group in Digital Manuscript Studies and the Beinecke Rare Book and Manuscript Library are pleased to announce a call for expressions of interest in the Fall 2015 Digital Manuscript...

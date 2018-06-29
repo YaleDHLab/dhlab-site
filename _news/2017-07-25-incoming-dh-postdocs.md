@@ -5,9 +5,9 @@ thumbnail: /assets/images/news/postdocs-2017.jpg
 alt: Three DHLab Postdoctoral Associates in entrance hall of Sterling Memorial Library.
 image: /assets/images/banners/postdocs-2017.jpg
 caption: ""
-categories: 
+categories:
   - Announcement
-tags: 
+tags:
   - Team Members
 image_layout: simple
 teaser: |
@@ -16,7 +16,7 @@ teaser: |
 
 The Digital Humanities Lab is delighted to announce the three Postdoctoral Associates who will be joining the DHLab team for the 2017-2018 academic year. While here, the postdocs will pursue digital humanities research relevant to their academic disciplines, with a Yale faculty member serving as a mentor.
 
-### Nadya Bair 
+### Nadya Bair
 A historian of photography and the press, Nadya Bair holds a Ph.D. in Art History from the University of Southern California. Her book project, *The Decisive Network: Magnum Photos and the Postwar Image Market*, examines the role of photo agencies in shaping postwar visual culture. Based on years of research in archives around the world, *The Decisive Network* looks beyond heroic photographers and their iconic images to demonstrate how a range of professionals brought the aesthetic and production mode of news images into multiple markets for photography. At Yale’s Digital Humanities Lab, Bair will be mining data from thousands of pages of Magnum business correspondence in order to visualize and analyze the full scope of the agency’s networks. Working on a scale that exceeds the limits of chronological and linear narrative, this project will model new ways to study image saturation and the collaborative labor that yielded it.
 *Nadya will join the lab on August 1, 2017.*
 
