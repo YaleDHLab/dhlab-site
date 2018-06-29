@@ -5,11 +5,11 @@ location: Yale Digital Humnanities Lab
 thumbnail: /assets/images/events/sterling-library.jpg
 alt: Students move about entrance hallway to Sterling Memorial Library.
 caption: ""
-categories: 
+categories:
   - Meetup
 tags:
   - Pedagogy
-spotlight: false 
+spotlight: false
 image_layout: landscape
 teaser: |
   "The University of Rhode Island's student chapter of the American Library Association visited the DHLab on March 15 for a conversation on emerging opportunities for library professionals who work in..."

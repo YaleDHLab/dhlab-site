@@ -23,7 +23,7 @@ This hands-on workshop will cover basic concepts and tools, including program de
 
 To see the agenda for the workshop, please visit <a href='https://nesclic.github.io/2018-04-18-YUL/' target='_blank'>the workshop's GitHub page</a>.
 
-Requirements: Participants must bring a laptop with a Mac, Linux, or Windows operating system (not a tablet, Chromebook, etc.) over which they have administrative privileges. 
+Requirements: Participants must bring a laptop with a Mac, Linux, or Windows operating system (not a tablet, Chromebook, etc.) over which they have administrative privileges.
 
 No prior experience with programming is required.
 

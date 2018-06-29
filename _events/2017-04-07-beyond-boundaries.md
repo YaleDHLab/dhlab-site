@@ -1,13 +1,13 @@
 ---
 title: 'Beyond Boundaries Second Annual Symposium'
 short_title: 'Beyond Boundaries 2017'
-date: 2017-04-07 
+date: 2017-04-07
 time: 9:30 am - 1:00 pm
 location: Sterling Memorial Library, Lecture Hall and Exhibition Room
 thumbnail: /assets/images/events/beyond-boundaries-2017.jpg
 alt: Beyond Boundaries logo displayed slantwise above pink vector image.
 caption: ""
-categories: 
+categories:
   - Symposium
 tags:
   - Network Analysis
@@ -15,20 +15,20 @@ tags:
   - Text Analysis
   - Geospatial Analysis
   - Pedagogy
-spotlight: false 
+spotlight: false
 image_layout: landscape
 permalink: '/bb2017/'
 teaser: |
   How can 3D printing help preserve cultural heritage sites? What might digital maps tell us about the political, commercial, and historical realities of film festivals?
 ---
 How can 3D printing help preserve cultural heritage sites? What might digital maps tell us about the political, commercial, and historical realities of film festivals? To explore these questions and more, join the Digital Humanities Lab and <a href='http://steamwith.us/YaleSTEAM.html' target='_blank'>Yale STEAM</a> for the second annual spring symposium to showcase hybrid scholarship at Yale University. Undergraduates, graduate students, faculty, and staff will present projects that highlight the questions that can be asked and considered via digital methods and collaborations between the sciences and humanities.
-   
+
 The symposium is open to the entire Yale community and public. Coffee and refreshments will be provided.
-   
+
 [<img src="http://web.library.yale.edu/sites/default/files/resize/images/BB2017-300x218.png" alt: Beyond Boundaries conference bill showing conference location and program. The logo is suspended above a pink and blue vector image on the lower part of the page. />](http://web.library.yale.edu/sites/default/files/images/BB2017.png)
 
 [<img src="http://web.library.yale.edu/sites/default/files/resize/images/BB2017_2-300x215.png" alt: Conference bill showing program of speakers./>](http://web.library.yale.edu/sites/default/files/images/BB2017_2.png)
-   
+
 ### Event Schedule
 <table>
   <tbody>
@@ -182,11 +182,11 @@ The symposium is open to the entire Yale community and public. Coffee and refres
    </tr>
   </tbody>
 </table>
-   
+
 *Organized by the Yale Digital Humanities Lab and Yale STEAM, with generous support from the Center for Teaching and Learning*
 
 Here are a few photos from the event
-   
+
 [<img src="http://web.library.yale.edu/sites/default/files/resize/images/BB%20Attendees-250x167.jpg" />](http://web.library.yale.edu/sites/default/files/images/BB%20Attendees.jpg)
 
 [<img src="http://web.library.yale.edu/sites/default/files/resize/images/BB%20Coquillette%2C%20Li%2C%20Tofan%20Poster%20Session-250x167.jpg" />](http://web.library.yale.edu/sites/default/files/images/BB%20Coquillette%2C%20Li%2C%20Tofan%20Poster%20Session.jpg)

@@ -12,10 +12,10 @@ tags:
   - JavaScript
   - Coding
 teaser: >
-  This workshop will introduce the very basics of the JavaScript programming language, the language that runs nearly all modern websites. We will cover data structures, conditionals, and loops, and will also have time for participants to build small websites of their own design. 
+  This workshop will introduce the very basics of the JavaScript programming language, the language that runs nearly all modern websites. We will cover data structures, conditionals, and loops, and will also have time for participants to build small websites of their own design.
 ---
 This workshop will introduce the very basics of the JavaScript programming language, the language that runs nearly all modern websites. We will cover data structures, conditionals, and loops, and will also have time for participants to build small websites of their own design. This session is meant for those who have no prior experience programming, and is intended to prepare users for work with the D3.js data visualization framework.
- 
+
 Windows machines will be available for use, but participants may also work from Mac or Windows laptops, so long as they have administrative control over them.
 
 Registration is open to all Yale students, faculty, and staff, but space is limited. To register, please visit the <a href='http://schedule.yale.edu/event/3606999' target='_blank'>YUL Instruction Calendar</a>.

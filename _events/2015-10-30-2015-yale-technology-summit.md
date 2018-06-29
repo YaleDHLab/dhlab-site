@@ -6,9 +6,9 @@ location: Evans Hall
 thumbnail: /assets/images/events/tech-summit-2015.jpg
 alt: Yale Technology Summit logo on green and blue polyhedron against dark gray background.
 caption: 2015 Yale Technology Summit, Digital Humanities Lab
-categories: 
+categories:
   - Symposium
-spotlight: false 
+spotlight: false
 image_layout: landscape
 teaser: |
   "The 2015 Yale Technology Summit took place on October 30th, from 9:00am-4:00pm in Evans Hall. DHLab projects were showcased in two presentations. From 2:00pm-2:50pm in room 2200, Peter Leonard and..."

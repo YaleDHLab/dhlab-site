@@ -6,11 +6,11 @@ location: Digital Humanities Lab, SML 316
 thumbnail: /assets/images/events/chiodo.jpg
 alt: DHLab postdoctoral associate sitting in Lab.
 caption: Contextual data map
-categories: 
+categories:
   - Office Hours
 tags:
   - Geospatial Analysis
-spotlight: false 
+spotlight: false
 image_layout: landscape
 teaser: |
   "During Office Hours, DHLab Postdoctoral Associate Carol Chiodo presented on a contextual data mapping workshop offered by the University of Oxford. In her talk, Carol spoke to the research potential..."

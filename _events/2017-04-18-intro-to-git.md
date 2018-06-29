@@ -12,7 +12,7 @@ tags:
   - Git
   - Data Management
 teaser: >
-  This workshop will familiarize participants with the fundamentals of Git and GitHub. Git—a free, open source version control system—and GitHub—a popular repository for sharing code—are key for web development projects and programming more broadly. Together, ​they provide a robust system for collaborating with team members and finding existing code that you might adopt and adapt for your own projects. 
+  This workshop will familiarize participants with the fundamentals of Git and GitHub. Git—a free, open source version control system—and GitHub—a popular repository for sharing code—are key for web development projects and programming more broadly. Together, ​they provide a robust system for collaborating with team members and finding existing code that you might adopt and adapt for your own projects.
 ---
 This workshop will familiarize participants with the fundamentals of Git and GitHub. Git—a free, open source version control system—and GitHub—a popular repository for sharing code—are key for web development projects and programming more broadly. Together, ​they provide a robust system for collaborating with team members and finding existing code that you might adopt and adapt for your own projects. Participants will gain hands-on experience creating repositories and branches, managing pull requests, and committing changes.
 

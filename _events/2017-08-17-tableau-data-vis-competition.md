@@ -4,12 +4,12 @@ date: August 17, 2017
 thumbnail: /assets/images/events/dataviz.jpg
 alt: A person holds a tablet that displays Tableau software depcting a map of the earth with areas of interest marked in pink and yellow.
 caption: ""
-categories: 
+categories:
   - Off Campus
   - Opportunities
 tags:
   - Visualization
-spotlight: false 
+spotlight: false
 image_layout: landscape
 teaser: |
   Working on a data visualization in Tableau? Consider submitting it to Tableau's Student Visualization Assignment Contest. Entries will be evaluated based on creativity, analytical depth, design, and overall impact.

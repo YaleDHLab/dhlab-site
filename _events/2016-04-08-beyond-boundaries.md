@@ -7,33 +7,33 @@ location: Sterling Memorial Library, Lecture Hall
 thumbnail: /assets/images/events/beyond-boundaries-2017.jpg
 alt: Beyond Boundaries logo displayed slantwise over pink vector art against midnight blue background.
 caption: ""
-categories: 
+categories:
   - Symposium
 tags:
   - Text Analysis
   - Geospatial Analysis
   - Network Analysis
   - Visual Analysis
-spotlight: false 
+spotlight: false
 image_layout: landscape
 permalink: '/bb2016/'
 teaser: |
   What does computer-generated poetry look like? How can EEG experiments inform our understandings of musical compositions?
 ---
 What does computer-generated poetry look like? How can EEG experiments inform our understandings of musical compositions? To explore these questions and more, join the Digital Humanities Lab and <a href='http://steamwith.us/YaleSTEAM.html' target='_blank'>Yale STEAM</a> for a spring symposium to showcase hybrid scholarship at Yale University. Undergraduates, graduate students, faculty, and staff will present projects that highlight the questions that can be asked and explored via digital methods and collaborations between the sciences and humanities.
-   
+
 The symposium is open to the entire Yale community and public. Coffee and refreshments will be provided.
-   
-<a href='http://web.library.yale.edu/sites/default/files/images/BB-concepts-poster.jpg' target='_blank'>**event poster**</a>  
 
-<a href='http://web.library.yale.edu/sites/default/files/images/2016-04-08-BB-tabloid-poster2.jpg' target='_blank'>**roundtable poster**</a>  
+<a href='http://web.library.yale.edu/sites/default/files/images/BB-concepts-poster.jpg' target='_blank'>**event poster**</a>
 
-<a href='https://issuu.com/mongmedia/docs/2016-04-08-symposium-program' target='_blank'>**program**</a>  
+<a href='http://web.library.yale.edu/sites/default/files/images/2016-04-08-BB-tabloid-poster2.jpg' target='_blank'>**roundtable poster**</a>
+
+<a href='https://issuu.com/mongmedia/docs/2016-04-08-symposium-program' target='_blank'>**program**</a>
 
 <a href='https://www.youtube.com/watch?v=LDbomoUsnio&amp;index=1&amp;list=PLqHnHG5X2PXBr9IaxqS5PkgegtLExZ4Lm' target='_blank'>**event recordings**</a>
-   
+
 **Event Schedule**
-   
+
 <table>
   <tbody>
     <tr>
@@ -152,7 +152,7 @@ The symposium is open to the entire Yale community and public. Coffee and refres
   </tbody>
 </table>
 
-       
+
 A few photos from the event:
 
 [<img src="http://web.library.yale.edu/sites/default/files/resize/images/Valencia2-300x200.jpg" alt: Event speaker talking from behind podium./>](http://web.library.yale.edu/sites/default/files/images/Valencia2.jpg)

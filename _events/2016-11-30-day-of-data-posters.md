@@ -1,36 +1,36 @@
 ---
 title: Yale Day of Data 2016 Posters
-date: 2016-11-30 
+date: 2016-11-30
 time: 4:00 - 6:00 pm
 location: Center for Science and Social Science Information
 thumbnail: /assets/images/events/day-of-data.jpg
 alt: Yale Day of Data logo in white against blue background.
 caption: ""
-categories: 
+categories:
   - Symposium
 tags:
   - Geospatial Analysis
   - Text Analysis
   - Statistics
-spotlight: false 
+spotlight: false
 image_layout: landscape
 teaser: |
   Yale Day of Data is a two-day, University-wide event that will feature speakers from a number of disciplines across Yale. The theme for 2016 will be open data, open software, and reproducibility initiatives.
 ---
 <a href='http://elischolar.library.yale.edu/dayofdata/' target='_blank'>Yale Day of Data</a> is a two-day, University-wide event that will feature speakers from a number of disciplines across Yale. The theme for 2016 will be open data, open software, and reproducibility initiatives.
-   
+
 To kick off Yale Day of Data 2016, we will begin with an Opening Reception and Poster Session at the Center for Science and Social Science Information. No registration is required; all are invited to attend!
-   
+
 Posters include:
-   
+
 **Safer Chemicals Design Diagrams**
-   
+
 Longzhu Shen (Yale University), Fjodor Melnikov (Yale University), John Roethle (Yale University), Aditya Gudibanda (Yale University), Richard Judson (US EPA), Julie Zimmerman (Yale University), and Paul Anastas (Yale University)
-  
+
 **Urban Environmental Performance Index: The Quito Pilot Case**
-   
+
 Diego C. Manya (Yale University), Ryan Thomas (Yale University), and Matthew Moroney (Yale University)
-   
+
 **Extracting Geography From Datasets in Social Sciences**
 
 Yuke Li (Yale University), Tianhao Wu (Yale University), Nicholas Marshall (Yale University), and Stefan Steinerberger (Yale University)

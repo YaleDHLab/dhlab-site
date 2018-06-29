@@ -6,11 +6,11 @@ location: Digital Humanities Lab, SML 316
 thumbnail: /assets/images/events/gathering.jpg
 alt: Digital overhead image of Yale's new residential college overlaid onto a photograph depicting the physical space to be occupied by that building.
 caption: ""
-categories: 
+categories:
   - Talk
 tags:
   - Geospatial Analysis
-spotlight: false 
+spotlight: false
 image_layout: landscape
 teaser: |
   Join us for a special Office Hours in which former DHLab Postdoc Gideon Fink Shapiro presents his research on the architecture of Yale’s new residential college in the context of campus and New Haven history, building techniques, and environmental processes.
