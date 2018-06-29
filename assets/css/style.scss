@@ -612,7 +612,7 @@ pre {
 @media (max-width: $desktop_breakpoint) {
   .color-background + .two-column-container {
     padding: 20px 0 0 0;
-  } 
+  }
 }
 
 /**
@@ -673,15 +673,11 @@ pre {
 header {
   height: 70px;
   color: #fff;
+  background-color: rgba(0, 0, 0, 0.8);
   position: fixed;
   top: 0;
   z-index: 10;
   width: 100%;
-}
-
-header,
-footer {
-  background-color: rgba(0, 0, 0, 0.7);
 }
 
 .site-brand {
@@ -918,7 +914,7 @@ header.gray-header .nav-links .link.expanded .sublinks {
        -o-transform: translate(0, 100%);
           transform: translate(0, 100%);
   font-weight: 600;
-  background: rgba(0,0,0,0.9);
+  background: rgba(0,0,0,0.8);
   padding: 0 20px 20px;
   line-height: 25px;
   white-space: nowrap;
@@ -1837,7 +1833,7 @@ section {
   margin-top: 0
 }
 
-.color-block-container h2 { 
+.color-block-container h2 {
   font-size: 1.25em;
 }
 
@@ -3064,7 +3060,7 @@ br + .tags,
 .tags a {
   display: inline-block;
   color: #999;
-  font-size: .8em; 
+  font-size: .8em;
 }
 
 .tags div {
