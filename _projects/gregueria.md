@@ -3,6 +3,7 @@ title: La Greguería Virtual
 thumbnail: /assets/images/projects/archive-thumbs/gregueria-thumb.jpg
 alt: Snippet of masonry view of several Gregueria's or aphorisms by Gómez de la Serna
 layout: archive
+project_url: http://34.219.133.56/
 funded: true
 team:
   - name: Diego del Río Arrillaga
