@@ -12,7 +12,7 @@ teaser: >
 
 ### Overview
 
-Text mining includes a number of applications, from tracking textual reuse and the fluctuation of certain words or themes over time to stylometry and the modeling of literary forms. These texts might represent a single author's oeuvre, a periodical's full print run, or a collection of texts from across multiple centuries. Important to any texutal analysis project is the curation of a dataset, which often entails digitization and optical character recognition (OCR), the process of turning words from images into searchable text.
+Text mining includes a number of applications, from tracking textual reuse and the fluctuation of certain words or themes over time to stylometry and the modeling of literary forms. These texts might represent a single author's oeuvre, a periodical's full print run, or a collection of texts from across multiple centuries. Important to any text analysis project is the curation of a dataset, which often entails digitization and optical character recognition (OCR), the process of turning words from images into searchable text.
 
 ### Methods & Tools
 
