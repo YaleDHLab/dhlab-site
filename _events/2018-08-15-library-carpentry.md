@@ -22,7 +22,7 @@ Please join us for a two-day Library Carpentry Workshop to learn how to:
 - automate repetitive, boring, and error-prone tasks
 - create, maintain, and analyze sustainable and reusable data
 - work effectively with IT and systems colleagues
-- better understand the use of software in research
+- better understand the use of software in research  
 and much more.
 
 Library Carpentry introduces participants to the fundamentals of computing and provides a platform for further self-directed learning. This workshop series will introduce 'Tidy Data,' OpenRefine, UNIX Shell, and Python. We encourage participants to bring their own laptops, but lab computers will be available.
