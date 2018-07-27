@@ -16,7 +16,7 @@ tags:
 teaser: >
   This workshop series will introduce participants to 'Tidy Data,' OpenRefine, UNIX Shell, and Python.
 ---
-<h2>Library Carpentry Workshop Series: August 15 and 16</h2>
+<h2>August 15 and 16</h2>
 
 Please join us for a two-day Library Carpentry Workshop to learn how to:
 - automate repetitive, boring, and error-prone tasks
