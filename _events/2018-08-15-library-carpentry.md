@@ -5,7 +5,7 @@ time: 9:00 am - 5:00 pm
 location: 17 Hillhouse, room 07
 thumbnail: /assets/images/events/coding.jpg
 alt: Open laptop with HTML code on the screen
-registerurl: http://schedule.yale.edu/event/3976470
+registerurl: http://schedule.yale.edu/event/4344752
 categories:
   - Workshop
 tags:
@@ -25,10 +25,10 @@ Please join us for a two-day Library Carpentry Workshop to learn how to:
 - better understand the use of software in research  
 and much more.
 
-Library Carpentry introduces participants to the fundamentals of computing and provides a platform for further self-directed learning. This workshop series will introduce 'Tidy Data,' OpenRefine, UNIX Shell, and Python. We encourage participants to bring their own laptops, but lab computers will be available.
-
-Registration is open to all Yale library staff, but space is limited. To register, please visit the <a href='http://schedule.yale.edu/event/4344752' target='_blank'>YUL Instruction Calendar</a>.
+Library Carpentry introduces participants to the fundamentals of computing and provides a platform for further self-directed learning. This workshop series will introduce 'Tidy Data,' OpenRefine, UNIX Shell, and Python. We encourage participants to bring their own laptops, but lab computers will be available. 
 
 *This workshop series is sponsored by Digital Scholarship Services.*
 
 Instructors: Catherine DeRose (Digital Humanities Lab), Joshua Dull (Digital Scholarship), and Kate Nyhan (Medical Library)
+
+Registration is open to all Yale library staff, but space is limited. To register, please click the registration button below.
