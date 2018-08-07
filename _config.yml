@@ -89,7 +89,7 @@ email: dhlab@yale.edu
 phone: 203-432-123
 
 # newsletter url
-newsletter: 'https://messages.yale.edu/Subscribe?ReturnUrl=%2fSubscribe%2fList%2fLIB'
+newsletter: 'https://subscribe.yale.edu/'
 
 # submit news url
 submit_news: 'https://docs.google.com/forms/d/1HvwWecpYODW3DoMVTnJy7beOMfechLPIiVhV5ekvYNI'
