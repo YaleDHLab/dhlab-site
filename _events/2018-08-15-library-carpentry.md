@@ -27,7 +27,7 @@ and much more.
 
 Library Carpentry introduces participants to the fundamentals of computing and provides a platform for further self-directed learning. This workshop series will introduce 'Tidy Data,' OpenRefine, UNIX Shell, and Python. We encourage participants to bring their own laptops, but lab computers will be available. 
 
-*This workshop series is sponsored by Digital Scholarship Services.*
+*This workshop series is sponsored by Digital Scholarship Services. It will not be recorded, but session materials will be available at <a href='https://nesclic.github.io/2018-08-15-YUL/' target='_blank'> the workshop GitHub page</a>.*
 
 Instructors: Catherine DeRose (Digital Humanities Lab), Joshua Dull (Digital Scholarship), and Kate Nyhan (Medical Library)
 
