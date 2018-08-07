@@ -5,7 +5,7 @@ url: http://dhlab.yale.edu
 future: true
 
 # minify html in production
-minify_html: true
+minify_html: false
 
 # bust cache
 bust_cache: true
@@ -89,7 +89,7 @@ email: dhlab@yale.edu
 phone: 203-432-123
 
 # newsletter url
-newsletter: 'https://messages.yale.edu/Subscribe?ReturnUrl=%2fSubscribe%2fList%2fLIB'
+newsletter: 'https://subscribe.yale.edu/'
 
 # submit news url
 submit_news: 'https://docs.google.com/forms/d/1HvwWecpYODW3DoMVTnJy7beOMfechLPIiVhV5ekvYNI'
