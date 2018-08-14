@@ -7,7 +7,7 @@ caption: |
   Office hours at the Digital Humanities Lab
 ---
 
-Looking to start a digital project but don't know where to begin? Need recommendations on programming languages or visualization fundamentals? Stop by the Digital Humanities Lab during open Office Hours to chat with our team over coffee.
+Looking to start a digital project but don't know where to begin? Curious about best practices in data visualization or programming? Stop by the Digital Humanities Lab during open Office Hours to chat with our team.
  
 Office Hours provide a weekly opportunity to exchange ideas, discuss methods, and form connections with colleagues from different programs and departments. If you are interested in sharing your work in the form of a 10-minute lightning talk at the beginning of Office Hours, <a href='mailto:dhlab@yale.edu'>email the DHLab</a>.
  
