@@ -1,6 +1,5 @@
 ---
-spotlight_bottom: true
-title: 'The Franke Family Digital Humanities Laboratory'
+title: "The Franke Family Digital Humanities Laboratory"
 date: May 10, 2018
 thumbnail: /assets/images/news/franke-square.jpg
 image: /assets/images/banners/franke-plans.jpg
