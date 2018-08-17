@@ -1,10 +1,12 @@
 ---
+spotlight_bottom: true
 title: "Preview the Franke Digital Humanities Laboratory"
 date: June 29, 2018
 thumbnail: /assets/images/news/franke-construction.jpg
 alt: View of the construction underway in the Franke Family Digital Humanities Laboratory
-image: /assets/images/banners/meetup.jpg
-alt: Workshop participants in the lab
+image: /assets/images/banners/franke-plans.jpg
+alt: Architectural rendering of the Franke Family Digital Humanities Laboratory
+caption: "Architectural rendering of the forthcoming Digital Humanities Lab in the Franke Family Reading Room, courtesy of Apicella + Bunton Architects, LLC (January 8, 2018)."
 caption: ""
 categories:
   - Announcement

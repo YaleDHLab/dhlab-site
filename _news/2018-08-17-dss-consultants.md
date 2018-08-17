@@ -17,7 +17,7 @@ teaser: |
 
 Join our team of Digital Scholarship Consultants and work alongside staff in the Yale Digital Humanities Lab and <a href='http://statlab.yale.edu/' target='_blank'>StatLab</a>! 
 
-Whether you use field surveys to predict the outbreak of civil war, machine learning to find aesthetic patterns in 18th-century paintings, interactive data visualizations to track instances of textual reuse in Classical literature, or big data technologies to identify systemic drivers of gene expression, we want to hear from you. We invite applicants who have experience with data of any kind, from surveys, text, assays, and pixels to networks, experiments, simulations, and audio recordings.
+Whether you use field surveys to predict the outbreak of civil wars, machine learning to find aesthetic patterns in 18th-century paintings, interactive data visualizations to track instances of textual reuse in Classical literature, or big data technologies to identify systemic drivers of gene expression, we want to hear from you. We invite applicants who have experience with data of any kind, from surveys, text, assays, and pixels to networks, experiments, simulations, and audio recordings.
 
 Digital Scholarship consultants are members of the Digital Scholarship Services team and work out of the DHLab and the StatLab to provide support for disciplines across the Yale University community. The DHLab offers consultations, workshops, and grants to support scholars using computational methods to pursue humanistic inquiries. The StatLab provides support for data analysis through instruction, consultation, and collaboration.
 
