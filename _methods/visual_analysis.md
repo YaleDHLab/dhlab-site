@@ -3,6 +3,7 @@ title: Visual Analysis
 order: 1
 project_category: Visual Analysis
 image: '/assets/images/projects/originals/vogue.jpg'
+permalink: '/visual-analysis/'
 
 caption: >
   This page shows a "decennial sampling" of Vogue covers — that is, all the covers in one year, every ten years. Overlaying each of the covers for a given year generates a mean RGB value for each pixel.
