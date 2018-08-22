@@ -3,6 +3,7 @@ title: Text Analysis
 order: 0
 project_category: Text Analysis
 image: '/assets/images/banners/text-mining.jpg'
+permalink: '/text-analysis/'
 
 caption: >
 

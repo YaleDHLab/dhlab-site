@@ -3,6 +3,7 @@ title: Geospatial Analysis
 order: 2
 project_category: Geospatial Analysis
 image: '/assets/images/banners/globe.jpg'
+permalink: '/mapping/'
 
 caption: >
 

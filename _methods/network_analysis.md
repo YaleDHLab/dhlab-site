@@ -3,6 +3,7 @@ title: Network Analysis
 order: 3
 project_category: Network Analysis
 image: '/assets/images/banners/networks.jpg'
+permalink: '/networks/'
 
 caption: >
   Network analysis consists of studying the relationships between entities. Read more about network analysis methods and resources below.
