@@ -18,6 +18,12 @@ In preparation for the move to the Franke Family Digital Humanities Laboratory, 
 
 For more on the Franke Family Digital Humanities Laboratory, please visit our <a href='http://dhlab.yale.edu/news/2018-05-10-franke-renovation.html' target='_blank'>news announcement</a>.
 
+<img src='{{site.baseurl}}/assets/images/news/franke-cube-glass.jpg'
+     alt="Distant view of the Special Projects Cube" 
+     style='float: left; margin-right: 10px; padding-bottom: 10px' />
+<img src='{{site.baseurl}}/assets/images/news/franke-cube-panorama.jpg'
+     alt="Panoramic view of the framing for the Special Projects Cube space" 
+     style='float: left; margin-right: 10px; padding-bottom: 10px' />
 <img src='{{site.baseurl}}/assets/images/news/franke-team-cropped.jpg'
      alt="Digital Scholarship team with architects" 
      style='float: left; margin-right: 10px; padding-bottom: 10px' />
