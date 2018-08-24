@@ -53,7 +53,7 @@ CPSC 276
 Benedict Brown  
 DH Teaching Fellow, Yoni Nadiv
 
-Introduction to applications of computer and data science in the humanities, including web technologies, visualization, and database design. Students work in teams to develop a variety of applications proposed by faculty and staff from the Digital Humanities Lab, the Institute for the Preservation of Cultural Heritage, and the Computer Science department. Meets with CPSC 376. Students may earn credit for CPSC 276 or 376; not both.
+Introduction to applications of computer and data science in the humanities, including web technologies, visualization, and database design. Students work in teams to develop a variety of applications proposed by faculty and staff from the Digital Humanities Lab, the Institute for the Preservation of Cultural Heritage, and the Computer Science department. Meets with CPSC 376. Students may earn credit for CPSC 276 or 376; not both. Humanities graduate students with an interest in digital humanities are heartily welcomed in this class with permission of their DGS.
 
 Prerequisite: CPSC 110, CPSC 112, equivalent programming experience, or permission of the instructor.    
 ### Literary Theory
