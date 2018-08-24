@@ -1,5 +1,5 @@
 ---
-title: "Upcoming courses, Spring 2018"
+title: "Spring 2018 DH classes"
 date: December 18, 2017
 thumbnail: /assets/images/news/highlights.jpg
 alt: Shooting stars rise upward and explode in multi-colored bursts.

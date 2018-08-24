@@ -1,5 +1,5 @@
 ---
-title: 'Call for Users: Demo Inside the Decisive Network'
+title: 'Call for users: Demo Inside the Decisive Network'
 date: June 1, 2018
 thumbnail: /assets/images/news/magnum-collage.jpg
 image: /assets/images/banners/magnum-acls-getty.jpg

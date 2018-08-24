@@ -1,5 +1,5 @@
 ---
-title: "Fall 2016 DH courses"
+title: "Fall 2016 DH classes"
 date: August 19, 2016
 thumbnail: /assets/images/events/data-circle.jpg
 alt: Multi-colored astral object against midnight blue background radiates colored beads.
@@ -9,7 +9,7 @@ categories:
 spotlight: false
 image_layout: simple
 teaser: |
-  Upcoming Courses Still looking for classes to take this fall? Check out a few exciting DH-related courses below! If you are teaching a course connected to DH and would like it included, please email...
+  Still looking for classes to take this fall? Check out a few exciting DH-related courses below! If you are teaching a course connected to DH and would like it included, please email...
 ---
 
 ### Upcoming Courses

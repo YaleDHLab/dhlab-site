@@ -1,5 +1,5 @@
 ---
-title: "Spring 2017 DH courses"
+title: "Spring 2017 DH classes"
 date: January 19, 2017
 thumbnail: /assets/images/events/sterling-student.jpg
 alt: Student walks in front of the door to the courtyard of Sterling Memorial Library.
@@ -11,7 +11,7 @@ tags:
 spotlight: false
 image_layout: simple
 teaser: |
-  Spring Courses Still looking for classes to take this spring? Check out a few exciting DH-related courses being offered!
+  Still looking for classes to take this spring? Check out a few exciting DH-related courses being offered!
 ---
 
 Still looking for classes to take this spring? Check out a few exciting DH-related courses below!
