@@ -9,9 +9,9 @@ categories:
 spotlight: false
 image_layout: simple
 teaser: |
-  Looking for classes to take this fall? Consider one that will help you collect, analyze, or visualize humanities data.
+  Looking for classes to take this fall? Consider one that will help you collect, analyze, or visualize humanities data. Learn what network graphs can reveal about Chinese history, experiment with digital tools to study your own writing style, and more.
 ---
-Looking for classes to take this fall? Consider one that will help you collect, analyze, or visualize humanities data! See below for a list of classes related to the digital humanities.
+Looking for classes to take this fall? Consider one that will help you collect, analyze, or visualize humanities data! Learn what network graphs can reveal about Chinese history, experiment with digital tools to study your own writing style, and more. See below for a list of classes related to the digital humanities.
 
 *If you are teaching a course connected to DH and would like it included, please [email the Digital Humanities Lab](mailto:dhlab@yale.edu).*
 
