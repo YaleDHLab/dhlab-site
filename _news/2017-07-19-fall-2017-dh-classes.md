@@ -1,5 +1,5 @@
 ---
-title: "Fall 2017 DH courses"
+title: "Fall 2017 DH classes"
 date: July 19, 2017
 thumbnail: /assets/images/events/network-class.jpg
 alt: DHLab worker delivering talk that demonstrates network analysis on a large projection screen.
@@ -10,7 +10,7 @@ categories:
 spotlight: false
 image_layout: simple
 teaser: |
-  Upcoming Courses Looking for classes to take this fall? Check out a few exciting DH-related courses being offered!
+  Looking for classes to take this fall? Check out a few exciting DH-related courses being offered!
 ---
 
 Looking for classes to take this fall? Check out a few exciting DH-related courses below!
