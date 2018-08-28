@@ -9,7 +9,7 @@ caption: "Every hurricane of the past 150 years: Metrocosm"
 categories:
   - Workshop
 tags:
-  - Geospatial Analysis
+  - Spatial Analysis
   - Visualization
 spotlight: false
 teaser: >

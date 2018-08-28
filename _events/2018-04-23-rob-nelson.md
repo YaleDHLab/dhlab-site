@@ -9,7 +9,7 @@ alt: Redlining maps of Chicago
 categories:
   - Talk
 tags:
-  - Geospatial Analysis
+  - Spatial Analysis
   - Text Analysis
   - Visualization
 permalink: '/nelson/'

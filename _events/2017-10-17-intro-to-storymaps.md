@@ -9,7 +9,7 @@ registerurl: http://schedule.yale.edu/event/3592547
 categories:
   - Workshop
 tags:
-  - Geospatial Analysis
+  - Spatial Analysis
 teaser: >
   Learn how to combine texts, images, and videos alongside maps using Esri's free Story Maps platform. In this workshop, participants will design a web-map, explore different Story Maps templates for showcasing research, and develop best practices to avoid copyright infringement.
 ---

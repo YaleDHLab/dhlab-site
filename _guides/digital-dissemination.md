@@ -25,7 +25,7 @@ Thinking about how you will disseminate your project early on can help you to ar
 
 *Software* - Creating a tool that users can process data with, whether it's for a pre-defined collection or their own materials.
 
-*Online Exhibition or Digital Tour* - A project website that leverages multimedia interfaces to enrich visual or geospatial analysis of data collections.
+*Online Exhibition or Digital Tour* - A project website that leverages multimedia interfaces to enrich visual or spatial analysis of data collections.
 
 These are just some of the many ways digital humanities projects might take shape. 
 

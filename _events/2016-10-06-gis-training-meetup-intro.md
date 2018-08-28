@@ -10,7 +10,7 @@ caption: ""
 categories:
   - Meetup
 tags:
-  - Geospatial Analysis
+  - Spatial Analysis
 spotlight: false
 image_layout: landscape
 teaser: |

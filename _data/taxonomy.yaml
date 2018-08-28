@@ -17,7 +17,6 @@ news_and_events:
     - D3
     - Data Collection
     - Data Management
-    - Geospatial Analysis
     - Funding
     - Git
     - JavaScript
@@ -28,6 +27,7 @@ news_and_events:
     - R
     - Race Studies
     - Sound Analysis
+    - Spatial Analysis
     - Statistics
     - Team Members
     - TEI
@@ -42,7 +42,7 @@ news_and_events:
 projects:
   categories:
     - Crowdsourced Data
-    - Geospatial Analysis
+    - Spatial Analysis
     - Network Analysis
     - Text Analysis
     - Visual Analysis

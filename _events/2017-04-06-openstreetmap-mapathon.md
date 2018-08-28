@@ -11,7 +11,7 @@ categories:
   - Symposium
 tags:
   - Pedagogy
-  - Geospatial Analysis
+  - Spatial Analysis
 spotlight: false
 teaser: |
   Many of the places where natural disasters and health crises occur are literally "missing" from the map, and responders lack the information to properly provide relief. Learn how to contribute to responders' efforts with OpenStreetMap.

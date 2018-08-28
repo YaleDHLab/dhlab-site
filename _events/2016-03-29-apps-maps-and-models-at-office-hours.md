@@ -9,7 +9,7 @@ caption: ""
 categories:
   - Office Hours
 tags:
-  - Geospatial Analysis
+  - Spatial Analysis
 spotlight: false
 image_layout: landscape
 teaser: |

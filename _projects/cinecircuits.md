@@ -11,7 +11,7 @@ team:
   - name: Andrew Vielkind
     position: PhD student in Art History <br/>and Film and Media Studies
 categories:
-  - Geospatial Analysis
+  - Spatial Analysis
   - Web Application
 ---
 

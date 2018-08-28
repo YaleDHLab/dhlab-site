@@ -1,23 +1,21 @@
 ---
-title: Geospatial Analysis
+title: Spatial Analysis
 order: 2
-project_category: Geospatial Analysis
+project_category: Spatial Analysis
 image: '/assets/images/banners/globe.jpg'
 permalink: '/mapping/'
-
 caption: >
-
 teaser: >
-  Geospatial analysis consists of studying patterns in the distributions of entities in space. Click to read more about geographic analysis methods.
+  Spatial analysis consists of studying patterns in the distributions of entities in space. Click to read more about geographic analysis methods.
 ---
 
 ### Overview
 
-Geospatial analysis and spatial humanities more generally can take many shapes, from mapping the routes that characters take in a collection of novels to using 360 photography to create virtual reconstructions of historic places. For some projects, you may want to compare how a place has changed over time. To do that, you could take several maps and overlay them on top of one another through a process call georectification. For other projects, you might be placing points on a map and altering the size or color of the points to reveal a pattern in your dataset.
+Spatial humanities can take many shapes, from mapping the routes that characters take in a collection of novels to using 360 photography to create virtual reconstructions of historic places. For some projects, you may want to compare how a place has changed over time. To do that, you could take several maps and overlay them on top of one another through a process call georectification. For other projects, you might be placing points on a map and altering the size or color of the points to reveal a pattern in your dataset.
 
 ### Methods & Tools
 
-There are numerous tools you could turn to for a geospatial project. Popular options for mapping data include: <a href='https://www.arcgis.com/home/index.html' target='_blank'>ArcGIS</a>, <a href='https://carto.com/' target='_blank'>Carto</a>, and with a litte programming required, <a href='http://leafletjs.com/' target='_blank'>Leaflet</a>. To present texts, visuals, videos, and audio alongside maps, try <a href='https://storymaps.arcgis.com/en/' target='_blank'>Story Maps</a>.
+There are numerous tools you could turn to for a spatial project. Popular options for mapping data include: <a href='https://www.arcgis.com/home/index.html' target='_blank'>ArcGIS</a>, <a href='https://carto.com/' target='_blank'>Carto</a>, and with a litte programming required, <a href='http://leafletjs.com/' target='_blank'>Leaflet</a>. To present texts, visuals, videos, and audio alongside maps, try <a href='https://storymaps.arcgis.com/en/' target='_blank'>Story Maps</a>.
 
 For augmented reality (AR), you could try <a href='https://www.aurasma.com/' target='_blank'>Aurasma</a> or, with a steeper learning curve, <a href='https://unity3d.com/' target='_blank'>Unity</a>.
 

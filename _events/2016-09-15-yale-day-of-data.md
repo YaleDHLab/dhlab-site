@@ -8,7 +8,7 @@ categories:
   - Symposium
 tags:
   - Statistics
-  - Geospatial Analysis
+  - Spatial Analysis
 spotlight: false
 teaser: |
   The theme for Day of Data 2016 will be open data, open software, reproducibility initiatives, and replication.

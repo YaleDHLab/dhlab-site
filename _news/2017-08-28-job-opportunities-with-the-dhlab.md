@@ -9,7 +9,7 @@ categories:
   - Student Jobs
   - Opportunities
 tags:
-  - Geospatial Analysis
+  - Spatial Analysis
   - Statistics
 spotlight: false
 image_layout: simple

@@ -11,7 +11,7 @@ categories:
 tags:
   - Text Analysis
   - Network Analysis
-  - Geospatial Analysis
+  - Spatial Analysis
 spotlight: false
 teaser: |
   Our workshop explores the intersection of Digital Humanities and Russian and East European Studies: research, pedagogy, dissemination, and archive.

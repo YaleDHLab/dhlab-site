@@ -9,7 +9,7 @@ caption: ""
 categories:
   - Talk
 tags:
-  - Geospatial Analysis
+  - Spatial Analysis
 spotlight: false
 image_layout: landscape
 teaser: |

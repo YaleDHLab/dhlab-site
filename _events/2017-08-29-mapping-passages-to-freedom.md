@@ -9,7 +9,7 @@ caption: ""
 categories:
   - Talk
 tags:
-  - Geospatial Analysis
+  - Spatial Analysis
 spotlight: false
 teaser: |
   Join us for a special Office Hours this Tuesday to hear outgoing DHLab Postdoc Jonathan Schroeder discuss his project, Passages to Freedom: Worlding the North American Slave Narrative.
