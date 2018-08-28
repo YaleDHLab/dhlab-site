@@ -7,7 +7,7 @@ caption: ""
 categories:
   - Opportunities
 tags:
-  - Geospatial Analysis
+  - Spatial Analysis
 spotlight: false
 image_layout: simple
 teaser: |

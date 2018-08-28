@@ -12,7 +12,7 @@ team:
     position: Staff
 categories:
   - Network Analysis
-  - Geospatial Analysis
+  - Spatial Analysis
   - Web Application
 tags:  
   - Archives

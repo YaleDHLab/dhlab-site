@@ -12,7 +12,7 @@ team:
   - name: Digital Humanities Lab
     position: Staff
 categories:
-  - Geospatial Analysis
+  - Spatial Analysis
   - Web Application
 tags:
   - Architecture  

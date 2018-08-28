@@ -8,7 +8,7 @@ alt: Classroom of Yale College students working with a DH Fellow
 categories:
   - Talk
 tags:
-  - Geospatial Analysis
+  - Spatial Analysis
   - Text Analysis
   - Pedagogy
 permalink: '/dh-fellows-18/'

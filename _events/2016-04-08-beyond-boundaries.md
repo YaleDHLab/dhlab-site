@@ -11,7 +11,7 @@ categories:
   - Symposium
 tags:
   - Text Analysis
-  - Geospatial Analysis
+  - Spatial Analysis
   - Network Analysis
   - Visual Analysis
 spotlight: false

@@ -11,7 +11,6 @@ team:
   - name: Abhi Nayar
     position: Yale College
 categories:
-  - Geospatial Analysis
   - Text Analysis
   - Web Application
 tags:

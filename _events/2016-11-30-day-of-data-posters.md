@@ -9,7 +9,7 @@ caption: ""
 categories:
   - Symposium
 tags:
-  - Geospatial Analysis
+  - Spatial Analysis
   - Text Analysis
   - Statistics
 spotlight: false

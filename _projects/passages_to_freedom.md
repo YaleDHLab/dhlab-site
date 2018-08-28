@@ -8,7 +8,7 @@ team:
   - name: Jonathan Schroeder
     position: Yale Digital Humanities Lab, <br/> English
 categories:
-  - Geospatial Analysis
+  - Spatial Analysis
   - Web Application
 tags:
   - Literature

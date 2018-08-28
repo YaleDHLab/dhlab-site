@@ -22,7 +22,7 @@ team:
   - name: Monica Ong Reed
     position: Yale Digital Humanities Lab
 categories:
-  - Geospatial Analysis
+  - Spatial Analysis
   - Web Application
 tags:
   - Archives

@@ -10,7 +10,7 @@ categories:
 tags:
   - Text Analysis
   - Visualization
-  - Geospatial Analysis
+  - Spatial Analysis
   - Network Analysis
 permalink: '/dh-in-china/'
 teaser: >

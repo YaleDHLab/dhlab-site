@@ -8,7 +8,7 @@ categories:
   - Announcement
   - Off Campus
 tags:
-  - Geospatial Analysis
+  - Spatial Analysis
   - Crowdsourcing
   - Visual Analysis
 spotlight: false

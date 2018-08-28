@@ -10,7 +10,7 @@ categories:
   - Symposium
 tags:
   - Text Analysis
-  - Geospatial Analysis
+  - Spatial Analysis
   - Visual Analysis
   - Data Collection
   - Race Studies

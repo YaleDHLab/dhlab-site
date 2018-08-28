@@ -13,7 +13,7 @@ tags:
   - Network Analysis
   - Visual Analysis
   - Text Analysis
-  - Geospatial Analysis
+  - Spatial Analysis
   - Pedagogy
 spotlight: false
 image_layout: landscape

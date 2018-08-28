@@ -5,7 +5,7 @@ alt: Map projection of New York City
 layout: archive
 funded: true
 categories:
-  - Geospatial Analysis
+  - Spatial Analysis
 tags:
   - Literature
 ---
