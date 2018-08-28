@@ -27,6 +27,7 @@ tags:
   - Languages
   - Literature
 dhlab_project: true
+permalink: '/projects/dhrees/'
 ---
 
 ### Overview

@@ -31,6 +31,7 @@ tags:
   - Archives
   - Literature
 dhlab_project: true
+permalink: '/projects/nest/'
 ---
 
 ### Overview

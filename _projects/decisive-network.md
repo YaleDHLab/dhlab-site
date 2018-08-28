@@ -18,6 +18,7 @@ tags:
   - Archives
   - Photographs
 dhlab_project: true
+permalink: '/projects/decisive-network/'
 ---
 
 ### Project Overview

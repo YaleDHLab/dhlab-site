@@ -17,6 +17,7 @@ categories:
 tags:
   - Photographs
 dhlab_project: true
+permalink: '/projects/neural-neighbors/'
 ---
 
 ### Overview

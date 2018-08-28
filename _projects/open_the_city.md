@@ -8,6 +8,7 @@ categories:
   - Spatial Analysis
 tags:
   - Literature
+permalink: '/projects/open-the-city/'
 ---
 
 ### Overview
