@@ -37,6 +37,7 @@ This seminar studies the co-constitution of objects-with-documents and undocumen
 
 ### Digital China: Using Computational Methods to Illuminate Society, Politics, Culture, and History
 ANTH 405, EAST 403, SOCY 309  
+Charles Chang   
 
 In the humanities and social sciences, those who study China face a vast volume of disparate information that ranges from historical archives and maps to the news and social media posts of our time. Such abundance and variety of data can seem daunting, quite beyond an individual’s capacity to digest, and yet, with appropriate concepts and methods, the data can be accessed and sorted out in such a way as to allow the researcher to address questions, hitherto neglected or insufficiently analyzed, in Chinese history, politics, society, and culture. The course has two components: seminar and workshop. In the seminar, we discuss the ideas and concepts behind the collection of data, which could be temporal, spatial, or textual; this is followed by an introduction to network analysis and visualization. In the workshop, students gain hands-on experience in the full actualization of a project. Note that although the course’s title is “Digital China,” its ideas and methods are applicable to other non-Western countries. Students whose research interest lies in, Southeast Asia, Central Asia, or Africa are welcome.  
 
