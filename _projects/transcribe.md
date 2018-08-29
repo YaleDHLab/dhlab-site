@@ -18,6 +18,7 @@ tags:
   - Archives
   - Languages
 dhlab_project: true
+permalink: '/projects/transcribe/'
 ---
 
 ### Overview

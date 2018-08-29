@@ -28,6 +28,7 @@ tags:
   - Archives
   - Photographs
 dhlab_project: true
+permalink: '/projects/photogrammar/'
 ---
 
 ### Overview

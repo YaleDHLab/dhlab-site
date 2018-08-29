@@ -18,6 +18,7 @@ tags:
   - Architecture  
   - Archives
 dhlab_project: true
+permalink: '/projects/gathering/'
 ---
 
 ### Overview

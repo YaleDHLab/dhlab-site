@@ -19,6 +19,7 @@ tags:
   - Literature
   - Photographs
 dhlab_project: true
+permalink: '/projects/vogue/'
 ---
 
 ### Overview
