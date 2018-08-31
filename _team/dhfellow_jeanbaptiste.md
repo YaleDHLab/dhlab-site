@@ -4,6 +4,7 @@ role: DH Fellow
 image: /assets/images/about/sjeanbaptiste_dhfellow.jpg
 order: 2
 group: teaching_fellow
+render: false
 ---
 
 Shanna Jean-Baptiste is a PhD candidate in French and African American Studies. In her dissertation research, Shanna traces a particular understanding of national identity in the works of 20th-century Haitian writers. 
