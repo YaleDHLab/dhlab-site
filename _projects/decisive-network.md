@@ -1,6 +1,6 @@
 ---
 title: Inside the Decisive Network
-image: /assets/images/projects/originals/magnum-banner.jpg
+image: /assets/images/banners/decisive-network.jpg
 thumbnail: /assets/images/projects/thumbs/magnum-thumb.jpg
 alt: Staff and photographers who attended Magnum's Annual Meeting in 1957
 caption: >
