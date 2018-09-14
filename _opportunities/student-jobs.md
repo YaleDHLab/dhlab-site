@@ -4,15 +4,12 @@ order: 1
 image: '/assets/images/banners/sterling-nave.jpg'
 caption: >
   The Nave in Sterling Memorial Library.
-
 application_text: >
-  Apply to join us as one of our 2018 student programmers or designers.
-
-deadline: Ongoing
+  Apply to join us as one of our student programmers or designers.
+deadline: Project dependent
 application_url: mailto:dhlab@yale.edu
 class: hide-color-hr
 ---
-
 <div class='center-column'>
   <div class='two-column-container one-third-width top-text'>
     <div class='left-column'>
@@ -24,10 +21,8 @@ class: hide-color-hr
         title=page.title
       %}
 
-      <p>If you have programming skills and an interest in humanistic data, apply to work in the Digital Humanities Lab! We often hire Yale undergraduate and graduate students to work on a variety of exciting projects that are underway in the lab.</p>
-
-      <strong>Digital Humanities Lab Assistants</strong>
-      <p>Every semester the Digital Humanities Lab funds projects that require different levels of programming expertise. If you would like to be considered for one of these positions when they open up, please <a href='mailto:dhlab@yale.edu'>email the DHLab</a> your resume/CV, along with a brief statement of interest.</p>
+      <strong>Digital Humanities Lab Project Assistants</strong>
+      <p>Throughout the year, Yale Digital Humanities Lab funds projects that require different levels of humanities and programming expertise. If you would like to be considered for one of these positions when they open up, please <a href='mailto:dhlab@yale.edu'>email the DHLab</a> your resume/CV, along with a brief statement of interest. For any current openings, visit the "Open Calls" section at the bottom of the page.</p>
 
       <strong>Digital Scholarship Services Consultants</strong>
       <p>Yale Digital Scholarship Services—which includes the Digital Humanities Lab and StatLab—hires graduate students annually to join our team as Digital Scholarship consultants. Whether you use machine learning to find aesthetic patterns in 18th-century paintings, interactive data visualizations to track instances of textual reuse in Classical literature, or big data technologies to identify systemic drivers of gene expression, we want to hear from you.</p>

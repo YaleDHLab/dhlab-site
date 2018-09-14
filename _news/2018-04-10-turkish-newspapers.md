@@ -9,7 +9,7 @@ categories:
   - Student Jobs
   - Opportunities
 image_layout: simple
-<!--status: fulfilled-->
+status: fulfilled
 teaser: |
   Scrape op-eds from 15-20 Turkish newpsapers, dating between April 2012 - September 2017.
 ---
