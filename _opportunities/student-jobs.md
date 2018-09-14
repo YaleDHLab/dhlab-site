@@ -22,7 +22,7 @@ class: hide-color-hr
       %}
 
       <strong>Digital Humanities Lab Project Assistants</strong>
-      <p>Throughout the year, Yale Digital Humanities Lab funds projects that require different levels of humanities and programming expertise. If you would like to be considered for one of these positions when they open up, please <a href='mailto:dhlab@yale.edu'>email the DHLab</a> your resume/CV, along with a brief statement of interest. For any current openings, visit the "Open Calls" section at the bottom of the page.</p>
+      <p>Throughout the year, the Yale Digital Humanities Lab funds projects that require different levels of humanities and programming expertise. If you would like to be considered for one of these positions when they open up, please <a href='mailto:dhlab@yale.edu'>email the DHLab</a> your resume/CV, along with a brief statement of interest. For any current openings, visit the "Open Calls" section at the bottom of the page.</p>
 
       <strong>Digital Scholarship Services Consultants</strong>
       <p>Yale Digital Scholarship Services—which includes the Digital Humanities Lab and StatLab—hires graduate students annually to join our team as Digital Scholarship consultants. Whether you use machine learning to find aesthetic patterns in 18th-century paintings, interactive data visualizations to track instances of textual reuse in Classical literature, or big data technologies to identify systemic drivers of gene expression, we want to hear from you.</p>
