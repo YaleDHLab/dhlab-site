@@ -8,6 +8,7 @@ caption: ""
 categories:
   - Student Jobs
   - Opportunities
+status: fulfilled
 image_layout: simple
 teaser: |
   Apply to be a Digital Humanities Teaching Fellow for the 2018 Fall semester.

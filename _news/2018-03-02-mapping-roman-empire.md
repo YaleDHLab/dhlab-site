@@ -9,8 +9,8 @@ caption: ""
 categories:
   - Student Jobs
   - Opportunities
+status: fulfilled
 image_layout: simple
-<!--status: fulfilled-->
 teaser: |
   Map refugees in the Roman Empire by helping to integrate data from ancient sources on the forced migration and resettlment of peoples into the Roman Empire in the period between 200 BCE and 800 CE.
 ---
