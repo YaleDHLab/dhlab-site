@@ -74,6 +74,6 @@ A survey of literature's role in anticipating and constructing potential futures
 ### Literature Seminars: Good Literature
 ENGL 115  
 Ryan Wepler  
-DH Teaching Fellow, Elizabeth Krontiris.
+DH Teaching Fellow, Elizabeth Krontiris  
 
 Exploration of major themes in selected works of literature. Individual sections focus on topics such as war, justice, childhood, sex and gender, the supernatural, and the natural world. Emphasis on the development of writing skills and the analysis of fiction, poetry, drama, and nonfiction prose.  
