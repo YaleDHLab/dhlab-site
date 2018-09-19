@@ -27,7 +27,7 @@ We will focus on gaining an intuitive understanding of the way particular machin
 
 No prior programming experience is required, but attendees are encouraged to bring laptops that have the Anaconda distribution of Python 3.6 installed.
 
-Registration is open to all Yale students, faculty, and staff.
+Registration is open to all Yale students, faculty, and staff. This workshop is being offered as part of the <a href='https://research.computing.yale.edu/' target='_blank'>Yale Center for Research Computing</a> (YCRC) User Group series. 
 
 Instructor: Douglas Duhaime (DHLab)
 
