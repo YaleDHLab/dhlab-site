@@ -6,6 +6,8 @@ alt: View of interface showing tens of thousands of images scattered in a two-di
 caption: >
   View from PixPlot of tens of thousands of images in a two-dimensional projection with similar images clustered together.
 project_url: https://s3-us-west-2.amazonaws.com/lab-apps/pix-plot/index.html
+team:
+  - name: Yale Digital Humanities Lab Team
 categories:
   - Visual Analysis
   - Web Application

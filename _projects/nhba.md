@@ -9,8 +9,6 @@ project_url: https://nhba.yale.edu/
 team:
   - name: Elihu Rubin
     position: American Studies, </br>Yale School of Architecture
-  - name: Digital Humanities Lab
-    position: Staff
 categories:
   - Spatial Analysis
   - Web Application

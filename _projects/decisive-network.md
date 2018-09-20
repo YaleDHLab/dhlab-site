@@ -8,8 +8,6 @@ caption: >
 team:
   - name: Nadya Bair
     position: Yale Digital Humanities Lab; <br/> American Studies
-  - name: Digital Humanities Lab
-    position: Staff
 categories:
   - Network Analysis
   - Spatial Analysis
