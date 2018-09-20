@@ -1,0 +1,61 @@
+news_and_events:
+  categories:
+    - Announcement
+    - Courses
+    - Meetup
+    - Off Campus
+    - Office Hours
+    - Opportunities
+    - Student Jobs
+    - Symposium
+    - Talk
+    - Workshop
+  tags:
+    - Accessibility
+    - Coding
+    - Crowdsourcing
+    - D3
+    - Data Collection
+    - Data Management
+    - Funding
+    - Git
+    - JavaScript
+    - Manuscripts
+    - Network Analysis
+    - Pedagogy
+    - Photographs
+    - Python
+    - R
+    - Race Studies
+    - Sound Analysis
+    - Spatial Analysis
+    - Statistics
+    - Team Members
+    - TEI
+    - Text Analysis
+    - Training
+    - Visual Analysis
+    - User Testing
+    - Visualization
+    - WebGL  
+    - XML
+
+projects:
+  categories:
+    - Crowdsourced Data
+    - Spatial Analysis
+    - Network Analysis
+    - Text Analysis
+    - Visual Analysis
+    - Web Application
+  tags:
+    - Architecture
+    - Archives
+    - Classics
+    - Languages
+    - Linguistics
+    - Literature
+    - Manuscripts
+    - Medieval
+    - Photographs
+    - Virtual Reality
