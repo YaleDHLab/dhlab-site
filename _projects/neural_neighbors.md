@@ -7,10 +7,7 @@ caption: >
   The Meserve-Kunhardt Collection originated as one of the largest private collections of 19th-century photography. With over 73,000 items, the archive is a world-renowned record of America from the Civil War to the Gilded Age. 
 project_url: https://yaledhlab.github.io/neural-neighbors/
 team:
-  - name: Peter Leonard
-    position: Yale Digital Humanities Lab
-  - name: Douglas Duhaime
-    position: Yale Digital Humanities Lab
+  - name: Yale Digital Humanities Lab Team
 categories:
   - Visual Analysis
   - Web Application

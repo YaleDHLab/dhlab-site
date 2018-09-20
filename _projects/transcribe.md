@@ -9,8 +9,7 @@ project_url: http://transcribe.library.yale.edu
 team:
   - name: Lisa Conathan
     position: Beinecke Rare Book and Manuscript Library
-  - name: Peter Leonard
-    position: Yale Digital Humanities Lab
+  - name: Yale Digital Humanities Lab Team
 categories:
   - Crowdsourced Data
   - Web Application

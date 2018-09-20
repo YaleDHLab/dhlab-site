@@ -10,17 +10,10 @@ team:
   - name: Laura Wexler
     position: Women’s, Gender, and Sexuality Studies; <br/>American Studies
   - name: Lauren Tilton
-    position: American Studies
+    position: University of Richmond
   - name: Taylor Arnold
-    position: Statistics
-  - name: Peter Leonard
-    position: Yale Digital Humanities Lab
-  - name: Trip Kirkpatrick
-    position: Center for Teaching and Learning
-  - name: Catherine DeRose
-    position: Yale Digital Humanities Lab
-  - name: Monica Ong Reed
-    position: Yale Digital Humanities Lab
+    position: University of Richmond
+  - name: Yale Digital Humanities Lab Team
 categories:
   - Spatial Analysis
   - Web Application

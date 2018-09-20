@@ -9,8 +9,6 @@ project_url: http://gatheringabuilding.yale.edu
 team:
   - name: Gideon Fink Shapiro
     position: Yale Digital Humanities Lab; <br/> American Studies
-  - name: Digital Humanities Lab
-    position: Staff
 categories:
   - Spatial Analysis
   - Web Application
