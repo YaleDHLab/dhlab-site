@@ -17,4 +17,4 @@ StatLab works with teachers, learners, and researchers at Yale to support data a
 
 ### Center for Science and Social Science Information (CSSSI)
 
-CSSSI offers consultation services to assist in creating the Data Management Plans (DMP) that are required for NEH grant proposals. The DMP Consultation Group at Yale University is made up of librarians and ITS professionals who can help guide you through the process of putting together a plan and finding Yale resources to fulfill data management needs. <br/><a href='https://csssi.yale.edu/data-management-planning-consultation-request' class='color-button' target='_blank'>Make an Appointment</a>
+CSSSI offers consultation services to assist in creating the Data Management Plans (DMP) that are required for NEH grant proposals. The DMP Consultation Group at Yale University is made up of librarians and ITS professionals who can help guide you through the process of putting together a plan and finding Yale resources to fulfill data management needs. <br/><a href='https://web.library.yale.edu/digitalservices' class='color-button' target='_blank'>Make an Appointment</a>
