@@ -2,7 +2,7 @@
 title: Data Resources
 order: 4
 layout: resource
-image: '/assets/images/banners/code.jpg'
+image: '/assets/images/banners/franke-lounge.jpg'
 caption: |
 
 ---

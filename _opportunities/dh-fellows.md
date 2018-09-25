@@ -1,9 +1,10 @@
 ---
 title: DH Fellows Application
 order: 0
-image: '/assets/images/banners/teaching-fellows2.jpg'
+image: '/assets/images/banners/2018-DH-fellows.jpg'
 caption: >
-  Fall 2016 Digital Humanities Teaching Fellows. Photo by Michael Marsland.
+  Fall 2018 Digital Humanities Teaching Fellows. Photo by Mara Lavitt.
+alt: Three Digital Humanities Teaching Fellows (fall 2018) standing in front of special projects cube in the Franke Family Digital Humanities Laboratory.
 
 application_text: >
   Apply now to become one of our Digital Humanities Teaching Fellows.

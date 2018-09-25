@@ -2,8 +2,9 @@
 title: Consultations
 order: 0
 layout: resource
-image: '/assets/images/banners/consultations.jpg'
-caption: |
+image: '/assets/images/banners/franke-consult.jpg'
+caption: Photo by Mara Lavitt.
+alt: Faculty in consultation with digital scholarship staff at DH workstation in the Franke Family Digital Humanities Laboartory.
 
 ---
 

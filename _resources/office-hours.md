@@ -2,9 +2,9 @@
 title: Office Hours
 order: 2
 layout: resource
-image: '/assets/images/banners/office-hours.jpg'
-caption: |
-  Office hours at the Digital Humanities Lab
+image: '/assets/images/banners/franke-screen-talk.jpg'
+caption: DH Office Hours at the Franke Family Digital Humanities Laboratory. Photo by Mara Lavitt.
+alt: Students and staff gathered for student talk at a collaboration screen in the Franke Family Digital Humanities Laboratory.
 ---
 
 Looking to start a digital project but don't know where to begin? Curious about best practices in data visualization or programming? Stop by the Digital Humanities Lab during open Office Hours to chat with our team.
