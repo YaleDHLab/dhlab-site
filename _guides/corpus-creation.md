@@ -2,8 +2,9 @@
 title: Corpus Creation
 subtitle: Collecting Data & Materials
 order: 1
-image: '/assets/images/banners/beinecke.jpg'
-caption: >
+image: '/assets/images/banners/beinecke-ext.jpg'
+caption: Yale Beinecke Rare Book and Manuscript Library.
+alt: Exterior view of the Beinecke Rare Book and Manuscript Library at Yale University.
 teaser: > 
   Corpus creation describes the process of generating the digital data required for a project. Click to read more about the process and ways the lab can help.
 ---

@@ -2,8 +2,9 @@
 title: Project Planning
 subtitle: From Question to Computation
 order: 0
-image: '/assets/images/banners/project-planning.jpg'
-caption: >
+image: '/assets/images/banners/franke-consult2.jpg'
+caption: Photo by Mara Lavitt.
+alt: Two people discussing a project on a laptop seated in the Franke Family Digital Humanities Laboratory.
 teaser: >
   Project planning should take into account the goals and timeline for a project. Click to read more about strategies for articulating goals and also ways that user experience design could help the process.
 ---

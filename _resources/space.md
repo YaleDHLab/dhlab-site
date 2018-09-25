@@ -2,8 +2,8 @@
 title: Space & Equipment
 order: 1
 layout: resource
-image: '/assets/images/banners/franke-plans.jpg'
-caption: Architectural rendering of the forthcoming Digital Humanities Lab in the Franke Family Reading Room, courtesy of Apicella + Bunton Architects, LLC (January 8, 2018).
+image: '/assets/images/banners/franke-grandview.jpg'
+caption: View of the newly renovated Franke Family Digital Humanities Laboratory.
 
 ---
 
