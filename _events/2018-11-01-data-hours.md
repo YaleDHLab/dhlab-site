@@ -3,7 +3,7 @@ title: Data Hours for Humanists
 date: 2018-11-01
 time: 3:00 - 5:00 pm
 location: Digital Humanities Lab
-thumbnail: /assets/images/events/coding-team.jpg
+thumbnail: /assets/images/events/data-help.jpg
 alt: 
 registerurl:
 categories:
