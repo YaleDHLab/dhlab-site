@@ -16,7 +16,7 @@ teaser: >
 ---
 Learn how text mining can offer new insights into early modern literature.
 
-All Yale students, faculty, and staff are invited to attend. This workshop is co-sponsored by the Yale English Department's Renaissance Colloquium and Yale Digital Humanities Laboratory.
+All Yale students, faculty, and staff are invited to attend. This talk is co-sponsored by the Yale English Department's Renaissance Colloquium and Yale Digital Humanities Laboratory.
 
 ### Speaker Bio
 
