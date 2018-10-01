@@ -5,7 +5,7 @@ url: http://dhlab.yale.edu
 future: true
 
 # minify html in production
-minify_html: true
+minify_html: false
 
 # bust cache
 bust_cache: true
