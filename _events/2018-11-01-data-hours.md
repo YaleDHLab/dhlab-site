@@ -27,4 +27,4 @@ Topics up for discussion include but are not limited to:
   - Preparing your data for analysis
   - Visualizing your data with out-of-the-box tools
 
-Organizers: Catherine DeRose (DHLab), Joshua Dull (Digital Scholarship), Barbara Esty (CSSSI), Rich Richie (SML), James Kessenides (SML)
+Organizers: Catherine DeRose (DHLab), Joshua Dull (Digital Scholarship), Barbara Esty (CSSSI), James Kessenides (SML), Rich Richie (SML)
