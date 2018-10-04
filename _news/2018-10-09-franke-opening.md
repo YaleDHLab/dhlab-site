@@ -20,4 +20,8 @@ Once a stately reading room, the new space features the latest computing technol
  
 During the same 10 a.m. to 1 p.m. time frame, visitors are invited to stop by <a href='https://web.library.yale.edu/news/2018/09/library-will-host-open-house-founders-day-oct-9-2018' target='_blank'>20 open house exhibits</a> highlighting different aspects of the Yale libraries set up throughout the Sterling Nave. Several displays focused on the Library’s support of digital scholarship will be in the DHLab, and the Library’s Bibliographical Press — just inside and to the right of the main entrance of Sterling — will host demonstrations on printing as pedagogy.
 
-The event is free and open to the public.
+The whole event is free and open to the public. For more on the DHLab's renovation and opening, visit <a href='https://news.yale.edu/2018/10/04/new-home-yales-digital-humanities-lab-opens-oct-9-sterling-library' target='_blank'>YaleNews</a>.
+
+<!--<img src='{{site.baseurl}}/assets/images/news/franke-open.gif'
+     alt='Gif displaying the transition of Franke from an architectural rendering to a reality'
+     style='float: left; margin-right: 10px; padding-bottom: 10px' />-->
