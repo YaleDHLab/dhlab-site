@@ -1,7 +1,6 @@
 import './js/polyfills/object-includes-polyfill.js';
 import './js/polyfills/string-includes-polyfill.js';
 import './js/navigation.js';
-import './js/footer.js';
 import './js/filters/filter-events.js';
 import './js/filters/filter-projects.js';
 import './js/filters/filter-news.js';
