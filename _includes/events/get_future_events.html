@@ -1,7 +1,6 @@
 {% include events/get_sorted_events.html %}
 
-{% include events/get_filtered_events.html
-  category = include.category %}
+{% include events/get_filtered_events.html category = include.category %}
 
 {% assign future_events = '' | split: '' %}
 {%- capture now %}{{ 'now' | date: '%s' | minus: 86400 }}{% endcapture -%}

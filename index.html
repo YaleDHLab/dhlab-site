@@ -20,7 +20,24 @@ title: Welcome
     </div>
     <div class='home-events-container hide-tablet'>
       {% include events/get_future_events.html %}
-      {% for event in sorted_events reversed limit:3 %}
+
+      {% assign three_events = '' | split: '' %}
+      {% for i in future_events %}
+        {% if three_events.size < 3 %}
+          {% assign three_events = three_events | push: i %}
+        {% endif %}
+      {% endfor %}
+
+      {% for i in sorted_events %}
+        {% if three_events.size < 3 %}
+          {% if forloop.index > three_events.size %}
+            {% assign three_events = three_events | push: i %}
+          {% endif %}
+        {% endif %}
+      {% endfor %}
+      {% assign page_events = three_events | sort: 'date' %}
+
+      {% for event in page_events %}
         <div class='home-event-wrapper'>
           <a href='{{ event.url | prepend: site.baseurl }}' class='hide-tablet'>
             {% assign image_url = event.thumbnail | prepend: site.baseurl %}
@@ -43,7 +60,7 @@ title: Welcome
       {% endfor %}
     </div>
     <div class='mobile'>
-      {% for event in sorted_events reversed limit:3 %}
+      {% for event in page_events %}
         {% include cards/horizontal_card.html item=event %}
       {% endfor %}
     </div>
