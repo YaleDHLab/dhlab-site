@@ -89,7 +89,7 @@ export const filter = (config) => {
     let extant = [];
     elems.forEach((e) => extant.push(e.textContent.trim()))
 
-    _.uniq(options).map((option) => {
+    _.uniq(options).sort().map(option => {
       if (extant.indexOf(option) === -1) {
         let child = document.createElement('option');
         child.setAttribute('value', option);

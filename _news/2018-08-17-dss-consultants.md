@@ -2,9 +2,8 @@
 title: "Become a Digital Scholarship Consultant"
 date: August 17, 2018
 thumbnail: /assets/images/news/office-hours.jpg
-alt: View of the construction underway in the Franke Family Digital Humanities Laboratory
-image: /assets/images/banners/meetup.jpg
 alt: Workshop participants in the lab
+image: /assets/images/banners/meetup.jpg
 caption: ""
 categories:
   - Announcement
@@ -15,7 +14,7 @@ teaser: |
 ---
 **Priority Application Window Closes: Monday, September 17, 2018**
 
-Join our team of Digital Scholarship Consultants and work alongside staff in the Yale Digital Humanities Lab and <a href='http://statlab.yale.edu/' target='_blank'>StatLab</a>! 
+Join our team of Digital Scholarship Consultants and work alongside staff in the Yale Digital Humanities Lab and <a href='http://statlab.yale.edu/' target='_blank'>StatLab</a>!
 
 Whether you use field surveys to predict the outbreak of civil wars, machine learning to find aesthetic patterns in 18th-century paintings, interactive data visualizations to track instances of textual reuse in Classical literature, or big data technologies to identify systemic drivers of gene expression, we want to hear from you. We invite applicants who have experience with data of any kind, from surveys, text, assays, and pixels to networks, experiments, simulations, and audio recordings.
 

@@ -15,7 +15,7 @@
           {% endif %}
           </h2>
         </a>
-        <div class='small-uppercase'>{{ item.date | date: '%b %d' }}</div>
+        <div class='small-uppercase'>{{ item.date | date: '%b %d %Y' }}</div>
         <p>{{ item.content | markdownify | strip_html | truncatewords: 30 | replace_first:'Overview ','' }}</p>
         {% if item.status == 'fulfilled' %}
           <div class='status'>Fulfilled</div>

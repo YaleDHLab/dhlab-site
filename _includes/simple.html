@@ -60,8 +60,10 @@
         {% if page_type == 'projects' %}
           {% include projects/team_members.html page=include.page %}
           <br/>
-          <a href='{{ include.page.project_url }}' target='_blank'
+          {% if include.page.project_url %}
+            <a href='{{ include.page.project_url }}' target='_blank'
               class='color-button'>View Project</a>
+          {% endif %}
         {% endif %}
 
         {% include tags.html page=include.page query_route=page_type %}
