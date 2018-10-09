@@ -16,3 +16,7 @@ Whether you are new to the field and would like to learn more, have an existing 
 **When**: Monday through Thursday (including over the summer) from 2:00 - 3:00 p.m.  
 **Where**: Franke Family Digital Humanities Laboratory on the first floor of Sterling Memorial Library
 **Who**: Everyone in the Yale community, no advanced registration required
+
+In addition to DH Office Hours, specialized support will be available as follows:
+- Mondays at 2:00 p.m. \| Websites and digital exhibits
+- Tuesdays at 2:00 p.m. \| Geographic information systems (GIS) 
