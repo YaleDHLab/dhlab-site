@@ -2,10 +2,10 @@
 title: Text Analysis
 order: 0
 project_category: Text Analysis
-image: '/assets/images/banners/text-mining.jpg'
+image: '/assets/images/banners/text-workshop2.jpg'
 permalink: '/text-analysis/'
 
-caption: >
+caption: Text analysis workshop by guest leturer Anupam Basu. Photo by Monica Ong Reed.
 
 teaser: >
   Text analysis consists of using automated techniques to study patterns in large text collections. Click to read more about text analysis methods and resources.
