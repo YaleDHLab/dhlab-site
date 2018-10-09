@@ -1,8 +1,8 @@
 ---
 title: Workshop Grants
 order: 1
-image: '/assets/images/banners/students-networks.jpg'
-caption: DHLab project collaboration. Photo by Michael Marsland.
+image: '/assets/images/banners/franke-workshop-basu2.jpg'
+caption: Text analysis workshop with guest lecturer Anupam Basu. Photo by Monica Ong Reed.
 <!--deadline: May 25, 2018-->
 application_text: The cycle is currently closed.
 application_url: |

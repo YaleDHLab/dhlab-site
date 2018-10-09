@@ -2,9 +2,9 @@
 title: Workshops
 order: 3
 layout: resource
-image: '/assets/images/banners/workshop.jpg'
+image: '/assets/images/banners/franke-workshop-basu.jpg'
 caption: |
-  Network analysis workshop led by guest instructor Scott Weingart. Photo by Michael Marsland.
+  Text analysis presentation by guest lecturer Anupam Basu. Photo by Monica Ong Reed.
 include_workshops: true
 ---
 The Yale Digital Humanities Lab leads workshops throughout the year on methods and tools related to data collection, cleaning, mining, visualization, and analysis. These workshops are open to all Yale students, faculty, and staff, but sometimes space is limited, so please check to see if registration is required.
