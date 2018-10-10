@@ -1,6 +1,6 @@
 ---
 spotlight_bottom: true
-title: "See the construction leading up to the Franke Family Digital Humanities Laboratory"
+title: "See the construction leading up to the Franke Family DHLab"
 date: June 29, 2018
 thumbnail: /assets/images/news/franke-construction.jpg
 alt: View of the construction underway in the Franke Family Digital Humanities Laboratory
