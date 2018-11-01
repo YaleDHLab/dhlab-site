@@ -10,7 +10,7 @@ alt: Faculty in consultation with digital scholarship staff at DH workstation in
 
 ### Digital Humanities Lab (DHLab)
 
-The DHLab offers individual and group consultations for digital humanities projects at any stage of development. Staff address questions related to best practices, data management, corpus creation, visualizations, digital tools, and more. In addition to scheduled meetings, the DHLab also offers weekly Office Hours as another opportunity to discuss projects or general digital humanities ideas. <br/><a href='https://docs.google.com/forms/d/e/1FAIpQLSe4Lyo8EEdoiTLosfnmOUNEsZZToCD_n7dZ10ypCerw4diJGA/viewform?usp=sf_link' class='color-button' target='_blank'>Make an Appointment</a>
+The DHLab offers individual and group consultations for digital humanities projects at any stage of development. Staff address questions related to best practices for corpus creation, data visualization and analysis, digital tools, and more. In addition to scheduled meetings, the DHLab also offers weekly Office Hours (Monday through Thursday, 2:00 - 3:00 p.m.) as another opportunity to discuss projects or general digital humanities ideas. <br/><a href='https://docs.google.com/forms/d/e/1FAIpQLSe4Lyo8EEdoiTLosfnmOUNEsZZToCD_n7dZ10ypCerw4diJGA/viewform?usp=sf_link' class='color-button' target='_blank'>Make an Appointment</a>
 
 ### StatLab
 
