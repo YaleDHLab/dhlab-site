@@ -10,8 +10,8 @@ categories:
   - Talk
 tags:
   - Spatial Analysis
-  - Text Analysis
   - Visualization
+  - Text Analysis
 permalink: '/nelson/'
 spotlight: false
 image_layout: simple
