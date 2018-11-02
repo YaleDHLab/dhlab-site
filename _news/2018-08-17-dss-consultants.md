@@ -1,4 +1,5 @@
 ---
+status: fulfilled
 title: "Become a Digital Scholarship Consultant"
 date: August 17, 2018
 thumbnail: /assets/images/news/office-hours.jpg
