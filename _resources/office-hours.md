@@ -18,5 +18,6 @@ Whether you are new to the field and would like to learn more, have an existing 
 **Who**: Everyone in the Yale community, no advanced registration required
 
 In addition to DH Office Hours, specialized support will be available as follows:
+- Mondays, Tuesdays, and Wednesdays at 2:00 p.m. \| User experience design and project management
 - Mondays at 2:00 p.m. \| Websites and digital exhibits
 - Tuesdays at 2:00 p.m. \| Geographic information systems (GIS) 
