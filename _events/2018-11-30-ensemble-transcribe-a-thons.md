@@ -22,11 +22,11 @@ You can be a steward of this history by joining the Yale Haas Family Arts Librar
 
 ### Trascribe-a-Thon Sessions
 
-Haas Arts Library, room 119
-*There will also be Yale Rep Trivia for prizes, a hands-on look at original programs from the Arts Library Special Collections, snacks, and more!*
-November 12 from 5:00 - 7:00 p.m.
-November 16 from 3:00 - 5:00 p.m.
+Haas Arts Library, room 119<br/>
+*There will also be Yale Rep Trivia for prizes, a hands-on look at original programs from the Arts Library Special Collections, snacks, and more!*<br/>
+November 12 from 5:00 - 7:00 p.m.<br/>
+November 16 from 3:00 - 5:00 p.m.<br/>
 
-Franke Family Digital Humanities Laboratory
-*Participants can also tour the newly renovated DHLab and explore a digital exhibit created for the 50th Anniversary of Yale Rep*
+Franke Family Digital Humanities Laboratory<br/>
+*Participants can also tour the newly renovated DHLab and explore a digital exhibit created for the 50th Anniversary of Yale Rep*<br/>
 November 30 from 2:00 - 4:00 p.m.
