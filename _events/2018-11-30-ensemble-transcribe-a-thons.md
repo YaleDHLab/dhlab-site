@@ -16,9 +16,9 @@ teaser: >
 ---
 <a href='http://ensemble.yale.edu' target='_blank'>Ensemble@Yale</a> premiered last year with over 12,000 pages of archival programs held by Yale from 1925-2016. It is an experiment that aims to transform historic programs from Yale School of Drama and Yale Repertory Theatre into searchable text through crowdsourced transcription.
 
-With your help transcribing digitized programs, we will be able to answer more questions about Yale’s theatrical history, such as: “what is the most-produced play at Yale?” or “which actors have played Hamlet on our stages?”
+With your help transcribing digitized programs, we will be able to answer more questions about Yale’s theater history, such as: “what is the most-produced play at Yale?” or “which actors have played Hamlet on our stages?”
 
-You can be a steward of this history by joining the Yale Haas Family Arts Library and Digital Humanities Lab for one or more Transcribe-a-thons. All are invited to particiate. Join in person or remotely for some or all of the time.
+You can be a steward of this history by joining the Yale Haas Family Arts Library and Digital Humanities Lab for one or more transcribe-a-thons. All are invited to participate. Join in person or remotely for some or all of the time.
 
 ### Trascribe-a-Thon Sessions
 
