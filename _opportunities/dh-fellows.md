@@ -9,8 +9,8 @@ alt: Three Digital Humanities Teaching Fellows (fall 2018) standing in front of 
 <!--application_text: >
   Apply now to become one of our Digital Humanities Teaching Fellows.-->
 
-application_url: >
-  https://docs.google.com/forms/d/e/1FAIpQLScvKOG9RgwKW5nbzHYHHwG9N_yMeoLpaBH-RNbSB1BH0clenA/viewform?usp=sf_link
+<!--application_url: >
+  https://docs.google.com/forms/d/e/1FAIpQLScvKOG9RgwKW5nbzHYHHwG9N_yMeoLpaBH-RNbSB1BH0clenA/viewform?usp=sf_link-->
 
 deadline: Email the DHLab for more information.
 overview: teaching_fellows
