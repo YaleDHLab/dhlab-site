@@ -28,5 +28,5 @@ November 12 from 5:00 - 7:00 p.m.<br/>
 November 16 from 3:00 - 5:00 p.m.<br/>
 
 Franke Family Digital Humanities Laboratory<br/>
-*Participants can also tour the newly renovated DHLab and explore a digital exhibit created for the 50th Anniversary of Yale Rep*<br/>
+*Participants can also tour the newly renovated DHLab, explore a digital exhibit created for the 50th Anniversary of Yale Rep, and play Yale Rep Trivia for prizes. Snacks will be provided.*<br/>
 November 30 from 2:00 - 4:00 p.m.
