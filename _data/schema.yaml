@@ -56,10 +56,10 @@ _opportunities:
     - title
     - order
     - image
-    - application_url
     - application_text
     - deadline
   optional:
+    - application_url
     - caption
     - class
     - overview

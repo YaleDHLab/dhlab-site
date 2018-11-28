@@ -4,6 +4,9 @@ thumbnail: /assets/images/projects/archive-thumbs/open-the-city-thumb.jpg
 alt: Map projection of New York City
 layout: archive
 funded: true
+team:
+  - name: Amanda Chemeche
+    position: MA student in East Asian Studies <br/>and American Studies
 categories:
   - Spatial Analysis
 tags:
