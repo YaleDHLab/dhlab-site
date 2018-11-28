@@ -56,9 +56,9 @@ _opportunities:
     - title
     - order
     - image
-    - application_text
     - deadline
   optional:
+    - application_text
     - application_url
     - caption
     - class
