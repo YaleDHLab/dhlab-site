@@ -5,13 +5,11 @@ image: '/assets/images/banners/2018-DH-fellows.jpg'
 caption: >
   Fall 2018 Digital Humanities Teaching Fellows. Photo by Mara Lavitt.
 alt: Three Digital Humanities Teaching Fellows (fall 2018) standing in front of special projects cube in the Franke Family Digital Humanities Laboratory.
-
 <!--application_text: >
   Apply now to become one of our Digital Humanities Teaching Fellows.-->
-
+apply_button: hidden
 <!--application_url: >
   https://docs.google.com/forms/d/e/1FAIpQLScvKOG9RgwKW5nbzHYHHwG9N_yMeoLpaBH-RNbSB1BH0clenA/viewform?usp=sf_link-->
-
 deadline: Email the DHLab for more information.
 overview: teaching_fellows
 ---
