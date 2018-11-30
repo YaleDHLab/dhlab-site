@@ -1,5 +1,5 @@
 ---
-title: 'Crazy, Yes. But Not Tiny: Networked #FtM Culture, Identity, &amp; Knowledge Production on Tumblr'
+title: 'Crazy, Yes. But Not Tiny: Networked #FtM Culture, Identity, and Knowledge Production on Tumblr'
 short_title: Knowledge Production on Tumblr Talk
 date: 2016-11-29
 time: 11:30 am - 12:45 pm
