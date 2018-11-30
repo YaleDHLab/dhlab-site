@@ -1,7 +1,7 @@
 ---
 title: Ensemble Transcribe-a-Thons
 date: 2018-11-30
-time: 2:00 pm - 4:00 p.m.
+time: 2:00 - 4:00 p.m.
 location: Digital Humanities Lab
 thumbnail: /assets/images/events/ensemble_web.jpg
 alt: A dancing scene from the Yale Rep Production of The Winter's Tale
