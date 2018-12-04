@@ -4,7 +4,7 @@ order: 0
 image: '/assets/images/banners/2018-DH-fellows.jpg'
 caption: >
   Fall 2018 Digital Humanities Teaching Fellows. Photo by Mara Lavitt.
-alt: Three Digital Humanities Teaching Fellows (fall 2018) standing in front of special projects cube in the Franke Family Digital Humanities Laboratory.
+alt: Three Digital Humanities Teaching Fellows (fall 2018) standing in front of the Special Projects Cube in the Franke Family Digital Humanities Laboratory.
 <!--application_text: >
   Apply now to become one of our Digital Humanities Teaching Fellows.-->
 apply_button: hidden
@@ -39,31 +39,38 @@ overview: teaching_fellows
     <p>Fellows are also expected to attend occasional cohort meetings during the semester. These are opportunities to learn what everyone is doing in their classes and to share any successes or challenges you encounter.</p>
   {% endcapture %}
 
-  {% capture left_text_two %}
-    <p>Which and how digital humanities methods or theories are integrated depends on the scope and goals of the class. Some Fellows introduce out-of-the-box tools to help students map social movements in New Haven, create network graphs of characters in a play, or crowdsource annotations to develop close reading strategies. For other classes, Fellows showcase projects or lead discussions on digital humanities readings that tie into the course topic.</p>
-  {% endcapture %}
-  
   {% capture right_text_one %}
+    <p>Which and how digital humanities methods or theories are integrated depends on the scope and goals of the class.</p>
+
+    <p>Some Fellows introduce out-of-the-box tools to help students:
+    <ul> 
+      <li>map social movements in New Haven,</li> 
+      <li>create network graphs of characters in a play, or</li>
+      <li>crowdsource annotations to develop close reading strategies</li> 
+      <li>perform text mining to study linguistic trends in novels.</li>
+    </ul></p>
+
+    <p>For other classes, Fellows might:   
     <ul>
-      <li>PhD students with a teaching requirement to fulfill are eligible to apply.</li>
-    </ul>
+      <li>showcase projects that tie into the course topic or</li> 
+      <li>lead discussions on digital humanities readings</li> 
+    </ul></p>
   {% endcapture %}
 
   {% capture right_text_two %}
-    <p>If you have a teaching appointment for the next semester and are interested in a Digital Humanities Teaching Fellowship, please email the DHLab for more information.</p>
+    <p>PhD students with a teaching requirement to fulfill are eligible to apply.</p>
+
+    <p>If you have a teaching appointment for the next semester and are interested in a Digital Humanities Teaching Fellowship, please <a href='mailto:dhlab@yale.edu'>email the DHLab</a> for more information.</p>
   {% endcapture %}
 
   {% include text/color_blocks.html
     left_title_one='Responsibilities'
     left_text_one=left_text_one
-    
-    left_title_two='DH in the Classroom'
-    left_text_two=left_text_two
-    
-    right_title_one='Eligibility'
+
+    right_title_one='DH in the Classroom'
     right_text_one=right_text_one
 
-    right_title_two='Application'
+    right_title_two='Eligibility & Application'
     right_text_two=right_text_two
   %}
 </div>
