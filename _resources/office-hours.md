@@ -17,7 +17,8 @@ Whether you are new to the field and would like to learn more, have an existing 
 **Where**: Franke Family Digital Humanities Laboratory, first floor of Sterling Memorial Library  
 **Who**: Everyone in the Yale community, no advanced registration required  
 
-In addition to DH Office Hours, specialized support will be available as follows:
-- Mondays, Tuesdays, and Wednesdays at 2:00 p.m. \| User experience design and project management
+In addition to general DH Office Hours, specialized support will be available as follows for questions on:
+- Mondays, Tuesdays, Wednesdays at 2:00 p.m. \| User experience design and project management
 - Mondays at 2:00 p.m. \| Websites and digital exhibits
 - Tuesdays at 2:00 p.m. \| Geographic information systems (GIS) 
+- Tuesdays at 2:00 p.m. \| Python and R
