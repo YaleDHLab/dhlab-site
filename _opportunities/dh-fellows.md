@@ -45,8 +45,8 @@ overview: teaching_fellows
     <p>Some Fellows introduce out-of-the-box tools to help students:
     <ul> 
       <li>map social movements in New Haven,</li> 
-      <li>create network graphs of characters in a play, or</li>
-      <li>crowdsource annotations to develop close reading strategies</li> 
+      <li>create network graphs of characters in a play,</li>
+      <li>crowdsource annotations to develop close reading strategies, or</li> 
       <li>perform text mining to study linguistic trends in novels.</li>
     </ul></p>
 
