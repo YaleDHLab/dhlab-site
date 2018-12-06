@@ -9,13 +9,14 @@ teaser: >
   Project planning should take into account the goals and timeline for a project. Click to read more about strategies for articulating goals and also ways that user experience design could help the process.
 ---
 
-### Defining Your Project
+### Defining Your Project: A DHLab Toolkit
 
-To get started on a project, it is important to define core project goals with team members and stakeholders. Prioritizing time early on to become familiar with your data set also helps to clarify the project's viability, scope, and constraints. We provide a <a href='{{site.baseurl}}/assets/docs/DH-ProjectPlanning.pdf' target='_blank'><b>Project Planning & Design Guide</b></a> for Rapid Prototyping Grant projects, which gives an overview of how a project might move from big ideas to product implementation and user testing. While not all projects are built the same way, it can help project leaders better understand how to manage resources and expectations to meet their goals within a given timeline.
-
-For help articulating and prioritizing goals, you might look at the Digital Humanities Lab's project toolkit:
+To get started on a project, it is important to define core project goals with team members and stakeholders. Prioritizing time early on to become familiar with your data set also helps to clarify the project's viability, scope, and constraints. 
 
 <ul>
+  <li>
+    <a href='{{site.baseurl}}/assets/docs/DH-ProjectPlanning.pdf' target='_blank'><b>Project Planning & Design Guide</b></a> – This step-by-step guide for Rapid Prototyping Grant projects gives an overview of how a project might move from big ideas to product implementation and user testing. While not all projects are built the same way, it help project leaders better understand how to manage resources and expectations to meet their goals within a given timeline.<br>
+  </li>
   <li>
     <a href='{{site.baseurl}}/assets/docs/DH-LeanCanvas.pdf' target='_blank'><b>Lean Canvas</b></a> – This exercise focuses on establishing the project vision beginning with the high level concepts, the research question, as well as the audience and goals.<br>
   </li>
@@ -23,13 +24,17 @@ For help articulating and prioritizing goals, you might look at the Digital Huma
     <a href='{{site.baseurl}}/assets/docs/DH-User-Analysis.pdf' target='_blank'><b>User Analysis</b></a> – This will walk you through user experience exercises for defining user stories and mapping out the scenarios of their engagement with your content.<br>
   </li>
   <li>
-    <a href='{{site.baseurl}}/assets/docs/DH-Ideation.pdf' target='_blank'><b>Ideation</b></a> – These are designed to translate your user scenarios into a series of sketches that will lay the foundation for the MVP and can be very useful for collaborating with designers and developers. 
+    <a href='{{site.baseurl}}/assets/docs/DH-Ideation.pdf' target='_blank'><b>Ideation</b></a> – These are designed to translate your user scenarios into a series of sketches that will lay the foundation for the MVP and can be very useful for collaborating with designers and developers. Ideation sets the stage for more user-centered design collaboration that delivers wireframe mockups illustrating the "minimum viable product" (MVP), or the minimal set of functionality that completes the project's fundamental requirements.<br>
+  </li>
+  <li>
+    <a href='{{site.baseurl}}/assets/docs/ProjectCharter-RPG.pdf' target='_blank'><b>Project Charter</b></a> – This MVP is a distillation of big ideas into a focused set of production goals and deliverables. It also serves as the basis of the Project Charter, a signed agreement that articulates the production workflow, roles and responsibilities of collaborators, timeline, and budgeting of resources towards these deliverables, and marks the transition of the project from its planning phase to implementation.<br>
+  </li>
+  <li>
+    <a href='{{site.baseurl}}/assets/docs/Project-Close.pdf' target='_blank'><b>Project Closeout</b></a> – The production process includes workflows for design, content, coding and analysis, culminating in a protoype. User testing is one way to assess the prototype's usability. Following final adjustments to the interface, a Project Closeout meeting is an opportunity for all stakeholders to review lessons learned and to articulate the maintenance and long-term sustainability of the project.
   </li>
 </ul>
-
-Those who manage projects for a living often speak of a "minimum viable product" (MVP), or the minimal set of functionality that completes a project's fundamental requirements. The MVP is a distillation of big ideas into a focused set of production goals and deliverables. These become the basis of the <a href='{{site.baseurl}}/assets/docs/ProjectCharter-RPG.pdf' target='_blank'><b>Project Charter</b></a>, a signed agreement that articulates the production workflow, roles and responsibilities of collaborators, timeline, and budgeting of resources towards these deliverables, and marks the transition of the project from its planning phase to implementation. 
-
-The production process includes workflows for design, content, coding and analysis, culminating in a protoype. User testing is one way to assess the prototype's usability. Following final adjustments to the interface, a <a href='{{site.baseurl}}/assets/docs/Project-Close.pdf' target='_blank'><b>Project Closeout</b></a> meeting is an opportunity for all stakeholders to review lessons learned and to articulate the maintenance and long-term sustainability of the project.
+<a href='{{ site.baseurl }}/assets/docs/DH-Project-Toolkit.pdf'
+      class='color-button' target='_blank'>Download Toolkit</a>
 
 For support with project planning and design, please stop by the DHLab during <a href='{{site.baseurl}}/resources/office-hours.html' target='_blank'><b>Office Hours</b></a> to ask questions or try an exercise.
 
