@@ -15,7 +15,7 @@ To get started on a project, it is important to define core project goals with t
 
 <ul>
   <li>
-    <a href='{{site.baseurl}}/assets/docs/DH-ProjectPlanning.pdf' target='_blank'><b>Project Planning & Design Guide</b></a> – This step-by-step guide for Rapid Prototyping Grant projects gives an overview of how a project might move from big ideas to product implementation and user testing. While not all projects are built the same way, it help project leaders better understand how to manage resources and expectations to meet their goals within a given timeline.<br>
+    <a href='{{site.baseurl}}/assets/docs/DH-ProjectPlanning.pdf' target='_blank'><b>Project Planning & Design Guide</b></a> – This step-by-step guide for Rapid Prototyping Grant projects gives an overview of how a project might move from big ideas to product implementation and user testing. While not all projects are built the same way, this can help project leaders better understand how to manage resources and expectations to meet their goals within a given timeline.<br>
   </li>
   <li>
     <a href='{{site.baseurl}}/assets/docs/DH-LeanCanvas.pdf' target='_blank'><b>Lean Canvas</b></a> – This exercise focuses on establishing the project vision beginning with the high level concepts, the research question, as well as the audience and goals.<br>
