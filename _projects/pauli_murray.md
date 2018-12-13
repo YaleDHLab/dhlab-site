@@ -12,7 +12,7 @@ team:
   - name: Vivek Gopalan
     position: 'Role&#58; Software Developer; Major&#58; Computer Science and Statistics & Data Science'
 categories:
-  - Spatial Analysis
+  - Text Analysis
 tags:
   - Archives
 permalink: '/projects/pauli-murray/'
