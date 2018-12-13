@@ -32,3 +32,5 @@ Left: <a href="https://law.yale.edu/yls-today/news/law-school-unveils-pauli-murr
 
 Crystal Feimster's Fall 2017 Long Civil Rights Movement Class Contributors:<br> 
 Annie Nields, Jaster Francis, Anna Milliken, Naiya Speight-Leggett, Henry Screen, Fiona Drenttel, Ayra Sundaram, Branson Rideaux, Lydia Horan, Lakshmi Amin, Ry Walker, Douglas Shao, Bianca Howell, Douglas Shao, Lionel Jin, Natalia Reyes Becerra, Anadee Mobaraki, Richard Mbouombouo, Valentina Guerrero, Max Schlenker, Katheryn Schmechel, Anushree Agrawal, Sasha Lee, Katharine Walls, Leah Smith, Elizabeth Spenst, Daniel Hamidi, Kellyn Kusyk, Elyse VanderWoude, Heeral McGhee
+
+*This project has been supported in part with a Yale Digital Humanities Laboratory DH Fellowship and Seed Grant.*
