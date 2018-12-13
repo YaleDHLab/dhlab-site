@@ -6,7 +6,7 @@ layout: archive
 funded: true
 team:
   - name: Amanda Joyce Hall
-    position: PhD student in the Department of History and African American Studies
+    position: 'Role&#58; Principal Investigator; PhD student in History and African American Studies'
   - name: Kathryn Schmechel
     position: 'Role&#58; Data Analyst; Major&#58; History and Ethnicity, Race and Migration'
   - name: Vivek Gopalan
