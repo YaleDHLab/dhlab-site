@@ -37,25 +37,30 @@ news_and_events:
     - Visual Analysis
     - User Testing
     - Visualization
-    - WebGL  
+    - WebGL
     - XML
 
 projects:
   categories:
     - Crowdsourced Data
-    - Spatial Analysis
+    - Machine Learning
     - Network Analysis
+    - Spatial Analysis
     - Text Analysis
     - Visual Analysis
     - Web Application
   tags:
+    - 3D
     - Architecture
     - Archives
     - Classics
+    - Dance
     - Languages
     - Linguistics
     - Literature
+    - Machine Learning
     - Manuscripts
     - Medieval
+    - Neural Networks
     - Photographs
     - Virtual Reality
