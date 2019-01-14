@@ -24,8 +24,8 @@ overview: teaching_fellows
         category='Opportunities'
         title=page.title
       %}
-
-      <p>Each semester, the Digital Humanities Lab appoints a cohort of Digital Humanities Teaching Fellows to integrate the digital humanities into Yale College classes. These positions provide semester-long support for graduate students to engage with digital humanities methods and theories in a classroom setting. DHLab staff work with Fellows to design digital humanities assignments, arrange access to electronic content, identify digital humanities readings or projects of interest to the class, and provide specialized technical training. Visit the <a href='{{ site.baseurl }}/about/teaching_fellows.html' target='_blank'>DH Teaching Fellows page</a> under "About" to see current and past recipients and their courses.</p>
+      <p>Are you teaching a class this semester? Have you been thinking about incorporating a digital humanities component? Would you like help doing so? If yes, apply for a DH Teaching Fellowship!</p>
+      <p>Each semester, the Digital Humanities Lab appoints a cohort of Digital Humanities Teaching Fellows to integrate the digital humanities into Yale College classes. These positions provide semester-long support for graduate students to engage with digital humanities methods and theories in a classroom setting. DHLab staff work with Fellows to design digital humanities assignments, identify digital humanities readings or projects of interest to the class, and provide specialized technical training. Visit the <a href='{{ site.baseurl }}/about/teaching_fellows.html' target='_blank'>DH Teaching Fellows page</a> under "About" to see current and past recipients and their courses.</p>
     </div>
    </div>
 
