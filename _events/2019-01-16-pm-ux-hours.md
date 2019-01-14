@@ -15,7 +15,10 @@ tags:
 teaser: >
   Have your project scaffolding and user-centered design questions answered during a drop-in Project Management and UX Office Hours.
 ---
-Are you curious about how to plan and manage a digital humanities project from start to finish? What steps are involved in moving from a research question towards project definition, user-centered design, and implementation?
+Have your project scaffolding and user-centered design questions answered during a special drop-in Office Hours. Are you curious about how to plan and manage a digital humanities project from start to finish? What steps are involved in moving from a research question towards project definition, user-centered design, and implementation? We'll tackle these questions and more.
 
-These office hours are a chance to learn methods for design thinking and discuss tools and exercises that are part of the project planning life cycle. Anu Paul (Digital Scholarship
-Project Manager) and Monica Ong Reed (DHLab User Experience Designer) will be available to answer questions.
+This Office Hours session is all about framing digital projects from start to finish. Along with answering questions, we'll look at tools and templates you might adopt for your own workflow.
+
+All are welcome to stop by with questions, whether you already have a project underway or are still in the early stages of conceptualizing your project.
+
+Organizers: Anu Paul (Digital Scholarship Project Manager) and Monica Ong Reed (DHLab User Experience Designer)
