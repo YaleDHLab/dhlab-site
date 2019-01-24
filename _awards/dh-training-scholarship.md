@@ -4,8 +4,9 @@ order: 2
 image: '/assets/images/banners/campus.jpg'
 caption: Photo by Michael Marsland.
 overview: training_scholarship
-deadline: The cycle is currently closed.
-apply_button: hidden
+deadline: Awards will be granted on a rolling basis until funds are exhausted.
+<!--apply_button: hidden-->
+application_url: https://docs.google.com/forms/d/e/1FAIpQLSd19vYL9ny8NSUroCHykeK1ip2-Xz2RnpWXZZoXQZWY9VFBXQ/viewform?usp=sf_link
 <!--application_text: Apply for a training scholarship to attend a DH workshop.-->
 class: hide-color-hr
 
@@ -33,6 +34,7 @@ Below is a sample of the workshops that previous recipients have attended. Many 
   </ul>
 </ul>
 <ul>
+  <li><a href='http://web.sas.upenn.edu/dream-lab/' target='_blank'>Digital Resources and Methods (DReAM)</a></li>
   <li><a href='https://digital.humanities.ox.ac.uk/dhoxss/' target='_blank'>Digital Humanities @ Oxford (DHOxSS)</a></li>
   <li><a href='https://www.uoguelph.ca/arts/dhguelph' target='_blank'>DH @ Guelph</a></li>
   <li><a href='https://www.uni-trier.de/index.php?id=1175&L=2' target='_blank'>Trier Digital Humanities Autumn School</a></li>
