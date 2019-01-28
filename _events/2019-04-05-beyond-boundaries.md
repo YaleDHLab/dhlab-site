@@ -22,7 +22,7 @@ teaser: >
 What can virtual reality technologies reveal about poetry? How might the code we write contribute to society? For these questions and many more, join us for the fourth annual Beyond Boundaries symposium, a half-day event organized around hybrid scholarship at Yale.
 
 Beyond Boundaries will be hosted in the newly renovated Franke Family Digital Humanities Lab and will feature the work of Yale undergraduates, graduate students, faculty, postdoctoral associates, and staff on topics ranging from computer-generated
-models and data mining to literary maps that track characters over the course of a novel.
+models and text mining to maps and interactive visual representations of data.
 
 <strong>If you are interested in presenting a poster (digital or physical) or giving a 7-minute lightning talk at the event, please <a href='https://docs.google.com/forms/d/e/1FAIpQLSeTuMU5uVcURVlvH9BXrCtiIN5jfitKBxSRVtZPslQpOzHQzQ/viewform' target='_blank'>submit a brief description</a> of your project by Friday, February 15.</strong>
 
