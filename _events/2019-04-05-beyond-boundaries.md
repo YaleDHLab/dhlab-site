@@ -17,9 +17,9 @@ tags:
   - Pedagogy
 permalink: '/bb2019/'
 teaser: >
-  What can virtual reality technologies reveal about poetry? How does the code we write contribute to society? For these questions and many more, join us for the fourth annual Beyond Boundaries symposium, a half-day event organized around hybrid scholarship at Yale.
+  What can virtual reality technologies reveal about poetry? How might the code we write contribute to society? For these questions and many more, join us for the fourth annual Beyond Boundaries symposium, a half-day event organized around hybrid scholarship at Yale.
 ---
-What can virtual reality technologies reveal about poetry? How does the code we write contribute to society? For these questions and many more, join us for the fourth annual Beyond Boundaries symposium, a half-day event organized around hybrid scholarship at Yale.
+What can virtual reality technologies reveal about poetry? How might the code we write contribute to society? For these questions and many more, join us for the fourth annual Beyond Boundaries symposium, a half-day event organized around hybrid scholarship at Yale.
 
 Beyond Boundaries will be hosted in the newly renovated Franke Family Digital Humanities Lab and will feature the work of Yale undergraduates, graduate students, faculty, postdoctoral associates, and staff on topics ranging from computer-generated
 models and data mining to literary maps that track characters over the course of a novel.
