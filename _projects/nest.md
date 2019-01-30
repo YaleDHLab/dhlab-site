@@ -13,9 +13,9 @@ team:
   - name: Liyan Zhao
     position: Digital Humanities Lab
   - name: Ninoslav Adzibaba
-    position: VRH Solutions, Inc.
+    position: VR Habitat, Inc.
   - name: Milan Branezac
-    position: VRH Solutions, Inc.
+    position: VR Habitat, Inc.
   - name: J'Vaughn Johnson
     position: Yale ITS
   - name: Chao Hang Lu
@@ -40,13 +40,13 @@ permalink: '/projects/nest/'
  
 While the Hudson House has always been a private space, this project provides, through a website highlighting Ashbery’s creation of each room (including photographs, biographical details, archival records, and audio clips of Ashbery and his partner, David Kermani, discussing each room), both crucial documentation and an experience of how he has used and imagined the home. Links to related poetic texts demonstrate how deeply objects and houses have resonated in Ashbery’s artistic life. 
 
-Using new virtual reality technologies to explore rooms and interact with objects inside the house, this project—which begins with a prototype view of the Center Hall—enables users to experience the intimacy of being in "the middle of things," a reality that echoes in Ashbery’s greatest poems.  
+Using new virtual reality technologies to explore rooms and interact with objects inside the house, *Nest* enables users to experience the intimacy of being in "the middle of things," a reality that echoes in Ashbery’s greatest poems.  
 
-A collaboration by the Yale Digital Humanities Lab, VRH Solutions, and Yale ITS, each room will include 360-degree photography, panoramas, and still photography. A viewer will be able to:
+A collaboration with Karin Roffman, the Yale Digital Humanities Lab, VR Habitat, and Yale ITS, *Nest* launched in 2017 with a prototype of the Center Hall. The site has since been expanded, with visitors now able to:
 
-* move through each room and view objects closely
-* listen to audio of John Ashbery and David Kermani discussing the provenance of objects
+* move through 14 rooms and engage with 232 objects
+* listen to more than 200 audio interview excerpts featuring John Ashbery, his husband David Kermani, and a dozen other artists and scholars
 * read additional archival information on objects and rooms
-* explore links to related Ashbery's poems to highlight the relationship between physical objects and poetic imagination.
+* explore links to over 100 poems that highlight the relationship between physical objects and poetic imagination.
 
 *This project was funded in part by Yale Digital Humanities Lab Project and Software Development Seed Grants*
