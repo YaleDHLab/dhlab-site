@@ -14,7 +14,7 @@ tags:
 teaser: >
   Celebrate the expansion of *John Ashbery's Nest*, a website and virtual tour of the late American poet's Hudson home, which uses virtual reality technologies to enable users to experience the intimacy of being in “the middle of things,” a reality that echoes in Ashbery’s greatest poems.
 ---
-Celebrate the expansion of *John Ashbery's Nest*, a website and virtual tour of the late American poet's Hudson home. Using virtual reality technologies to explore rooms and interact with objects inside the house, *Nest* enables users to experience the intimacy of being in “the middle of things,” a reality that echoes in Ashbery’s greatest poems. 
+Celebrate the expansion of <a href='http://vr.ashberyhouse.yale.edu/' target='_blank'>*John Ashbery's Nest*</a>, a website and virtual tour of the late American poet's Hudson home. Using virtual reality technologies to explore rooms and interact with objects inside the house, *Nest* enables users to experience the intimacy of being in “the middle of things,” a reality that echoes in Ashbery’s greatest poems. 
 
 A collaboration of the Yale Digital Humanities Lab, VR Habitat, and Yale ITS, *Nest* launched in 2017 with a prototype view of the Center Hall. We are delighted to announce that the site now contains 14 rooms, 232 objects, over 100 poems, and more than 200 audio interview excerpts featuring John Ashbery, his husband David Kermani, and a dozen other artists and scholars.
 
