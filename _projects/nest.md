@@ -3,8 +3,10 @@ title: "John Ashbery's Nest"
 image: /assets/images/projects/originals/nest.jpg
 thumbnail: /assets/images/projects/thumbs/nest-thumb.jpg
 alt: View of the Center Hall of John Ashbery's house
+layout: project
+alt: Virtual tour of Music Room and Library in the home of American poet John Ashbery.
+video: /assets/images/projects/originals/nest.mp4
 caption: >
-  View into the center hall of the home of legendary American poet John Ashbery.
 team:
   - name: Karin Roffman
     position: Humanities, English, American Studies, Principal Investigator
