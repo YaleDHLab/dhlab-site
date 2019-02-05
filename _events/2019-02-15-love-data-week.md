@@ -3,7 +3,7 @@ title: "Love Data Week: Reading Romeo and Juliet as a Network Graph"
 date: 2019-02-15
 time: 10:30 - 11:30 a.m.
 location: Franke Family Digital Humanities Laboratory
-thumbnail: /assets/images/events/networks2.jpg
+thumbnail: /assets/images/events/love-data_web.jpg
 alt: An abstract network diagram
 registerurl: http://schedule.yale.edu/event/5133638
 categories:
