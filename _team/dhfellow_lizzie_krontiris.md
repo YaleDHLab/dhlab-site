@@ -4,6 +4,7 @@ role: DH Fellow
 image: /assets/images/about/dhfellow_krontiris.jpg
 order: 3
 group: teaching_fellow
+render: false
 ---
 Lizzie Krontiris is a PhD candidate in Political Science, writing her dissertation on Hannah Arendt. She also teaches introductory academic writing in the English department and works on graduate student teaching development with Yale's Center for Teaching and Learning.
 
