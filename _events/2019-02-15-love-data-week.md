@@ -14,7 +14,7 @@ tags:
 teaser: >
   Celebrate Love Data Week with an information session on Gephi, free online software for generating network graphs. During this session, we'll look at what Gephi is capable of using character interactions in *Romeo and Juliet* as our dataset. 
 ---
-Celebrate Love Data Week with an information session on Gephi, free online software for generating network graphs. During this session, we'll look at what Gephi is capable of using character interactions in *Romeo and Juliet* as our dataset. 
+Celebrate Love Data Week with an information session on Gephi, free online software for generating network graphs. During this session, we'll look at what Gephi is capable of by using character interactions in *Romeo and Juliet* as our dataset. 
 
 Questions we'll explore include: how can we turn a play into a network—and what is lost and gained in the process? what can networks tell us about the development of character relationships over time? and how might we use networks to study subcommunities within a literary text?
 
