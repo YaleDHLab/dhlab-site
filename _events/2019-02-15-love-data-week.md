@@ -12,7 +12,7 @@ tags:
   - Network Analysis
   - Visualization
 teaser: >
-  Celebrate Love Data Week with an information session on Gephi, free online software for generating network graphs. During this session, we'll look at what Gephi is capable of using character interactions in *Romeo and Juliet* as our dataset. 
+  Celebrate Love Data Week with an information session on Gephi, free online software for generating network graphs. During this session, we'll look at what Gephi is capable of by using character interactions in *Romeo and Juliet* as our dataset. 
 ---
 Celebrate Love Data Week with an information session on Gephi, free online software for generating network graphs. During this session, we'll look at what Gephi is capable of by using character interactions in *Romeo and Juliet* as our dataset. 
 
