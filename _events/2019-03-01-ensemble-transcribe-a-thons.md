@@ -1,5 +1,5 @@
 ---
-title: "Ensemble: Transcribe Yale's Theatrical History"
+title: "Ensemble Transcribe-a-thons: Record Yale's Theatrical History"
 date: 2019-03-01
 time: 2:00 - 4:00 p.m.
 location: Digital Humanities Lab
@@ -12,11 +12,11 @@ tags:
   - Crowdsourcing
   - Data Collection
 teaser: >
-  Help record Yale's theatrical history by joining the Haas Arts Library and Digital Humanities Lab for one or more of our Ensemble@Yale Transcribe-a-thons.
+  Help record Yale's theatrical history by joining the Haas Arts Library and Digital Humanities Lab for one or more of our Ensemble@Yale Transcribe-a-thons. Premiering in 2017 with over 12,000 pages of archival theater programs, Ensemble@Yale is an experiment that aims to transform historic programs into searchable text through crowdsourced transcription. 
 ---
 Help record Yale's theatrical history by participating in an upcoming *Ensemble@Yale* Transcribe-a-thon. Back by popular demand, we will also have rounds of Yale Drama Trivia at the conclusion of each event.
 
-Premiering in 2017 with over 12,000 pages of archival theater programs held by Yale, spanning 1925-2016, <a href='http://ensemble.yale.edu/' target='_blank'>*Ensemble@Yale*</a> is an experiment that aims to transform historic programs into searchable text through crowdsourced transcription. 
+Premiering in 2017 with over 12,000 pages of archival theater programs that span 1925-2016, <a href='http://ensemble.yale.edu/' target='_blank'>*Ensemble@Yale*</a> is an experiment that aims to transform historic programs into searchable text through crowdsourced transcription. 
 
 With your help, we will be able to answer questions about Yale’s theatrical history, such as: “what is the most-produced play at Yale?” or “which actors have played Hamlet on our stages?” With more transcriptions, we will also be able to create network visualizations that more comprehensively represent the history of Yale theater.
 
