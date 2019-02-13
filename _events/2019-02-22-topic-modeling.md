@@ -18,6 +18,6 @@ Discover latent topics across hundreds of texts! This workshop will guide partic
 
 Participants who wish to follow along for the hands-on component should bring a laptop with the <a href='https://www.anaconda.com/distribution/' target='_blank'>Anaconda distribution of Python 3</a> installed. We will be executing code from a Jupyter notebook. No prior Python experience is required. For help installing Anaconda, stop by the DHLab's Office Hours Monday through Thursday from 2:00-3:00pm.
 
-This workshop is open to all Yale students, faculty, and staff, but registration is required. To register, please visit the <a href='http://schedule.yale.edu/event/5144061' target='_blank'>YUL Instruction calendar</a>.
+This workshop is open to all Yale students, faculty, and staff, but space is limited. To register, please visit the <a href='http://schedule.yale.edu/event/5144061' target='_blank'>YUL Instruction calendar</a>.
 
 Instructors: Douglas Duhaime (DHLab) and Joshua Dull (Digital Scholarship)
