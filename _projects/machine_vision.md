@@ -1,8 +1,8 @@
 ---
 browsable: false
 title: Machine Vision
-image:
-thumbnail:
+image: ''
+thumbnail: ''
 alt:
 caption:
 project_url:
@@ -13,7 +13,6 @@ categories:
   - Visual Analysis
 tags:
   - Photographs
-  - Visualization
 dhlab_project: true
 permalink: '/projects/machine-vision/'
 ---
