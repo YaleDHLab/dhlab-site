@@ -5,9 +5,11 @@ title: Projects
 ---
 
 {% for project in site.projects %}
-  {% if project.featured %}
-    {% assign featured_project = project %}
-  {% endif %}
+  {% unless project.browsable == false %}
+    {% if project.featured %}
+      {% assign featured_project = project %}
+    {% endif %}
+  {% endunless %}
 {% endfor %}
 
 {% assign image_url = featured_project.image | prepend: site.baseurl %}
@@ -23,7 +25,7 @@ title: Projects
 {% assign projects = '' | split: '' %}
 {% assign n_projects = 0 %}
 {% for project in site.projects %}
-  {% unless project.featured or project.funded or project.layout == 'archive' %}
+  {% unless project.featured or project.funded or project.layout == 'archive' or project.browsable == false %}
     {% assign n_projects = n_projects | plus: 1 %}
     {% assign projects = projects | push: project %}
   {% endunless %}
@@ -50,7 +52,7 @@ title: Projects
 
   <div class='projects-container' role='main' id='dhlab-projects'></div>
   {% assign items = site.projects | where: 'layout', 'archive' %}
-  
+
   <h3>Digital Scholarship @ Yale</h3>
   <hr>
 
