@@ -13,10 +13,11 @@ tags:
   - Neural Networks
   - Photographs
 team:
-  - name: Yale Digital Humanities Laboratory Team
-  - name: Smithsonian Institution Team
+  - name: Yale Digital Humanities Laboratory
+  - name: Smithsonian Institution
 permalink: '/machine-vision/'
 ---
+<span style='color:#87AFC7'>*Data Ethics • Deep Learning • Perceptual Hashing • Convolutional Neural Networks • Semantic Segmentation • International Image Interoperability Framework • Neural Style Transfer • Data Science • Generative Adversarial Networks • Visualization • Variational Autoencoders • Manifold Learning • Transfer Learning • Computer-Assisted Curation • Computer Vision • Automated Captioning • Dimensionality Reduction • Culturally-Sensitive Data*</span>
 
 ### Overview
 
@@ -34,10 +35,10 @@ Space is limited for the event and open to invited participants only. Please <a 
 - Laura Wexler (Women’s, Gender, and Sexuality Studies;
 American Studies, Yale)
 
-### Full Schedule
+### Full Schedule  
 *forthcoming*
 
-### Logistics
+### Logistics  
 - Date: April 26, 2019
 - Time: 10:00 a.m. – 4:00 p.m.
 - Location: Franke Family Digital Humanities Laboratory, Sterling Memorial Library, 120 High Street, New Haven, CT
