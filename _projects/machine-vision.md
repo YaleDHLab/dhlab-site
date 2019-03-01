@@ -1,9 +1,10 @@
 ---
 browsable: false
 title: Machine Vision for Cultural Heritage & Natural Science Collections
-thumbnail: /assets/images/projects/originals/bodies.png
-alt:
-video: /assets/images/projects/originals/dance.mp4
+image: /assets/images/projects/originals/yale-smithsonian-banner.jpg
+thumbnail: /assets/images/projects/originals/yale-smithsonian-banner.jpg
+alt: Collage of cultural heritage images, including photographs, paintings, and sculptures
+<!--video: /assets/images/projects/originals/dance.mp4-->
 project_url:
 categories:
   - Machine Learning
