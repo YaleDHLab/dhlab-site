@@ -1,6 +1,6 @@
 ---
 title: "PixPlot nominated for DH Award"
-date: January 25, 2019
+date: February 22, 2019
 thumbnail: /assets/images/news/pix-plot.jpg
 alt: Nineteenth-century photographs grouped by visual similarity
 caption: ""
