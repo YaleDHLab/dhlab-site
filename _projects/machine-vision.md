@@ -28,7 +28,9 @@ The mass digitization of visual collections, on the order of hundreds of thousan
 
 Existing practices of cataloging and description can be augmented by recent advancements in machine vision – and human expertise can likewise guide the development of future algorithms for the humanities and sciences alike. This event brings together scholars and curators from both institutions for conversations, demonstrations, and future partnerships.
 
-Space is limited for the event and open to invited participants only. Please <a href='http://schedule.yale.edu/event/5208477' target='_blank'>register</a> by April 1, 2019 to confirm your attendance.
+Space is limited for the event and open to invited participants only. 
+
+**Please <a href='http://schedule.yale.edu/event/5208477' target='_blank'>register</a> by April 1, 2019 to confirm your attendance.**
 
 ### Keynote Speakers
 - [Rebecca Dikow](https://datascience.si.edu/people/dr-rebecca-dikow) ([Data Science Lab](https://datascience.si.edu), Smithsonian Institution)
