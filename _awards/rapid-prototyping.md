@@ -5,10 +5,9 @@ image: '/assets/images/banners/franke-student.jpg'
 caption: View of the special projects cube in the Digital Humanities Laboratory. Photo by Mara Lavitt.
 alt: View of the students and staff collaborating in the newly renovated Franke Family Digital Humanities Laboratory.
 overview: rapid_prototyping_grant
-
+deadline: Friday, May 3, 2019
 application_url: |
   https://docs.google.com/forms/d/e/1FAIpQLSdsJ0M25-weuPkSrUzn2NHI30ewtov7VE10cp-nRFrfcEwLNw/viewform?usp=sf_link
-
 class: hide-left-hr
 
 ---
