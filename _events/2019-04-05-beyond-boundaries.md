@@ -17,9 +17,9 @@ tags:
   - Pedagogy
 permalink: '/bb2019/'
 teaser: >
-  What can virtual reality technologies reveal about poetry? How might the code we write contribute to society? For these questions and many more, join us for the fourth annual Beyond Boundaries symposium, a half-day event organized around hybrid scholarship at Yale.
+  What can machine vision techniques help us discover in photographic archives? How might the code we write contribute to society? What do literature and physics have in common? For these questions and many more, join us for the fourth annual Beyond Boundaries symposium, a half-day event organized around hybrid scholarship at Yale.
 ---
-What can virtual reality technologies reveal about poetry? How might the code we write contribute to society? For these questions and many more, join us for the fourth annual Beyond Boundaries symposium, a half-day event organized around hybrid scholarship at Yale.
+What can machine vision techniques help us discover in photographic archives? How might the code we write contribute to society? What do literature and physics have in common? For these questions and many more, join us for the fourth annual Beyond Boundaries symposium, a half-day event organized around hybrid scholarship at Yale.
 
 Beyond Boundaries will be hosted in the newly renovated Franke Family Digital Humanities Lab and will feature the work of Yale undergraduates, graduate students, faculty, postdoctoral associates, and staff on topics ranging from computer-generated
 models and text mining to maps and interactive visual representations of data.
@@ -45,6 +45,12 @@ Presentations by undergraduate and graduate students
 
 ### 3:00 - 4:00 p.m. | Roundtable Discussion
 Presentations by faculty and staff on the benefits and challenges digital methods pose for research and teaching
+
+- Philip Corlett and Jane Garrison, Psychiatry
+- Alice Kaplan and Christophe Schuwey, French
+- Peter Leonard, Digital Humanities Lab
+- Tiffany Li, Law
+- Joseph Zinter, School of Engineering, Center for Engineering Innovation & Design
 
 ### 4:00 - 4:05 p.m. | Closing Remarks
 Susan Gibbons, Stephen F. Gates ’68 University Librarian and Deputy Provost for Libraries & Scholarly Communication
