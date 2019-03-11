@@ -50,7 +50,7 @@ Presentations by faculty and staff on the benefits and challenges digital method
 - Alice Kaplan and Christophe Schuwey, French
 - Peter Leonard, Digital Humanities Lab
 - Tiffany Li, Law
-- Joseph Zinter, School of Engineering, Center for Engineering Innovation & Design
+- Joseph Zinter, Engineering and Applied Science, Center for Engineering Innovation & Design
 
 ### 4:00 - 4:05 p.m. | Closing Remarks
 Susan Gibbons, Stephen F. Gates ’68 University Librarian and Deputy Provost for Libraries & Scholarly Communication
