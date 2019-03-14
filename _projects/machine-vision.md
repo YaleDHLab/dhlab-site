@@ -38,8 +38,15 @@ Space is limited for the event and open to invited participants only.
 - [Laura Wexler](https://americanstudies.yale.edu/people/laura-wexler) (Women’s, Gender, and Sexuality Studies;
 American Studies, Yale)
 
-### Full Schedule  
-*forthcoming*
+### Speakers  
+*Full Schedule forthcoming*
+
+- [Peter Leonard](http://pleonard.net) (DHLab, Yale): Machine Vision, Human Gaze: Visual Culture Computation at the Yale DHLab
+- Jacob Kim (Hirshhorn, Smithsonian Institution): Hirshhorn Eye
+- [Douglas Duhaime](http://douglasduhaime.com) (DHLab, Yale)
+- [Alex White](http://alexwhitebiology.com) (NMNH & Data Science Lab, Smithsonian Insitution)
+- [Stephen Krewson](http://www.stephenkrewson.net) (English, Yale): Mining the Medical Heritage Library
+
 
 ### Logistics  
 - Date: April 26, 2019
