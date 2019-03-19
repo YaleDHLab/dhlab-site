@@ -41,10 +41,10 @@ American Studies, Yale)
 ### Speakers  
 *Full Schedule forthcoming*
 
-- [Peter Leonard](http://pleonard.net) (DHLab, Yale): *Machine Vision, Human Gaze: Visual Culture Computation at the Yale DHLab*
-- Jacob Kim (Hirshhorn, Smithsonian Institution): Hirshhorn Eye
+- [Peter Leonard](http://pleonard.net) (DHLab, Yale): *Visual Culture Computation at the Yale DHLab*
+- Jacob Kim (Hirshhorn, Smithsonian Institution): *Hirshhorn Eye: Activating Artworks using Machine Vision*
 - [Douglas Duhaime](http://douglasduhaime.com) (DHLab, Yale)
-- [Alex White](http://alexwhitebiology.com) (NMNH & Data Science Lab, Smithsonian Insitution)
+- [Alex White](http://alexwhitebiology.com) (NMNH & Data Science Lab, Smithsonian Insitution): *Deep learning, biogeography, and the evolution of plant shapes*
 - [Catherine DeRose](http://www.catherinederose.com) (DHLab, Yale): *Neural Style Transfer*
 - [Stephen Krewson](http://www.stephenkrewson.net) (English, Yale): *Mining the Medical Heritage Library*
 
