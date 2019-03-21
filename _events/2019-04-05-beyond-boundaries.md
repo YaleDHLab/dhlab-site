@@ -19,14 +19,14 @@ permalink: '/bb2019/'
 teaser: >
   What can machine vision techniques help us discover in photographic archives? How might the code we write contribute to society? What do literature and physics have in common? For these questions and many more, join us for the fourth annual Beyond Boundaries symposium, a half-day event organized around hybrid scholarship at Yale.
 ---
-What can machine vision techniques help us discover in photographic archives? How might the code we write contribute to society? What do literature and physics have in common? For these questions and many more, join us for the fourth annual Beyond Boundaries symposium, a half-day event organized around hybrid scholarship at Yale.
+What can machine vision techniques help us discover in photographic archives? How might the code we write contribute to society? What do literature and physics have in common? To answer these questions and many more, join us for the fourth annual Beyond Boundaries, a half-day symposium organized around hybrid scholarship at Yale.
 
 Beyond Boundaries will be hosted in the newly renovated Franke Family Digital Humanities Lab and will feature the work of Yale undergraduates, graduate students, faculty, postdoctoral associates, and staff on topics ranging from computer-generated
 models and text mining to maps and interactive visual representations of data.
 
 For last year's presentations, see the <a href='https://www.youtube.com/watch?v=IL3N4DAbcaA' target='_blank'>video recordings</a>.
 
-Beyond Boundaries is organized by the Yale Digital Humanities Laboratory, Yale Code4Good, and Yale STEAM. The symposium is open to the whole campus community and public. No advance registration is required.
+Beyond Boundaries is organized by the Yale Digital Humanities Laboratory, Yale Code4Good, and Yale STEAM and sponsored by the Poorvu Center for Teaching and Learning. The symposium is open to the whole campus community and public. No advance registration is required.
 
 <br />
 
