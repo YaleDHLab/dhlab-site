@@ -40,6 +40,13 @@ Peter Leonard, Director of the Digital Humanities Lab
 
 ### 2:00 - 3:00 p.m. | Lightning Talks
 Presentations by undergraduate and graduate students
+- Frances Fagan (Undergraduate Student, Political Science) "Utilitarian Utopias: Public Libraries as Key Policy Partners for Integration and Skills-Training Programs"
+- Amanda Joyce Hall (PhD Student, History and African American Studies) "Pauli Murray: A Digiography"
+- Tyler Lutz (PhD Student, Physics) "Science in Fiction: Modern Physics as Mirror and Muse"
+- Mariel Pettee (PhD Student, Physics) "Generative and Variational Choreography via Machine Learning"
+- Lisa Qian (Undergraduate Student, Economics and Multidisciplinary Academic Program in Human Rights) "Lived Experience as a Theory of Innovation"
+- Zen Tang (Undergraduate Student, Statistics & Data Science) "Statistics and Democracy"
+- Keniel Yao (Undergraduate Student, Statistics & Data Science) "Virtual Politics: A Case Study of Reddit"
 
 ### 3:00 - 4:00 p.m. | Roundtable Discussion
 Presentations by faculty and staff on the benefits and challenges digital methods pose for research and teaching
@@ -55,3 +62,12 @@ Susan Gibbons, Stephen F. Gates ’68 University Librarian and Deputy Provost fo
 
 ### 4:05 - 5:00 p.m. | Poster Session
 Showcase of projects by students, postdoctoral associates, faculty, and staff
+
+- Walid Bouchakour, Doyle Calhoun, Abigail Fields, Madison Mainwaring, Anna Salzman, Christophe Schuwey (Professor, French) "One Play, Many Interfaces: Digital Experimentations on the Comédie sans titre (1683)"
+- Azza El Siddique (MFA Student, Sculpture) "Tirhaga" 
+- Adam Erickson (Undergraduate Student, Computer Science)
+- Maya Levin (Undergraduate Student, History of Science, Medicine, & Public Health, and Ecology & Evolutionary Biology) "Slave Ship Medicine: Investigating Drug Manifests of the Middle Passage" 
+- Jonathan Manton (Music Librarian for Digital and Access Services, Gilmore Music Library) "Crowdsourcing metadata for historical sound recordings"
+- Stephen Naron (Director, Fortunoff Archive for Holocaust Testimonies) "Aviary: A New Platform for Engaging with AV Archives"  
+- Nichole Nelson (PhD Student, History) "Story Maps for Historical Research"
+- Lindsay King (Associate Director for Access and Research Services, Robert B. Haas Family Arts Library) and Alex O’Keefe (Kress Fellow in Art Librarianship, Arts Library) “Ensemble@Yale: Getting the Crowd into Crowdsourcing”
