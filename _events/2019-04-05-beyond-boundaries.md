@@ -26,7 +26,7 @@ models and text mining to maps and interactive visual representations of data.
 
 For last year's presentations, see the <a href='https://www.youtube.com/watch?v=IL3N4DAbcaA' target='_blank'>video recordings</a>.
 
-Beyond Boundaries is organized by the Yale Digital Humanities Lab, Yale Code4Good, and Yale STEAM and is open to the whole campus community and public. No advance registration is required.
+Beyond Boundaries is organized by the Yale Digital Humanities Laboratory, Yale Code4Good, and Yale STEAM. The symposium is open to the whole campus community and public. No advance registration is required.
 
 <br />
 
