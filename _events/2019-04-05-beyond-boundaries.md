@@ -45,7 +45,7 @@ Presentations by undergraduate and graduate students
 - Tyler Lutz (PhD Student, Physics) "Science in Fiction: Modern Physics as Mirror and Muse"
 - Mariel Pettee (PhD Student, Physics) "Generative and Variational Choreography via Machine Learning"
 - Lisa Qian (Undergraduate Student, Economics and Multidisciplinary Academic Program in Human Rights) "Lived Experience as a Theory of Innovation"
-- Zen Tang (Undergraduate Student, Statistics & Data Science) "Statistics and Democracy"
+- Zen Tang (Undergraduate Student, Statistics & Data Science) "Organizing Without Oppression: Building Democracies in the 21st Century"
 - Keniel Yao (Undergraduate Student, Statistics & Data Science) "Virtual Politics: A Case Study of Reddit"
 
 ### 3:00 - 4:00 p.m. | Roundtable Discussion
