@@ -68,7 +68,7 @@ Showcase of projects by students, faculty, and staff
 - Azza El Siddique (MFA Student, Sculpture) "Tirhaga" 
 - Adam Erickson (Undergraduate Student, Computer Science) "Visualizing Topic Models"
 - Maya Levin (Undergraduate Student, History of Science, Medicine, & Public Health, and Ecology & Evolutionary Biology) "Slave Ship Medicine: Investigating Drug Manifests of the Middle Passage" 
-- Jonathan Manton (Music Librarian for Digital and Access Services, Gilmore Music Library) "Crowdsourcing metadata for historical sound recordings"
+- Jonathan Manton (Music Librarian for Digital and Access Services, Gilmore Music Library) "Crowdsourcing Metadata for Historical Sound Recordings"
 - Stephen Naron (Director, Fortunoff Archive for Holocaust Testimonies) "Aviary: A New Platform for Engaging with AV Archives" 
 - Nichole Nelson (PhD Student, History) "New Haven Speaks: A Digital Tour of New Haven Buildings and Neighborhoods through Story Maps"
 - Lindsay King (Associate Director for Access and Research Services, Robert B. Haas Family Arts Library) and Alex O’Keefe (Kress Fellow in Art Librarianship, Arts Library) “Ensemble@Yale: Getting the Crowd into Crowdsourcing”
