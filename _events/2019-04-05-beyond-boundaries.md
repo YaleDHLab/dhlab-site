@@ -50,12 +50,12 @@ Presentations by undergraduate and graduate students
 
 ### 3:00 - 4:00 p.m. | Roundtable Discussion
 Presentations by faculty and staff on the benefits and challenges digital methods pose for research and teaching
-
-- Philip Corlett and Jane Garrison, Psychiatry
-- Alice Kaplan and Christophe Schuwey, French
-- Peter Leonard, Digital Humanities Lab
-- Tiffany Li, Law
-- Joseph Zinter, Engineering and Applied Science, Center for Engineering Innovation & Design
+Moderators: Barkley Dai (Statistics & Data Science) and Vivek Gopalan (Computer Science and Statistics & Data Science)
+- Tiffany Li (Law) "The Power I'd Open"
+- Alice Kaplan and Christophe Schuwey (French) "Mapping Postwar Networks: An Index For Combat (1944-1947)"
+- Joseph Zinter (Engineering and Applied Science, Center for Engineering Innovation & Design) "Hacking the Humanities"
+- Peter Leonard (Digital Humanities Lab) "Every Pixel on the Sunset Strip: Ed Ruscha between Archive and Dataset"
+- Philip Corlett and Jane Garrison (Psychiatry) "Network Induced Visual Hallucinations: A Window on Reality Monitoring in the Mind and Brain"
 
 ### 4:00 - 4:05 p.m. | Closing Remarks
 Susan Gibbons, Stephen F. Gates ’68 University Librarian and Deputy Provost for Libraries & Scholarly Communication
@@ -65,7 +65,7 @@ Showcase of projects by students, postdoctoral associates, faculty, and staff
 
 - Walid Bouchakour (PhD Student, French), Doyle Calhoun (PhD Student, French), Abigail Fields (PhD Student, French), Madison Mainwaring (PhD Student, French), Anna Salzman (PhD Student, French), Christophe Schuwey (Professor, French) "One Play, Many Interfaces: Digital Experimentations on the Comédie sans titre (1683)"
 - Azza El Siddique (MFA Student, Sculpture) "Tirhaga" 
-- Adam Erickson (Undergraduate Student, Computer Science)
+- Adam Erickson (Undergraduate Student, Computer Science) "Visualizing Topic Models"
 - Maya Levin (Undergraduate Student, History of Science, Medicine, & Public Health, and Ecology & Evolutionary Biology) "Slave Ship Medicine: Investigating Drug Manifests of the Middle Passage" 
 - Jonathan Manton (Music Librarian for Digital and Access Services, Gilmore Music Library) "Crowdsourcing metadata for historical sound recordings"
 - Stephen Naron (Director, Fortunoff Archive for Holocaust Testimonies) "Aviary: A New Platform for Engaging with AV Archives" 
