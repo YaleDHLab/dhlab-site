@@ -42,7 +42,8 @@ American Studies, Yale)
 *Full Schedule forthcoming*
 
 - [Peter Leonard](http://pleonard.net) (DHLab, Yale): *Visual Culture Computation at the Yale DHLab*
-- Jacob Kim (Hirshhorn, Smithsonian Institution): *Hirshhorn Eye: Activating Artworks using Machine Vision*
+- Jacob Kim (Hirshhorn, Smithsonian Institution) and [Dan Michaelson](http://art.yale.edu/DanMichaelson) (School of Art, Yale): *Hirshhorn Eye: Activating Artworks using Machine Vision*
+- [Monica Ong Reed](http://monicaong.com) (DHLab, Yale): *UX for Visual Similarity* 
 - [Douglas Duhaime](http://douglasduhaime.com) (DHLab, Yale): *Computer Vision and Early Copyright History*
 - [Alex White](http://alexwhitebiology.com) (NMNH & Data Science Lab, Smithsonian Insitution): *Deep learning, biogeography, and the evolution of plant shapes*
 - [Catherine DeRose](http://www.catherinederose.com) (DHLab, Yale): *Neural Style Transfer*
