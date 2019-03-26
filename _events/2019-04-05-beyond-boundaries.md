@@ -40,16 +40,17 @@ Peter Leonard, Director of the Digital Humanities Lab
 
 ### 2:00 - 3:00 p.m. | Lightning Talks
 Presentations by undergraduate and graduate students
+- Zen Tang (Undergraduate Student, Statistics & Data Science) "Organizing Without Oppression: Building Democracies in the 21st Century"
 - Frances Fagan (Undergraduate Student, Political Science) "Utilitarian Utopias: Public Libraries as Key Policy Partners for Integration and Skills-Training Programs"
 - Amanda Joyce Hall (PhD Student, History and African American Studies) "Pauli Murray: A Digiography"
-- Tyler Lutz (PhD Student, Physics) "Science in Fiction: Modern Physics as Mirror and Muse"
-- Mariel Pettee (PhD Student, Physics) "Generative and Variational Choreography via Machine Learning"
-- Lisa Qian (Undergraduate Student, Economics and Multidisciplinary Academic Program in Human Rights) "Lived Experience as a Theory of Innovation"
-- Zen Tang (Undergraduate Student, Statistics & Data Science) "Organizing Without Oppression: Building Democracies in the 21st Century"
 - Keniel Yao (Undergraduate Student, Statistics & Data Science) "Virtual Politics: A Case Study of Reddit"
+- Tyler Lutz (PhD Student, Physics) "Science in Fiction: Modern Physics as Mirror and Muse"
+- Lisa Qian (Undergraduate Student, Economics and Multidisciplinary Academic Program in Human Rights) "Lived Experience as a Theory of Innovation"
+- Mariel Pettee (PhD Student, Physics) "Generative and Variational Choreography via Machine Learning"
 
 ### 3:00 - 4:00 p.m. | Roundtable Discussion
-Presentations by faculty and staff on the benefits and challenges digital methods pose for research and teaching
+Presentations by faculty and staff on the benefits and challenges digital methods pose for research and teaching  
+
 Moderators: Barkley Dai (Statistics & Data Science) and Vivek Gopalan (Computer Science and Statistics & Data Science)
 - Tiffany Li (Law) "The Power I'd Open"
 - Alice Kaplan and Christophe Schuwey (French) "Mapping Postwar Networks: An Index For Combat (1944-1947)"
