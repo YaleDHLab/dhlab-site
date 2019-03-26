@@ -62,7 +62,7 @@ Moderators: Barkley Dai (Statistics & Data Science) and Vivek Gopalan (Computer 
 Susan Gibbons, Stephen F. Gates ’68 University Librarian and Deputy Provost for Libraries & Scholarly Communication
 
 ### 4:05 - 5:00 p.m. | Poster Session
-Showcase of projects by students, postdoctoral associates, faculty, and staff
+Showcase of projects by students, faculty, and staff
 
 - Walid Bouchakour (PhD Student, French), Doyle Calhoun (PhD Student, French), Abigail Fields (PhD Student, French), Madison Mainwaring (PhD Student, French), Anna Salzman (PhD Student, French), Christophe Schuwey (Professor, French) "One Play, Many Interfaces: Digital Experimentations on the Comédie sans titre (1683)"
 - Azza El Siddique (MFA Student, Sculpture) "Tirhaga" 
