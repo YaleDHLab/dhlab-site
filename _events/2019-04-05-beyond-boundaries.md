@@ -64,7 +64,7 @@ Susan Gibbons, Stephen F. Gates ’68 University Librarian and Deputy Provost fo
 ### 4:05 - 5:00 p.m. | Poster Session
 Showcase of projects by students, faculty, and staff
 
-- Walid Bouchakour (PhD Student, French), Doyle Calhoun (PhD Student, French), Abigail Fields (PhD Student, French), Madison Mainwaring (PhD Student, French), Anna Salzman (PhD Student, French), Christophe Schuwey (Professor, French) "One Play, Many Interfaces: Digital Experimentations on the Comédie sans titre (1683)"
+- Walid Bouchakour (PhD Student, French), Doyle Calhoun (PhD Student, French), Abigail Fields (PhD Student, French), Madison Mainwaring (PhD Student, French), Anna Salzman (PhD Student, French), Christophe Schuwey (Professor, French) "One Play, Many Interfaces: Digital Experimentations on the *Comédie sans titre* (1683)"
 - Azza El Siddique (MFA Student, Sculpture) "Tirhaga" 
 - Adam Erickson (Undergraduate Student, Computer Science) "Visualizing Topic Models"
 - Maya Levin (Undergraduate Student, History of Science, Medicine, & Public Health, and Ecology & Evolutionary Biology) "Slave Ship Medicine: Investigating Drug Manifests of the Middle Passage" 
