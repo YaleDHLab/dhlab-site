@@ -36,7 +36,7 @@ Space is limited for the event and open to invited participants only.
 - [Rebecca Dikow](https://datascience.si.edu/people/dr-rebecca-dikow) ([Data Science Lab](https://datascience.si.edu), Smithsonian Institution): *Data-intensive approaches to digitized museum collections*
 - [Holly Rushmeier](http://graphics.cs.yale.edu/site/people/holly-rushmeier) (Computer Science, Yale)
 - [Laura Wexler](https://americanstudies.yale.edu/people/laura-wexler) (Women’s, Gender, and Sexuality Studies;
-American Studies, Yale)
+American Studies, Yale) *“I Am a Camera":  A Brief Photographic History of Machine Vision*
 
 ### Speakers
 *Full Schedule forthcoming*
