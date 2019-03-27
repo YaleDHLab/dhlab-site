@@ -14,6 +14,6 @@ class: hide-left-hr
 
 ### Overview
 
-Rapid Prototyping Grants are for focused design and development interventions to help a project get started or to add an innovative feature to an existing project. <strong>These grants are intended to produce prototypes in the truest sense of the word: something that is the first of its kind and is a working model rather than a production-ready version</strong>. Example project asks include requests for a single view of an interface, a visualization, or high-level mockups.
+Rapid Prototyping Grants support focused design and development interventions to help a digital humanities project get started or to add an innovative feature to an existing project. <strong>These grants are intended to produce prototypes in the truest sense of the word: something that is the first of its kind and is a working model rather than a production-ready system</strong>. Example types of support include requests for a single view of an interface, a visualization, or high-level mockups.
 
 Have a project in mind but not sure if it's a match for these grants? Stop by the DHLab during office hours to discuss with our team!
