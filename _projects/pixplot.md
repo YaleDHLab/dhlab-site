@@ -31,6 +31,15 @@ To visualize the results, we looked to approaches more commonly deployed in 3D g
      alt="View from PixPlot of scattered photographs from the Meserve Kunhardt Collection" 
      style='float: left; margin-right: 10px; padding-bottom: 10px' />
 
-*PixPlot* provides new ways of engaging large-scale visual collections. Initial experiments underway at Yale use the tool to look at thousands of cultural heritage images held in the Beinecke Rare Book & Manuscript Library, Yale Center for British Art, and the Medical Historical Library. 
+### Future Developments
+
+*PixPlot* provides new ways of engaging large-scale visual collections. Initial experiments underway at Yale use the tool to look at thousands of cultural heritage images held in the Beinecke Rare Book & Manuscript Library, Yale Center for British Art, and the Medical Historical Library.  
+
+We're currently working on new enhancements to the software that will include:
+- animations between layouts
+- on-click metadata, with options for filtering
+- annotations
+- high-resolution images
+- single-vertex primitives to enable users to display lots of images!
 
 For more on the underlying code, visit the DHLab's <a href='https://github.com/YaleDHLab/pix-plot' target='_blank'>GitHub repository</a>. The code was authored by Yale Digital Humanities Lab Developer Douglas Duhaime.
