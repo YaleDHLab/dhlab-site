@@ -67,8 +67,8 @@ Showcase of projects by students, faculty, and staff
 - Walid Bouchakour (PhD Student, French), Doyle Calhoun (PhD Student, French), Abigail Fields (PhD Student, French), Madison Mainwaring (PhD Student, French), Anna Salzman (PhD Student, French), Christophe Schuwey (Professor, French) "One Play, Many Interfaces: Digital Experimentations on the *Comédie sans titre* (1683)"
 - Azza El Siddique (MFA Student, Sculpture) "Tirhaga" 
 - Adam G. Erickson (Undergraduate Student, Applied Mathematics) "Exploring Natural Language Time Series with D3 and React.js"
+- Lindsay King (Associate Director for Access and Research Services, Robert B. Haas Family Arts Library) and Alex O’Keefe (Kress Fellow in Art Librarianship, Arts Library) “Ensemble@Yale: Getting the Crowd into Crowdsourcing”
 - Maya Levin (Undergraduate Student, History of Science, Medicine, & Public Health, and Ecology & Evolutionary Biology) "Slave Ship Medicine: Investigating Drug Manifests of the Middle Passage" 
 - Jonathan Manton (Music Librarian for Digital and Access Services, Gilmore Music Library) "Crowdsourcing Metadata for Historical Sound Recordings"
 - Stephen Naron (Director, Fortunoff Archive for Holocaust Testimonies) "Aviary: A New Platform for Engaging with AV Archives" 
 - Nichole Nelson (PhD Student, History) "New Haven Speaks: A Digital Tour of New Haven Buildings and Neighborhoods through Story Maps"
-- Lindsay King (Associate Director for Access and Research Services, Robert B. Haas Family Arts Library) and Alex O’Keefe (Kress Fellow in Art Librarianship, Arts Library) “Ensemble@Yale: Getting the Crowd into Crowdsourcing”
