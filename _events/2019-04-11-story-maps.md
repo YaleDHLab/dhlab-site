@@ -14,7 +14,8 @@ teaser: >
   Create rich multimedia narratives. In this workshop, we'll cover how to use existing Story Maps platforms. Participants will also learn about ArcGIS StoryMaps, a new, next-generation storytelling tool that makes it even easier to create maps and weave them into stories.
 ---
 ### Story Maps: The Basics
-10:00-11:00 a.m. OR 3:00-4:00 p.m.
+10:00-11:00 a.m. OR 3:00-4:00 p.m.  
+
 Story maps, which combine maps and multimedia content to enable web-based storytelling, are an increasingly popular tool for researchers. They’re being used to communicate complicated analyses, final projects, and even visual resumes. In this session, you will learn the ABCs of story maps, including what they are and how their builder functions make it possible to easily create rich multimedia narratives. You will also learn about ArcGIS StoryMaps, a new, next-generation storytelling tool that makes it even easier to create maps and weave them into stories.
 
 ### Story Maps: A Hands-On Workshop
