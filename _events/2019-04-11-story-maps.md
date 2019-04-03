@@ -1,8 +1,8 @@
 ---
 title: Intro to Story Maps
 date: 2019-04-11
-time: 10:00 - 11:30 am
-location: 17 Hillhouse Room 111
+time: 10:00 - 11:30 a.m.
+location: 17 Hillhouse, Room 111
 thumbnail: /assets/images/events/story-maps-laptop.jpg
 alt: 
 registerurl: http://schedule.yale.edu/calendar/instruction/storymaps
