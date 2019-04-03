@@ -25,7 +25,7 @@ Bring your story ideas, and members of Esri’s story maps team will show you, s
 
 Instructors: Allen Carroll (Esri), Ross Donihue (Esri), Esri, and Miriam Olivares (Yale CSSSI)
 
-To register, please visit the<a href='http://schedule.yale.edu/calendar/instruction/storymaps' target='_blank'>YUL Instruction Calendar</a>.
+To register, please visit the <a href='http://schedule.yale.edu/calendar/instruction/storymaps' target='_blank'>YUL Instruction Calendar</a>.
 
 *This workshop is organized in partnership by:
 Center for Science and Social Science Information, Digital Humanities Laboratory, The Spatial Collective, Ucross High Plains Stewardship Initiative, Yale Institute for Biospheric Studies, Yale MacMillan Center, Yale Program on Climate Change Communication*
