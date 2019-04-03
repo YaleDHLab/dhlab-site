@@ -1,7 +1,7 @@
 ---
 title: "Join the Python Working Group"
-date: 2019-03-29
-time: 2:00 - 3:00 pm
+date: 2019-04-12
+time: 2:00 - 3:00 p.m.
 location: Digital Humanities Lab
 thumbnail: /assets/images/events/python2.jpg
 alt: 
