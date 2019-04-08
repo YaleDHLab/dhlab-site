@@ -26,7 +26,7 @@ The Yale-Smithsonian Partnership is holding a one-day event on the topic of mach
 
 The mass digitization of visual collections, on the order of hundreds of thousands or millions of images, creates new challenges for curators and researchers alike. Simultaneously, the rapid pace of industry innovation in deep learning (from guiding self-driving cars to captioning smartphone images) demands the attention of library, museum, and academic professionals.
 
-Existing practices of cataloging and description can be augmented by recent advancements in machine vision – and human expertise can likewise guide the development of future algorithms for the humanities and sciences alike. This event brings together scholars and curators from both institutions for conversations, demonstrations, and future partnerships.
+Existing practices of cataloging and description can be augmented by recent advancements in machine vision and human expertise can likewise guide the development of future algorithms for the humanities and sciences alike. This event brings together scholars and curators from both institutions for conversations, demonstrations, and future partnerships.
 
 Space is limited for the event and open to invited participants only.
 
