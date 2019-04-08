@@ -38,25 +38,124 @@ Space is limited for the event and open to invited participants only.
 - [Laura Wexler](https://americanstudies.yale.edu/people/laura-wexler) (Women’s, Gender, and Sexuality Studies; American Studies, Yale)
 
 ### Schedule
-| Start | End | Name  | Title  |
-|---|---|---|---|
-| 9:30am  | 10:00am  |   |  Registration & Coffee |
-| 10:00am | 10:05am  | Peter Leonard  | Welcome  |
-| 10:05am | 10:35am  | [Rebecca Dikow](https://datascience.si.edu/people/dr-rebecca-dikow) ([Data Science Lab](https://datascience.si.edu), Smithsonian Institution)  | **Data-intensive approaches to digitized museum collections** |
-| 10:35am | 11:05am  | [Holly Rushmeier](http://graphics.cs.yale.edu/site/people/holly-rushmeier) (Computer Science, Yale)  | **Collecting Useful Data**  |
-| 11:05am | 11:25am  | [Peter Leonard](http://pleonard.net)  | Visual Culture Computation at the Yale DHLab  |
-| 11:25am | 11:45am  | [Douglas Duhaime](http://douglasduhaime.com) (DHLab, Yale)  | Computer Vision and Early Copyright History  |
-| 11:45am | 1:15pm  |   | Lunch  |
-| 1:15pm  | 1:35pm  | [Alex White](http://alexwhitebiology.com) (NMNH & Data Science Lab, Smithsonian Insitution)  | Deep learning, biogeography, and the evolution of plant shapes  |
-| 1:35pm  | 1:45pm  | [Catherine DeRose](http://www.catherinederose.com) (DHLab, Yale)  | Neural Style Transfer  |
-| 1:45pm  | 1:55pm  | [Monica Ong Reed](http://monicaong.com) (DHLab, Yale)  | UX for Visual Similarity  |
-| 1:55pm  | 2:15pm  | [Stephen Krewson](http://www.stephenkrewson.net) (English, Yale) | Mining the Medical Heritage Library  |
-| 2:15pm  | 2:25pm  |   | Break  |
-| 2:25pm  | 2:55pm  | Jacob Kim (Hirshhorn, Smithsonian Institution) and [Dan Michaelson](http://art.yale.edu/DanMichaelson) (School of Art, Yale)  | Hirshhorn Eye: Activating Artworks using Machine Vision  |
-| 2:55pm  | 3:25pm  | [Laura Wexler](https://americanstudies.yale.edu/people/laura-wexler) (Women’s, Gender, and Sexuality Studies; American Studies, Yale)  | **“I Am a Camera":  A Brief Photographic History of Machine Vision**  |
-| 3:25pm  | 3:30pm  | [Susan Gibbons](https://provost.yale.edu/who-we-are/susan-gibbons) (University Librarian & Deputy Provost, Yale)  | Closing Remarks  |
-| 3:30pm  | 4:00pm  |   |  Discussion and Next Steps: Ideas for Collaboration |
 
+<table class="unchanged rich-diff-level-one">
+<thead>
+<tr>
+<th>Start</th>
+<th>End</th>
+<th>Name</th>
+<th>Title</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>9:30am</td>
+<td>10:00am</td>
+<td></td>
+<td>Registration &amp; Coffee</td>
+</tr>
+<tr>
+<td>10:00am</td>
+<td>10:05am</td>
+<td>Peter Leonard</td>
+<td>Welcome</td>
+</tr>
+<tr>
+<td>10:05am</td>
+<td>10:35am</td>
+<td>
+<a href="https://datascience.si.edu/people/dr-rebecca-dikow" rel="nofollow">Rebecca Dikow</a> (<a href="https://datascience.si.edu" rel="nofollow">Data Science Lab</a>, Smithsonian Institution)</td>
+<td><strong>Data-intensive approaches to digitized museum collections</strong></td>
+</tr>
+<tr>
+<td>10:35am</td>
+<td>11:05am</td>
+<td>
+<a href="http://graphics.cs.yale.edu/site/people/holly-rushmeier" rel="nofollow">Holly Rushmeier</a> (Computer Science, Yale)</td>
+<td><strong>Collecting Useful Data</strong></td>
+</tr>
+<tr>
+<td>11:05am</td>
+<td>11:25am</td>
+<td><a href="http://pleonard.net" rel="nofollow">Peter Leonard</a></td>
+<td>Visual Culture Computation at the Yale DHLab</td>
+</tr>
+<tr>
+<td>11:25am</td>
+<td>11:45am</td>
+<td>
+<a href="http://douglasduhaime.com" rel="nofollow">Douglas Duhaime</a> (DHLab, Yale)</td>
+<td>Computer Vision and Early Copyright History</td>
+</tr>
+<tr>
+<td>11:45am</td>
+<td>1:15pm</td>
+<td></td>
+<td>Lunch</td>
+</tr>
+<tr>
+<td>1:15pm</td>
+<td>1:35pm</td>
+<td>
+<a href="http://alexwhitebiology.com" rel="nofollow">Alex White</a> (NMNH &amp; Data Science Lab, Smithsonian Insitution)</td>
+<td>Deep learning, biogeography, and the evolution of plant shapes</td>
+</tr>
+<tr>
+<td>1:35pm</td>
+<td>1:45pm</td>
+<td>
+<a href="http://www.catherinederose.com" rel="nofollow">Catherine DeRose</a> (DHLab, Yale)</td>
+<td>Neural Style Transfer</td>
+</tr>
+<tr>
+<td>1:45pm</td>
+<td>1:55pm</td>
+<td>
+<a href="http://monicaong.com" rel="nofollow">Monica Ong Reed</a> (DHLab, Yale)</td>
+<td>UX for Visual Similarity</td>
+</tr>
+<tr>
+<td>1:55pm</td>
+<td>2:15pm</td>
+<td>
+<a href="http://www.stephenkrewson.net" rel="nofollow">Stephen Krewson</a> (English, Yale)</td>
+<td>Mining the Medical Heritage Library</td>
+</tr>
+<tr>
+<td>2:15pm</td>
+<td>2:25pm</td>
+<td></td>
+<td>Break</td>
+</tr>
+<tr>
+<td>2:25pm</td>
+<td>2:55pm</td>
+<td>Jacob Kim (Hirshhorn, Smithsonian Institution) and <a href="http://art.yale.edu/DanMichaelson" rel="nofollow">Dan Michaelson</a> (School of Art, Yale)</td>
+<td>Hirshhorn Eye: Activating Artworks using Machine Vision</td>
+</tr>
+<tr>
+<td>2:55pm</td>
+<td>3:25pm</td>
+<td>
+<a href="https://americanstudies.yale.edu/people/laura-wexler" rel="nofollow">Laura Wexler</a> (Women’s, Gender, and Sexuality Studies; American Studies, Yale)</td>
+<td><strong>“I Am a Camera":  A Brief Photographic History of Machine Vision</strong></td>
+</tr>
+<tr>
+<td>3:25pm</td>
+<td>3:30pm</td>
+<td>
+<a href="https://provost.yale.edu/who-we-are/susan-gibbons" rel="nofollow">Susan Gibbons</a> (University Librarian &amp; Deputy Provost, Yale)</td>
+<td>Closing Remarks</td>
+</tr>
+<tr>
+<td>3:30pm</td>
+<td>4:00pm</td>
+<td></td>
+<td>Discussion and Next Steps: Ideas for Collaboration</td>
+</tr>
+</tbody>
+</table>
 
 ### Logistics
 - Date: April 26, 2019
