@@ -5,7 +5,7 @@ image: '/assets/images/banners/campus.jpg'
 caption: Photo by Michael Marsland.
 overview: training_scholarship
 deadline: Awards will be granted on a rolling basis until funds are exhausted.
-<!--apply_button: hidden-->
+apply_button: hidden
 <!--application_url: https://docs.google.com/forms/d/e/1FAIpQLSd19vYL9ny8NSUroCHykeK1ip2-Xz2RnpWXZZoXQZWY9VFBXQ/viewform?usp=sf_link-->
 <!--application_text: Apply for a training scholarship to attend a DH workshop.-->
 class: hide-color-hr
