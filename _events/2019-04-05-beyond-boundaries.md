@@ -59,7 +59,7 @@ Moderators: Barkley Dai (Statistics & Data Science) and Vivek Gopalan (Computer 
 - Philip Corlett and Jane Garrison (Psychiatry) "Network Induced Visual Hallucinations: A Window on Reality Monitoring in the Mind and Brain"
 
 ### 4:00 - 4:05 p.m. | Closing Remarks
-Susan Gibbons, Stephen F. Gates ’68 University Librarian and Deputy Provost for Libraries & Scholarly Communication
+Susan Gibbons, Stephen F. Gates ’68 University Librarian and Deputy Provost for Collections & Scholarly Communication
 
 ### 4:05 - 5:00 p.m. | Poster Session
 Showcase of projects by students, faculty, and staff
