@@ -24,7 +24,7 @@ overview: teaching_fellows
         category='Opportunities'
         title=page.title
       %}
-      <p>Are you teaching a class this semester? Have you been thinking about incorporating a digital humanities component? Would you like help doing so? If yes, apply for a DH Teaching Fellowship!</p>
+      <p>Are you teaching a class next semester? Have you been thinking about incorporating a digital humanities component? Would you like help doing so? If yes, apply for a DH Teaching Fellowship! No prior experience with digital humanities is required.</p>
       <p>Each semester, the Digital Humanities Lab appoints a cohort of Digital Humanities Teaching Fellows to integrate the digital humanities into Yale College classes. These positions provide semester-long support for graduate students to engage with digital humanities methods and theories in a classroom setting. DHLab staff work with Fellows to design digital humanities assignments, identify digital humanities readings or projects of interest to the class, and provide specialized technical training. Visit the <a href='{{ site.baseurl }}/about/teaching_fellows.html' target='_blank'>DH Teaching Fellows page</a> under "About" to see current and past recipients and their courses.</p>
     </div>
    </div>
@@ -34,7 +34,7 @@ overview: teaching_fellows
   %}
 
   {% capture left_text_one %}
-    <p>Fellows are responsible for introducing the digital humanities into their class. As a Fellow, you are required to meet with Digital Humanities Lab staff at least once before the semester starts to discuss goals (for yourself and the class), look through a syllabus, and identify what methods or theories you will introduce to students. Prior to your teaching the students, DHLab staff will meet with you and your cohort to provide training sessions and discuss different approaches to teaching the material.</p> 
+    <p>Fellows are responsible for introducing the digital humanities into their class. As a Fellow, you are required to meet with Digital Humanities Lab staff at least once before the semester starts to discuss goals (for yourself and the class), look through the syllabus, and identify what digital humanities methods or theories you will introduce to students. At different points in the semester, DHLab staff will meet with you and your cohort to provide training sessions and discuss different approaches to teaching the material.</p> 
 
     <p>Fellows are also expected to attend occasional cohort meetings during the semester. These are opportunities to learn what everyone is doing in their classes and to share any successes or challenges you encounter.</p>
   {% endcapture %}
@@ -58,7 +58,7 @@ overview: teaching_fellows
   {% endcapture %}
 
   {% capture right_text_two %}
-    <p>PhD students with a teaching requirement to fulfill are eligible to apply.</p>
+    <p>PhD students with a teaching appointment are eligible to apply.</p>
 
     <p>If you have a teaching appointment for the next semester and are interested in a Digital Humanities Teaching Fellowship, please <a href='mailto:dhlab@yale.edu'>email the DHLab</a> for more information.</p>
   {% endcapture %}
