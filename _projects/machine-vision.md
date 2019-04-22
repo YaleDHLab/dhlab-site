@@ -65,7 +65,7 @@ Space is limited for the event and open to invited participants only.
 <td>10:35am</td>
 <td>
 <a href="https://datascience.si.edu/people/dr-rebecca-dikow" rel="nofollow">Rebecca Dikow</a> (<a href="https://datascience.si.edu" rel="nofollow">Data Science Lab</a>, Smithsonian Institution)</td>
-<td><strong>Data-intensive approaches to digitized museum collections</strong></td>
+<td><strong>Data-Intensive Approaches to Digitized Museum Collections</strong></td>
 </tr>
 <tr>
 <td>10:35am</td>
