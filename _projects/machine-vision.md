@@ -35,7 +35,6 @@ Space is limited for the event and open to invited participants only.
 ### Keynote Speakers
 - [Rebecca Dikow](https://datascience.si.edu/people/dr-rebecca-dikow) ([Data Science Lab](https://datascience.si.edu), Smithsonian Institution)
 - [Holly Rushmeier](http://graphics.cs.yale.edu/site/people/holly-rushmeier) (Computer Science, Yale)
-- [Laura Wexler](https://americanstudies.yale.edu/people/laura-wexler) (Women’s, Gender, and Sexuality Studies; American Studies, Yale)
 
 ### Schedule
 
@@ -99,7 +98,7 @@ Space is limited for the event and open to invited participants only.
 <td>1:35pm</td>
 <td>
 <a href="http://alexwhitebiology.com" rel="nofollow">Alex White</a> (NMNH &amp; Data Science Lab, Smithsonian Insitution)</td>
-<td>Deep learning, biogeography, and the evolution of plant shapes</td>
+<td>Deep Learning, Biogeography, and the Evolution of Plant Shapes</td>
 </tr>
 <tr>
 <td>1:35pm</td>
