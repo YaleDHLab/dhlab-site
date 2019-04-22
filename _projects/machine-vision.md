@@ -30,7 +30,7 @@ Existing practices of cataloging and description can be augmented by recent adva
 
 Space is limited for the event and open to invited participants only.
 
-**Limited space available. Please <a href='http://schedule.yale.edu/event/5208477' target='_blank'>register</a> to confirm your attendance.**
+**Limited space available. Please <a href='http://schedule.yale.edu/event/5208477' target='_blank'>register</a> to confirm your attendance.** Boxed lunches will be provided for attendees who register by April 19. 
 
 ### Keynote Speakers
 - [Rebecca Dikow](https://datascience.si.edu/people/dr-rebecca-dikow) ([Data Science Lab](https://datascience.si.edu), Smithsonian Institution)
