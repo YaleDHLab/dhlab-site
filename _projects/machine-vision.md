@@ -111,8 +111,8 @@ Space is limited for the event and open to invited participants only.
 <td>1:45pm</td>
 <td>1:55pm</td>
 <td>
-<a href="http://monicaong.com" rel="nofollow">Monica Ong Reed</a> (DHLab, Yale)</td>
-<td>UX for Visual Similarity</td>
+Adam Metallo (Digitization Program Office, SI)</td>
+<td>Collaboration and Impact</td>
 </tr>
 <tr>
 <td>1:55pm</td>
@@ -136,9 +136,8 @@ Space is limited for the event and open to invited participants only.
 <tr>
 <td>2:55pm</td>
 <td>3:25pm</td>
-<td>
-<a href="https://americanstudies.yale.edu/people/laura-wexler" rel="nofollow">Laura Wexler</a> (Women’s, Gender, and Sexuality Studies; American Studies, Yale)</td>
-<td><strong>“I Am a Camera":  A Brief Photographic History of Machine Vision</strong></td>
+<td></td>
+<td>Discussion and Next Steps: Ideas for Collaboration</td>
 </tr>
 <tr>
 <td>3:25pm</td>
@@ -146,13 +145,6 @@ Space is limited for the event and open to invited participants only.
 <td>
 <a href="https://provost.yale.edu/who-we-are/susan-gibbons" rel="nofollow">Susan Gibbons</a> (University Librarian &amp; Deputy Provost, Yale)</td>
 <td>Closing Remarks</td>
-</tr>
-<tr>
-<td>3:30pm</td>
-<td>4:00pm</td>
-<td></td>
-<td>Discussion and Next Steps: Ideas for Collaboration</td>
-</tr>
 </tbody>
 </table>
 
