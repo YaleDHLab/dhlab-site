@@ -8,7 +8,7 @@ team:
   - name: Yale Digital Humanities Lab Team
   - name: Lens Media Lab Team
 categories:
-  - Image Analysis
+  - Visual Analysis
   - Spatial Analysis
   - Web Application
 tags:  
