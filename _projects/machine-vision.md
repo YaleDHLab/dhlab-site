@@ -41,7 +41,7 @@ Space is limited for the event and open to invited participants only.
 - Time: 10:00 a.m. – 4:00 p.m.
 - Location: Franke Family Digital Humanities Laboratory, Sterling Memorial Library, 120 High Street, New Haven, CT
 
-### Schedule
+### Schedule  
 <table class="unchanged rich-diff-level-one">
   <thead>
     <tr>
