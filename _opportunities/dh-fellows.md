@@ -7,10 +7,10 @@ caption: >
 alt: Three Digital Humanities Teaching Fellows (fall 2018) standing in front of the Special Projects Cube in the Franke Family Digital Humanities Laboratory.
 application_text: >
   Apply now to become one of our Digital Humanities Teaching Fellows.
-apply_button: hidden
+apply_button:
 application_url: >
   https://docs.google.com/forms/d/e/1FAIpQLScvKOG9RgwKW5nbzHYHHwG9N_yMeoLpaBH-RNbSB1BH0clenA/viewform?usp=sf_link
-deadline: Applications are accepted on a rolling basis.
+deadline: Applications are considered on a rolling basis.
 overview: teaching_fellows
 ---
 
