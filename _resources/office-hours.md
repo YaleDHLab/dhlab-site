@@ -19,6 +19,5 @@ Whether you are new to the field and would like to learn more, have an existing 
 
 In addition to general DH Office Hours, specialized support will be available as follows for questions on:
 - Mondays, Tuesdays, Wednesdays at 2:00 p.m. \| User experience design and project management
-- Mondays and Wednesdays at 2:00 p.m. \| Websites and digital exhibits
 - Tuesdays at 2:00 p.m. \| Geographic information systems (GIS) 
 - Tuesdays at 2:00 p.m. \| Python and R
