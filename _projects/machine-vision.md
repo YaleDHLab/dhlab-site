@@ -1,5 +1,5 @@
 ---
-browsable: false
+<!--browsable: false-->
 title: Machine Vision for Cultural Heritage & Natural Science Collections
 image: /assets/images/projects/originals/yale-smithsonian-banner.jpg
 thumbnail: /assets/images/projects/originals/yale-smithsonian-banner.jpg
@@ -22,15 +22,9 @@ permalink: '/machine-vision/'
 
 ### Overview
 
-The Yale-Smithsonian Partnership is holding a one-day event on the topic of machine learning for cultural heritage and natural science collections.
-
 The mass digitization of visual collections, on the order of hundreds of thousands or millions of images, creates new challenges for curators and researchers alike. Simultaneously, the rapid pace of industry innovation in deep learning (from guiding self-driving cars to captioning smartphone images) demands the attention of library, museum, and academic professionals.
 
-Existing practices of cataloging and description can be augmented by recent advancements in machine vision and human expertise can likewise guide the development of future algorithms for the humanities and sciences alike. This event brings together scholars and curators from both institutions for conversations, demonstrations, and future partnerships.
-
-Space is limited for the event and open to invited participants only.
-
-**Limited space available. Please <a href='http://schedule.yale.edu/event/5208477' target='_blank'>register</a> to confirm your attendance.** Boxed lunches will be provided for attendees who register by April 19. 
+Existing practices of cataloging and description can be augmented by recent advancements in machine vision, and human expertise can likewise guide the development of future algorithms for the humanities and sciences alike. To showcase work that's underway and explore potential collaborations, the Yale-Smithsonian Partnership held a one-day symposium on the topic of machine learning for cultural heritage and natural science collections. The event brought together scholars and curators from both institutions for conversations, demonstrations, and future partnerships.
 
 ### Keynote Speakers
 - [Rebecca Dikow](https://datascience.si.edu/people/dr-rebecca-dikow) ([Data Science Lab](https://datascience.si.edu), Smithsonian Institution)
