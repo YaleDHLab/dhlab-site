@@ -2,7 +2,7 @@
 name: Jake Kara
 role: Digital Humanities Web Developer
 image: /assets/images/about/team/JK-sq.jpg
-order: 4
+order: 5
 group: core_team
 ---
 
