@@ -204,7 +204,18 @@ ul {
   font-size: 15px;
 }
 
-ul ul {
+ul {
+  margin: 10px 20px;
+}
+
+ol {
+  padding-left: 20px;
+  line-height: 24px;
+  font-weight: 400;
+  font-size: 15px;
+}
+
+ol {
   margin: 10px 20px;
 }
 
