@@ -1,5 +1,5 @@
 ---
-spotlight_top: true
+spotlight_top: false
 title: "Visit the Franke Family Digital Humanities Laboratory"
 date: October 09, 2018
 thumbnail: /assets/images/news/franke-cube-lavitt.jpg
