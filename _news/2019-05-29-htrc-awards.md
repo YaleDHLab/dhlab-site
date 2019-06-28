@@ -13,7 +13,7 @@ image_layout: simple
 teaser: |
   Congratulations to Stephen Krewson, recipient of an Advanced Collaborative Support award from the HathiTrust Research Center. Krewson received the award to expand on his work with large-scale image and metadata extraction.
 ---
-Yale graduate student Stephen Krewson has been awarded an Advanced Collaborative Support (ACS) award from the HathiTrust Research Center (HTRC) for his work on large-scale image and metadata extraction. Krewson, a Yale English PhD candidate and Computer Science alumnus, was one of only five selected recipients.  
+Yale graduate student Stephen Krewson has been awarded an Advanced Collaborative Support (ACS) award from the HathiTrust Research Center (HTRC) for his work on large-scale image and metadata extraction. Krewson, a current Yale English PhD candidate, received his MS in Computer Science from Yale in 2018.
 
 Krewson's project, "Deriving Basic Illustration Metadata," aims to identify all pictorial elements in educational texts from 1800-1850 in order to explore the interplay between progressive education and print media in the early nineteenth century. The resulting research will characterize the extent to which wood engravings and other reprographic materials were shared among educational publishers. During the award period, Krewson will extract specific features from page images, such as illustration location, using advances in machine learning. 
 
