@@ -21,4 +21,4 @@ The project intends to use the process developed to identify pictorial elements 
 
 Congratulations, Stephen!
 
-For more on the award, visit <a href='https://www.hathitrust.org/hathitrust-research-center-awards-five-acs-projects' target='_blank'>HathiTrust's announcement page</a>.
+For more on the award, visit <a href='https://www.hathitrust.org/hathitrust-research-center-awards-five-acs-projects' target='_blank'>HathiTrust's announcement</a>.
