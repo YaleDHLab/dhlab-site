@@ -34,7 +34,7 @@ overview: teaching_fellows
   %}
 
   {% capture left_text_one %}
-    <p>As a DH Teaching Fellow, you are required to meet with Digital Humanities Lab staff at least once at the beginning of the semester to discuss goals (for yourself and the class), look through the syllabus, and identify what digital humanities methods or theories you might introduce to students. At different points in the semester, DHLab staff will meet with you and your cohort to provide training sessions and discuss different approaches to teaching the material.</p> 
+    <p>As a DH Teaching Fellow, you are required to meet with Digital Humanities Lab staff at least once at the beginning of the semester to discuss goals (for yourself and the class), look through your syllabus, and identify what digital humanities methods or theories you might introduce to students. At different points in the semester, DHLab staff will meet with you and your cohort to provide training sessions and discuss different approaches to teaching the material.</p> 
 
     <p>Fellows are also expected to attend occasional cohort meetings during the semester. These are opportunities to learn what everyone is doing in their classes and to share any successes or challenges you encounter.</p>
   {% endcapture %}
