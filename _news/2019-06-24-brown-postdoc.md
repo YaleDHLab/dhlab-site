@@ -19,4 +19,4 @@ During his fellowship, Brown will work on "Water, Waste, and Rising Seas in the 
 
 Congratulations, Andrew!
 
-For more on the appointment, visit <a href='https://humanities.utoronto.ca/announcements/clir-digital-humanities-network-postdoctoral-fellow-2019-2020' target='_blank'>the Jackson Humanities Institute website</a>.
+For more on the appointment, visit <a href='https://humanities.utoronto.ca/announcements/clir-digital-humanities-network-postdoctoral-fellow-2019-2020' target='_blank'>the Jackson Humanities Institute's website</a>.
