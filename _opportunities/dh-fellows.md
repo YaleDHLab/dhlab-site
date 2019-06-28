@@ -9,7 +9,7 @@ application_text: >
   Apply now to become one of our Digital Humanities Teaching Fellows.
 apply_button:
 application_url: >
-  https://docs.google.com/forms/d/e/1FAIpQLScvKOG9RgwKW5nbzHYHHwG9N_yMeoLpaBH-RNbSB1BH0clenA/viewform?usp=sf_link
+  https://docs.google.com/forms/d/e/1FAIpQLSdXL7XBml2aGR2aprFD4KB-9Mq837aRuL0xSLpij-_YW6stlg/viewform?usp=sf_link
 deadline: Applications are considered on a rolling basis.
 overview: teaching_fellows
 ---
@@ -58,9 +58,9 @@ overview: teaching_fellows
   {% endcapture %}
 
   {% capture right_text_two %}
-    <p>PhD students with a teaching appointment are eligible to apply.</p>
+    <p>Yale graduate students with a teaching appointment are eligible to apply.</p>
 
-    <p>If you have a teaching appointment for the next semester and are interested in a Digital Humanities Teaching Fellowship, please <a href='mailto:dhlab@yale.edu'>email the DHLab</a> for more information.</p>
+    <p>For more information, please <a href='mailto:dhlab@yale.edu'>email the DHLab</a> or <a href='https://docs.google.com/forms/d/e/1FAIpQLSdXL7XBml2aGR2aprFD4KB-9Mq837aRuL0xSLpij-_YW6stlg/viewform?usp=sf_link' target='_blank'>submit an application.</a></p>
   {% endcapture %}
 
   {% include text/color_blocks.html
