@@ -2,10 +2,14 @@
 title: "Python Working Group Meeting"
 date: 2019-06-28
 dates: 
-  - 2019-07-05
-  - 2019-07-12
   - 2019-07-19
   - 2019-07-26
+  - 2019-08-02
+  - 2019-08-09
+  - 2019-08-16
+  - 2019-08-23
+  - 2019-08-30
+  - 2019-09-06
 time: 2:00 - 3:00 p.m.
 location: Digital Humanities Lab
 thumbnail: /assets/images/events/python2.jpg
