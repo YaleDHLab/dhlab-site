@@ -24,8 +24,8 @@ overview: teaching_fellows
         category='Opportunities'
         title=page.title
       %}
-      <p>Are you teaching a class next semester? Have you been thinking about incorporating a digital humanities component? Would you like help doing so? If yes, apply for a DH Teaching Fellowship! No prior experience with digital humanities is required.</p>
-      <p>Each semester, the Digital Humanities Lab appoints a cohort of Digital Humanities Teaching Fellows who think about classroom applications of digital humanities. These positions provide semester-long opportunities for graduate students to engage with digital humanities methods and theories in a classroom setting. DHLab staff work with Fellows to design digital humanities assignments, identify digital humanities readings or projects of interest to the class, and provide specialized technical training. Visit the <a href='{{ site.baseurl }}/about/teaching_fellows.html' target='_blank'>DH Teaching Fellows page</a> under "About" to see current and past recipients and their courses.</p>
+      <p>Learn digital humanities methods as part of a cohort of Yale Digital Humanities (DH) Teaching Fellows! No prior experience with digital humanities is required. The Fellowship is an opportunity to learn digital humanities methods—such as text mining, network analysis, and geospatial analysis—and apply them to your teaching.</p> 
+      <p>Along with providing specialized technical training for DH Fellows, DHLab staff also work with Fellows to design digital humanities assignments and identify digital humanities readings or projects of interest. Visit the <a href='{{ site.baseurl }}/about/teaching_fellows.html' target='_blank'>DH Teaching Fellows page</a> under "About" to see current and past recipients and their courses.</p>
     </div>
    </div>
 
@@ -34,9 +34,12 @@ overview: teaching_fellows
   %}
 
   {% capture left_text_one %}
-    <p>As a DH Teaching Fellow, you are required to meet with Digital Humanities Lab staff at least once at the beginning of the semester to discuss goals (for yourself and the class), look through your syllabus, and identify what digital humanities methods or theories you might introduce to students. At different points in the semester, DHLab staff will meet with you and your cohort to provide training sessions and discuss different approaches to teaching the material.</p> 
-
-    <p>Fellows are also expected to attend occasional cohort meetings during the semester. These are opportunities to learn what everyone is doing in their classes and to share any successes or challenges you encounter.</p>
+    <p>As a DH Teaching Fellow, you are required to attend two meetings with your cohort and one training session. Additional optional training sessions will be provided as needed.
+    <ul>
+      <li>The first cohort meeting occurs at the beginning of the semester and is a chance to discuss goals, look through your syllabus, and identify what digital humanities methods or theories you might introduce to students.</li>
+      <li>The second meeting occurs near the middle of the semester as a check-in to share success stories and challenges and to set up any additional optional training sessions.</li>
+      <li>Training sessions provide guided instruction on one or more digital humanities methods and are scheduled around Fellows' availability. Each Fellow will have a required training session that's connected to their class, but Fellows who are interested in learning additional tools, techniques, or theories or who would like to schedule follow-up discussions can request additional sessions. Training sessions are open to all Fellows to attend—so even if you're not using networks in your class, but your cohort member is, you can also learn how to create networks.</li>
+    </ul></p>
   {% endcapture %}
 
   {% capture right_text_one %}
@@ -46,19 +49,19 @@ overview: teaching_fellows
     <ul> 
       <li>map social movements in New Haven,</li> 
       <li>create network graphs of characters in a play,</li>
-      <li>crowdsource annotations to develop close reading strategies, or</li> 
+      <li>crowdsource annotations to develop close reading strategies,</li> 
       <li>perform text mining to study linguistic trends in novels.</li>
     </ul></p>
-
-    <p>For other classes, Fellows might:   
+    <p>Fellows do not have to incorporate tools in their classes. Sometimes Fellows:   
     <ul>
-      <li>showcase projects that tie into the course topic or</li> 
-      <li>lead discussions on digital humanities readings</li> 
+      <li>showcase digital projects that tie into the course</li> 
+      <li>lead discussions on digital humanities readings.</li> 
     </ul></p>
+    <p>During the award period, Fellows may reserve a desk for their use in the Franke Family Digital Humanities Laboratory for their office hours and work.</p>
   {% endcapture %}
 
   {% capture right_text_two %}
-    <p>Yale graduate students with a teaching appointment are eligible to apply.</p>
+    <p>Yale graduate students with a humanities teaching appointment are eligible to apply.</p>
 
     <p>For more information, please <a href='mailto:dhlab@yale.edu'>email the DHLab</a> or <a href='https://docs.google.com/forms/d/e/1FAIpQLSdXL7XBml2aGR2aprFD4KB-9Mq837aRuL0xSLpij-_YW6stlg/viewform?usp=sf_link' target='_blank'>submit an application.</a></p>
   {% endcapture %}
