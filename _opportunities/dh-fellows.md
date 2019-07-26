@@ -25,7 +25,7 @@ overview: teaching_fellows
         title=page.title
       %}
       <p>Learn digital humanities methods as part of a cohort of Yale Digital Humanities (DH) Teaching Fellows! No prior experience with digital humanities is required. The Fellowship is an opportunity to learn digital humanities methods—such as text mining, network analysis, and geospatial analysis—and apply them to your teaching.</p> 
-      <p>Along with providing specialized technical training for DH Fellows, DHLab staff also work with Fellows to design digital humanities assignments and identify digital humanities readings or projects of interest. Visit the <a href='{{ site.baseurl }}/about/teaching_fellows.html' target='_blank'>DH Teaching Fellows page</a> under "About" to see current and past recipients and their courses.</p>
+      <p>Along with providing specialized technical training for DH Fellows, Digital Humanities Lab staff also work with Fellows to design digital humanities assignments and identify readings or projects of interest. Visit our <a href='{{ site.baseurl }}/about/teaching_fellows.html' target='_blank'>DH Teaching Fellows page</a> to see current and past recipients and their courses.</p>
     </div>
    </div>
 
@@ -37,7 +37,7 @@ overview: teaching_fellows
     <p>As a DH Teaching Fellow, you are required to attend two meetings with your cohort and one training session. Additional optional training sessions will be provided as needed.
     <ul>
       <li>The first cohort meeting occurs at the beginning of the semester and is a chance to discuss goals, look through your syllabus, and identify what digital humanities methods or theories you might introduce to students.</li>
-      <li>The second meeting occurs near the middle of the semester as a check-in to share success stories and challenges and to set up any additional optional training sessions.</li>
+      <li>The second meeting occurs near the middle of the semester to check-in, share success stories and challenges, and set up any additional optional training sessions.</li>
       <li>Training sessions provide guided instruction on one or more digital humanities methods and are scheduled around Fellows' availability. Each Fellow will have a required training session that's connected to their class, but Fellows who are interested in learning additional tools, techniques, or theories or who would like to schedule follow-up discussions can request additional sessions. Training sessions are open to all Fellows to attend—so even if you're not using networks in your class, but your cohort member is, you can also learn how to create networks.</li>
     </ul></p>
   {% endcapture %}
@@ -61,7 +61,7 @@ overview: teaching_fellows
   {% endcapture %}
 
   {% capture right_text_two %}
-    <p>Yale graduate students with a humanities teaching appointment are eligible to apply.</p>
+    <p>Yale graduate students in the humanities with a teaching appointment are eligible to apply.</p>
 
     <p>For more information, please <a href='mailto:dhlab@yale.edu'>email the DHLab</a> or <a href='https://docs.google.com/forms/d/e/1FAIpQLSdXL7XBml2aGR2aprFD4KB-9Mq837aRuL0xSLpij-_YW6stlg/viewform?usp=sf_link' target='_blank'>submit an application.</a></p>
   {% endcapture %}
