@@ -4,7 +4,7 @@ thumbnail: /assets/images/projects/originals/bodies.png
 alt: Sample dance sequence used to train neural network.
 layout: project
 video: /assets/images/projects/originals/dance.mp4
-project_url:
+project_url: http://beyondimitation.com/
 categories:
   - Machine Learning
 tags:
