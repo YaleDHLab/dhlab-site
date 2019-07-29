@@ -4,7 +4,7 @@ date: 2017-05-04
 time: 2:00 pm
 location: Digital Humanities Lab, SML 316
 thumbnail: /assets/images/events/ensemble.jpg
-alt: Three Yale drama students in nineteenth-century clothing dance on stage beneath lanterns and falling petals.
+alt: three Yale drama students in nineteenth-century clothing dance on stage beneath lanterns and falling petals
 categories:
   - Talk
 tags:
