@@ -8,7 +8,6 @@ alt: the TivoliVredenburg building in Utrecht
 registerurl:
 categories:
   - Workshop
-tags:
 teaser: >
  Establish infrastructure for digital humanities support at your campus.
 ---
