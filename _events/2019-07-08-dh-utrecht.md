@@ -33,7 +33,7 @@ Some of the guiding documents we'll use during the breakout sessions are include
     <a href='{{site.baseurl}}/assets/docs/DH2019-Lifecycle.pdf' target='_blank'><b>Project Lifecycle</b></a> – This worksheet tracks different stakeholder responsibilities over a project's lifecycle. Who is responsible for what, and who needs to be notified when?<br>
   </li>
   <li>
-    <a href='{{site.baseurl}}/assets/docs/DH2019-Promotion.pdf' target='_blank'><b>Communications</b></a> – This handout provides a list of communication channels for promoting services, opportunities, and project updates to audiences. Different platforms lend themselves to different kinds of engagement, so think about your desired outcome.<br>
+    <a href='{{site.baseurl}}/assets/docs/DH2019-Publicity.pdf' target='_blank'><b>Communications</b></a> – This handout provides a list of communication channels for promoting services, opportunities, and project updates to audiences. Different platforms lend themselves to different kinds of engagement, so think about your desired outcome.<br>
   </li>
 </ul>
 
