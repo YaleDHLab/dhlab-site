@@ -7,9 +7,9 @@ funded: true
 team:
   - name: Ardis Butterfield
     position: English, French, and Music
-  - Anya Adair
+  - name: Anya Adair
     position: English
-  - Joe Stadolnik
+  - name: Joe Stadolnik
     position: English
 categories:
   - Text Analysis
