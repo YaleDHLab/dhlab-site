@@ -10,7 +10,7 @@ categories:
   - Talk
   - Office Hours
 tags:
-  - Sound Analysis
+  - Sound Studies
 spotlight: false
 image_layout: landscape
 teaser: |

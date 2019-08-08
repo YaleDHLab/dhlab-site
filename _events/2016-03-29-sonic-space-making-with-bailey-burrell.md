@@ -9,7 +9,8 @@ caption: ""
 categories:
   - Workshop
 tags:
-  - Sound Analysis
+  - Race Studies
+  - Sound Studies
 spotlight: false
 image_layout: landscape
 teaser: |

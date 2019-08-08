@@ -8,6 +8,7 @@ categories:
   - Talk
 tags:
   - Text Analysis
+  - Sound Studies
 spotlight: false
 teaser: >
   "The Digital Humanities Lab sponsored two events with Joanna Swafford, Assistant Professor for Interdisciplinary and Digital Teaching and Scholarship at SUNY New Paltz. Events were open to the Yale..."

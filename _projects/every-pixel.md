@@ -8,11 +8,12 @@ team:
   - name: Yale Digital Humanities Lab Team
   - name: Lens Media Lab Team
 categories:
-  - Visual Analysis
   - Spatial Analysis
+  - Visual Analysis
   - Web Application
 tags:  
   - Archives
+  - Machine Learning
   - Photographs
 dhlab_project: true
 permalink: '/projects/every-pixel/'

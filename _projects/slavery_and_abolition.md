@@ -8,6 +8,8 @@ categories:
   - Web Application
 tags:
   - Archives
+  - History
+  - Race Studies
 ---
 
 ### Overview

@@ -9,6 +9,7 @@ team:
     position: MA student in East Asian Studies <br/>and American Studies
 categories:
   - Spatial Analysis
+  - Web Application
 tags:
   - Literature
 permalink: '/projects/open-the-city/'

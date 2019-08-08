@@ -7,9 +7,10 @@ alt: Collage of cultural heritage images, including photographs, paintings, and 
 <!--video: /assets/images/projects/originals/dance.mp4-->
 project_url:
 categories:
-  - Machine Learning
+  - Text Analysis
   - Visual Analysis
 tags:
+  - Literature
   - Machine Learning
   - Neural Networks
   - Photographs

@@ -8,6 +8,8 @@ alt: Workshop participants in the lab
 caption: ""
 categories:
   - Announcement
+tags:
+  - Team Members
 image_layout: simple
 teaser: |
   The Digital Humanities Lab is delighted to welcome Yogesh Tulsi, a rising junior at Yale-NUS College, to the team as a summer DH intern.

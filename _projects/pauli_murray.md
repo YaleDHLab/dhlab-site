@@ -18,6 +18,8 @@ categories:
   - Network Analysis
 tags:
   - Archives
+  - History
+  - Race Studies
 permalink: '/projects/pauli-murray/'
 ---
 

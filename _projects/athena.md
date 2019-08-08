@@ -8,7 +8,7 @@ categories:
   - Visual Analysis
 tags:
   - Manuscripts
-  - Classics
+  - Medieval
   - Languages
 ---
 

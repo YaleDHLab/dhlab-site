@@ -6,12 +6,12 @@ layout: project
 video: /assets/images/projects/originals/dance.mp4
 project_url: http://beyondimitation.com/
 categories:
-  - Machine Learning
+  - Web Application
 tags:
+  - 3D
   - Dance
   - Machine Learning
   - Neural Networks
-  - 3D
 team:
   - name: Mariel Pettee
     position: Physics

@@ -7,6 +7,7 @@ caption: "Peter Leonard presenting on image computation. Photo credit: Mara Lavi
 categories:
   - Announcement
 tags:
+  - Team Members
   - Visual Analysis
 spotlight: false
 image_layout: simple

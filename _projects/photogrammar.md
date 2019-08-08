@@ -19,6 +19,7 @@ categories:
   - Web Application
 tags:
   - Archives
+  - History
   - Photographs
 dhlab_project: true
 permalink: '/projects/photogrammar/'

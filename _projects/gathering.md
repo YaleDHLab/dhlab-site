@@ -15,6 +15,7 @@ categories:
 tags:
   - Architecture  
   - Archives
+  - History
 dhlab_project: true
 permalink: '/projects/gathering/'
 ---
