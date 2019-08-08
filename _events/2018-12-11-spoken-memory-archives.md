@@ -10,7 +10,7 @@ categories:
   - Talk
 tags:
   - Text Analysis
-  - Sound Analysis
+  - Sound Studies
 teaser: >
   Join the Haas Arts Library and Digital Humanities Lab for one of our Ensemble Transcribe-a-Thons and record Yale's theatrical history.
 ---
