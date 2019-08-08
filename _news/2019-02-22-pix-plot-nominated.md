@@ -7,6 +7,7 @@ caption: ""
 categories:
   - Announcement
 tags:
+  - Team Members
   - Visual Analysis
 spotlight: false
 image_layout: simple

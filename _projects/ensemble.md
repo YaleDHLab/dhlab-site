@@ -13,10 +13,11 @@ team:
   - name: Peter Leonard
     position: Yale Digital Humanities Lab
 categories:
-  - Crowdsourced Data
   - Web Application
 tags:
   - Archives
+  - Crowdsourced Data
+  - Theater Studies
 dhlab_project: true
 ---
 

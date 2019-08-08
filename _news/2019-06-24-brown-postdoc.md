@@ -6,6 +6,8 @@ alt: Andrew Brown's headshot
 caption:
 categories:
   - Announcement
+tags:
+  - Team Members
 spotlight: false
 image_layout: simple
 teaser: |

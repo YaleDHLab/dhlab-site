@@ -4,10 +4,7 @@ thumbnail: /assets/images/projects/archive-thumbs/babylonian-thumb.jpg
 alt: Pythagorean tablet from the Babylonian collection
 layout: archive
 project_url: https://babylonian-collection.yale.edu/history/current-projects
-categories:
-  - Visual Analysis
 tags:
-  - Classics
   - Languages
 ---
 

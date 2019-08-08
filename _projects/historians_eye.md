@@ -7,9 +7,8 @@ project_url: http://campuspress.yale.edu/historianseye
 team:
  - name: Matthew Jacobson
    position: American Studies, <br/> African American Studies <br/>, History
-categories:
-  - Crowdsourced Data
 tags:
+  - History
   - Photographs
 ---
 

@@ -15,6 +15,8 @@ categories:
 tags:
   - Architecture
   - Archives
+  - Crowdsourced Data
+  - History
 dhlab_project: true
 permalink: '/projects/nhba/'
 ---

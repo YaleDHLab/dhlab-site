@@ -13,9 +13,10 @@ team:
   - name: Kasia Lech
 categories:
   - Spatial Analysis
-  - Crowdsourced Data
 tags:
   - Archives
+  - Crowdsourced Data
+  - Theater Studies
 permalink: '/projects/performap/'
 ---
 

@@ -11,10 +11,10 @@ team:
     position: Beinecke Rare Book and Manuscript Library
   - name: Yale Digital Humanities Lab Team
 categories:
-  - Crowdsourced Data
   - Web Application
 tags:
   - Archives
+  - Crowdsourced Data
   - Languages
 dhlab_project: true
 permalink: '/projects/transcribe/'
