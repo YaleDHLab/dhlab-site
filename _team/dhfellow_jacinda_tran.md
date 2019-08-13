@@ -4,6 +4,7 @@ role: DH Fellow
 image: /assets/images/about/dhfellow_tran.jpg
 order: 3
 group: teaching_fellow
+render: false
 ---
 Jacinda Tran is a third-year PhD student in American Studies. She is interested in how technologies of warfare circulate through the racial formation and representation of Southeast Asian refugees after the Vietnam War. Her work also examines the intersections of US militarization and memory construction in the spatialization of violence. 
 
