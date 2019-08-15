@@ -58,6 +58,13 @@ Introduction to the basic ideas of computer science (computability, algorithm, v
 
 No previous experience with computers necessary. Enrollment limited to 25
     
+### Data and Information Visualization
+CPSC 446, CPSC 546
+Holly Rushmeier
+
+Visualization is a powerful tool for understanding data and concepts. This course provides an introduction to the concepts needed to build new visualization systems, rather than to use existing visualization software. Major topics are abstracting visualization tasks, using visual channels, spatial arrangements of data, navigation in visualization systems, using multiple views, and filtering and aggregating data. Case studies to be considered include a wide range of visualization types and applications in humanities, engineering, science, and social science.
+
+Prerequisite: CPSC 223
 
 ### Introduction to Computing and Programming
 CPSC 100  
@@ -78,7 +85,27 @@ Prerequisite: CPSC 110, CPSC 112, equivalent programming experience, or permissi
     
 
 ### Literature and Philosophy from Locke to Kent
-ENGL 729
+ENGL 729  
 Jonathan Kramnick
 
 This is a class on epistemology, aesthetics, and literary form. We read major works in empiricism and moral philosophy alongside poetry and fiction in several genres. We ask, for example, how do poetry, fiction, and the visual arts recruit and account for perceptual experience or consider material and natural objects? What happens when the empirical psychology of consciousness or the categories of the sublime, beautiful, and picturesque take narrative or poetic form? What sort of ethical models follow from formal or generic decisions? We focus throughout on how these topics have been discussed across the history of literary studies, and we pay close attention to current debates in the field, including those prompted by new formalisms and materialisms, critical race studies, cognitive literary studies, and the digital humanities. Authors include Locke, Behn, Defoe, Pope, Addison, Hume, Burke, Sterne, Smith, Kant, and Wordsworth.
+
+### Photography and the Sciences
+HIST 949, HSAR 832, HSHM 656  
+Chitra Ramalingam
+
+Does photography belong in the history of art, or does its status as an “automatic” or “scientific” recording technique and its many uses in the sciences distinguish its history from that of earlier visual media? How does photography look when we approach it from the cultural history of science? How might its role in the sciences have shaped photographic aesthetics in the arts? This course examines the making of photography’s discursive identity as an experimental and evidentiary medium in the sciences, from its announcement to the public in 1839 to the digital innovations of the present day. We take a historical and archival perspective on uses for (and debates over) photography in different fields of the natural and human sciences, grounded in visits to photographic collections at Yale.
+
+### Quantitative Linguistics using Corpora
+LING 234, 634  
+Chelsea Sanker
+
+Introduction to the basics of corpus linguistics. Students learn to compile and process corpora and conduct statistical tests to better understand linguistic patterns and are provided with the background and tools necessary to pursue further research in this area. Digital humanities students from other departments are welcome.
+ 
+Prerequisite: one entry-level linguistics course (e.g., phonetics, phonology, syntax, and psycholinguistics) or permission of the instructor
+
+### Special Topics in Music, Multimedia Art, and Technology
+MUSI 425  
+Konrad Kaczmarek
+
+Live audio and video processing using the visual programming environment Max/MSP/Jitter. Topics include human computer interaction (HCI), instrument design, alternative controllers, data mapping, algorithmic composition, real-time digital signal processing, communication over the network, and programming for mobile devices.
