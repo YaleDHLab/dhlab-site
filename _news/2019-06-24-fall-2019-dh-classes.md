@@ -87,8 +87,8 @@ R. John Williams
 Introduction to the long history of media as understood in classical and foundational (and even more recent experimental) theories. Topics involve the technologies of modernity, reproduction, and commodity, as well as questions regarding knowledge, representation, public spheres, and spectatorship. Special attention given to philosophies of language, visuality, and the environment, including how digital culture continues to shape these realms. 
 
 ### Introduction to the History of Art: Sacred Art and Architecture
-HSAR 150
-Jacqueline Jung
+HSAR 150  
+Jacqueline Jung  
 DH Fellow: Gavi Levy Haskell
  
 A wide-ranging, cross-temporal exploration of religious images, objects, and architecture in diverse cultures, from ancient Mesopotamia to modern Manhattan. Buddhist, Christian, Hindu, Jewish, Muslim, and various polytheistic traditions are represented. Thematic threads include the human body; transformations of nature; death, memory, and afterlife; sacred kingship and other forms of political engagement; practices of concealment and revelation; images as embodiments of the divine; the framing and staging of ritual through architecture.  
