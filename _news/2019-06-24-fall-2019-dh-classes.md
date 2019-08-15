@@ -59,7 +59,7 @@ Introduction to the basic ideas of computer science (computability, algorithm, v
 No previous experience with computers necessary. Enrollment limited to 25
     
 ### Data and Information Visualization
-CPSC 446, CPSC 546
+CPSC 446, CPSC 546  
 Holly Rushmeier
 
 Visualization is a powerful tool for understanding data and concepts. This course provides an introduction to the concepts needed to build new visualization systems, rather than to use existing visualization software. Major topics are abstracting visualization tasks, using visual channels, spatial arrangements of data, navigation in visualization systems, using multiple views, and filtering and aggregating data. Case studies to be considered include a wide range of visualization types and applications in humanities, engineering, science, and social science.
