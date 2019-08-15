@@ -1,6 +1,6 @@
 ---
 title: 'Every Pixel on the Sunset Strip: Machine Vision and Photographs'
-image: /assets/images/projects/originals/every-pixel-banner.jpg
+image: /assets/images/projects/originals/ruscha-notebook.jpg
 thumbnail: /assets/images/projects/thumbs/every-pixel-thumb.jpg
 alt: Rows of cars that were extracted from photographs of Los Angeles
 caption: Cars algorithmically extracted from Ed Ruscha's photographs of Los Angeles.
