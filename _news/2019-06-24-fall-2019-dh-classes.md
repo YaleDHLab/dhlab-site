@@ -66,6 +66,12 @@ Visualization is a powerful tool for understanding data and concepts. This cours
 
 Prerequisite: CPSC 223
 
+### Data Governance in the Digital Age
+GLBL 395  
+Nathaniel Raymond
+
+The information revolution is causing the rapid mass adoption of information communication technologies (ICTs) across nations, demographics, and sectors in the early 21st Century–such as mobile devices, social media platforms, “big data,” artificial intelligence (AI), and machine learning, geospatial mapping applications, and the Internet of Things (IoT). However, 20th Century international data governance policies, normative frameworks, and domestic regulations are struggling to keep pace with the disruptive impacts ICTs are having on an increasingly digitally networked world. This seminar explores critical issues, trends, and events relevant to both the adaption of existing data governance regimes to meet these challenges and the creation of new regimes by international organizations, the private sector, civil society, and national governments. 
+
 ### Introduction to Computing and Programming
 CPSC 100  
 Benedict Brown
@@ -74,6 +80,18 @@ Introduction to the intellectual enterprises of computer science and to the art 
 
 No previous programming experience required. Open to students of all levels and majors
     
+### Introduction to Media
+ENGL 196, FILM 160  
+R. John Williams
+
+Introduction to the long history of media as understood in classical and foundational (and even more recent experimental) theories. Topics involve the technologies of modernity, reproduction, and commodity, as well as questions regarding knowledge, representation, public spheres, and spectatorship. Special attention given to philosophies of language, visuality, and the environment, including how digital culture continues to shape these realms. 
+
+### Introduction to the History of Art: Sacred Art and Architecture
+HSAR 150
+Jacqueline Jung
+DH Fellow: Gavi Levy Haskell
+ 
+A wide-ranging, cross-temporal exploration of religious images, objects, and architecture in diverse cultures, from ancient Mesopotamia to modern Manhattan. Buddhist, Christian, Hindu, Jewish, Muslim, and various polytheistic traditions are represented. Thematic threads include the human body; transformations of nature; death, memory, and afterlife; sacred kingship and other forms of political engagement; practices of concealment and revelation; images as embodiments of the divine; the framing and staging of ritual through architecture.  
 
 ### Introduction to Web Application for the Digital Humanities
 CPSC 276  
