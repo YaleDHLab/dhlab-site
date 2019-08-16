@@ -1,8 +1,9 @@
 ---
 title: 'Every Pixel on the Sunset Strip: Machine Vision and Photographs'
-image: /assets/images/projects/originals/every-pixel-banner.jpg
-thumbnail: /assets/images/projects/thumbs/every-pixel-thumb.jpg
-alt: Rows of cars that were extracted from photographs of Los Angeles
+image: /assets/images/projects/originals/every-pixel-wide.jpg
+thumbnail: /assets/images/projects/thumbs/ruscha-thumb.jpg
+layout: project
+alt: Interface mapping the cars that were extracted from photographs of Los Angeles
 caption: Cars algorithmically extracted from Ed Ruscha's photographs of Los Angeles.
 team:
   - name: Yale Digital Humanities Lab Team
