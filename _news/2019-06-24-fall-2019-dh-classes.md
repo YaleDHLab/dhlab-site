@@ -9,9 +9,9 @@ categories:
 spotlight: false
 image_layout: simple
 teaser: |
-  Debating which classes to take this fall? Consider one that will help you collect, analyze, and visualize humanities data. Identify trends in French literature at scale, study the history of digital media, create web applications for humanities research, and more.
+  Looking for classes to take this fall? Consider one that will help you collect, analyze, and visualize humanities data. Identify trends in French literature at scale, study the history of digital media, create web applications for humanities research, and more.
 ---
-Still debating which classes to take this fall? Here's a list of options that will help you collect, analyze, and visualize humanities data! Course offerings range from theoretical considerations of the digital humanities to hands-on practice with the latest tools and languages. Identify trends in French literature at scale, study the history of digital media, create web applications for humanities research, and more.
+Looking for classes to take this fall? Here's a list of options that will help you collect, analyze, and visualize humanities data! Course offerings range from theoretical considerations of the digital humanities to hands-on practice with the latest tools and languages. Identify trends in French literature at scale, study the history of digital media, create web applications for humanities research, and more.
 
 *If you are teaching a course connected to DH and would like it included in the list below, or if you would like someone from the Yale Digital Humanities Lab to speak with your class, please [email the DHLab](mailto:dhlab@yale.edu).*
 
