@@ -2,10 +2,14 @@
   <div class='archive-item'>
     <a href='<%= baseurl %><%= item.url %>'>
       <div class='background-image'
-        style='background-image: url(<%= baseurl %><%= item.thumbnail %>)' alt='<%= item.alt %>'>
+        style='background-image: url(<%= baseurl %><%= item.thumbnail %>);'
+        alt='<%= item.alt %>'>
           <% if (item.funded) { %>
             <img src='<%= baseurl %>/assets/images/branding/dhlab-badge.svg'/>
           <% }; %>
+          <div class='archive-item-date'>
+            <%= item.date %>
+          </div>
         </div>
       <div class='title'><%= item.title %></div>
     </a>
