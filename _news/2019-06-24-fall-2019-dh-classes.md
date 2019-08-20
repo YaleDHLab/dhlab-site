@@ -102,7 +102,7 @@ Introduction to applications of computer and data science in the humanities, inc
 Prerequisite: CPSC 110, CPSC 112, equivalent programming experience, or permission of the instructor
     
 
-### Literature and Philosophy from Locke to Kent
+### Literature and Philosophy from Locke to Kant
 ENGL 729  
 Jonathan Kramnick
 
