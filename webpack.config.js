@@ -1,8 +1,8 @@
 const OptimizeCssAssetsPlugin = require('optimize-css-assets-webpack-plugin');
-const ExtractTextPlugin = require('extract-text-webpack-plugin');
+const MiniCssExtractPlugin = require('mini-css-extract-plugin');
 const CopyWebpackPlugin = require('copy-webpack-plugin');
 const HtmlWebpackPlugin = require('html-webpack-plugin');
-const webpack = require('webpack'); 
+const webpack = require('webpack');
 const path = require('path');
 
 const paths = {
@@ -10,51 +10,51 @@ const paths = {
   build: path.resolve(__dirname, '_site', 'assets'),
 }
 
-const uglifyConfig = {
-  minimize: true,
-  mangle: true,
-  comments: false,
-  sourceMap: false,
-}
-
 module.exports = {
   entry: paths.src,
+  resolve: {
+    extensions: ['.js', '.jsx']
+  },
   output: {
     path: paths.build,
     filename: 'bundle.js'
   },
+  performance: {
+    hints: false,
+  },
   module: {
     rules: [
       {
-        test: /\.js$/,
+        test: /\.(js|jsx)$/,
         exclude: /(node_modules)/,
         use: {
           loader: 'babel-loader',
           options: {
-            presets: ['env']
+            presets: ['@babel/env']
           }
         }
       },
       {
-        test: /\.css$/,
-        exclude: /(node_modules)/,
-        use: ExtractTextPlugin.extract({
-          fallback: 'style-loader',
-          use: 'css-loader'
-        })
+        test: /\.(css)$/,
+        use: [
+          {
+            loader: MiniCssExtractPlugin.loader,
+            options: {
+              hmr: process.env.NODE_ENV === 'development',
+            },
+          },
+          'css-loader',
+        ],
       },
       {
-        test: /\.html$/,
+        test: /\.(html)$/,
         use: [
           {
             loader: 'underscore-template-loader',
-            options: {}
-          }
-        ]
-      }
+          },
+        ],
+      },
     ]
   },
-  plugins: [
-    new webpack.optimize.UglifyJsPlugin(uglifyConfig),
-  ]
+  plugins: []
 };

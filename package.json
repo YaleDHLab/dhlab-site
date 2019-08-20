@@ -8,13 +8,22 @@
   "license": "MIT",
   "babel": {
     "presets": [
-      "env"
-    ]
+      "@babel/env",
+      "@babel/react"
+    ],
+    "env": {
+      "start": {
+        "presets": [
+          "@babel/env",
+          "@babel/react"
+        ]
+      }
+    }
   },
   "scripts": {
-    "start": "bundle exec jekyll serve --port 5000",
+    "start": "bundle exec jekyll serve --port 5000 --incremental",
     "build": "bundle exec jekyll build JEKYLL_ENV=production",
-    "compress": "./node_modules/webpack/bin/webpack.js --config webpack.config.js",
+    "compress": "./node_modules/webpack/bin/webpack.js --config webpack.config.js --mode production",
     "gzip": "find _site \\( -iname '*.html' -o -iname '*.css' -o -iname '*.js' \\) -exec gzip -9 -n {} \\; -exec mv {}.gz {} \\;",
     "index": "node _site/assets/js/search/build-index.js",
     "lint-js": "./node_modules/eslint/bin/eslint.js -c './assets/config/.eslintrc.js' assets/js/",
@@ -24,28 +33,28 @@
     "deploy": "python utils/upload.py production"
   },
   "dependencies": {
-    "d3": "^4.12.0",
-    "lodash": "^4.17.4",
-    "lunr": "^2.1.4",
-    "moment": "^2.20.1",
-    "npm": "^5.7.1"
+    "d3": "^4.13.0",
+    "lodash": "^4.17.15",
+    "lunr": "^2.3.6",
+    "moment": "^2.24.0"
   },
   "devDependencies": {
-    "babel-core": "^6.26.0",
-    "babel-loader": "^7.1.2",
-    "babel-preset-env": "^1.6.0",
-    "clean-webpack-plugin": "^0.1.17",
-    "copy-webpack-plugin": "^4.1.0",
-    "css-loader": "^0.28.7",
-    "eslint": "^4.11.0",
+    "@babel/core": "^7.5.5",
+    "@babel/preset-env": "^7.5.5",
+    "@babel/preset-react": "^7.0.0",
+    "babel-loader": "^8.0.6",
+    "clean-webpack-plugin": "^3.0.0",
+    "copy-webpack-plugin": "^5.0.3",
+    "css-loader": "^3.1.0",
+    "eslint": "^6.2.1",
     "eslint-plugin-frontmatter": "^0.0.5",
-    "extract-text-webpack-plugin": "^3.0.1",
-    "html-webpack-plugin": "^2.30.1",
-    "jest": "^21.2.1",
-    "optimize-css-assets-webpack-plugin": "^3.2.0",
-    "style-loader": "^0.19.0",
-    "underscore-template-loader": "^0.8.0",
-    "webpack": "^3.6.0",
-    "webpack-dev-server": "^2.9.1"
+    "html-webpack-plugin": "^3.2.0",
+    "jest": "^24.9.0",
+    "mini-css-extract-plugin": "^0.8.0",
+    "optimize-css-assets-webpack-plugin": "^5.0.3",
+    "style-loader": "^0.23.1",
+    "underscore-template-loader": "^1.0.0",
+    "webpack": "^4.36.1",
+    "webpack-cli": "^3.3.6"
   }
 }
