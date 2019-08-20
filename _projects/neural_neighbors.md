@@ -29,6 +29,6 @@ Artificial neural networks are a form of machine vision that mimic the human bra
 
 Humans have difficulty conceptualizing more than three dimensions, but modern algorithms can easily compute the closest images in this high-dimensional space—the "nearest neighbors" of each photograph in 2,048 different ways of seeing. This produces a powerful metric for determining visual similarity, as images that share the same visual characteristics will appear near each other.
 
-### Pictoral Tropes
+### Pictorial Tropes
 
 *Neural Neighbors* combines these two data-mining techniques to illuminate the conventions of portraiture and other visual genres in the 19th century. The project reveals how technical limitations, the economics of commercial photography, and received ideals of visual composition produced marked patterns in how individuals and objects were figured. *Neural Neighbors* suggests new ways of understanding this interaction between circulation, social context, and artistic form in the Meserve-Kunhardt Collection. More collections will be added to the site over time.

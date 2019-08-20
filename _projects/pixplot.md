@@ -22,7 +22,7 @@ permalink: '/projects/pixplot/'
 *PixPlot* facilitates the dynamic exploration of tens of thousands of images. Inspired by Benoît Seguin et al's paper at DH Krakow (2016), *PixPlot* uses the penultimate layer of a pre-trained convolutional neural network for image captioning to derive a robost featurization space in 2,048 dimensions.
 
 ### Improved Dimensionality Reduction
-In order to collapse those 2,048 dimensions into something that can be rendered on a computer screen, we turned to Uniform Manifold Approximation and Projection (UMAP), a dimensionality reduction technique similar to t-Distributed Stochastic Neighbor Embedding (t-SNE) that seeks to preserve both local clusters and an intrepretable global shape. 
+In order to collapse those 2,048 dimensions into something that can be rendered on a computer screen, we turned to Uniform Manifold Approximation and Projection (UMAP), a dimensionality reduction technique similar to t-Distributed Stochastic Neighbor Embedding (t-SNE) that seeks to preserve both local clusters and an interpretable global shape. 
 
 ### Dynamic Visualization
 To visualize the results, we looked to approaches more commonly deployed in 3D game design. The resulting WebGL-powered visualization consists of a two-dimensional projection within which similar images cluster together. Users can navigate the space by panning and zooming in and out of clusters of interest, or they can jump to designated "hotspots" that feature a representative image from each cluster, as identified by the computer. 
