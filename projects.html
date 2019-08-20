@@ -24,7 +24,8 @@ title: Projects
 
 {% assign projects = '' | split: '' %}
 {% assign n_projects = 0 %}
-{% for project in site.projects %}
+{% assign all_projects = site.projects | sort: 'title' %}
+{% for project in all_projects %}
   {% unless project.featured or project.funded or project.layout == 'archive' or project.browsable == false %}
     {% assign n_projects = n_projects | plus: 1 %}
     {% assign projects = projects | push: project %}
