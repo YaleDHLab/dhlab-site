@@ -13,11 +13,11 @@ Office Hours provide a weekly opportunity to exchange ideas, discuss methods, an
  
 Whether you are new to the field and would like to learn more, have an existing project and seek a communal workspace, or are somewhere in between, we invite you to stop by!
 
-**When (during the summer)**: Tuesdays, 2:00 - 4:00 p.m.  
-**When (during the academic year)**: Monday through Thursday, 2:00 - 3:00 p.m.  
+<!--**When (during the summer)**: Tuesdays, 2:00 - 4:00 p.m.-->  
+**When**: Monday through Thursday, 3:00 - 4:00 p.m.  
 **Where**: Franke Family Digital Humanities Laboratory, first floor of Sterling Memorial Library  
 **Who**: Everyone in the Yale community, no advanced registration required  
 
 In addition to general DH Office Hours, specialized support will be available as follows for questions on:
-- Tuesdays at 2:00 p.m. \| Geographic information systems (GIS) 
-- Tuesdays at 2:00 p.m. \| Python and R
+- Tuesdays at 3:00 p.m. \| Geographic information systems (GIS) 
+- Tuesdays at 3:00 p.m. \| Python and R
