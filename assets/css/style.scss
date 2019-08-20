@@ -1795,7 +1795,7 @@ section {
 
 .archive-grid .archive-item .title {
   font-size: .9em;
-  padding-top: 4px;
+  padding-top: 8px;
   font-weight: 600;
   min-height: 40px;
   white-space: normal;
@@ -1819,6 +1819,10 @@ section {
   bottom: 5px;
   left: 5px;
   width: 55px;
+}
+
+.archive-item .archive-item-date {
+  display: none;
 }
 
 @media (max-width: $desktop_breakpoint) {
@@ -4031,6 +4035,34 @@ br + .tags,
 .events-page .three-text-blocks {
   padding-left: 0;
   padding-right: 0;
+}
+
+.events-page .archive-item a:hover .background-image {
+  outline: 5px solid #F9BE00;
+}
+
+.events-page .archive-item a:hover .background-image::before {
+  content: '';
+  position: absolute;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  background-color: rgba(0,0,0,0.5);
+}
+
+.events-page .archive-item a:hover .archive-item-date {
+  position: absolute;
+  top: 50%;
+  left: 0;
+  right: 0;
+  text-align: center;
+  font-size: 15px;
+  line-height: 16px;
+  margin-top: -8px;
+  font-weight: 600;
+  color: #fff;
+  display: block;
 }
 
 @media (max-width: 800px) {

@@ -37,7 +37,7 @@ yarn install
 Finally, you can start the development server by running:
 
 ```
-bundle exec jekyll serve
+bundle exec jekyll serve --incremental
 ```
 
 ## Deployment
