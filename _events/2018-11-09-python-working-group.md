@@ -1,5 +1,5 @@
 ---
-title: "Python Working Group Meeting"
+title: "Python Working Group"
 date: 2019-06-28
 dates: 
   - 2019-07-19
@@ -11,7 +11,7 @@ dates:
   - 2019-08-30
   - 2019-09-06
 time: 2:00 - 3:00 p.m.
-location: Digital Humanities Lab
+location: Franke Family Digital Humanities Laboratory
 thumbnail: /assets/images/events/python2.jpg
 alt: 
 registerurl:
@@ -29,4 +29,4 @@ Interested in learning Python at your own pace but aren't sure where to start? L
 
 No previous Python experience is required; all levels of programming experience are welcome.
 
-This group meets on Fridays.
+This group meets on Fridays and will be switching to a 3:00-4:00 p.m. timeslot starting August 30.
