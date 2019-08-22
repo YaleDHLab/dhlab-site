@@ -1,5 +1,5 @@
 ---
-title: Python for Humanists
+title: Python for Humanists, Part I
 date: 2019-09-06
 time: 1:30 - 3:00 p.m.
 location: Franke Family Digital Humanities Laboratory
@@ -12,7 +12,7 @@ tags:
   - Python
   - Text Analysis
 teaser: >
-  This workshop will provide a broad overview of network analysis. We'll cover what networks are, how you can interpret them, and why you might want to use them in your research.
+  Curious about Python but not sure where to start? This workshop will introduce the basics of programming in Python.
 ---
 
 ### Overview
@@ -22,7 +22,7 @@ Curious about Python but not sure where to start? This workshop will introduce t
 In particular, we will cover:
 - writing & running Python scripts
 - finding & importing Python libraries
-- using built-in functions to perform tasks
+- using built-in functions to perform tasks.
 
 Designed for participants who have no prior programming experience, this workshop will serve as a foundation for upcoming DHLab workshops on text and data mining.
 
