@@ -2,6 +2,7 @@
 title: "Python Working Group"
 date: 2019-08-30
 dates: 
+  - 2019-08-30
   - 2019-09-06
   - 2019-09-13
   - 2019-09-20
