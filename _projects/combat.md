@@ -28,7 +28,7 @@ Our team is mapping a network of contributors based on an index of signed and un
 <img src='{{site.baseurl}}/assets/images/projects/project-extras/combat-team.jpg'
      alt='Members of the editorial team standing together to toast the New Year'
      style='float: left; margin-right: 10px; padding-bottom: 10px' />
-*Camus and the editorial team gathered to toast the New Year, January 2, 1945. Photo taken by* Combat *photographer René Saint-Paul*.
+*Camus and the editorial team gathered to toast the New Year, January 2, 1945. Photo taken by* Combat *photographer René Saint-Paul. Photo credit: René Saint-Paul, Rue des Archives*.
 
 ### Guiding Research Questions
 
