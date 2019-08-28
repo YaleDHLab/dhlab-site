@@ -25,7 +25,7 @@ Drop in anytime to contribute to the project, enjoy snacks, and play Ensemble@Ya
 
 **Please bring a computer with you to the trascribe-a-thon.** Both events are open to the entire Yale community and public. 
 
-Can’t make it in person? We’ll be livestreaming the initial demo on the <a href='https://www.facebook.com/YaleHaasArtsLib/' target='_blank'>Arts Library Facebook</a> and <a href='https://www.instagram.com/haasartslibrary/' target='_blank'>Instagram</a> around 2:15PM! 
+Can’t make it in person? We’ll be livestreaming the initial demo on the <a href='https://www.facebook.com/YaleHaasArtsLib/' target='_blank'>Haas Arts Library Facebook</a> and <a href='https://www.instagram.com/haasartslibrary/' target='_blank'>Instagram</a> around 2:15 p.m.! 
 
 ### Trascribe-a-Thon Sessions
 
