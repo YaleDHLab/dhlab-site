@@ -12,9 +12,8 @@ def gzip():
   os.system(cmd)
 
 def upload(bucket, gzipped=False, filetype=None):
-  cmd =  "aws s3 cp " + _site + " " + bucket + " "
+  cmd =  "aws s3 sync " + _site + " " + bucket + " "
   cmd += "--acl public-read "
-  cmd += "--recursive "
   cmd += "--metadata-directive='REPLACE' "
   cmd += "--profile yale-admin "
   cmd += "--cache-control max-age=86400 "
