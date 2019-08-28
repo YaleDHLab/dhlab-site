@@ -1,5 +1,5 @@
 ---
-title: "Ensemble Transcribe-a-thons: Record Yale's Theatrical History"
+title: "Ensemble Transcribe-a-Thons: Record Yale's Theatrical History"
 date: 2019-03-01
 time: 2:00 - 4:00 p.m.
 location: Digital Humanities Lab
@@ -12,7 +12,7 @@ tags:
   - Crowdsourcing
   - Data Collection
 teaser: >
-  Help record Yale's theatrical history by joining the Haas Arts Library and Digital Humanities Lab for one or more of our Ensemble@Yale Transcribe-a-thons. Premiering in 2017 with over 12,000 pages of archival theater programs, Ensemble@Yale is an experiment that aims to transform historic programs into searchable text through crowdsourced transcription. 
+  Help record Yale's theatrical history by joining the Haas Arts Library and Digital Humanities Lab for one or more of our Ensemble@Yale Transcribe-a-Thons. Premiering in 2017 with over 12,000 pages of archival theater programs, Ensemble@Yale is an experiment that aims to transform historic programs into searchable text through crowdsourced transcription. 
 ---
 Help record Yale's theatrical history by participating in an upcoming *Ensemble@Yale* Transcribe-a-thon. Back by popular demand, we will also have rounds of Yale Drama Trivia at the conclusion of each event.
 
@@ -24,7 +24,7 @@ All are invited to participate. Join in person or remotely for some or all of th
 
 *The transcribe-a-thons are co-sponsored by the Yale Haas Family Arts Library and Yale Digital Humanities Lab.*
 
-### Trascribe-a-thon Sessions
+### Trascribe-a-Thon Sessions
 
 March 1 from 2:00 - 4:00 p.m.
 Franke Family Digital Humanities Laboratory  
