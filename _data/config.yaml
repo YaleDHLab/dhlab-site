@@ -1,0 +1,24 @@
+methods:
+  text_analysis:
+    - vogue
+    - let-them-speak
+    - chirila_db
+    - dhrees
+    - machine-vision
+  visual_analysis:
+    - pixplot
+    - neural-neighbors
+    - every-pixel
+    - athena
+    - machine-vision
+  spatial_analysis:
+    - photogrammar
+    - nhba
+    - gathering
+    - every-pixel
+    - decisive-network
+  network_analysis:
+    - decisive-network
+    - asakawa
+    - combat
+    - pauli_murray
