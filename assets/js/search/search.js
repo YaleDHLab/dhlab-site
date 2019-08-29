@@ -20,7 +20,6 @@ import resultTemplate from '../../templates/search-result-template.html';
     button = document.querySelector('#search-button'),
     input = document.querySelector('#search-input'),
     mobileInput = document.querySelector('#mobile-search'),
-    sortBy = document.querySelector('#search-select'),
     loader = document.querySelector('.search-bar .loader'),
     breakpoint = 900; // mobile nav breakpoint
 
@@ -124,12 +123,16 @@ import resultTemplate from '../../templates/search-result-template.html';
 
   const runFuzzySearch = (val) => {
     let matches = [];
+    let nan = []; // matches that don't have a seconds attribute
     idx.search(val).map((match) => {
       let itemMetadata = idToMetadata[match.ref];
       itemMetadata.relevance = match.score;
-      matches.push(itemMetadata)
+      itemMetadata.seconds = parseFloat(itemMetadata.seconds);
+      isNaN(itemMetadata.seconds)
+        ? nan.push(itemMetadata)
+        : matches.push(itemMetadata)
     })
-    const sorted = _.chain(matches).sortBy(sortBy.value).reverse().value();
+    let sorted = _.chain(matches).sortBy('seconds').reverse().value().concat(nan);
     updateResults(sorted);
   }
 
@@ -249,7 +252,6 @@ import resultTemplate from '../../templates/search-result-template.html';
 
   window.addEventListener('resize', handleResize);
   window.addEventListener('click', handleBodyClick);
-  sortBy.addEventListener('change', search);
   target.addEventListener('click', toggleSearch);
   input.addEventListener('keydown', handleKeys);
   button.addEventListener('click', search);
