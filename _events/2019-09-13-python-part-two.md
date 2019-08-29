@@ -3,7 +3,7 @@ title: Python for Humanists, Part II
 date: 2019-09-13
 time: 1:30 - 3:00 p.m.
 location: Franke Family Digital Humanities Laboratory
-thumbnail: /assets/images/events/python-workshop-web.jpg
+thumbnail: /assets/images/events/python-workshops_web.jpg
 alt: An open laptop with the word Python written on it
 registerurl: https://schedule.yale.edu/event/5758396
 categories:
