@@ -6,7 +6,7 @@ caption: >
   Fall 2018 Digital Humanities Teaching Fellows. Photo by Mara Lavitt.
 alt: Three Digital Humanities Teaching Fellows (fall 2018) standing in front of the Special Projects Cube in the Franke Family Digital Humanities Laboratory.
 application_text: >
-  Apply now to become one of our Digital Humanities Teaching Fellows.
+  Apply now to become one of our Spring 2020 Fellows.
 apply_button:
 application_url: >
   https://docs.google.com/forms/d/e/1FAIpQLSdXL7XBml2aGR2aprFD4KB-9Mq837aRuL0xSLpij-_YW6stlg/viewform?usp=sf_link
@@ -63,7 +63,7 @@ overview: teaching_fellows
   {% capture right_text_two %}
     <p>Yale graduate students in the humanities with a teaching appointment are eligible to apply.</p>
 
-    <p>For more information, please <a href='mailto:dhlab@yale.edu'>email the DHLab</a> or <a href='https://docs.google.com/forms/d/e/1FAIpQLSdXL7XBml2aGR2aprFD4KB-9Mq837aRuL0xSLpij-_YW6stlg/viewform?usp=sf_link' target='_blank'>submit an application.</a></p>
+    <p>For more information, please <a href='mailto:dhlab@yale.edu'>email the DHLab</a> or <a href='https://docs.google.com/forms/d/e/1FAIpQLSdXL7XBml2aGR2aprFD4KB-9Mq837aRuL0xSLpij-_YW6stlg/viewform?usp=sf_link' target='_blank'>submit an application.</a> Applications are currently being accepted for Spring 2020 appointments.</p>
   {% endcapture %}
 
   {% include text/color_blocks.html
