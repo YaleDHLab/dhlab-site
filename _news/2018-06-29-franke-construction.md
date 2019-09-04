@@ -1,5 +1,4 @@
 ---
-spotlight_bottom: true
 title: "See the construction leading to the DHLab's renovation"
 date: June 29, 2018
 thumbnail: /assets/images/news/franke-construction.jpg
