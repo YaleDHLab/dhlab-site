@@ -1,11 +1,11 @@
-baseurl: /dhlab-site/
+baseurl: /dhlab-site
 url: http://yaledhlab.github.io
 
 # render posts with dates in the future
 future: true
 
 # minify html in production
-minify_html: true
+minify_html: false
 
 # create lunr index
 create_index: true
