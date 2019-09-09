@@ -1,0 +1,28 @@
+{% assign n_items = include.items | size %}
+{% if n_items > 0 %}
+  <section class='three-text-blocks'>
+    <div class='section-title'>{{ include.label }}</div>
+    <hr>
+    {% for item in include.items limit: 3 %}
+      {% assign url = item.url | prepend: site.baseurl %}
+      <div class='block block-{{ forloop.index }}'>
+        <a href='{{ url }}' tabindex='-1'>
+          <h2>
+          {% if item.short_title %}
+            {{ item.short_title }}
+          {% else %}
+            {{ item.title }}
+          {% endif %}
+          </h2>
+        </a>
+        <div class='small-uppercase'>{{ item.date | date: '%b %d %Y' }}</div>
+        <p>{{ item.content | markdownify | strip_html | truncatewords: 30 | replace_first:'Overview ','' }}</p>
+        {% if item.status == 'fulfilled' %}
+          <div class='status'>Fulfilled</div>
+        {% else %}
+          <a href='{{ url }}'>Learn More &raquo;</a>
+        {% endif %}
+      </div>
+    {% endfor %}
+  </section>
+{% endif %}

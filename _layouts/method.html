@@ -1,0 +1,51 @@
+---
+layout: default
+class: method-detail-page
+---
+
+{% assign image_url = page.image | prepend: site.baseurl %}
+{% include heroes/captioned_hero.html
+  label = 'WHAT IS DIGITAL HUMANITIES?'
+  title = page.title
+  image = image_url
+  caption = page.caption
+%}
+
+<div class='center-column'>
+  <div class='two-column-container one-third-width top-text'>
+    <div class='left-column'>
+
+    {% assign projects = '' | split: '' %}
+    {% assign selected = site.data.config.methods[page.slug] %}
+    {% for project in site.projects %}
+      {% if selected contains project.slug %}
+        {% assign projects = projects | push: project %}
+      {% endif %}
+    {% endfor %}
+    {% assign projects = projects | sort: 'title' %}
+
+    {% include sidebars/standalone_link_list.html
+      items = projects
+      page = page
+      label = 'Selected Projects'
+      sort = 'none'
+    %}
+
+    </div>
+    <div class='right-column'>
+      {% include text/mobile_section_title.html
+        category = 'Methods'
+        title = page.title
+      %}
+
+      {{ content }}
+    </div>
+  </div>
+  {% assign items = site.methods | sort: 'order' %}
+  {% include grids/three_rectangle_images.html
+    items = items
+    skip_number = page.order
+  %}
+
+  {% include text/methods_guides_bottom.html %}
+</div>

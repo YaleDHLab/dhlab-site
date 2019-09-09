@@ -1,0 +1,45 @@
+---
+layout: default
+class: resource-detail-page
+---
+
+{% assign image_url = page.image | prepend: site.baseurl %}
+{% include heroes/captioned_hero.html
+  label='RESOURCES'
+  title=page.title
+  image=image_url
+  caption=page.caption
+%}
+
+<div class='center-column'>
+  <div class='two-column-container one-third-width top-text'>
+    <div class='left-column'>
+    {% include sidebars/standalone_link_list.html
+      items=site.resources
+      page=page
+    %}
+    </div>
+    <div class='right-column'>
+      {% include text/mobile_section_title.html
+        category = 'Resources'
+        title = page.title
+      %}
+      {{ content }}
+    </div>
+  </div>
+  {% if page.include_workshops %}
+    <div class='resource-page-workshops'>
+      {% include events/get_future_events.html category='Workshop' %}
+      {% include resources/workshops.html
+        items=future_events
+        label='Upcoming Workshops'
+      %}
+
+      {% include events/get_past_events.html category='Workshop' %}
+      {% include resources/workshops.html
+        items=past_events
+        label='Past Workshops'
+      %}
+    </div>
+  {% endif %}
+</div>

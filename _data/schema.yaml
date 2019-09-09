@@ -1,0 +1,95 @@
+_events:
+  required:
+    - title
+    - date
+    - thumbnail
+    - teaser
+  optional:
+    - image
+    - caption
+    - categories
+    - tags
+    - spotlight_top
+    - spotlight_bottom
+    - image_layout
+
+_guides:
+  required:
+    - title
+    - subtitle
+    - image
+    - order
+  optional:
+    - caption
+    - teaser
+    - class
+
+_methods:
+  required:
+    - title
+    - order
+    - project_category
+    - image
+  optional:
+    - caption
+    - teaser
+    - class
+
+_news:
+  required:
+    - title
+    - date
+    - thumbnail
+    - image_layout
+    - teaser
+  optional:
+    - image
+    - caption
+    - categories
+    - tags
+    - spotlight_top
+    - spotlight_bottom
+    - class
+
+_opportunities:
+  required:
+    - title
+    - order
+    - image
+    - deadline
+  optional:
+    - application_text
+    - application_url
+    - caption
+    - class
+    - overview
+
+_projects:
+  required:
+    - title
+    - thumbnail
+  optional:
+    - layout
+    - categories
+    - tags
+    - class
+    - project_url
+    - team
+
+_resources:
+  required:
+    - title
+    - order
+    - layout
+    - image
+    - caption
+  optional:
+    - include_workshops
+
+_team:
+  required:
+    - name
+    - role
+    - image
+    - order
+    - group

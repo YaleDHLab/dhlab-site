@@ -1,0 +1,61 @@
+---
+layout: default
+class: news-detail-page simple-page
+---
+
+<!-- Find recent items for bottom text squares -->
+{% assign items = '' | split: '' %}
+{% assign news = site.news | sort: 'date' | reverse %}
+{% for item in news %}
+  {% assign n_news_items = items | size %}
+  {% if n_news_items < 3 %}
+    {% if item.url != page.url %}
+      {% assign items = items | push: item %}
+    {% endif %}
+  {% endif %}
+{% endfor %}
+
+{% if page.image_layout == 'simple' %}
+  {% assign page_class = 'simple-page' %}
+  {% include simple.html
+    page=page
+    content=content
+    label='NEWS'
+    page_type='news'
+    bottom_label='RELATED NEWS'
+    bottom_items=items
+  %}
+{% endif %}
+
+{% if page.image_layout == 'landscape' %}
+  {% assign page_class = 'news-landscape-page' %}
+  {% assign image_url = page.image | prepend: site.baseurl %}
+  {% include heroes/captioned_hero.html
+    label='NEWS'
+    title=page.title
+    image=image_url
+    caption=page.caption
+  %}
+
+  <div class='center-column {{ page_class }}'>
+    <div class='two-column-container one-third-width top-text'>
+      <div class='left-column'>
+        {% include news/news_sidebar.html page=page %}
+      </div>
+      <div class='right-column'>
+      {% include text/mobile_section_title.html
+        category='NEWS'
+        title=page.title
+        date=page.date
+      %}
+      <div class='mobile'>{{ page.date | date: '%B %-d, %Y' }}</div>
+      {{ content }}
+      </div>
+    </div>
+
+    {% include text/three_text_blocks.html
+      items=items
+      label='RELATED'
+    %}
+  </div>
+{% endif %}

@@ -1,0 +1,37 @@
+---
+layout: default
+class: project-detail-page
+---
+
+{% assign image_url = page.image | prepend: site.baseurl %}
+{% include heroes/captioned_hero.html
+  label='PROJECTS'
+  title=page.title
+  image=image_url
+  video=page.video
+  caption=page.caption
+  deeplink=page.project_url
+  alt=page.alt
+%}
+
+<div class='center-column'>
+  <div class='two-column-container one-third-width top-text'>
+    <div class='left-column'>
+      {% include projects/team_members.html page=page %}
+      <br/>
+      {% if page.project_url %}
+        <a href='{{ page.project_url }}' target='_blank' class='color-button'>View Project</a>
+      {% endif %}
+      {% include tags.html page=page query_route='projects' %}
+    </div>
+    <div class='right-column'>
+      <div class='mobile'>
+        {% include text/mobile_section_title.html
+          category='PROJECTS'
+          title=page.title
+        %}
+      </div>
+      {{ content }}
+    </div>
+  </div>
+</div>

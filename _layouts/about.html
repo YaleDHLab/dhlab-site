@@ -1,0 +1,13 @@
+---
+layout: default
+---
+
+{% assign image_url = page.image | prepend: site.baseurl %}
+{% include heroes/captioned_hero.html
+  label='About'
+  title=page.title
+  caption=page.caption
+  image=image_url
+%}
+
+{{ content }}

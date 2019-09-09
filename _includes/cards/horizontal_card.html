@@ -1,0 +1,33 @@
+<!-- Used for event cards and news cards -->
+<div class='horizontal-card'>
+  <a href='{{ include.item.url | prepend: site.baseurl }}' tabindex='-1'>
+    <div class='stripe'></div>
+    <div class='image-container'>
+      <div class='image background-image event-date-container'
+        style='background-image: url({{ include.item.thumbnail | prepend: site.baseurl }})'>
+        {% if include.item.time %}
+          {% include events/event_date.html event=include.item %}
+        {% endif %}
+      </div>
+    </div>
+  </a>
+  <div class='text'>
+    <a href='{{ include.item.url | prepend: site.baseurl }}'>
+      <!-- News items and events have different content -->
+      {% if include.item.date and include.item.time %}
+        {% include events/event_metadata.html event=include.item %}
+        <br/>
+        <div class='teaser hide-mobile'><p>{{ include.item.teaser | truncatewords: 50 }}</p></div>
+      {% else %}
+        {% include news/news_metadata.html item=include.item %}
+        <br/>
+        <div class='teaser hide-mobile'><p>{{ include.item.teaser | truncatewords: 50 }}</p></div>
+      {% endif %}
+    </a>
+    {%- capture now %}{{ 'now' | date: '%s' | minus: 0 }}{% endcapture -%}
+    {%- capture date %}{{ include.item.date | date: '%s' | minus: 0 }}{% endcapture -%}
+    {% if include.item.registerurl and date >= now %}
+      <a href='{{ include.item.registerurl }}' class='color-button'>Register</a>
+    {% endif %}
+  </div>
+</div>

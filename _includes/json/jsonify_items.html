@@ -1,0 +1,12 @@
+<div class='grid-target-container'>
+  <div id='grid-target' class='grid-target'></div>
+</div>
+<script>
+  var {{ include.var }} = [
+    {%- for item in include.items %}
+      {% unless item.render == false %}  
+        {% include json/jsonify_item.html item=item %}
+      {% endunless %}
+    {%- endfor %}
+  ];
+</script>

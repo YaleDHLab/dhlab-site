@@ -1,3 +1,7 @@
+---
+process: true
+---
+
 import _ from 'lodash';
 import { renderArchive, renderNews, renderProjects } from './render';
 

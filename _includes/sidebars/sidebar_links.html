@@ -1,0 +1,28 @@
+<div class='sidebar-links'>
+  {% if include.sort == 'none' %}
+    {% assign items = include.items %}
+  {% else %}
+    {% assign items = include.items | sort: 'order' %}
+  {% endif %}
+
+  {% for item in items %}
+    {% if item.url == include.page.url %}
+      {% assign class = 'active' %}
+    {% else %}
+      {% assign class = ' ' %}
+    {% endif %}
+    {% if item.deeplink %}
+      {% assign url = item.deeplink %}
+      {% assign truncated = url | truncate: 4 %}
+      {% if truncated == '/...' %}
+        {% assign url = url | prepend: site.baseurl %}
+      {% endif %}
+    {% else %}
+      {% assign url = item.url | prepend: site.baseurl %}
+    {% endif %}
+    <a href='{{ url }}' class='{{ class }}'>
+      <b>{{ item.title }}</b>
+    </a>
+    <br/>
+  {% endfor %}
+</div>

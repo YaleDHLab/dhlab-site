@@ -1,0 +1,13 @@
+{% if include.item %}
+  <h2>{{ include.item.title }}</h2>
+  {{ include.item.teaser }}
+  {% if include.item.button_url and include.item.button_text %}
+    {% capture url %}{{ site.baseurl }}/{{ include.item.button_url }}{% endcapture %}
+    <a href='{{ url }}' class='white-button'>{{ include.item.button_text }}</a>
+  {% endif %}
+  <hr />
+{% else %}
+  <h2>{{ include.title }}</h2>
+  {{ include.teaser }}
+  <hr />
+{% endif %}

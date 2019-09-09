@@ -1,0 +1,26 @@
+<div class='rectangle-image-grid circle-caret'>
+  <div class='two-column-container half-width'>
+    <div class='left-column'>
+      {% include grids/four_rectangle_image_grid_cell.html
+        item=include.top_left
+      %}
+    </div>
+    <div class='right-column'>
+      {% include grids/four_rectangle_image_grid_cell.html
+        item=include.top_right
+      %}
+    </div>
+  </div>
+  <div class='two-column-container half-width'>
+    <div class='left-column'>
+      {% include grids/four_rectangle_image_grid_cell.html
+        item=include.bottom_left
+      %}
+    </div>
+    <div class='right-column'>
+      {% include grids/four_rectangle_image_grid_cell.html
+        item=include.bottom_right
+      %}
+    </div>
+  </div>
+</div>

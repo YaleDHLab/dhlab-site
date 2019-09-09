@@ -1,0 +1,8 @@
+{% if include.page.deadline %}
+  <hr class='sidebar'>
+  <b>Deadline: {{ include.page.deadline }}</b>
+  <div class='sidebar-text'>{{ include.page.application_text }}</div>
+  {% unless include.page.apply_button == 'hidden' %}
+    <a href='{{ include.page.application_url }}' class='color-button'>Apply Here</a>
+  {% endunless %}
+{% endif %}

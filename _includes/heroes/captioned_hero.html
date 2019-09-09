@@ -1,0 +1,39 @@
+{% if include.deeplink %}
+  <a class='hero-link'
+    href='{{ include.deeplink }}'>
+{% else %}
+  {% if include.url %}
+  <a class='hero-link'
+    href='{{ include.url | prepend: site.baseurl }}'>
+  {% endif %}
+{% endif %}
+
+{% if include.video %}
+  <div class='hero hero-video'>
+    <video autoplay muted loop>
+      <source src='{{ include.video | prepend: site.baseurl }}' type='video/mp4'>
+    </video>
+  </div>
+{% else %}
+  {% if include.alt %}
+  <div class='hero background-image'
+    style='background-image:url({{ include.image }})'
+        alt='{{ include.alt }}'>
+  {% else %}
+  <div class='hero background-image'
+    style='background-image:url({{ include.image }})'
+        alt='{{ include.title }}'>
+  {% endif %}
+{% endif %}
+  <div class='hero-text-container'>
+    {% assign label = include.item.categories | first %}
+    {% include cards/card_title_box.html
+      label=include.label
+      title=include.title
+      deeplink=include.deeplink %}
+    <div class='hero-caption'>{{ include.caption }}</div>
+  </div>
+</div>
+{% if include.deeplink or include.url %}
+  </a>
+{% endif %}

@@ -1,0 +1,113 @@
+{% if include.page.image %}
+  {% assign image_url = include.page.image %}
+{% elsif include.page.thumbnail %}
+  {% assign image_url = include.page.thumbnail %}
+{% endif %}
+{% if image_url %}
+  {% include heroes/mobile_hero.html image=include.page.thumbnail %}
+{% endif %}
+
+{% case include.page.layout %}
+  {% when 'news' %}
+    {% assign page_type = 'news' %}
+  {% when 'event' %}
+    {% assign page_type = 'events' %}
+  {% when 'archive' %}
+    {% assign page_type = 'projects' %}
+{% endcase %}
+
+<div class='center-column {{ include.page.class }}'>
+  <section>
+    <div class='section-title hide-tablet'>{{ include.label }}</div>
+    <hr class='no-margin-bottom hide-tablet'>
+    <div class='tablet_hero'>
+      {% include cards/horizontal_card.html item=include.page %}
+   </div>
+    <div class='mobile-title'>
+      {% include text/mobile_section_title.html
+        category=include.label
+        title=include.page.title
+      %}
+    </div>
+    {% if page_type == 'projects' %}
+      <div class='mobile mobile-event-timestamp'>
+        {% include events/event_timestamp.html event=include.page %}
+      </div>
+    {% endif %}
+    <div class='two-column-container one-third-width top-text'>
+      <div class='left-column'>
+        <h2>{{ page.title }}</h2>
+        {% assign image_url = include.page.thumbnail | prepend: site.baseurl %}
+
+        <div class='square-image background-image event-date-container'
+            style='background-image: url({{ image_url }})'>
+          {% if page_type == 'events' %}
+            {% include events/event_date.html event=include.page %}
+          {% endif %}
+        </div>
+        <br/>
+
+        {% if page_type == 'events' %}
+          {% include events/event_timestamp.html event=include.page %}
+          {% include social_media/share_and_directions.html page=include.page %}
+        {% endif %}
+
+        {% if page_type == 'news' %}
+          {% include news/news_timestamp.html news=include.page %}
+          {% include social_media/social_media_icons.html page=include.page %}
+        {% endif %}
+
+        {% if page_type == 'projects' %}
+          {% include projects/team_members.html page=include.page %}
+          <br/>
+          {% if include.page.project_url %}
+            <a href='{{ include.page.project_url }}' target='_blank'
+              class='color-button'>View Project</a>
+          {% endif %}
+        {% endif %}
+
+        {% include tags.html page=include.page query_route=page_type %}
+
+      </div>
+      <div class='right-column'>
+        {{ include.content }}
+        {% if page_type == 'events' %}
+          <div class='mobile-tags mobile'>
+            {% include tags.html page=page query_route=page_type %}
+          </div>
+        {% endif %}
+
+        {%- capture now %}{{ 'now' | date: '%s' | minus: 0 }}{% endcapture -%}
+        {%- capture date %}{{ include.page.date | date: '%s' | minus: 0 }}{% endcapture -%}
+        {% if include.page.registerurl and page_type == 'events' and date >= now %}
+          <a href='{{ include.page.registerurl }}' target='_blank'
+              class='color-button'>Register</a>
+        {% endif %}
+      </div>
+    </div>
+  </section>
+
+  {% if page_type == 'events' %}
+    <div class='hide-tablet'>
+      {% include text/three_text_blocks.html
+        items=include.bottom_items
+        label=include.bottom_label
+      %}
+    </div>
+    <div class='tablet mobile mobile-event-bottom'>
+      <div class='mobile-event-actions'>
+        {% include social_media/share_and_directions.html page=include.page %}
+      </div>
+      <div class='section-title'>Related Events</div>
+      {% for item in include.bottom_items limit:3 %}
+        {%- include cards/horizontal_card.html item=item -%}
+      {% endfor %}
+    </div>
+
+  {% else %}
+    {% include text/three_text_blocks.html
+      items=include.bottom_items
+      label=include.bottom_label
+    %}
+  {% endif %}
+</div>

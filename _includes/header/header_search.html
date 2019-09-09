@@ -1,0 +1,24 @@
+<div class='search-bar' role='search'>
+  <div class='color-halo'>
+    <div class='search-input-container'>
+      <input id='search-input' type='text' tabindex='-1'
+        name='search' aria-label='Search'>
+      <div class='loader'></div>
+      <button class='color-button' id='search-button'>Search</button>
+    </div>
+  </div>
+  <div class='search-results-container'>
+    <div class='search-results'>
+      <div class='search-results-header'>
+        <div class='section-title'>Search Results</div>
+        <select id='search-select' aria-label='Sort Search Results'
+          tabindex='-1'>
+          <option value='relevance'>Relevance</option>
+          <option value='seconds'>Date</option>
+        </select>
+        <hr/>
+      </div>
+      <div id='search-results'></div>
+    </div>
+  </div>
+</div>

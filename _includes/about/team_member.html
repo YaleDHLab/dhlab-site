@@ -1,0 +1,12 @@
+<div class='two-column-container one-third-width' role='region' aria-labelledby='team'>
+  <div class='left-column'>
+    {% assign image_url = include.team_member.image | prepend: site.baseurl %}
+    <div class='square-image background-image'
+      style='background-image:url({{ image_url }})' alt='{{ include.team_member.name }}'></div>
+  </div>
+  <div class='right-column'>
+    <h2>{{ include.team_member.name }}</h2>
+    <div class='small-uppercase'>{{ include.team_member.role }}</div>
+    <div>{{ include.team_member.content }}</div>
+  </div>
+</div>

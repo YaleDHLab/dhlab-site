@@ -1,0 +1,14 @@
+{% include events/get_sorted_events.html %}
+
+{% include events/get_filtered_events.html category = include.category %}
+
+{% assign future_events = '' | split: '' %}
+{%- capture now %}{{ 'now' | date: '%s' | minus: 86400 }}{% endcapture -%}
+ {%- for item in sorted_events reversed %}
+  {%- if item.thumbnail %}
+    {%- capture date %}{{ item.date | date: '%s' | minus: 0 }}{% endcapture -%}
+    {%- if date >= now -%}
+      {% assign future_events = future_events | push: item %}
+     {%- endif -%}
+  {%- endif %}
+{%- endfor %}

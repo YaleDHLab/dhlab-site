@@ -1,0 +1,14 @@
+{%- assign item_url = include.item.url | prepend: site.baseurl %}
+<div class='spaced-square'>
+  <a href='{{ item_url }}'>
+    {%- assign image_url = include.item.thumbnail | prepend: site.baseurl %}
+    <div class='background-image event-date-container'
+      style='background-image: url({{ image_url }})' alt='{{ include.item.alt }}'>
+      <!-- Only show dates on event cards -->
+      {%- if include.item.date and item.time %}
+        {%- include events/event_date.html event=include.item %}
+      {%- endif %}
+    </div>
+    <h2>{{ include.item.title }}</h2>
+  </a>
+</div>

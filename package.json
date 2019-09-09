@@ -1,0 +1,60 @@
+{
+  "name": "lab-site",
+  "version": "0.1.0",
+  "description": "Yale University's Digital Humanities Lab Website",
+  "main": "index.js",
+  "repository": "https://github.com/YaleDHLab/dhlab-site.git",
+  "author": "duhaime <douglas.duhaime@gmail.com>",
+  "license": "MIT",
+  "babel": {
+    "presets": [
+      "@babel/env",
+      "@babel/react"
+    ],
+    "env": {
+      "start": {
+        "presets": [
+          "@babel/env",
+          "@babel/react"
+        ]
+      }
+    }
+  },
+  "scripts": {
+    "start": "bundle exec jekyll serve --port 5000 --incremental",
+    "build": "bundle exec jekyll build JEKYLL_ENV=production",
+    "compress": "./node_modules/webpack/bin/webpack.js --config webpack.config.js --mode production",
+    "gzip": "find _site \\( -iname '*.html' -o -iname '*.css' -o -iname '*.js' \\) -exec gzip -9 -n {} \\; -exec mv {}.gz {} \\;",
+    "index": "node _site/assets/js/search/build-index.js",
+    "lint-js": "./node_modules/eslint/bin/eslint.js -c './assets/config/.eslintrc.js' assets/js/",
+    "test": "npm run lint-js && npm run test-ruby",
+    "test-ruby": "ruby -Ilib -e 'ARGV.each { |f| require f }' ./tests/test*.rb",
+    "stage": "python utils/upload.py staging",
+    "deploy": "python utils/upload.py production"
+  },
+  "dependencies": {
+    "d3": "^4.13.0",
+    "lodash": "^4.17.15",
+    "lunr": "^2.3.6",
+    "moment": "^2.24.0"
+  },
+  "devDependencies": {
+    "@babel/core": "^7.5.5",
+    "@babel/preset-env": "^7.5.5",
+    "@babel/preset-react": "^7.0.0",
+    "babel-loader": "^8.0.6",
+    "clean-webpack-plugin": "^3.0.0",
+    "copy-webpack-plugin": "^5.0.3",
+    "css-loader": "^3.1.0",
+    "eslint": "^6.2.1",
+    "eslint-plugin-frontmatter": "^0.0.5",
+    "html-webpack-plugin": "^3.2.0",
+    "jest": "^24.9.0",
+    "mini-css-extract-plugin": "^0.8.0",
+    "optimize-css-assets-webpack-plugin": "^5.0.3",
+    "style-loader": "^0.23.1",
+    "underscore-template-loader": "^1.0.0",
+    "webpack": "^4.36.1",
+    "webpack-cli": "^3.3.6"
+  }
+}

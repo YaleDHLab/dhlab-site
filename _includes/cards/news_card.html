@@ -1,0 +1,20 @@
+<!-- Used on the home page and news landing page -->
+<div class='two-thirds-width-card large-card'>
+  <div class='height-container'>
+    <a href='{{ include.item.url | prepend: site.baseurl }}'>
+      {% assign image_url = include.item.image | prepend: site.baseurl %}
+      {% assign alt = include.item.alt %}
+      <div class='two-thirds-width-card-image background-image blur-container' alt='{{ alt }}'
+        style='background-image: url({{ image_url }})'>
+        {% assign label = include.item.categories | first %}
+        {% include cards/card_title_box.html
+          label=label
+          title=include.item.title %}
+      </div>
+    </a>
+    {{ include.square_html }}
+  </div>
+  <div class='large-card-text hide-tablet'>
+    {{ include.button_prompt }}
+  </div>
+</div>

@@ -1,0 +1,10 @@
+<div class='sidebar-container'>
+  {% if include.label %}
+    <div class='small-uppercase'>{{ include.label }}</div>
+  {% endif %}
+  {% include sidebars/sidebar_links.html
+    items = include.items
+    page = page
+    sort = include.sort
+  %}
+</div>

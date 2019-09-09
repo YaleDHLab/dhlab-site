@@ -1,0 +1,14 @@
+---
+layout: default
+class: opportunity-detail-page
+---
+
+{% assign image_url = page.image | prepend: site.baseurl %}
+{% include heroes/captioned_hero.html
+  label='OPPORTUNITIES'
+  title=page.title
+  image=image_url
+  caption=page.caption
+%}
+
+{{ content }}

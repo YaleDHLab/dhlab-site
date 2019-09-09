@@ -1,0 +1,9 @@
+{% if include.items.size > 0 %}
+  <div class='workshops-container'>
+    <div class='section-title'>{{ include.label }}</div>
+    <hr class='hide-tablet' />
+    {% for item in include.items %}
+      {%- include cards/horizontal_card.html item=item -%}
+    {% endfor %}
+  </div>
+{% endif %}

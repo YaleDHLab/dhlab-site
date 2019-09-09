@@ -1,0 +1,38 @@
+---
+layout: default
+class: guide-detail-page
+---
+
+{% assign image_url = page.image | prepend: site.baseurl %}
+{% include heroes/captioned_hero.html
+  label='QUICK START GUIDE'
+  title=page.title
+  image=image_url
+  caption=page.caption
+%}
+
+<div class='center-column'>
+  <div class='two-column-container one-third-width top-text'>
+    <div class='left-column'>
+      {% include sidebars/standalone_link_list.html
+        items=site.guides
+        page=page
+      %}
+    </div>
+    <div class='right-column'>
+      {% include text/mobile_section_title.html
+        category = 'Methods'
+        title = page.title
+      %}
+
+      {{ content }}
+    </div>
+  </div>
+  {% assign items = site.guides | sort: 'order' %}
+  {% include grids/three_rectangle_images.html
+    items=items
+    skip_number=page.order
+  %}
+
+  {% include text/methods_guides_bottom.html %}
+</div>

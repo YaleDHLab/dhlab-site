@@ -1,0 +1,24 @@
+<section id='archive-grid' class='archive-grid' aria-label='related'>
+  {% unless include.filters == false %}
+    {% include filters.html label=include.label %}
+  {% endunless %}
+  <div class='mobile section-title'>{{ include.label }}</div>
+  {% if include.render == 'json' %}
+    {% include json/jsonify_items.html items=items var='items' %}
+  {% else %}
+    {% for item in include.items | sort: 'order' %}
+      {% assign url = item.url | prepend: site.baseurl %}
+      {% assign alt = item.alt %}
+      <div class='archive-item'>
+        <a href='{{ url }}'
+          data-categories='{{ item.categories | jsonify }}'
+          data-tags='{{ item.tags | jsonify }}'>
+          {% assign image_url = item.thumbnail | prepend: site.baseurl %}
+          <div class='background-image'
+            style='background-image: url({{ image_url }})' alt='{{ alt }}'></div>
+          <div class='title'>{{ item.title }}</div>
+        </a>
+      </div>
+    {% endfor %}
+  {% endif %}
+</section>

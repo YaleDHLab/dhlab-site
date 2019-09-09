@@ -1,0 +1,68 @@
+{% include text/center_section_title.html
+  text='HOW TO APPLY'
+%}
+
+{% capture left_text_one %}
+  <p>Workshop grants are intended to convene digital humanities discussions and training opportunities on campus. Funds might be applied toward food or honoraria and travel expenses for non-Yale participants.</p>
+
+  <p>Past examples: Recipients have brought guest speakers to campus to offer training in a variety of methods, from TEI to mapping. For an example of what these workshops could look like, see the <a href='{{ site.baseurl }}/events/2016-11-29-workshop-with-jessica-marie-johnson.html' target='_blank'>Radical Media and Social Change workshop page.</a></p>
+{% endcapture %}
+
+{% capture left_text_two %}
+  <p>Corpus Creation grants are designed to help build machine-actionable datasets for research. Funds may be used to hire a Yale College or graduate student to work on the project. Recipients will be responsible for finding and, if necessary, training the student(s) on the necessary software or equipment. Digital Humanities Lab staff can provide an initial training for recipients themselves. Grant recipients are responsible for undertaking 20% of the corpus creation process themselves.</p>
+
+  <p>Past examples: Yale holds an extensive textual and visual collection. Recipients in this track have drawn from these holdings and digitized everything from print runs of <em>The Rivers of America Series</em> to microfilm reels containing revolutionary newspapers from 1940s France, with digitization for these projects being the first step toward computational analysis. Recipients have also generated and cleaned data that was extracted using the APIs for resources such as <em>IMDB</em> and <em>The New York Times</em>.</p>
+
+{% endcapture %}
+
+{% capture left_text_three %}
+  <p>Software Development grants are intended for project prototyping. Funds may be used to hire a Yale College or graduate student to work on the project as a developer or designer. Recipients will be responsible for finding the student(s). Digital Humanities Lab staff can help recipients identify the technical needs of the project for a job call.</p>
+
+  <p>Past examples: Previous recipients have collaborated with Yale developers to engineer software that facilitates the scholarly analysis of datasets from hundreds of book illustrations to 10,000 aphorisms. For more on an in-progress project, see <a href='{{ site.baseurl }}/projects/cinecircuits.html' target='_blank'>Cinécircuits </a>, which began with a Corpus Creation grant and continued its development in year two with funding from the Software Development track.</p>
+{% endcapture %}
+
+{% capture right_text_one %}
+  <p>The application cycle is currently closed. Once it is open, an "Apply Here" button will appear below that will take you to a brief form that asks for the following information:</p>
+  <ul>
+    <li>Name of applicant(s)</li>
+    <li>Department and affiliation (graduate student or faculty member)</li>
+    <li>Project proposal, not to exceed 450 words. The proposal should detail:</li>
+    <ul>
+      <li>The type of grant you are applying for and the specific ways that it will assist in the development of a larger project</li>
+      <li>The goal of the larger project that the Seed Grant will help instantiate</li>
+      <li>If you are applying for a Software Development Seed Grant, also include a ranking of the specific features you would like implemented</li>
+      <li>If you are applying for a Corpus Creation Seed Grant that involves digitization and/or optical character recognition (OCR), include as an attachment a portion of the document that has been scanned and/or OCRed for testing purposes</li>
+    </ul>
+  </ul>
+  <ul>
+    <li>Budget outlining your estimated expenses and how you will use the funds</li>
+    <li>If you have already identified students to hire for the project, please include their names. Note that recipients cannot use grant funds to pay themselves toward work on their own project.</li>
+  </ul>
+<!--  <a href='{{ include.page.application_url }}' target='_blank' class='white-button'>Apply Here</a>-->
+{% endcapture %}
+
+{% capture right_text_two %}
+  <ul>
+    <li>Applying individuals must be a Yale graduate student or faculty member for the duration of their award.</li>
+    <li>Grant funds must be spent within 6 months from the date of the award. Unspent funds are forfeited.</li>
+    <li>Recipients commit to writing a brief blog post for the Digital Humanities Lab's website about their project.</li>
+    <li>For Corpus Creation applications that include digitization and/or OCR, applicants are required to digitize and/or OCR a portion of their text prior to applying in order to test feasibility.</li>
+  </ul>
+{% endcapture %}
+
+{% include text/color_blocks.html
+  left_title_one='Workshop Grants'
+  left_text_one=left_text_one
+
+  left_title_two='Corpus Creation Grants'
+  left_text_two=left_text_two
+
+  left_title_three='Software Development Grants'
+  left_text_three=left_text_three
+
+  right_title_one='Application Requirements'
+  right_text_one=right_text_one
+
+  right_title_two='Eligibility'
+  right_text_two=right_text_two
+%}

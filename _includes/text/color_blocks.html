@@ -1,0 +1,36 @@
+<div class='color-background circle-caret color-block-container'>
+  <div class='two-column-container half-width'>
+    <div class='left-column'>
+      {% include text/color_block.html
+        title=include.left_title_one
+        teaser=include.left_text_one
+      %}
+      {% include text/color_block.html
+        title=include.left_title_two
+        teaser=include.left_text_two
+      %}
+      {% if include.left_text_three %}
+        {% include text/color_block.html
+          title=include.left_title_three
+          teaser=include.left_text_three
+        %}
+      {% endif %}
+    </div>
+    <div class='right-column'>
+      {% include text/color_block.html
+        title=include.right_title_one
+        teaser=include.right_text_one
+      %}
+      {% include text/color_block.html
+        title=include.right_title_two
+        teaser=include.right_text_two
+      %}
+      {% if include.right_text_three %}
+        {% include text/color_block.html
+          title=include.right_title_three
+          teaser=include.right_text_three
+        %}
+      {% endif %}
+    </div>
+  </div>
+</div>

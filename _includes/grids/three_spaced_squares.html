@@ -1,0 +1,22 @@
+<div class='three-spaced-squares'>
+  <h3>{{ include.label }}</h3>
+  <hr />
+  <div class='three-spaced-squares-table hide-mobile'>
+    {% assign counter = 0 %}
+    {%- for item in include.items %}
+      {%- if counter < 3 %}
+        {% include cards/desktop_project_card.html item=item %}
+        {%- assign counter = counter | plus: 1 %}
+      {%- endif %}
+    {%- endfor %}
+  </div>
+  <div>
+    {% assign counter = 0 %}
+    {%- for item in include.items %}
+      {%- if counter < 3 %}
+        {% include cards/mobile_project_card.html item=item %}
+        {%- assign counter = counter | plus: 1 %}
+      {%- endif %}
+    {%- endfor %}
+  </div>
+</div>

@@ -1,0 +1,5 @@
+{% if include.id %}
+  <h2 class='center-section-title' id='{{ include.id }}'>{{ include.text }}</h2>
+{% else %}
+  <h2 class='center-section-title'>{{ include.text }}</h2>
+{% endif %}
