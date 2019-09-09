@@ -2,16 +2,16 @@
 future: true
 
 # minify html in production
-minify_html: true
+minify_html: false
 
 # create lunr index
-create_index: true
+create_index: false
 
 # bust cache
-bust_cache: true
+bust_cache: false
 
 # minify js
-compress_js: true
+compress_js: false
 
 # minify assets
 sass:
