@@ -54,14 +54,30 @@ def upload_all_gzipped(bucket):
   for filetype in gzipped_filetypes:
     upload(bucket, gzipped=True, filetype=filetype)
 
+def upload_to_github():
+  '''Deploy content in _site to github in remote repo and branch'''
+  os.system('''
+  git stash && \
+    rm -rf /tmp/dhlab-site && \
+    mkdir -p /tmp/dhlab-site && \
+    bundle exec jekyll build --config _config.yml,_config.prod.yml && \
+    mv _site/* /tmp/dhlab-site/ && \
+    git checkout static && \
+    rm -rf * && \
+    mv /tmp/dhlab-site/* . && \
+    git add . && \
+    git commit -m 'add static files' && \
+    git push https://github.com/yaledhlab/yaledhlab.github.io static:master && \
+    git checkout master && \
+    yarn install && \
+    git stash apply
+  ''')
+
 # assume script is run via npm run stage|deploy
 _site = os.path.join('_site/')
 
 # identify gzipped file extensions
 gzipped_filetypes = ['html', 'css', 'js', 'json', 'svg']
-
-# rebuild content
-os.system('npm run build')
 
 # gzip appropriate assets
 gzip()
@@ -69,10 +85,9 @@ gzip()
 # determine whether we're staging or deploying
 if sys.argv[1] == 'staging':
   bucket = 's3://dhlab-staging/'
+  os.system('npm run build')
   upload(bucket)
   upload_all_gzipped(bucket)
 
 elif sys.argv[1] == 'production':
-  for bucket in ['s3://dhlab.yale.edu/', 's3://digitalhumanities.yale.edu/']:
-    upload(bucket)
-    upload_all_gzipped(bucket)
+  upload_to_github()
