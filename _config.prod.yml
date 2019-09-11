@@ -1,0 +1,21 @@
+baseurl: /dhlab-site
+url: http://yaledhlab.github.io
+
+# render posts with dates in the future
+future: true
+
+# minify html in production
+minify_html: false
+
+# create lunr index
+create_index: true
+
+# bust cache
+bust_cache: true
+
+# minify js
+compress_js: true
+
+# minify assets
+sass:
+  style: compressed
