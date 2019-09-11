@@ -62,6 +62,7 @@ def upload_to_github():
     mkdir -p /tmp/dhlab-site && \
     bundle exec jekyll build --config _config.yml,_config.prod.yml && \
     mv _site/* /tmp/dhlab-site/ && \
+    git fetch origin static && \
     git checkout static && \
     rm -rf * && \
     mv /tmp/dhlab-site/* . && \
