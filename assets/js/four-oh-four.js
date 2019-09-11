@@ -1,13 +1,14 @@
-import * as d3 from 'd3';
+import { select } from 'd3-selection';
+import transition from 'd3-transition';
 
-(function(d3) {
+(function() {
   if (!document.querySelector('.four-oh-four')) return;
-  var rects = d3.select('body').selectAll('rect'),
+  var rects = select('body').selectAll('rect'),
     colors = ['#1981AA', '#FFC426', '#fff', '#000'];
 
-  d3.select('body').selectAll('rect').transition()
+  select('body').selectAll('rect').transition()
     .delay(function() {
-      return (d3.select(this).attr('x')/5) + (d3.select(this).attr('y') * 4);
+      return (select(this).attr('x')/5) + (select(this).attr('y') * 4);
     })
     .attr('fill', getRandomColor())
 
@@ -19,7 +20,7 @@ import * as d3 from 'd3';
     var val = parseInt( Math.random() * rects.size() );
     rects.each(function(d, i) {
       if (i === val) {
-        d3.select(this).attr('fill', getRandomColor())
+        select(this).attr('fill', getRandomColor())
       }
     })
   }
@@ -27,4 +28,4 @@ import * as d3 from 'd3';
   function getRandomColor() {
     return colors[ parseInt( Math.random() * colors.length ) ];
   }
-})(d3);
+})();
