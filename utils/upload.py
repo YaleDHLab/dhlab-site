@@ -64,6 +64,7 @@ def upload_to_github():
     mv _site/* /tmp/dhlab-site/ && \
     git fetch origin static && \
     git checkout static && \
+    git pull 'https://github.com/yaledhlab/yaledhlab.github.io/' && \
     rm -rf * && \
     mv /tmp/dhlab-site/* . && \
     git add . && \
