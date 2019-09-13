@@ -6,8 +6,8 @@ caption: Photo by Michael Marsland.
 overview: training_scholarship
 deadline: Awards will be granted on a rolling basis until funds are exhausted.
 apply_button: hidden
-application_url: https://docs.google.com/forms/d/e/1FAIpQLSd19vYL9ny8NSUroCHykeK1ip2-Xz2RnpWXZZoXQZWY9VFBXQ/viewform?usp=sf_link-->
-application_text: The cycle is currently open for 2019-2020 workshops.
+application_url: https://docs.google.com/forms/d/e/1FAIpQLSd19vYL9ny8NSUroCHykeK1ip2-Xz2RnpWXZZoXQZWY9VFBXQ/viewform?usp=sf_link
+application_text: The cycle is open for 2019-2020 workshops.
 
 ---
 

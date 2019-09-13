@@ -4,7 +4,7 @@ order: 1
 image: '/assets/images/banners/franke-workshop-basu2.jpg'
 caption: Text analysis workshop with guest lecturer Anupam Basu. Photo by Monica Ong Reed.
 deadline: Awards will be granted on a rolling basis until funds are exhausted.
-application_text: The cycle is currently open for 2019-2020 workshops.
+application_text: The cycle is open for 2019-2020 workshops.
 application_url: |
   https://docs.google.com/forms/d/e/1FAIpQLSexGVHbJkmcMWPASaHj1ThBjP3vNq87TIHIbw5388SfQHSuvw/viewform?usp=sf_link
 overview: workshop_grant
