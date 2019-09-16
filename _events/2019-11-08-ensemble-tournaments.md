@@ -15,11 +15,11 @@ tags:
   - Crowdsourcing
   - Data Collection
 teaser: >
-  Do you love Yale theater? Enjoy volunteering for group efforts? If you responded “yes," join us for the biggest Ensemble@Yale game yet!
+  Do you love Yale theater? Enjoy volunteering for group efforts? Join us for the biggest Ensemble@Yale game yet!
 ---
 
 ### Overview
-Do you love Yale theater? Enjoy volunteering for group efforts? If you responded “yes," join us for the biggest Ensemble@Yale game yet! This gamified volunteering opportunity will consist of three rounds to prove you’re the ultimate typist and Yale theater aficionado. Bring your computer, grab a snack, and compete for prizes while volunteering with the Ensemble@Yale project to transcribe names from over 900 Yale theater programs. Don't like to compete but still want to contribute? Stop in anytime!
+Do you love Yale theater? Enjoy volunteering for group efforts? Join us for the biggest Ensemble@Yale game yet! This gamified volunteering opportunity will consist of three rounds to prove you’re the ultimate typist and Yale theater aficionado. Bring your computer, grab a snack, and compete for prizes while volunteering with the Ensemble@Yale project to transcribe names from over 900 Yale theater programs. Don't like to compete but still want to contribute? Stop in anytime!
 
 The Digital Humanities Laboratory and Robert B. Haas Family Arts Library are seeking volunteers to help record actor and staff member names from Yale Repertory Theatre and Yale School of Drama programs from 1925-2016. Join us at one or more of our fall Ensemble events to contribute to the project, enjoy snacks, and play games connected to Yale theater! In the meantime, you can learn about the project and how you can help on the <a href='http://ensemble.yale.edu/#/about' target='_blank'>Ensemble@Yale About page</a>.
  
