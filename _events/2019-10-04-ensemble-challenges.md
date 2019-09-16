@@ -6,7 +6,7 @@ dates:
   - 2019-10-11
 time: 2:00 - 4:00 p.m.
 <!--location: Franke Family Digital Humanities Laboratory-->
-thumbnail: /assets/images/events/ensemble_covers.jpg
+thumbnail: /assets/images/events/ensemble-mosaic-3-web.jpg
 alt: A collage of Yale theater program covers
 <!--registerurl: http://schedule.yale.edu/event/5158737-->
 categories:
