@@ -32,7 +32,7 @@ For this special issue, we are soliciting papers that describe the use of cuttin
 - Inventive uses of graphics and visualization within the arts and humanities
 - Innovative computer graphics and visualization applications for cultural institutions
 
-### Submission guidelines
+### Submission Guidelines
 Final submissions due: 1 Oct 2019
 Publication date: May/June 2020
 
