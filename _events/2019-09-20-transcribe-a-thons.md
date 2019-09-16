@@ -23,14 +23,15 @@ Are you curious about Yale’s theater history? Are you a speedy typist? Do you 
 
 Drop in anytime to contribute to the project, enjoy snacks, and play Ensemble@Yale bingo! Help the Yale Digital Humanities Laboratory and Haas Arts Library collect actor and staff names from over 900 Yale School of Drama and Yale Repertory Theatre programs. 
 
-**Please bring a computer with you to the trascribe-a-thon.** Both events are open to the entire Yale community and public. 
+**Please bring a computer with you to the trascribe-a-thon. If you would like to participate but don’t have a laptop, please contact the <a href="mailto:dhlab@yale.edu">event organizers</a> in advance to see if arrangements can be made.**
 
 Can’t make it in person? We’ll be livestreaming the initial demo on the <a href='https://www.facebook.com/YaleHaasArtsLib/' target='_blank'>Haas Arts Library Facebook</a> and <a href='https://www.instagram.com/haasartslibrary/' target='_blank'>Instagram</a> around 2:15 p.m.! 
 
 ### Trascribe-a-Thon Sessions
+Participants are invited to attend either or both sessions. Both are open to the whole Yale community and public.
 
-September 20 from 2:00 - 4:00 p.m.
+September 20, 2:00 - 4:00 p.m.
 Robert B. Haas Arts Library  
 
-September 27 from 2:00 - 4:00 p.m.
+September 27, 2:00 - 4:00 p.m.
 Franke Family Digital Humanities Laboratory
