@@ -42,6 +42,6 @@ Please submit your paper using the <a href='https://mc.manuscriptcentral.com/cs-
 
 ### For More Information
 Please direct any pre-submission correspondence to the guest editors:
-- <a href='mailto:jwzhang@tju.edu.cn'>Jiawan Zhang, Tianjin University</a>, China
+- <a href='mailto:jwzhang@tju.edu.cn'>Jiawan Zhang</a>, Tianjin University, China
 - <a href='mailto:holly.rushmeier@yale.edu'>Holly Rushmeier</a>, Yale University
 - <a href='figs@cat.utexas.edu'>Francesca Samsel</a>, University of Texas at Austin
