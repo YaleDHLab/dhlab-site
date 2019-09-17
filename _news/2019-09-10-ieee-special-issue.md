@@ -33,7 +33,7 @@ For this special issue, we are soliciting papers that describe the use of cuttin
 - Innovative computer graphics and visualization applications for cultural institutions
 
 ### Submission Guidelines
-Final submissions due: 1 Oct 2019
+Final submissions due: 1 Oct 2019  
 Publication date: May/June 2020
 
 Non-department articles submitted to *IEEE CG&A* should not exceed 8,000 words, including the main text, abstract, keywords, bibliography, biographies, and table text, where a page is approximately 800 words. Articles should include no more than 10 figures or images. Each 1/4 page figure, image, and table counts for approx. 200 words. Note that all tables, images, and illustrations must be appropriately scaled and legible; larger elements should be accounted for accordingly with respect to word count. Please limit the number of references to the most relevant and ensure to delineate your work from relevant past articles in CG&A. Furthermore, avoid an excessive number of references to published work that might only be marginally relevant. Visit the *CG&A* style, length, and supplemental <a ref='computer.org/publications/author-resources/peer-review/magazines' target=>guidelines.
