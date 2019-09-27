@@ -29,7 +29,7 @@ Instructor: Joshua Dull (DHLab)
 ### Registration
 This workshop is open to all Yale students, faculty, and staff, but space is limited. To register, visit the <a href='https://schedule.yale.edu/event/5807804' target='_blank'>YUL Instruction Calendar</a>. 
 
-Participants are required to bring a laptop with <a href='https://www.anaconda.com/distribution/' target='_blank'>Anaconda 3.7</a> already installed to the workshop. If you have trouble with the installation, stop by the Digital Humanities Lab's Office Hours, Monday through Thursday at 3:00 p.m. for help.
+**Participants are required to bring a laptop with <a href='https://www.anaconda.com/distribution/' target='_blank'>Anaconda 3.7</a> already installed to the workshop.** If you have trouble with the installation, stop by the Digital Humanities Lab's Office Hours, Monday through Thursday at 3:00 p.m. for help.
 
 ### Follow-Up Information
 Participants are invited to stay after the workshop for the Python Working Group, which meets every Friday from 3:00-4:00 p.m. At the working group, you can ask additional questions, pick an online tutorial to try from our curated list, and meet other researchers learning the language!
