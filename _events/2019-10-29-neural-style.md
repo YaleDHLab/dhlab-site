@@ -16,7 +16,7 @@ teaser: >
 
 ### Overview
 
-Learn more about the intersections of art and AI and how it can be used in your work. This session will provide a broad overview of neural style transfer, an algorithmic technique that applies the "style" of one digital image to the "content" of another. In particular, we will focus on the use of neural style transfer in creative art practice, highlighting software you can use to generate your own images.
+Learn more about the intersections of art and AI and how the latter can be used in your work. This session will provide a broad overview of neural style transfer, an algorithmic technique that applies the "style" of one digital image to the "content" of another. In particular, we will focus on the use of neural style transfer in creative art practice, highlighting software you can use to generate your own images.
 
 This information session is a general introduction to neural style transfer. No registration or computer programming experience is required.
 
