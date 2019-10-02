@@ -15,7 +15,7 @@ teaser: >
 ---
 
 ### Overview
-We are pleased to announce the inaugural launch of the Yale StoryMaps Network. Join us for the first two events of the year: a kick-off to share information about StoryMaps and a data clinic to get help with your own project!
+We are pleased to announce the inaugural launch of the Yale StoryMaps Network. Join us for the first two events of the year: a kick-off to share information about StoryMaps and a clinic to get help with your own project!
 
 ### Yale StoryMaps Network Kick-Off
 
