@@ -41,3 +41,5 @@ LOCATION: 17 Hillhouse, Room 111
 Stop by the StoryMaps Clinic to discuss building your own project with ArcGIS StoryMaps! Bring your story ideas, and learn how to assemble a multimedia narrative. You’ll learn the basics of Esri’s storytelling app, including tips and tricks to make your graphics pop and engage your audience. You’ll also find out how easy it is to create your own story, and how quickly you can elevate your work.
 
 Instructors: Ross Donihue (Esri) and Miriam Olivares (Yale CSSSI)
+
+*These events are organized in partnership by the Center for Science and Social Science Information, the Yale Digital Humanities Laboratory, The Spatial Collective, Ucross High Plains Stewardship Initiative, Yale Institute for Biospheric Studies, Yale MacMillan Center, Yale Program on Climate Change Communication*
