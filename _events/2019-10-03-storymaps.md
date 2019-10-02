@@ -11,11 +11,11 @@ categories:
 tags:
   - Spatial Analysis
 teaser: >
-  We are pleased to announce the inaugural launch of the Yale StoryMaps Network. Join us for the first two events of the year: a kick-off to share information about StoryMaps and a clinic to get help with your own project!
+  We are pleased to announce the launch of the Yale StoryMaps Network, a working group for thinking about web maps and storytelling. Join us for the first two events of the year: a kick-off to share information about StoryMaps and a clinic to get help with your own project!
 ---
 
 ### Overview
-We are pleased to announce the inaugural launch of the Yale StoryMaps Network. Join us for the first two events of the year: a kick-off to share information about StoryMaps and a clinic to get help with your own project!
+We are pleased to announce the launch of the Yale StoryMaps Network, a working group for thinking about web maps and storytelling. Join us for the first two events of the year: a kick-off to share information about StoryMaps and a clinic to get help with your own project!
 
 ### Yale StoryMaps Network Kick-Off
 
@@ -26,7 +26,7 @@ LOCATION: Burke Auditorium, Kroon Hall
 
 <a href='https://schedule.yale.edu/calendar/instruction/YaleStoyMapNetwork-KickOff' target='_blank'>Register for the Kick-Off</a>
 
-Story maps—web applications that combine maps and multimedia content to enable web-based storytelling— are becoming an increasingly popular resource for researchers sharing complicated analyses, final projects, and even visual resumes. In this session, you will learn the basics of story maps, including what they are and how their builder functions make it possible to easily create rich multimedia narratives. You will also learn about ArcGIS StoryMaps, a new, next-generation storytelling tool that makes it even easier to create maps and weave them into stories.
+Story maps—web applications that combine maps and multimedia content to enable web-based storytelling—are becoming an increasingly popular resource for researchers sharing complicated analyses, final projects, and even visual resumes. In this session, you will learn the basics of story maps, including what they are and how their builder functions make it possible to easily create rich multimedia narratives. You will also learn about ArcGIS StoryMaps, a new, next-generation storytelling tool that makes it even easier to create maps and weave them into stories.
 
 Speaker: Ross Donihue (Esri StoryMaps). Ross is a cartographer and visual storyteller. He recently joined Esri as a Product Engineer on the Story Maps team. He produces stories and helps users engage their audiences and communicate their work using StoryMaps. Before joining Esri, he founded Maps for Good, a visual storytelling team that produces one-of-a-kind maps and digital media for better-world initiatives. In addition to being a graduate of the Yale School of Forestry and Environmental Studies, Ross is also a National Geographic Explorer.
 
