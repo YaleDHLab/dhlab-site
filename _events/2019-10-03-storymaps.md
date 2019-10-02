@@ -11,11 +11,11 @@ categories:
 tags:
   - Spatial Analysis
 teaser: >
-  We are pleased to announce the launch of the Yale StoryMaps Network, a working group for thinking about web maps and storytelling. Join us for the first two events of the year: a kick-off to share information about StoryMaps and a clinic to get help with your own project!
+  We are pleased to announce the launch of the Yale StoryMaps Network, a working group for thinking about web maps and storytelling. Join us for the first two events of the year: a kick-off to share information about StoryMaps and a clinic for help with your own project!
 ---
 
 ### Overview
-We are pleased to announce the launch of the Yale StoryMaps Network, a working group for thinking about web maps and storytelling. Join us for the first two events of the year: a kick-off to share information about StoryMaps and a clinic to get help with your own project!
+We are pleased to announce the launch of the Yale StoryMaps Network, a working group for thinking about web maps and storytelling. Join us for the first two events of the year: a kick-off to share information about StoryMaps and a clinic to for help with your own project!
 
 ### Yale StoryMaps Network Kick-Off
 
