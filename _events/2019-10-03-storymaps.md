@@ -42,4 +42,5 @@ Stop by the StoryMaps Clinic to discuss building your own project with ArcGIS St
 
 Instructors: Ross Donihue (Esri) and Miriam Olivares (Yale CSSSI)
 
-*These events are organized by the Center for Science and Social Science Information, the Yale Digital Humanities Laboratory, The Spatial Collective, Ucross High Plains Stewardship Initiative, Yale Institute for Biospheric Studies, Yale MacMillan Center, Yale Program on Climate Change Communication*
+### Organizers
+These events are sponsored by the Center for Science and Social Science Information, the Yale Digital Humanities Laboratory, The Spatial Collective, Ucross High Plains Stewardship Initiative, Yale Institute for Biospheric Studies, Yale MacMillan Center, Yale Program on Climate Change Communication.
