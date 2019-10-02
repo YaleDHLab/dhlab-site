@@ -5,7 +5,6 @@ dates:
   - 2019-10-03
   - 2019-10-04
 thumbnail: /assets/images/events/storymaps-network-web.jpg
-alt: A collage of Yale theater program covers
 <!--registerurl: http://schedule.yale.edu/event/5158737-->
 categories:
   - Meetup
