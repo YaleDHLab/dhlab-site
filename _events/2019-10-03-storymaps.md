@@ -20,7 +20,7 @@ We are pleased to announce the inaugural launch of the Yale StoryMaps Network. J
 ### Yale StoryMaps Network Kick-Off
 
 DATE: Thursday, October 03  
-TIME: 4 – 6:00 p.m.  
+TIME: 4:00 – 6:00 p.m.  
 LOCATION: Burke Auditorium, Kroon Hall  
 *Dinner will be provided*  
 
@@ -33,7 +33,7 @@ Speaker: Ross Donihue (Esri StoryMaps). Ross is a cartographer and visual storyt
 ### StoryMaps Clinic
 
 DATE: Friday, October 04, 2019  
-DROP-IN HOURS: 9:00 a.m. - 12 p.m.  
+DROP-IN HOURS: 9:00 a.m. - 12:00 p.m.  
 LOCATION: 17 Hillhouse, Room 111  
 
 <a href='https://schedule.yale.edu/calendar/instruction/YaleStoyMapNetwork-Clinic' target='_blank'>Register for the StoryMaps Clinic</a>
