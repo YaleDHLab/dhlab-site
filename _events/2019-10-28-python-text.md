@@ -3,8 +3,8 @@ title: Preparing Texts with Python
 date: 2019-10-28
 time: 1:30 - 3:00 p.m.
 location: Franke Family Digital Humanities Laboratory
-thumbnail: /assets/images/events/python-workshop.jpg
-alt: An open laptop with the word Python on it
+thumbnail: /assets/images/events/text-cleaning_web.jpg
+alt: Abstract data moving between a computer, tablet, and phone
 registerurl: https://schedule.yale.edu/event/5955105
 categories:
   - Workshop
