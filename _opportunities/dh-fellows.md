@@ -6,7 +6,7 @@ caption: >
   Fall 2018 Digital Humanities Teaching Fellows. Photo by Mara Lavitt.
 alt: Three Digital Humanities Teaching Fellows (fall 2018) standing in front of the Special Projects Cube in the Franke Family Digital Humanities Laboratory.
 application_text: >
-  Apply now to become one of our Spring 2020 Fellows.
+  Apply now to become one of our Fall 2020 Fellows.
 apply_button:
 application_url: >
   https://docs.google.com/forms/d/e/1FAIpQLSdXL7XBml2aGR2aprFD4KB-9Mq837aRuL0xSLpij-_YW6stlg/viewform?usp=sf_link
