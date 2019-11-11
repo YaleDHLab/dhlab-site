@@ -14,7 +14,7 @@ teaser: >
 ---
 
 ### Overview
-The media landscape is changing rapidly, and the tools used for reporting and storytelling are changing with it. New technologies have made data analysis and visualization more accessible for reporters to tell stories in new and different ways. The graphics team at *The Washington Post* is no exception – they produce award-winning visual storytelling using data, design, code, cartography, illustration, animation, augmented reality, and more. In this talk, we’ll take a look at how graphics reporters at *The Post* are using all of these methods to enhance their storytelling and better reach audiences in both the print and digital space.
+The media landscape is changing rapidly, and the tools used for reporting and storytelling are changing with it. New technologies have made data analysis and visualization more accessible for reporters looking to tell stories in new and exciting ways. The graphics team at *The Washington Post* is no exception – they produce award-winning visual storytelling using data, design, code, cartography, illustration, animation, augmented reality, and more. In this talk, we’ll take a look at how graphics reporters at *The Post* are using all of these methods to enhance their storytelling and better reach audiences in both the print and digital space.
 
 All are invited to attend. No advanced registration is required.
 
