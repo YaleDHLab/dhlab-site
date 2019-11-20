@@ -1,12 +1,10 @@
 ---
 title: "Python Working Group"
-date: 2019-10-18
+date: 2019-11-22
 dates: 
-  - 2019-10-18
-  - 2019-10-25
-  - 2019-11-01
-  - 2019-11-08
-  - 2019-11-15
+  - 2019-11-22
+  - 2019-12-06
+  - 2019-12-13
 time: 3:00 - 4:00 p.m.
 location: Franke Family Digital Humanities Laboratory
 thumbnail: /assets/images/events/python2.jpg
