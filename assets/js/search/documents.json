@@ -876,13 +876,6 @@
       "seconds": "1570161600"
     },
     {
-      "url": "/python-working-group/",
-      "content": "Interested in learning Python at your own pace but aren’t sure where to start? Looking to ask questions, exchange tips, or collaborate with others? Join the Python Working Group! During the weekly meetups, Yale Digital Humanities Lab team members will be on hand to answer questions and help participants work through a curated list of lessons from online tutorials.\n\nNo previous Python experience is required; all levels of programming experience are welcome.\n\nThis group meets on Fridays, except during campus breaks (unless otherwise noted).\n",
-      "title": "Python Working Group",
-      "teaser": "Interested in learning Python at your own pace but aren’t sure where to start? Looking to ask questions, exchange tips, or collaborate with others? Join the Python Working Group! During the weekly meetups, Yale Digital Humanities Lab team members will be on hand to answer questions and help participants work through a curated list of lessons from online tutorials. No previous Python experience is required; all levels of programming experience...",
-      "seconds": "1573794000"
-    },
-    {
       "url": "/events/2019-10-28-python-text.html",
       "content": "Overview\nText data is often messy and unstructured, meaning you have to invest a lot of time in preparing the files before you can even begin analyzing them with computational methods. Python makes it easier to extract and clean text data at scale.\n\nThis workshop will walk participants through several common tasks for preparing text data, including:\n\n  extracting metadata from a file,\n  cleaning “messy” texts,\n  removing stop-words,\n  and more.\n\n\nBy the end of the workshop, participants will have a sample dataset that’s ready for text analysis.\n\nThis workshop is designed for participants who have taken or worked through the materials for the Python for Humanists workshop series or who have some experience working with a programming language.\n\nInstructor: Joshua Dull (DHLab)\n\nRegistration &amp; Requirements\nThis workshop is open to all Yale students, faculty, and staff, but space is limited. To register, please visit the YUL Instruction Calendar.\n\nParticipants are required to bring a laptop with Anaconda 3.7 already installed to the workshop. If you have trouble with the installation, stop by the Digital Humanities Lab’s Office Hours—Monday through Thursday at 3:00 p.m.—for help.\n\nBe among the first to know when new digital humanities workshops are offered by signing up for the DHLab’s newsletter.\n",
       "title": "Preparing Texts with Python",
@@ -937,6 +930,13 @@
       "title": "News Graphics and Data Visualization",
       "teaser": "Overview The media landscape is changing rapidly, and the tools used for reporting and storytelling are changing with it. New technologies have made data analysis and visualization more accessible for reporters looking to tell stories in new and exciting ways. The graphics team at The Washington Post is no exception – they produce award-winning visual storytelling using data, design, code, cartography, illustration, animation, augmented reality, and more. In this talk,...",
       "seconds": "1574053200"
+    },
+    {
+      "url": "/python-working-group/",
+      "content": "Interested in learning Python at your own pace but aren’t sure where to start? Looking to ask questions, exchange tips, or collaborate with others? Join the Python Working Group! During the weekly meetups, Yale Digital Humanities Lab team members will be on hand to answer questions and help participants work through a curated list of lessons from online tutorials.\n\nNo previous Python experience is required; all levels of programming experience are welcome.\n\nThis group meets on Fridays, except during campus breaks (unless otherwise noted).\n",
+      "title": "Python Working Group",
+      "teaser": "Interested in learning Python at your own pace but aren’t sure where to start? Looking to ask questions, exchange tips, or collaborate with others? Join the Python Working Group! During the weekly meetups, Yale Digital Humanities Lab team members will be on hand to answer questions and help participants work through a curated list of lessons from online tutorials. No previous Python experience is required; all levels of programming experience...",
+      "seconds": "1574398800"
     },
     {
       "url": "/guides/corpus-creation.html",
