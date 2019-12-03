@@ -33,4 +33,4 @@ The project's core research questions include:
 
 3. To what extent can a visual narrative accurately depict controversial history?
 
-*This project was created as part of Professor Laura Wexler's "Intro to Digital Humanities" course in fall 2017.*
+*This project was created as part of Professor Laura Wexler's "Intro to Digital Humanities" course in fall 2017, for which jub Sankofa was the DH Teaching Fellow.*
