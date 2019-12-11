@@ -24,4 +24,4 @@ Interested in learning Python at your own pace but aren't sure where to start? L
 
 No previous Python experience is required; all levels of programming experience are welcome.
 
-This group meets on Fridays, except during campus breaks (unless otherwise noted).
+This group meets on Fridays, except during campus breaks. Our last meeting of 2019 will occur on December 13. Our first meeting of 2020 will occur on Friday, January 17.
