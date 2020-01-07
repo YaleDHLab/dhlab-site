@@ -1,10 +1,20 @@
 ---
 title: "Python Working Group"
-date: 2019-11-22
+date: 2020-01-17
 dates: 
-  - 2019-11-22
-  - 2019-12-06
-  - 2019-12-13
+  - 2020-01-17
+  - 2020-01-24
+  - 2020-01-31
+  - 2020-02-07
+  - 2020-02-14
+  - 2020-02-21
+  - 2020-03-06
+  - 2020-03-13
+  - 2020-03-20
+  - 2020-03-27
+  - 2020-04-24
+  - 2020-05-01
+  - 2020-05-08
 time: 3:00 - 4:00 p.m.
 location: Franke Family Digital Humanities Laboratory
 thumbnail: /assets/images/events/python2.jpg
@@ -24,4 +34,9 @@ Interested in learning Python at your own pace but aren't sure where to start? L
 
 No previous Python experience is required; all levels of programming experience are welcome.
 
-This group meets on Fridays, except during campus breaks. Our last meeting of 2019 will occur on December 13. Our first meeting of 2020 will occur on Friday, January 17.
+This group meets on Fridays, unless otherwise noted below.
+
+For the spring 2020 semester, the Python Working Group will not meet on 
+- February 28 due to the <a href='https://ctdh.io/program/' target='_blank'>CT DH conference</a>. 
+- April 3 due to the Beyond Boundaries symposium, which will take place in the DHLab. We hope to see you there!
+- April 10 due to the DHLab being closed that day
