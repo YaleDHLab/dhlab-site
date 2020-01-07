@@ -28,7 +28,7 @@ Designed for participants who have no prior programming experience, this worksho
 
 Instructor: Joshua Dull (DHLab)
 
-### Registration
+### Registration & Requirements
 This workshop is open to all Yale students, faculty, and staff, but space is limited. To register, visit the <a href='https://schedule.yale.edu/event/6305257' target='_blank'>YUL Instruction Calendar</a>. 
 
 **Participants are required to bring a laptop with <a href='https://www.anaconda.com/distribution/' target='_blank'>Anaconda Python 3.7</a> already installed to the workshop.** If you have trouble with the installation, stop by the Digital Humanities Lab's Office Hours, Monday through Thursday at 3:00 p.m. for help.
