@@ -36,7 +36,7 @@ No previous Python experience is required; all levels of programming experience 
 
 This group meets on Fridays, unless otherwise noted below.
 
-For the spring 2020 semester, the Python Working Group will not meet on 
-- February 28 due to the <a href='https://ctdh.io/program/' target='_blank'>CT DH conference</a>. 
+For the spring 2020 semester, the Python Working Group will not meet on: 
+- February 28 due to the <a href='https://ctdh.io/program/' target='_blank'>CT DH conference</a>, which is open to all to attend
 - April 3 due to the Beyond Boundaries symposium, which will take place in the DHLab. We hope to see you there!
-- April 10 due to the DHLab being closed that day
+- April 10 due to the DHLab being closed that day.
