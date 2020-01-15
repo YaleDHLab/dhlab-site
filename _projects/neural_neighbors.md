@@ -19,11 +19,11 @@ permalink: '/projects/neural-neighbors/'
 
 ### Overview
 
-*Neural Neighbors* uses cutting-edge "machine vision" techniques to detect patterns in the visual figuration of this unique collection, now part of the Beinecke Rare Book & Manuscript Library.
+*Neural Neighbors* uses cutting-edge machine vision techniques to detect patterns in the visual figuration of this unique collection, now part of the Beinecke Rare Book & Manuscript Library.
 
 ### Convolutional Neural Networks
 
-Artificial neural networks are a form of machine vision that mimic the human brain in their use of simple lines and shapes to learn how to recognize more complex patterns. Advanced GPUs (Graphics Processing Units) that are capable of performing linear algebra hundreds of times faster than conventional computers analyze each 19th-century photograph to identify complex visual combinations. The result is an imaginary space with thousands of dimensions—each dimension a measure of a particular visual characteristic (brass buttons, crossed arms, wavy hair, or a dark background).
+Artificial neural networks are a form of machine vision that mimics the human brain in their use of simple lines and shapes to learn how to recognize more complex patterns. Advanced GPUs (Graphics Processing Units) that are capable of performing linear algebra hundreds of times faster than conventional computers analyze each 19th-century photograph to identify complex visual combinations. The result is an imaginary space with thousands of dimensions—each dimension a measure of a particular visual characteristic (brass buttons, crossed arms, wavy hair, or a dark background).
 
 ### Nearest-Neighbor Similarity
 
