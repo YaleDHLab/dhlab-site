@@ -24,11 +24,11 @@ permalink: '/projects/every-pixel/'
 
 The Yale Digital Humanities Laboratory has been invited to collaborate with the Getty Research Institute (GRI) on a project to analyze Ed Ruscha's *Streets of Los Angeles*. According to the GRI, the Ruscha archive "contains more than a half million images including negatives, digital files, contact sheets, notes, and the complete production archive of Ruscha’s seminal artist book *Every Building on the Sunset Strip* (1966)." 
 
-Yale's accepted proposal, *Every Pixel on the Sunset Strip*, is a team­-based research project that uses machine vision to analyze, connect, and transform the raw material behind Ruscha’s art. The power of artificial vision systems such as convolutional neural networks and computational photography is transforming the way contemporary citizens of Los Angeles produce and consume their own images on social media. But the algorithms which synthesize, label, and transfigure our visual culture on these platforms are increasingly of interest to humanities scholars. 
+Yale's accepted proposal, *Every Pixel on the Sunset Strip*, is a team-based research project that uses machine vision to analyze, connect, and transform the raw material behind Ruscha’s art. The power of artificial vision systems such as convolutional neural networks and computational photography is transforming the way contemporary citizens of Los Angeles produce and consume their own images on social media. But the algorithms which synthesize, label, and transfigure our visual culture on these platforms are increasingly of interest to humanities scholars. 
 
-*Every Pixel on the Sunset Strip* puts recent advances in machine learning into conversation with Ruscha’s photographic negatives. This project leverages techniques from computer science in the service of two goals: to build a descriptive urban heatmap showing computationally­ recognized objects, and to extract three­-dimensional structure from conventional photography.
+*Every Pixel on the Sunset Strip* puts recent advances in machine learning into conversation with Ruscha’s photographic negatives. This project leverages techniques from computer science in the service of two goals: to build a descriptive urban heatmap showing computationally recognized objects, and to extract three-dimensional structure from conventional photography.
 
-For an in-progress look at the project, this video demonstrates the way machine vision clusters thousands of automobiles that had been computationally extracted from Ruscha's negatives.
+For an in-progress look at the project, this video demonstrates the way machine vision clusters thousands of automobiles that we computationally extracted from Ruscha's negatives.
 <video autoplay muted loop>
   <source src='/assets/videos/ruschacoupes.mp4' type='video/mp4'>
 </video>
