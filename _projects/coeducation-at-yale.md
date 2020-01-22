@@ -19,7 +19,6 @@ team:
 categories:
   - Spatial Analysis
   - Web Application
-permalink: '/projects/cinecircuits/'
 ---
 
 ### Overview
