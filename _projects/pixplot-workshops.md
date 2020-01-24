@@ -50,4 +50,4 @@ The *PixPlot* for Cultural Heritage workshop in New Haven will be scheduled as f
 </table>
 
 ### Schedule & Logistics, Workshop 1
-The *PixPlot* for Natural Science Collections workshop will take place in Washington, DC in May 2020. Details are forthcoming.
+The *PixPlot* for Natural Science Collections workshop will take place in Washington, DC in April or May 2020. Details are forthcoming.
