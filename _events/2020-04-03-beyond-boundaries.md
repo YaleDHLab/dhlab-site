@@ -1,7 +1,7 @@
 ---
 title: 'Beyond Boundaries: Fifth Annual Symposium'
 date: 2020-04-03
-time: 1:30 - 5:00 p.m.
+time: 1:30 - 4:45 p.m.
 location: Franke Family Digital Humanities Laboratory
 thumbnail: /assets/images/events/bb-2020.jpg
 alt: Beyond Boundaries logo over an abstract map
@@ -28,7 +28,7 @@ For last year's presentations, see the <a href='https://www.youtube.com/watch?v=
 Beyond Boundaries is organized by the Yale Digital Humanities Laboratory and sponsored by the Poorvu Center for Teaching and Learning. The symposium is open to the whole campus community and public. No advance registration is required.<br>
 
 ## Present your work at this year's event
-Do you have a project with a digital or computational component? Apply to present at this year's symposium! Yale College and graduate students are eligible to give 7-minute lightning talks or posters. All Yale affiliates all eligible to present posters, which may be print or digital. 
+Do you have a project with a digital, computational, or STEAM (STEM + Arts/Humanities) component? Apply to present at this year's symposium! Yale College and graduate students are eligible to give 7-minute lightning talks or posters. All Yale affiliates all eligible to present posters, which may be print or digital. 
 
 The deadline to apply is Friday, February 28. <a href='https://docs.google.com/forms/d/e/1FAIpQLSeTuMU5uVcURVlvH9BXrCtiIN5jfitKBxSRVtZPslQpOzHQzQ/viewform' target='_blank'>Apply online</a> or [email the Digital Humanities Lab](mailto:dhlab@yale.edu) with questions.<br>
 
@@ -59,7 +59,7 @@ The deadline to apply is Friday, February 28. <a href='https://docs.google.com/f
     <td>Susan Gibbons, Stephen F. Gates ’68 University Librarian and Vice Provost for Collections & Scholarly Communication</td>
   </tr>
   <tr>
-    <td>4:05 - 5:00 p.m.</td>
+    <td>4:05 - 4:45 p.m.</td>
     <td>Poster Session</td>
     <td>Showcase of projects by students, faculty, and staff</td>
   </tr>
