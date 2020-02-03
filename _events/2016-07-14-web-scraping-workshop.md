@@ -28,6 +28,4 @@ Instructor: Douglas Duhaime (DHLab)
 
 Photos from the event:
 
-[<img src="http://web.library.yale.edu/sites/default/files/resize/images/web%20scraping%2C%20Doug-264x225.jpg" />](http://web.library.yale.edu/sites/default/files/images/web%20scraping%2C%20Doug.jpg)
-
 [<img src="http://web.library.yale.edu/sites/default/files/resize/images/IMG_0658-303x225.JPG" />](http://web.library.yale.edu/sites/default/files/images/IMG_0658.JPG)
