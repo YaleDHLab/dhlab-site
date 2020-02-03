@@ -21,7 +21,7 @@ permalink: '/machine-vision-workshop/'
 ---
 
 ### Indicate which days work for you
-Do you have a digitized collection between 3,000-30,000 images that you would be interested in exploring in *PixPlot*? Would you like to experiment with *PixPlot*'s latest enhancements for clustering and exporting results? If yes, please indicate your availability on our <a href='https://www.when2meet.com/?8579685-7cJxd' target='_blank'>planning calendar</a>. We will use the calendar to determine which two days will work best for holding the first workshop.
+Do you have a digitized collection between 3,000-30,000 images that you would be interested in exploring in *PixPlot*? Would you like to experiment with *PixPlot*'s latest enhancements for clustering and exporting results? If yes, please indicate your availability on our <a href='https://www.when2meet.com/?8692471-Fi6wK' target='_blank'>planning calendar</a>. We will use the calendar to determine which two days will work best for holding the first workshop.
 
 ### Schedule & Logistics, Workshop 1
 The *PixPlot* for Cultural Heritage workshop in New Haven will be scheduled as follows:
