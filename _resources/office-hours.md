@@ -19,5 +19,5 @@ Whether you are new to the field and would like to learn more, have an existing 
 **Who**: Everyone in the Yale community, no advanced registration required   
 
 In addition to general DH Office Hours, specialized support will be available as follows for questions on:
-- Tuesdays at 3:00 p.m. \| Geographic information systems (GIS) 
+- Tuesdays at 3:00 p.m. \| Geographic information systems (GIS), with support from <a href='https://csssi.yale.edu/data-gis-and-statistical-support-services-csssi' target='_blank'>the Center for Science and Social Science Information</a> 
 - Tuesdays at 3:00 p.m. \| Python and R
