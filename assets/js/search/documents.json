@@ -943,7 +943,7 @@
       "content": "Interested in learning Python at your own pace but aren’t sure where to start? Looking to ask questions, exchange tips, or collaborate with others? Join the Python Working Group! During the weekly meetups, Yale Digital Humanities Lab team members will be on hand to answer questions and help participants work through a curated list of lessons from online tutorials.\n\nNo previous Python experience is required; all levels of programming experience are welcome.\n\nThis group meets on Fridays, unless otherwise noted below.\n\nFor the spring 2020 semester, the Python Working Group will not meet on:\n\n  February 28 due to the CT DH conference, which is open to all to attend\n  April 3 due to the Beyond Boundaries symposium, which will take place in the DHLab. We hope to see you there!\n  April 10 due to the DHLab being closed that day.\n\n",
       "title": "Python Working Group",
       "teaser": "Interested in learning Python at your own pace but aren’t sure where to start? Looking to ask questions, exchange tips, or collaborate with others? Join the Python Working Group! During the weekly meetups, Yale Digital Humanities Lab team members will be on hand to answer questions and help participants work through a curated list of lessons from online tutorials. No previous Python experience is required; all levels of programming experience...",
-      "seconds": "1581051600"
+      "seconds": "1581656400"
     },
     {
       "url": "/events/2020-01-28-gephi.html",
@@ -972,6 +972,13 @@
       "title": "Data Visualization with Tableau",
       "teaser": "Learn how to visualize your data with Tableau Public. This workshop will familiarize you with key issues in data visualization. We will review the fundamental principles behind effective visualizations and touch on common pitfalls that result in confusing or misleading graphics. During the workshop, participants will gain hands-on experience using Tableau to produce dynamic and compelling visualizations for different types of data. This workshop is designed for participants who are...",
       "seconds": "1582606800"
+    },
+    {
+      "url": "/events/2020-02-27-neural-style.html",
+      "content": "Overview\n\nLearn more about the intersections of art and AI and how you can incorporate both into your work using Runway ML. This session will provide an overview of neural style transfer, an algorithmic technique that applies the “style” of one digital image to the “content” of another. In particular, we will focus on the use of neural style transfer in creative art practice by generating images in Runway ML, out-of-the-box software that lets you apply style transfer techniques to your own images.\n\nThis hands-on workshop is designed for participants who are new to neural style transfer. No computer programming experience is required.\n\nInstructor: Catherine DeRose (DHLab)\n\nRegistration &amp; Requirements\nThis workshop is open to all Yale students, faculty, and staff, but space is limited. To register, visit the YUL Instruction Calendar.\n\nParticipants are required to bring a laptop with Runway ML already installed to the workshop. To install the software, click on “Download Beta.” If you have trouble with the installation, stop by the Digital Humanities Lab’s Office Hours, Monday through Thursday at 3:00 p.m. for help.\n\nBe among the first to know when future workshops are announced by signing up for the DHLab’s newsletter.\n",
+      "title": "Neural Style Transfer with Runway ML",
+      "teaser": "Overview Learn more about the intersections of art and AI and how you can incorporate both into your work using Runway ML. This session will provide an overview of neural style transfer, an algorithmic technique that applies the “style” of one digital image to the “content” of another. In particular, we will focus on the use of neural style transfer in creative art practice by generating images in Runway ML,...",
+      "seconds": "1582779600"
     },
     {
       "url": "/bb2020/",
