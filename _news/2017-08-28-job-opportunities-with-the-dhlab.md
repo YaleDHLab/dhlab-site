@@ -14,9 +14,8 @@ tags:
 spotlight: false
 image_layout: simple
 teaser: |
-  Job Opportunities with the DHLab If you have programming skills and an interest in humanistic data, apply to work in the Digital Humanities Lab! We are looking to hire Yale undergraduate and graduate students to work on a variety of exciting projects that are underway in the lab.
+  If you have programming skills and an interest in humanistic data, apply to work in the Digital Humanities Lab! We are looking to hire Yale undergraduate and graduate students to work on a variety of exciting projects that are underway in the lab.
 ---
-
 
 If you have programming skills and an interest in humanistic data, apply to work in the Digital Humanities Lab! We are looking to hire Yale undergraduate and graduate students to work on a variety of exciting projects that are underway in the lab.
 
