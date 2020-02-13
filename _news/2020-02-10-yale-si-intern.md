@@ -16,7 +16,7 @@ teaser: |
 ---
 
 ## Digital Humanities Research Intern  
-
+<br>
 ### Job Description
 Yale's Digital Humanities Laboratory (DHLab) and <a href='https://datascience.si.edu/' target='_blank'>the Smithsonian Institution's Data Science Lab</a> are seeking a Yale graduate or undergraduate student to work on visualization software over the course of eight weeks this summer.  
 
@@ -40,7 +40,7 @@ Through the internship, the student will gain the following:
 - A broad overview of the field of computational images analysis
 - Experience managing real-world image analysis projects in the humanities and natural sciences
 - Familiarity with installing, configuring, and operating the DHLab’s *PixPlot* software
-- Experience managing large-scale (>10,000) image collections from both the file system and command line.
+- Experience managing large-scale (>10,000) image collections from both the file system and command line
 - Knowledge of best practices in metadata management from the Galleries, Libraries, Archives, and Museums (GLAM) sector
 
 
