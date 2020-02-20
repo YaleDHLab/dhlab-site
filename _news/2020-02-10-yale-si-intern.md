@@ -12,15 +12,15 @@ categories:
 <!--status: fulfilled-->
 image_layout: simple
 teaser: |
-  Yale's Digital Humanities Laboratory and the Smithsonian Institution's Data Science Lab are seeking a Yale graduate or undergraduate student to work on open-source visualization software this summer.
+  Work with the Yale Digital Humanities Lab and Smithsonian Data Science Lab as a Digital Humanities Research Intern this summer! We are jointly seeking a Yale graduate or undergraduate student to help advance PixPlot, open-source software for visualizing image collections at scale.
 ---
 
 ## Digital Humanities Research Intern  
 <br>
 ### Job Description
-Yale's Digital Humanities Laboratory (DHLab) and <a href='https://datascience.si.edu/' target='_blank'>the Smithsonian Institution's Data Science Lab</a> are seeking a Yale graduate or undergraduate student to work on visualization software over the course of eight weeks this summer.  
+Work with the Yale Digital Humanities Lab and <a href='https://datascience.si.edu/' target='_blank'>the Smithsonian Institution's Data Science Lab</a> as a Digital Humanities Research Intern this summer! We are jointly seeking a Yale graduate or undergraduate student to help advance <a href='https://dhlab.yale.edu/projects/pixplot/' target='_blank'>*PixPlot*</a>, open-source software for visualizing image collections at scale.
 
-The position focuses on *PixPlot*, open-source software for large-scale visualization of images. The DH Research Intern will assist the DHLab in further developing the technology, user interface, documentation, and/or testing of *PixPlot* by using images held in collections at Yale and the Smithsonian.
+The Digital Humanities Research Intern will assist in further developing the software, user interface, documentation, and/or testing procedures by using images held in collections at Yale and the Smithsonian. The intern will have a dedicated workspace in the Franke Family Digital Humanities Laboratory within Sterling Memorial Library.
 
 ### Qualifications
 The ideal candidate should possess one or more of the following attributes:
@@ -31,8 +31,7 @@ The ideal candidate should possess one or more of the following attributes:
 - Experience with the Python programming language
 - Experience with computer vision, neural networks, and related fields
 
-Depending on the student’s interests and prior experience, DHLab staff will provide training as needed. The position will have a dedicated workspace in the Franke Family Digital
-Humanities Laboratory within Sterling Memorial Library.
+DHLab staff will provide technical training as needed based on the student’s interests and prior experience.
 
 ### Learning Objectives
 Through the internship, the student will gain the following:
