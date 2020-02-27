@@ -22,7 +22,7 @@ This hands-on workshop is designed for participants who are new to neural style 
 
 Instructor: Catherine DeRose (DHLab)
 
-*This event was co-organized by the Yale Digital Humanities Laboratory and Robert B. Haas Family Arts Library.*
+*This event is co-organized by the Yale Digital Humanities Laboratory and Robert B. Haas Family Arts Library.*
 
 ### Registration & Requirements
 This workshop is open to all Yale students, faculty, and staff, but space is limited. To register, visit the <a href='https://schedule.yale.edu/event/6440232'>YUL Instruction Calendar</a>. 
