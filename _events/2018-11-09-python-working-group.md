@@ -9,12 +9,6 @@ dates:
   - 2020-02-14
   - 2020-02-21
   - 2020-03-06
-  - 2020-03-13
-  - 2020-03-20
-  - 2020-03-27
-  - 2020-04-24
-  - 2020-05-01
-  - 2020-05-08
 time: 3:00 - 4:00 p.m.
 location: Franke Family Digital Humanities Laboratory
 thumbnail: /assets/images/events/python2.jpg
@@ -34,9 +28,4 @@ Interested in learning Python at your own pace but aren't sure where to start? L
 
 No previous Python experience is required; all levels of programming experience are welcome.
 
-This group meets on Fridays, unless otherwise noted below.
-
-For the spring 2020 semester, the Python Working Group will not meet on: 
-- February 28 due to the <a href='https://ctdh.io/program/' target='_blank'>CT DH conference</a>, which is open to all to attend
-- April 3 due to the Beyond Boundaries symposium, which will take place in the DHLab. We hope to see you there!
-- April 10 due to the DHLab being closed that day.
+The Python Working Group will resume this summer. Check back for more details or <a href='mailto:dhlab@yale.edu'>email the Digital Humanities Lab</a> to express interest in participating.
