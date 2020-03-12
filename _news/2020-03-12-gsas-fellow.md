@@ -55,6 +55,6 @@ Through this position, the fellow will gain:
 Along with collaborating on DHLab initiatives, the fellow will have the opportunity to meet with DHLab staff—all of whom studied in the humanities and digital media—to learn more about their unique career paths and what prepared them for their current positions.
 
 ### Application
-To apply, visit the <a href='https://ocs.yale.edu/get-hired/gsas-professional-experience-0' target='_blank'>GSAS Professional Experience Fellowship Opportunities page</a>.
+To apply, visit the <a href='https://ocs.yale.edu/get-hired/gsas-professional-experience-0' target='_blank'>GSAS Professional Experience Fellowship Opportunities page</a>. Applications are due April 3, 2020.
 
 Email [the Digital Humanities Lab](mailto:dhlab@yale.edu) with any questions.
