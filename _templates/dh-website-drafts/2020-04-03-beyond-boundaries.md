@@ -4,7 +4,7 @@ date: 2020-04-03
 time: 1:30 - 4:45 p.m.
 location: Franke Family Digital Humanities Laboratory
 thumbnail: /assets/images/events/bb-2020.jpg
-alt: Beyond Boundaries logo over an abstract map
+alt: Beyond Boundaries word logo over an abstract map
 categories:
   - Symposium
 tags:
