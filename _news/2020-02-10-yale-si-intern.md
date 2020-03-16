@@ -44,9 +44,9 @@ Through the internship, the student will gain the following:
 
 
 ### Job Details
-Time period: June through July, 2020 (8 weeks)
+Time period: Although originally scheduled for Summer 2020, we anticipate this internship will begin in the Fall and/or Winter
 
-Estimated time commitment: 25 hours per week
+Estimated time commitment: 10 hours per week
 
 Payrate: $25/hour
 
