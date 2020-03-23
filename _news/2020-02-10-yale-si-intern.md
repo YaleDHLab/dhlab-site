@@ -12,13 +12,13 @@ categories:
 <!--status: fulfilled-->
 image_layout: simple
 teaser: |
-  Work with the Yale Digital Humanities Lab and Smithsonian Data Science Lab as a Digital Humanities Research Intern this summer! We are jointly seeking a Yale graduate or undergraduate student to help advance PixPlot, open-source software for visualizing image collections at scale.
+  Work with the Yale Digital Humanities Lab and Smithsonian Data Science Lab as a Digital Humanities Research Intern this fall/winter! We are jointly seeking a Yale graduate or undergraduate student to help advance PixPlot, open-source software for visualizing image collections at scale.
 ---
 
 ## Digital Humanities Research Intern  
 <br>
 ### Job Description
-Work with the Yale Digital Humanities Lab and <a href='https://datascience.si.edu/' target='_blank'>the Smithsonian Institution's Data Science Lab</a> as a Digital Humanities Research Intern this summer! We are jointly seeking a Yale graduate or undergraduate student to help advance <a href='https://dhlab.yale.edu/projects/pixplot/' target='_blank'>*PixPlot*</a>, open-source software for visualizing image collections at scale.
+Work with the Yale Digital Humanities Lab and <a href='https://datascience.si.edu/' target='_blank'>the Smithsonian Institution's Data Science Lab</a> as a Digital Humanities Research Intern this fall/winter! We are jointly seeking a Yale graduate or undergraduate student to help advance <a href='https://dhlab.yale.edu/projects/pixplot/' target='_blank'>*PixPlot*</a>, open-source software for visualizing image collections at scale.
 
 The Digital Humanities Research Intern will assist in further developing the software, user interface, documentation, and/or testing procedures by using images held in collections at Yale and the Smithsonian. The intern will have a dedicated workspace in the Franke Family Digital Humanities Laboratory within Sterling Memorial Library.
 
@@ -44,7 +44,7 @@ Through the internship, the student will gain the following:
 
 
 ### Job Details
-Time period: Although originally scheduled for Summer 2020, we anticipate this internship will begin in the Fall and/or Winter
+Time period: Although originally scheduled for summer 2020, we anticipate this internship will occur in the fall and/or winter
 
 Estimated time commitment: 10 hours per week
 
