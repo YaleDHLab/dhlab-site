@@ -10,8 +10,9 @@ project_url: http://ensemble.yale.edu/#/
 team:
   - name: Lindsay King
     position: Robert B. Haas Family Arts Library
-  - name: Peter Leonard
-    position: Yale Digital Humanities Lab
+  - name: Alex O'Keefe
+    position: School of the Art Institute of Chicago
+  - name: Yale Digital Humanities Lab Team
 categories:
   - Web Application
 tags:
@@ -23,9 +24,18 @@ dhlab_project: true
 
 ### Overview
 
-*Ensemble @ Yale* is an experiment with crowdsourced transcriptions of 90 years of programs from the Yale School of Drama, Yale Repertory Theatre, and other theatrical groups on campus. The project enlists users to extract crucial relationship information from programs: which actors and directors worked together? which playwrights' works have been produced the most often on campus? which actors have played major roles onstage at Yale? Simple optical character recognition (OCR) cannot discover such complex semantic relationships, but human users can do so while they browse through the archive.
+What is the most-produced play at Yale? Who starred with Lupita Nyong'o, Meryl Streep, and Paul Giamatti when they were students? *Ensemble@Yale* is an experiment that aims to answer these questions and more by transforming historical theater programs from Yale’s archives into searchable text through crowdsourced transcription. Rather than reproducing all of the words in a digitized document, as with optical character recognition (OCR), crowdsourced transcription relies on human judgment to create structured data and identify features of interest to scholars and theater enthusiasts.
 
+Through the combined efforts of over 400 volunteers, all 1,030 *Ensemble@Yale* programs have officially been transcribed. The project team has now begun efforts to
+add the programs to Yale University Library’s Digital Collections, where they will be searchable using the metadata created from this project. We have also begun to visualize the collection.
 
-### Methods &amp; Tools
+### Programs
+Internationally recognized as a leading training program, the <a href='https://www.drama.yale.edu/' target='_blank'>Yale School of Drama</a> is and its professional company, <a href='https://www.yalerep.org/' target='_blank'>Yale Repertory Theatre</a>, has premiered numerous plays that have gone on to successful productions in New York and elsewhere. The long list of renowned alumni has garnered significant research interest in the archival records of their careers at Yale; however the materiality of these records makes it difficult to search them comprehensively. Yale University Library’s archives of productions on campus, dating back to 1925, are housed in several separate special collections units. The vast majority of these records exist solely in print and often lack intuitive access for researchers. *Ensemble@Yale* will provide new entry points into the collection, highlighting the people behind the productions.
 
-*Ensemble @ Yale* would not be possible without the pioneering *Ensemble* software, a project of <a href='https://www.nypl.org/collections/labs' target='_blank'>NYPL Labs</a> and <a href='https://www.nypl.org/locations/lpa' target='_blank'>The New York Public Library for the Performing Arts</a>. We are thankful to the New York Public Library for their advice, efforts, and expertise.
+### History
+
+Inspired by the original <a href='http://ensemble.nypl.org/' target='_blank'>Ensemble</a> project from NYPL Labs, Ensemble@Yale was initially based on the <a href='http://scribeproject.github.io/' target='_blank'>Scribe Project</a> from <a href='https://www.nypl.org/collections/labs' target='_blank'>NYPL Labs</a> and <a href='https://www.zooniverse.org/' target='_blank'>Zooniverse</a>. Ensemble@Yale switched platforms in summer 2019 from Scribe to Zooniverse’s Project Builder, streamlining workflows to focus on cast and staff and giving volunteers a way to track their contributions. 
+
+This main <a href='http://ensemble.yale.edu/#/' target='_blank'>*Ensemble@Yale*</a> project site provides the opportunity to browse programs from throughout Yale’s theater history. It also links out to our Zooniverse project, where volunteers can help transcribe new programs when they're available.
+
+*This project is a collaboration between the Yale Digital Humanities Laboratory and Robert B. Haas Family Arts Library at Yale University Library, with support from the Yale Repertory Theatre.*
