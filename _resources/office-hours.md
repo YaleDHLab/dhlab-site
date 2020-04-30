@@ -13,7 +13,7 @@ Office Hours provide a weekly opportunity to exchange ideas, discuss methods, an
  
 Whether you are new to the field and would like to learn more, have an existing project and seek a communal workspace, or are somewhere in between, we invite you to reach out!
 
-**For the remainder of the spring 2020 semester, the Digital Humanities Lab will hold Office Hours remotely over the phone or Zoom. To arrange an appointment, please submit a <a href='https://docs.google.com/forms/d/e/1FAIpQLSe4Lyo8EEdoiTLosfnmOUNEsZZToCD_n7dZ10ypCerw4diJGA/viewform' target='_blank'>DH consultation request online</a>.**
+**Office Hours are currently held remotely, Monday through Friday, over the phone or Zoom. To arrange an appointment, please submit a <a href='https://docs.google.com/forms/d/e/1FAIpQLSe4Lyo8EEdoiTLosfnmOUNEsZZToCD_n7dZ10ypCerw4diJGA/viewform' target='_blank'>DH consultation request online</a>.**
 
 <!--
 **When (during the semester)**: Monday through Thursday, 3:00 - 4:00 p.m.   
