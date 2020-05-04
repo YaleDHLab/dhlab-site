@@ -1,0 +1,7 @@
+{% if include.category %}
+  {% include get_filtered_records.liquid records=include.records category=include.category %}
+{% else %}
+  {% assign records = include.records %}
+{% endif %}
+
+{% assign records = (records | sort: 'date') | reverse %}

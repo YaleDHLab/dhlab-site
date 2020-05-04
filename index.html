@@ -19,7 +19,11 @@ title: Welcome
       <a href='{{ site.baseurl }}/events.html'>EVENTS CALENDAR</a>
     </div>
     <div class='home-events-container hide-tablet'>
-      {% include events/get_future_events.html %}
+      {% include get_sorted_records.liquid records=site.events %}
+      {% assign sorted_events = records %}
+
+      {% include get_future_or_past_records.liquid records=site.events type='future' %}
+      {% assign future_events = records %}
 
       {% assign three_events = '' | split: '' %}
       {% for i in future_events %}
@@ -35,6 +39,7 @@ title: Welcome
           {% endif %}
         {% endif %}
       {% endfor %}
+
       {% assign page_events = three_events | sort: 'date' %}
 
       {% for event in page_events %}
