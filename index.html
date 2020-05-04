@@ -31,37 +31,43 @@ title: Welcome
       {% include get_future_or_past_records.liquid records=site.events type='future' %}
       {% assign future_events = records %}
 
-      {% assign sorted_items = future_events | concat: sorted_items %}
-
+      <!-- add items to the future events until we have three items to render -->
+      {% assign padding = '' | split: '' %}
       {% for item in sorted_items %}
-        {% if forloop.index < 4 %}
-          <div class='home-event-wrapper'>
-            <a href='{{ item.url | prepend: site.baseurl }}' class='hide-tablet'>
-              {% assign image_url = item.thumbnail | prepend: site.baseurl %}
-              <div class='home-event-image background-image event-date-container blur-container'
-                  style='background-image: url({{ image_url }})' alt='{{ item.alt }}'>
-                {% include events/event_date.html event=item %}
-                {% assign label=item.categories | first %}
-                {% if item.short_title %}
-                  {% include cards/card_title_box.html
-                    label=label
-                    title=item.short_title %}
-                {% else %}
-                  {% include cards/card_title_box.html
-                    label=label
-                    title=item.title %}
-                {% endif %}
-              </div>
-            </a>
-          </div>
+        {% assign count = future_events.size | plus: padding.size %}
+        {% if count < 3 %}
+          {% assign padding = padding | push: item %}
         {% endif %}
+      {% endfor %}
+
+      {% assign padding = padding | reverse %}
+      {% assign render_list = future_events | concat: padding %}
+
+      {% for item in render_list %}
+        <div class='home-event-wrapper'>
+          <a href='{{ item.url | prepend: site.baseurl }}' class='hide-tablet'>
+            {% assign image_url = item.thumbnail | prepend: site.baseurl %}
+            <div class='home-event-image background-image event-date-container blur-container'
+                style='background-image: url({{ image_url }})' alt='{{ item.alt }}'>
+              {% include events/event_date.html event=item %}
+              {% assign label=item.categories | first %}
+              {% if item.short_title %}
+                {% include cards/card_title_box.html
+                  label=label
+                  title=item.short_title %}
+              {% else %}
+                {% include cards/card_title_box.html
+                  label=label
+                  title=item.title %}
+              {% endif %}
+            </div>
+          </a>
+        </div>
       {% endfor %}
     </div>
     <div class='mobile'>
-      {% for item in sorted_items %}
-        {% if forloop.index < 4 %}
-          {% include cards/horizontal_card.html item=item %}
-        {% endif %}
+      {% for item in render_list %}
+        {% include cards/horizontal_card.html item=item %}
       {% endfor %}
     </div>
   </section>
