@@ -22,51 +22,46 @@ title: Welcome
       {% include get_sorted_records.liquid records=site.events %}
       {% assign sorted_events = records %}
 
+      {% include get_sorted_records.liquid records=site.news %}
+      {% assign sorted_news = records %}
+
+      {% assign sorted_items = sorted_events | concat: sorted_news %}
+      {% assign sorted_items = sorted_items | sort: 'date' | reverse %}
+
       {% include get_future_or_past_records.liquid records=site.events type='future' %}
       {% assign future_events = records %}
 
-      {% assign three_events = '' | split: '' %}
-      {% for i in future_events %}
-        {% if three_events.size < 3 %}
-          {% assign three_events = three_events | push: i %}
+      {% assign sorted_items = future_events | concat: sorted_items %}
+
+      {% for item in sorted_items %}
+        {% if forloop.index < 4 %}
+          <div class='home-event-wrapper'>
+            <a href='{{ item.url | prepend: site.baseurl }}' class='hide-tablet'>
+              {% assign image_url = item.thumbnail | prepend: site.baseurl %}
+              <div class='home-event-image background-image event-date-container blur-container'
+                  style='background-image: url({{ image_url }})' alt='{{ item.alt }}'>
+                {% include events/event_date.html event=item %}
+                {% assign label=item.categories | first %}
+                {% if item.short_title %}
+                  {% include cards/card_title_box.html
+                    label=label
+                    title=item.short_title %}
+                {% else %}
+                  {% include cards/card_title_box.html
+                    label=label
+                    title=item.title %}
+                {% endif %}
+              </div>
+            </a>
+          </div>
         {% endif %}
-      {% endfor %}
-
-      {% for i in sorted_events %}
-        {% if three_events.size < 3 %}
-          {% if forloop.index > three_events.size %}
-            {% assign three_events = three_events | push: i %}
-          {% endif %}
-        {% endif %}
-      {% endfor %}
-
-      {% assign page_events = three_events | sort: 'date' %}
-
-      {% for event in page_events %}
-        <div class='home-event-wrapper'>
-          <a href='{{ event.url | prepend: site.baseurl }}' class='hide-tablet'>
-            {% assign image_url = event.thumbnail | prepend: site.baseurl %}
-            <div class='home-event-image background-image event-date-container blur-container'
-                style='background-image: url({{ image_url }})' alt='{{ event.alt }}'>
-              {% include events/event_date.html event=event %}
-              {% assign label=event.categories | first %}
-              {% if event.short_title %}
-                {% include cards/card_title_box.html
-                  label=label
-                  title=event.short_title %}
-              {% else %}
-                {% include cards/card_title_box.html
-                  label=label
-                  title=event.title %}
-              {% endif %}
-            </div>
-          </a>
-        </div>
       {% endfor %}
     </div>
     <div class='mobile'>
-      {% for event in page_events %}
-        {% include cards/horizontal_card.html item=event %}
+      {% for item in sorted_items %}
+        {% if forloop.index < 4 %}
+          {% include cards/horizontal_card.html item=item %}
+        {% endif %}
       {% endfor %}
     </div>
   </section>
