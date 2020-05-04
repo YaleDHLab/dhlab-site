@@ -29,15 +29,19 @@ class: resource-detail-page
   </div>
   {% if page.include_workshops %}
     <div class='resource-page-workshops'>
-      {% include events/get_future_events.html category='Workshop' %}
+      {% include get_future_or_past_records.liquid records=site.events category='Workshop' type='future' %}
+      {% assign future_workshops = records %}
+
+      {% include get_future_or_past_records.liquid records=site.events category='Workshop' type='past' %}
+      {% assign past_workshops = records %}
+
       {% include resources/workshops.html
-        items=future_events
+        items=future_workshops
         label='Upcoming Workshops'
       %}
 
-      {% include events/get_past_events.html category='Workshop' %}
       {% include resources/workshops.html
-        items=past_events
+        items=past_workshops
         label='Past Workshops'
       %}
     </div>

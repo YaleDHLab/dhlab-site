@@ -1,0 +1,13 @@
+{% if include.category %}
+  {% assign filtered_records = '' | split: '' %}
+  {% for record in include.records %}
+    {% if record.categories contains include.category %}
+      {% unless record.render == false %}
+        {% assign filtered_records = filtered_records | push: record %}
+      {% endunless %}
+    {% endif %}
+  {% endfor %}
+  {% assign records = filtered_records %}
+{% else %}
+  {% assign records = include.records %}
+{% endif %}

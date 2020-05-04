@@ -19,40 +19,46 @@ title: Welcome
       <a href='{{ site.baseurl }}/events.html'>EVENTS CALENDAR</a>
     </div>
     <div class='home-events-container hide-tablet'>
-      {% include events/get_future_events.html %}
+      {% include get_sorted_records.liquid records=site.events %}
+      {% assign sorted_events = records %}
 
-      {% assign three_events = '' | split: '' %}
-      {% for i in future_events %}
-        {% if three_events.size < 3 %}
-          {% assign three_events = three_events | push: i %}
+      {% include get_sorted_records.liquid records=site.news %}
+      {% assign sorted_news = records %}
+
+      {% assign sorted_items = sorted_events | concat: sorted_news %}
+      {% assign sorted_items = sorted_items | sort: 'date' | reverse %}
+
+      {% include get_future_or_past_records.liquid records=site.events type='future' %}
+      {% assign future_events = records %}
+
+      <!-- add items to the future events until we have three items to render -->
+      {% assign padding = '' | split: '' %}
+      {% for item in sorted_items %}
+        {% assign count = future_events.size | plus: padding.size %}
+        {% if count < 3 %}
+          {% assign padding = padding | push: item %}
         {% endif %}
       {% endfor %}
 
-      {% for i in sorted_events %}
-        {% if three_events.size < 3 %}
-          {% if forloop.index > three_events.size %}
-            {% assign three_events = three_events | push: i %}
-          {% endif %}
-        {% endif %}
-      {% endfor %}
-      {% assign page_events = three_events | sort: 'date' %}
+      {% assign padding = padding | reverse %}
+      {% assign render_list = future_events | concat: padding %}
 
-      {% for event in page_events %}
+      {% for item in render_list %}
         <div class='home-event-wrapper'>
-          <a href='{{ event.url | prepend: site.baseurl }}' class='hide-tablet'>
-            {% assign image_url = event.thumbnail | prepend: site.baseurl %}
+          <a href='{{ item.url | prepend: site.baseurl }}' class='hide-tablet'>
+            {% assign image_url = item.thumbnail | prepend: site.baseurl %}
             <div class='home-event-image background-image event-date-container blur-container'
-                style='background-image: url({{ image_url }})' alt='{{ event.alt }}'>
-              {% include events/event_date.html event=event %}
-              {% assign label=event.categories | first %}
-              {% if event.short_title %}
+                style='background-image: url({{ image_url }})' alt='{{ item.alt }}'>
+              {% include events/event_date.html event=item %}
+              {% assign label=item.categories | first %}
+              {% if item.short_title %}
                 {% include cards/card_title_box.html
                   label=label
-                  title=event.short_title %}
+                  title=item.short_title %}
               {% else %}
                 {% include cards/card_title_box.html
                   label=label
-                  title=event.title %}
+                  title=item.title %}
               {% endif %}
             </div>
           </a>
@@ -60,8 +66,8 @@ title: Welcome
       {% endfor %}
     </div>
     <div class='mobile'>
-      {% for event in page_events %}
-        {% include cards/horizontal_card.html item=event %}
+      {% for item in render_list %}
+        {% include cards/horizontal_card.html item=item %}
       {% endfor %}
     </div>
   </section>

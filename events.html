@@ -5,7 +5,9 @@ header_color: gray
 title: Events
 ---
 
-{% include events/get_future_events.html %}
+{% include get_future_or_past_records.liquid records=site.events type='future' %}
+{% assign future_events = records %}
+
 {% if future_events.size > 0 %}
   {% assign class = 'future-events' %}
 {% else %}
@@ -29,10 +31,10 @@ title: Events
     label='WORKSHOPS'
   %}
 
-  {% include events/get_past_events.html %}
-  {% assign items = past_events | sort: 'date' | reverse %}
+  {% include get_future_or_past_records.liquid records=site.events type='past' %}
+  {% assign items = records | sort: 'date' | reverse %}
   {% include grids/archive_grid.html
-    items=past_events
+    items=items
     label='PAST EVENTS'
     render='json'
   %}

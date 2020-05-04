@@ -1,0 +1,28 @@
+{% if include.category %}
+  {% include get_filtered_records.liquid records=include.records category=include.category %}
+{% else %}
+  {% assign records = include.records %}
+{% endif %}
+
+{% include get_sorted_records.liquid records=records %}
+
+{% assign processed_records = '' | split: '' %}
+{%- capture now %}{{ 'now' | date: '%s' | minus: 86400 }}{% endcapture -%}
+ {%- for record in records %}
+  {%- if record.thumbnail %}
+    {%- capture date %}{{ record.date | date: '%s' | minus: 0 }}{% endcapture -%}
+    {% if include.type == 'future' %}
+      {%- if date >= now -%}
+        {% assign processed_records = processed_records | push: record %}
+      {%- endif -%}
+    {% else if include.type == 'past' %}
+      {%- if date < now -%}
+        {% assign processed_records = processed_records | push: record %}
+      {%- endif -%}
+    {% else %}
+      {% assign processed_records = processed_records | push: record %}
+    {% endif %}
+  {%- endif %}
+{%- endfor %}
+
+{% assign records = processed_records %}

@@ -724,6 +724,8 @@ header {
 }
 
 .site-brand #rotating-block {
+  margin-left: -1px;
+
   -webkit-transform: translateZ( -100px );
      -moz-transform: translateZ( -100px );
       -ms-transform: translateZ( -100px );
