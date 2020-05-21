@@ -1,7 +1,7 @@
 ---
 spotlight_top: true
 title: "Access Yale University Library services online"
-date: March 11, 2020
+date: May 5, 2020
 thumbnail: /assets/images/banners/text-mining.jpg
 image: /assets/images/banners/text-mining.jpg
 alt: A book in front of computer code
