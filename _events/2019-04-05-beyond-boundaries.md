@@ -24,7 +24,7 @@ What can machine vision techniques help us discover in photographic archives? Ho
 Beyond Boundaries will be hosted in the newly renovated Franke Family Digital Humanities Lab and will feature the work of Yale undergraduates, graduate students, faculty, postdoctoral associates, and staff on topics ranging from computer-generated
 models and text mining to maps and interactive visual representations of data.
 
-For last year's presentations, see the <a href='https://www.youtube.com/watch?v=IL3N4DAbcaA' target='_blank'>video recordings</a>.
+For recorded presentations, click on <a href='https://www.youtube.com/watch?v=5j0it0mfLcs' target='_blank'>lightning talks</a>, <a href='https://www.youtube.com/watch?v=ExRYxT4CsQk' target='_blank'>roundtable</a>, and <a href='https://www.youtube.com/watch?v=0trcXZe9o0o' target='_blank'>poster session</a>.
 
 Beyond Boundaries is organized by the Yale Digital Humanities Laboratory, Yale Code4Good, and Yale STEAM and sponsored by the Poorvu Center for Teaching and Learning. The symposium is open to the whole campus community and public. No advance registration is required.
 
