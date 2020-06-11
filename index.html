@@ -19,29 +19,47 @@ title: Welcome
       <a href='{{ site.baseurl }}/events.html'>EVENTS CALENDAR</a>
     </div>
     <div class='home-events-container hide-tablet'>
-      {% include get_sorted_records.liquid records=site.events %}
-      {% assign sorted_events = records %}
-
-      {% include get_sorted_records.liquid records=site.news %}
-      {% assign sorted_news = records %}
-
-      {% assign sorted_items = sorted_events | concat: sorted_news %}
-      {% assign sorted_items = sorted_items | sort: 'date' | reverse %}
-
+      <!-- get future events -->
       {% include get_future_or_past_records.liquid records=site.events type='future' %}
       {% assign future_events = records %}
 
-      <!-- add items to the future events until we have three items to render -->
+      <!-- get the site events (for padding) sorted -->
+      {% include get_sorted_records.liquid records=site.events %}
+      {% assign sorted_events = records %}
+
+      <!-- get the site news (for padding) sorted -->
+      {% include get_sorted_records.liquid records=site.news %}
+      {% assign sorted_news = records %}
+
+      <!-- combine and sort the events and news -->
+      {% assign sorted_items = sorted_events | concat: sorted_news %}
+      {% assign sorted_items = sorted_items | sort: 'date' | reverse %}
+
+      <!-- get the urls of items in the future_events -->
+      {% assign future_event_urls = '' | split: '' %}
+      {% for i in future_events %}
+        {% assign future_event_urls = future_event_urls | push: i.url %}
+      {% endfor %}
+
+      <!-- add items to future_events until there are 3 items -->
       {% assign padding = '' | split: '' %}
       {% for item in sorted_items %}
         {% assign count = future_events.size | plus: padding.size %}
         {% if count < 3 %}
-          {% assign padding = padding | push: item %}
+          {% if future_event_urls contains item.url  %}
+            <!-- pass -->
+          {% else %}
+            {% assign padding = padding | push: item %}
+            {% assign future_event_urls = future_event_urls | push: item.url %}
+          {% endif %}
         {% endif %}
       {% endfor %}
 
       {% assign padding = padding | reverse %}
       {% assign render_list = future_events | concat: padding %}
+
+      <!-- sort the render_list by date -->
+      {% assign render_list = render_list | sort: 'date' %}
 
       {% for item in render_list %}
         <div class='home-event-wrapper'>
