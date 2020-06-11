@@ -59,7 +59,7 @@ title: Welcome
       {% assign render_list = future_events | concat: padding %}
 
       <!-- sort the render_list by date -->
-      {% assign render_list = render_list | sort: 'date' | reverse %}
+      {% assign render_list = render_list | sort: 'date' %}
 
       {% for item in render_list %}
         <div class='home-event-wrapper'>
