@@ -1,4 +1,5 @@
 ---
+status: fulfilled
 title: "Intern with the Yale DHLab and SI Data Science Lab"
 date: February 10, 2020
 thumbnail: /assets/images/projects/originals/yale-smithsonian-banner.jpg

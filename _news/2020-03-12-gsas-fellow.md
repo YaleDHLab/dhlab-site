@@ -1,4 +1,5 @@
 ---
+status: fulfilled
 title: "Intern with the Yale DHLab this fall"
 date: March 12, 2020
 thumbnail: /assets/images/news/dhlab-students.jpg
