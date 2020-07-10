@@ -2,7 +2,7 @@
 title: Digital Humanities and Russian & East European Studies
 image: /assets/images/projects/originals/dhrees.jpg
 thumbnail: /assets/images/projects/thumbs/dhrees-thumb.jpg
-alt: Image of Joseph Brodsky in conversation in front of Russian constructivist map graphic
+alt: Joseph Brodsky in conversation in front of Russian constructivist map graphic
 project_url: http://dhrees.yale.edu
 team:
   - name: Marijeta Bozovic
