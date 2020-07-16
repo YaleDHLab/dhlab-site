@@ -9,10 +9,14 @@ team:
     position: Professor, French
   - name: Christophe Schuwey
     position: Professor, French
+  - name: Walid Bouchakour
+    position: Graduate Student, French
+  - name: Jeanne Sauvage
+    position: Graduate Student, French
   - name: Robyn Pront
     position: Connecticut College
   - name: Former Contributors
-    position: Annie de Saussure, French <br/> Walid Bouchakour, French <br/> Raphael Veron, Yale College
+    position: Annie de Saussure, Graduate Student in French <br/> Raphael Veron, Yale College
 categories:
   - Network Analysis
 tags:
@@ -44,4 +48,4 @@ Our team is mapping a network of contributors based on an index of signed and un
 
 - Do the categories “right” and “left” apply to *Combat*? Its motto is “from Resistance to Revolution” and yet it was fiercely anti-Stalinist.  How does it convey its political views in the postwar landscape, especially in contrast to the other major post-war newspapers (*L’Humanité*, *Le Monde*, *Le Figaro*, *Le Parisien libéré*)?  
 
-*This project was awarded a Seed Grant from the Yale Digital Humanities Laboratory to support student work and acquire the digitized and OCRed print run of* Combat.
+*This project received a grant from the French Embassy Centers of Excellence in 2020. Prior awards include a Seed Grant from the Yale Digital Humanities Laboratory to support student work and acquire the digitized and OCRed print run of* Combat.
