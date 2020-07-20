@@ -27,4 +27,4 @@ In addition to supporting discovery of scholarship and testimonies, the *Citatio
 
 “The direct links between a published work and its underlying source material is central to the mission of the Archive,” Stephen Naron, Director of the Fortunoff Archive, said. “It promotes engagement with the original audiovisual document, and it promotes accountability by making it easier for readers to view the citation in context.”
 
-To see the code underlying the *Citation Database*, visit the <a href='https://github.com/yale-fortunoff/citationdb' target='_blank'>Fortunoff Archive's GitHub Repository</a>.
+Published under a GNU Public License, the *Citation Database* is free and open source. To see and use the underlying code, visit the <a href='https://github.com/yale-fortunoff/citationdb' target='_blank'>Fortunoff Archive's GitHub Repository</a>.
