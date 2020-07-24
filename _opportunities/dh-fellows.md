@@ -26,6 +26,7 @@ overview: teaching_fellows
       %}
       <p>Learn digital humanities methods as part of a cohort of Yale Digital Humanities (DH) Teaching Fellows! No prior experience with digital humanities is required. The Fellowship is an opportunity to learn digital humanities methods—such as text mining, network analysis, and geospatial analysis—and apply them to your teaching.</p> 
       <p>Along with providing specialized technical training for DH Fellows, Digital Humanities Lab staff also work with Fellows to design digital humanities assignments and identify readings or projects of interest. Visit our <a href='{{ site.baseurl }}/about/teaching_fellows.html' target='_blank'>DH Teaching Fellows page</a> to see current and past recipients and their courses.</p>
+      <p>For the Fall 2020 semester, DH Fellow meetings and workshops will occur over Zoom.</p>
     </div>
    </div>
 
