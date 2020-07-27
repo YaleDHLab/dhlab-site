@@ -62,7 +62,7 @@ overview: teaching_fellows
   {% endcapture %}
 
   {% capture right_text_two %}
-    <p>Yale graduate students in the humanities with a teaching appointment are eligible to apply.</p>
+    <p>Yale graduate students in the humanities or with a teaching appointment in the humanities are eligible to apply.</p>
 
     <p>For more information, please <a href='mailto:dhlab@yale.edu'>email the DHLab</a> or <a href='https://docs.google.com/forms/d/e/1FAIpQLSdXL7XBml2aGR2aprFD4KB-9Mq837aRuL0xSLpij-_YW6stlg/viewform?usp=sf_link' target='_blank'>submit an application.</a> Applications are currently being accepted for Fall 2020 appointments.</p>
   {% endcapture %}
