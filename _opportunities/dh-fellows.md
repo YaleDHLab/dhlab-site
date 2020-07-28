@@ -35,10 +35,11 @@ overview: teaching_fellows
   %}
 
   {% capture left_text_one %}
-    <p>As a DH Teaching Fellow, you are required to attend two meetings with your cohort and one training session. Additional optional training sessions will be provided as needed.
+    <p>As a DH Teaching Fellow, you are required to attend three meetings with your cohort and one training session. Additional optional training sessions will be provided as needed.
     <ul>
       <li>The first cohort meeting occurs at the beginning of the semester and is a chance to discuss goals, look through your syllabus, and identify what digital humanities methods or theories you might introduce to students.</li>
       <li>The second meeting occurs near the middle of the semester to check-in, share success stories and challenges, and set up any additional optional training sessions.</li>
+      <li>The third meeting occurs near the end of the semester to reflect on the term and discuss possible next steps, such as additional training opportunities and describing your digital engagement in your teaching portfolio.</li>
       <li>Training sessions provide guided instruction on one or more digital humanities methods and are scheduled around Fellows' availability. Each Fellow will have a required training session that's connected to their class, but Fellows who are interested in learning additional tools, techniques, or theories or who would like to schedule follow-up discussions can request additional sessions. Training sessions are open to all Fellows to attend—so even if you're not using networks in your class, but your cohort member is, you can also learn how to create networks.</li>
     </ul></p>
   {% endcapture %}
