@@ -49,3 +49,7 @@ Our team is mapping a network of contributors based on an index of signed and un
 - Do the categories “right” and “left” apply to *Combat*? Its motto is “from Resistance to Revolution” and yet it was fiercely anti-Stalinist.  How does it convey its political views in the postwar landscape, especially in contrast to the other major post-war newspapers (*L’Humanité*, *Le Monde*, *Le Figaro*, *Le Parisien libéré*)?  
 
 *This project received a grant from the French Embassy Centers of Excellence in 2020. Prior awards include a Seed Grant from the Yale Digital Humanities Laboratory to support student work and acquire the digitized and OCRed print run of* Combat.
+
+<img src='{{site.baseurl}}/assets/images/projects/project-extras/logo-CentersOfExcellence.jpg'
+     alt="French Centers of Excellence logo" 
+     style='float: left; padding: 10px 0; width: 170px;'/>
