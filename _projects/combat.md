@@ -50,6 +50,6 @@ Our team is mapping a network of contributors based on an index of signed and un
 
 *This project received a grant from the French Embassy Centers of Excellence in 2020. Prior awards include a Seed Grant from the Yale Digital Humanities Laboratory to support student work and acquire the digitized and OCRed print run of* Combat.
 
-<img src='{{site.baseurl}}/assets/images/projects/project-extras/logo-CentersOfExcellence.jpg'
+<img src='{{site.baseurl}}/assets/images/projects/project-extras/logo-centersOfExcellence.jpg'
      alt="French Centers of Excellence logo" 
      style='float: left; padding: 10px 0; width: 170px;'/>
