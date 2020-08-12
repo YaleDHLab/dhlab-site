@@ -3,6 +3,7 @@ title: The Kan'ichi Asakawa Epistolary Network Project
 thumbnail: /assets/images/projects/archive-thumbs/asakawa-thumb.jpg
 alt: a bar graph showing the oscillating frequency of letters exchanged by Kani'chi Asakawa and Alice V. Morris in the 1920s and early 1930s, alongside scans of a few of their letters
 layout: archive
+funded: true
 team:
   - name: Haruko Nakamura 中村治子
     position: Librarian for Japanese Studies
