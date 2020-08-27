@@ -11,7 +11,7 @@ teaser: |
   If you're a Yale undergraduate interested in data–how it's collected, analyzed, and applied—consider pursuing a certificate in Data Science.
 ---
 
-If you're a Yale undergraduate interested in data–how it's collected, analyzed, and applied—consider pursuing a certificate in Data Science. For more on the launch of the certificate, visit the announcement in <a href='https://yaledailynews.com/blog/2019/01/14/chun-announces-new-certificate-in-data-science/' target='_blank'>Yale Daily News</a>.
+If you're a Yale undergraduate interested in data–how it's collected, analyzed, and applied—consider pursuing a certificate in Data Science. For more on the launch of the certificate, visit the announcement in <a href='https://yaledailynews.com/blog/2019/01/14/chun-announces-new-certificate-in-data-science/' target='_blank'>*Yale Daily News*</a>.
 
 ### Certificate Requirements
 
