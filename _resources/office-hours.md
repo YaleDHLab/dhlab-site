@@ -1,6 +1,6 @@
 ---
 title: Office Hours
-order: 2
+order: 1
 layout: resource
 image: '/assets/images/banners/franke-screen-talk.jpg'
 caption: DH Office Hours at the Franke Family Digital Humanities Laboratory. Photo by Mara Lavitt.
