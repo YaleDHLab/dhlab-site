@@ -19,6 +19,31 @@
     short_affiliation: English Literature
     bio: |
       As a Digital Humanities Fellow for "Nature and Healing," Helen worked with students to study literary representations of nature by way of spatial analysis and text mining. Fall 2019
+  - name: Carole Delaitre
+    affiliation: French
+    short_affiliation: French
+    bio: |
+      As a Digital Humanities Fellow for “Deserts, Oceans, Islands - Literatures of Migration and Refuge” with Professor Jill Jarvis, Carole will help students design digital presentations, digital posters and a digital atlas. Spring 2020
+  - name: Nina Farizova
+    affiliation: East Asian Languages and Literatures
+    short_affiliation: East Asian Languages and Literatures
+    bio: |
+      As a Digital Humanities Fellow for “Readings in Literary Japanese,” Nina will help students gain confidence in reading a dead literary language through the use of digital tools. Spring 2020
+  - name: Trina Hyun
+    affiliation: English Literature
+    short_affiliation: English Literature
+    bio: |
+      As a Digital Humanities Fellow for “Reading and Writing the Modern Essay,” Trina will work with students to reimagine the media through which they present their essays. This will include discussions on the theoretical foundations of and embodied action required by digital media. Spring 2020
+  - name: Melissa Tu
+    affiliation: English Literature
+    short_affiliation: English Literature
+    bio: |
+      As a DH Fellow for “Milton,” Melissa aims to work with students to explore exciting ways of imagining, representing, creating, and analyzing voices as complex composites of sensory information. She is especially interested in implementing audio-visual resources, data analysis tools, and/or spatialization techniques in her teaching. Spring 2020
+  - name: Sarah Weston
+    affiliation: English Literature
+    short_affiliation: English Literature
+    bio: |
+      As a Digital Humanities Fellow for “Blake and Milton,” Sarah will help students use and interpret data from a digital humanities tool studying William Blake’s use of color in his hand-painted illuminated books. Additionally, she will introduce students to other digital methods they might use to interpret Blake or Milton’s poetry. Spring 2020
 2018-2019:
   - name: Lizzie Krontiris
     affiliation: Political Science
@@ -46,31 +71,11 @@
     bio: |
       Mustafa collaborated with Professor Alka Menon on the course “Methods of Inquiry” to introduce simulation modeling and social networks analysis in to the class, and he led discussions of their application in empirical sociological research. Spring 2019
 2017–2018:
-  - name: Amanda Chemeche
-    affiliation: East Asian Studies and American Studies
-    short_affiliation: East Asian Studies and American Studies
-    bio: |
-      As a Digital Humanities Fellow for Professor Laura Wexler’s “American Public Sculpture: History, Context, and Continuing Significance,” Amanda worked with students to develop their own mapping projects. Spring 2018
   - name: Amanda Joyce Hall
     affiliation: History and African American Studies
     short_affiliation: History and African American Studies
     bio: |
       As a Digital Humanities Fellow for Professor Crystal Feimster’s "The Long Civil Rights Movement" lecture course, Amanda developed digital tools that redress the lives and experiences of those who are most silenced and marginalized in the archive. She treated digital humanities as an opportunity to explore interdisciplinarity, reach broader publics, and develop alternate epistemologies. Building on the class, Amanda is creating a DH project that uses ESRI tools to map the life of Pauli Murray. Fall 2017
-  - name: Shanna Jean-Baptiste
-    affiliation: French and African American Studies
-    short_affiliation: French and African American Studies
-    bio: |
-      Shanna collaborated with the DHLab to develop digital projects in Professor Christopher L. Miller's course “Intercultural Literary Hoaxes.” Students learned how to use timeline and mapping tools to visualize the unfolding of various literary hoaxes. Spring 2018
-  - name: Nichole Nelson
-    affiliation: History
-    short_affiliation: History
-    bio: |
-      As a Digital Humanities Fellow, Nichole worked on The New Haven Building Archive (NHBA) for Professor Elihu Rubin’s class, “American Architecture and Urbanism.” She helped students research the history of buildings in New Haven - using archival documents, city directories, photos, building permits, and maps - and upload their research to the NHBA website. Nichole also expanded the website by developing online, interactive tours to create community-based partnerships to expand the NHBA beyond the academy into the community. Spring 2018
-  - name: Joey Plaster
-    affiliation: American Studies
-    short_affiliation: American Studies
-    bio: |
-      Joey worked with Professor Angel Nieves to develop a course on “Spatial Humanities and Social Justice.” Course participants learned how to use digital humanities tools, such as Neatline, to map New Haven’s queer and black histories. Spring 2018
   - name: jub Sankofa
     affiliation:  American Studies and African American Studies
     short_affiliation: American Studies and African American Studies
@@ -86,22 +91,27 @@
     short_affiliation: American Studies
     bio: |
       The "Narrating the Lives of Refugees" course drew upon the the emerging field of critical refugee studies in order to critically analyze contemporary representations of refugee experiences across genres and to help students develop narrative strategies which represent refugees as agents and historical actors. Students paid special attention to the processes by which war, colonialism, displacement, encampment, gender, and racialization shape the lives of refugees in New Haven and beyond. The students took this knowledge and conducted their own interviews with people with refugee status living in New Haven. In the process, students learned to use digital tools like Story Maps to create compelling, multidimensional stories about the people they interviewed. Fall 2017 
+  - name: Amanda Chemeche
+    affiliation: East Asian Studies and American Studies
+    short_affiliation: East Asian Studies and American Studies
+    bio: |
+      As a Digital Humanities Fellow for Professor Laura Wexler’s “American Public Sculpture: History, Context, and Continuing Significance,” Amanda worked with students to develop their own mapping projects. Spring 2018
+  - name: Shanna Jean-Baptiste
+    affiliation: French and African American Studies
+    short_affiliation: French and African American Studies
+    bio: |
+      Shanna collaborated with the DHLab to develop digital projects in Professor Christopher L. Miller's course “Intercultural Literary Hoaxes.” Students learned how to use timeline and mapping tools to visualize the unfolding of various literary hoaxes. Spring 2018
+  - name: Nichole Nelson
+    affiliation: History
+    short_affiliation: History
+    bio: |
+      As a Digital Humanities Fellow, Nichole worked on The New Haven Building Archive (NHBA) for Professor Elihu Rubin’s class, “American Architecture and Urbanism.” She helped students research the history of buildings in New Haven - using archival documents, city directories, photos, building permits, and maps - and upload their research to the NHBA website. Nichole also expanded the website by developing online, interactive tours to create community-based partnerships to expand the NHBA beyond the academy into the community. Spring 2018
+  - name: Joey Plaster
+    affiliation: American Studies
+    short_affiliation: American Studies
+    bio: |
+      Joey worked with Professor Angel Nieves to develop a course on “Spatial Humanities and Social Justice.” Course participants learned how to use digital humanities tools, such as Neatline, to map New Haven’s queer and black histories. Spring 2018
 2016–2017:
-  - name: Andrew S. Brown
-    affiliation: English Literature
-    short_affiliation: English Literature
-    bio: |
-      As an assistant to Professor Heather Klemann, Andrew worked with the DHLab to develop several assignments for the English Department course “Vampires, Castles, Werewolves”. Students learned how to use tools and software in the areas of mapping/GIS, digital curation, and text visualization. In doing so, they had the opportunity to create their own online resources that explore the connections between Gothic literature and the history of art and architecture, as well as the rich, complex publication history that lies behind many of the period’s novels and stories. Spring 2017
-  - name: Fadila Habchi
-    affiliation: African American Studies and American Studies
-    short_affiliation: African American Studies and American Studies
-    bio: |
-      Fadila specializes in contemporary literature from the African diaspora, in French and English. She is especially interested in narratives of migration in the context of movements of decolonization. Her current project explores literary representations of the postcolonial city in postwar Caribbean literature. As a digital fellow, Fadila worked closely with Professor Wexler to assist undergraduates students in developing their own digital humanities project. Spring 2017
-  - name: Bo Li
-    affiliation: English Literature
-    short_affiliation: English Literature
-    bio: |
-      Working on a long history of new media with a special interest in feminist engagements with populist media forms, Bo was excited to work with Professor Wai Chee Dimock on "Performing American Literature," a course that expanded the definition of "performance" to include modes of digital expression, ranging from gaming, spatial and temporal mapping, e-texts, and the creative use of social media. Spring 2017
   - name: Kimberly Quiogue Andrews
     affiliation: English Literature
     short_affiliation: English Literature
@@ -117,20 +127,34 @@
     short_affiliation: History and African American Studies
     bio: |
       As an assistant to Professor Anne Eller in the History Department, Brandi worked with the DHLab to develop digital projects in the course "Introduction to Latin American History." In the course, students learned how to curate an online gallery and explore digital techniques in network analysis in order to understand changes in power relations over time and space during important transitions in Latin American history. Fall 2016
-
+  - name: Andrew S. Brown
+    affiliation: English Literature
+    short_affiliation: English Literature
+    bio: |
+      As an assistant to Professor Heather Klemann, Andrew worked with the DHLab to develop several assignments for the English Department course “Vampires, Castles, Werewolves”. Students learned how to use tools and software in the areas of mapping/GIS, digital curation, and text visualization. In doing so, they had the opportunity to create their own online resources that explore the connections between Gothic literature and the history of art and architecture, as well as the rich, complex publication history that lies behind many of the period’s novels and stories. Spring 2017
+  - name: Fadila Habchi
+    affiliation: African American Studies and American Studies
+    short_affiliation: African American Studies and American Studies
+    bio: |
+      Fadila specializes in contemporary literature from the African diaspora, in French and English. She is especially interested in narratives of migration in the context of movements of decolonization. Her current project explores literary representations of the postcolonial city in postwar Caribbean literature. As a digital fellow, Fadila worked closely with Professor Wexler to assist undergraduates students in developing their own digital humanities project. Spring 2017
+  - name: Bo Li
+    affiliation: English Literature
+    short_affiliation: English Literature
+    bio: |
+      Working on a long history of new media with a special interest in feminist engagements with populist media forms, Bo was excited to work with Professor Wai Chee Dimock on "Performing American Literature," a course that expanded the definition of "performance" to include modes of digital expression, ranging from gaming, spatial and temporal mapping, e-texts, and the creative use of social media. Spring 2017
 2015–2016:
   - name: T.L. Cowan
     affiliation: MacMillan Center for International and Area Studies
     short_affiliation: MacMillan Center for International and Area Studies
     bio: |
       T.L.'s work with the DHLab will focus on developing a proof-of-concept for The Cabaret Commons: An Online Archive and Anecdotal Encyclopedia for Trans- Feminist and Queer Performers and Audiences. This project entails the development of a hybrid curated and user-generated digital archive of live performance that works towards a responsive and dynamic model of performance archives—one that documents performers and performances and attends to the central role of audiences in sustaining grassroots trans- feminist and queer cultures. The Cabaret Commons project has been generously supported by the Canadian Writing Research Collaboratory (CWRC) and the Social Sciences and Humanities Council of Canada (SSHRC). T.L. is also a practicing performance and video artist and co-founder and co-editor of the Helix Critical Project. 2015-2016
-  - name: Annie de Saussure
-    affiliation: French
-    short_affiliation: French
-    bio: |
-      As a Teaching Fellow and Assistant to Professor Christopher Semk of the French Department, Annie worked with the DHLab team to apply the technologies of digital humanities to literary analysis in a course entitled "Louis XIV and the Culture of Absolutism."" In this course, students learned how to use DH tools including collation software, textual visualizations, and mapping to explore relationships between literature, culture, and power during the reign of Louis XIV. Spring 2016
   - name: Lauren Tilton
     affiliation: American Studies
     short_affiliation: American Studies
     bio: |
       As a Fellow for the Mellon advanced seminar "(En)visualizing Knowledge: Text Mining, Mapping, Network Analysis, and Big Data," taught by Professors Laura Wexler and Inderpal Grewal, Lauren worked with the DHLab to teach graduate students a variety of DH approaches to text mining, mapping, network analysis, and data visualization. Fall 2015
+  - name: Annie de Saussure
+    affiliation: French
+    short_affiliation: French
+    bio: |
+      As a Teaching Fellow and Assistant to Professor Christopher Semk of the French Department, Annie worked with the DHLab team to apply the technologies of digital humanities to literary analysis in a course entitled "Louis XIV and the Culture of Absolutism."" In this course, students learned how to use DH tools including collation software, textual visualizations, and mapping to explore relationships between literature, culture, and power during the reign of Louis XIV. Spring 2016
