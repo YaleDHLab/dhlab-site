@@ -8,6 +8,7 @@ application_text: The next cycle will open in fall 2020.
 <!--application_url: |
   https://docs.google.com/forms/d/e/1FAIpQLSexGVHbJkmcMWPASaHj1ThBjP3vNq87TIHIbw5388SfQHSuvw/viewform?usp=sf_link-->
 overview: workshop_grant
+apply_button: hidden
 ---
 
 ### Overview
