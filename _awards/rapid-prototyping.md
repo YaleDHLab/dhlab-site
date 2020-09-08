@@ -9,6 +9,7 @@ deadline: The current application cycle is closed.
 <!--application_url: |
   https://docs.google.com/forms/d/e/1FAIpQLSdsJ0M25-weuPkSrUzn2NHI30ewtov7VE10cp-nRFrfcEwLNw/viewform?usp=sf_link-->
 class: hide-left-hr
+apply_button: hidden
 
 ---
 
