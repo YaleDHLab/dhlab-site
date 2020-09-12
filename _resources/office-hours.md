@@ -28,7 +28,7 @@ Virtual drop-in Office Hours are currently held at the days/times listed below, 
     <tr>
       <td>When</td>
       <td>Tuesdays and Wednesdays</td>
-      <td style="white-space:nowrap">9:00 - 10:00 a.m.EDT</td>
+      <td style="white-space:nowrap">9:00 - 10:00 a.m. EDT</td>
       <td>&</td>
       <td style="white-space:nowrap">2:00 - 4:00 p.m. EDT</td>
     </tr>
