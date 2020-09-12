@@ -2,12 +2,6 @@
 title: "Python Working Group"
 date: 2020-01-17
 dates: 
-  - 2020-01-17
-  - 2020-01-24
-  - 2020-01-31
-  - 2020-02-07
-  - 2020-02-14
-  - 2020-02-21
   - 2020-03-06
 time: 3:00 - 4:00 p.m.
 location: Franke Family Digital Humanities Laboratory
