@@ -21,7 +21,7 @@ DH Developer Douglas Duhaime will lead an informal, two-part workshop on creatin
 
 All are welcome; no programming experience is required! Participants should bring a laptop with them to the workshop.
 
-**Prior to the workshops, participants should <a href='https://cran.r-project.org/' target='_blank'>download R</a> and <a href'http://www.rstudio.com/' target='_blank'>RStudio</a>. Please also install the package "ggplot2" in RStudio. Sample text files will be provided, but participants are encouraged to work with their own data during the week between the two workshops.**
+**Prior to the workshops, participants should <a href='https://cran.r-project.org/' target='_blank'>download R</a> and <a href='http://www.rstudio.com/' target='_blank'>RStudio</a>. Please also install the package "ggplot2" in RStudio. Sample text files will be provided, but participants are encouraged to work with their own data during the week between the two workshops.**
 
 To install the ggplot2 package:
  * Open RStudio

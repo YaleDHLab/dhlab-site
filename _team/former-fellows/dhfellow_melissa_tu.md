@@ -4,6 +4,7 @@ role: DH Fellow
 image: /assets/images/about/dhfellow_tu.jpg
 order: 4
 group: teaching_fellow
+render: false
 ---
 Melissa Tu is a PhD candidate in the English Language and Literature department. Her research focuses on the ways that lyric poems of late medieval England engage with notions of voice, vocality, and sense-perception. 
 

@@ -124,6 +124,11 @@ li a:hover {
   color: $hotlink;
 }
 
+td a {
+  color: $coldlink;
+  font-weight: 600;
+}
+
 b {
   font-weight: 700;
 }
@@ -219,7 +224,7 @@ ol {
   margin: 10px 20px;
 }
 
-img {
+video, img {
   max-width: 100%;
 }
 

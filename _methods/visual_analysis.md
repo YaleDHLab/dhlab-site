@@ -36,4 +36,4 @@ While there are fewer open source tools for image analysis than there are for te
 
 <a href='http://yann.lecun.com/exdb/mnist/' target='_blank'>The MNIST Database of Handwritten Digits</a>
 
-<a href='https://deeplearning4j.org/opendata' target='_blank'>Deep Learning for Java's (DL4J) list of Open Data for Deep Learning</a>
+<a href='https://jrmerwin.github.io/deeplearning4j-docs/opendata' target='_blank'>Open Datasets for Deep Learning & Machine Learning</a>

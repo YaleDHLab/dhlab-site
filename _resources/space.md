@@ -1,6 +1,6 @@
 ---
 title: Space & Equipment
-order: 1
+order: 2
 layout: resource
 image: '/assets/images/banners/franke-grandview.jpg'
 caption: View of the newly renovated Franke Family Digital Humanities Laboratory.
