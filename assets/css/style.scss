@@ -913,6 +913,7 @@ header.gray-header .nav-links .link.expanded .sublinks {
   margin: 2px;
   display: inline-block;
   box-sizing: border-box;
+  white-space: nowrap;
 }
 
 .sublinks {
@@ -978,6 +979,7 @@ a.subheader ~ a {
 .nav-icons {
   margin-left: 36px;
   display: inline-block;
+  white-space: nowrap;
 }
 
 .nav-icons a {
@@ -1035,7 +1037,7 @@ a.subheader ~ a {
   background-image: url('{{ site.baseurl }}/assets/images/icons/nav-search-yellow.svg');
 }
 
-@media (max-width: 1080px) {
+@media (max-width: 1150px) {
   .nav-icons {
     display: none;
   }
