@@ -1,5 +1,5 @@
 ---
-featured: true
+<!--featured: true-->
 title: 'Ensemble: Crowdsource Yale Theater History'
 image: /assets/images/projects/originals/ensemble.jpg
 thumbnail: /assets/images/projects/thumbs/ensemble-thumb.jpg
