@@ -17,7 +17,7 @@ categories:
 tags:
   - Literature
 dhlab_project: true
-permalink: '/projects/blake-tint/'
+permalink: '/projects/blaketint/'
 ---
 
 ### William Blake's Color Theory
