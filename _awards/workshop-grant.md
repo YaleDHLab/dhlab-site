@@ -6,7 +6,7 @@ caption: Text analysis workshop with guest lecturer Anupam Basu. Photo by Monica
 deadline: Awards will be granted on a rolling basis until funds are exhausted.
 application_text: The 2020-2021 cycle is now open.
 application_url: |
-  https://docs.google.com/forms/d/e/1FAIpQLSexGVHbJkmcMWPASaHj1ThBjP3vNq87TIHIbw5388SfQHSuvw/viewform?usp=sf_link-->
+  https://docs.google.com/forms/d/1BM8-fHmZKM6_bY1TlgGr4-cZ0xwBMnhaxHQ6c5oxtas/edit
 overview: workshop_grant
 <!--apply_button: hidden-->
 ---
