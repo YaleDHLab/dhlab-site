@@ -25,10 +25,10 @@ For tutorials from past Digital Humanities Lab workshops, visit the <a href='htt
 
 ### Python for Humanists Workshop Series
 
-**First Steps with Python**  
+<a href='https://dhlab.yale.edu/events/2020-10-01-python-first-steps.html' target='_blank'>**First Steps with Python**</a>  
 October 1, 3:00 p.m. Eastern    
 
-Curious about Python but not sure where to start? This workshop will introduce the basics of programming in Python. Participants will learn how to perform common tasks in Python in order to build familiarity with the language’s syntax and best practices.
+Curious about Python but not sure where to start? This workshop will introduce the basics of programming in Python. Participants will learn how to perform common tasks in Python in order to build familiarity with the language’s syntax and best practices. 
 
 **Collecting Data with APIs**  
 October 15, 3:00 p.m. Eastern    
