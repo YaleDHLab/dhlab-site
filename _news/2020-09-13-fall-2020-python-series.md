@@ -30,7 +30,7 @@ October 1, 3:00 p.m. Eastern
 
 Curious about Python but not sure where to start? This workshop will introduce the basics of programming in Python. Participants will learn how to perform common tasks in Python in order to build familiarity with the language’s syntax and best practices. 
 
-**Collecting Data with APIs**  
+<a href='https://dhlab.yale.edu/events/2020-10-15-python-apis.html' target='_blank'>**Collecting Data with APIs**</a>   
 October 15, 3:00 p.m. Eastern    
 
 Learn how to retrieve online data via an Application Programming Interface (API).  Many libraries, museums, and galleries worldwide are digitizing their collections and making them available for data mining via APIs. In this workshop, we'll cover what APIs are, along with how and why you might use them. 
