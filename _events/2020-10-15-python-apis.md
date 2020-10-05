@@ -3,7 +3,7 @@ title: "Python for Humanists: Collecting Data with APIs"
 date: 2020-10-15
 time: 3:00 p.m. - 4:30 p.m. Eastern
 location: Zoom
-thumbnail: /assets/images/events/python.jpg
+thumbnail: /assets/images/events/python-apis.jpg
 alt: Open laptop with Python logo on screen
 registerurl: https://schedule.yale.edu/event/7079534
 categories:
