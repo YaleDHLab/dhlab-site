@@ -2,7 +2,7 @@
 <!--status: fulfilled-->
 title: "Intern with the Yale DHLab in Spring 2021"
 date: September 20, 2020
-thumbnail: /assets/images/news/dhlab-students.jpg
+thumbnail: /assets/images/news/text-cleaning.jpg
 alt: Two students working at a computer
 image: /assets/images/banners/meetup.jpg
 alt: Photo of workshop participants in the lab.
