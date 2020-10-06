@@ -58,6 +58,6 @@ Along with collaborating on DHLab initiatives, the fellow will have the opportun
 ### Application
 GPE Fellowships are open to Yale PhD students who will be in years 1-6 of their program during the time of the fellowship.  
 
-To apply, visit the <a href='https://ocs.yale.edu/channels/gpe-open-positions/' target='_blank'>GSAS Professional Experience Fellowship Opportunities page</a>. Applications are due October 1, 2020.
+To apply, visit the <a href='https://ocs.yale.edu/channels/gpe-open-positions/' target='_blank'>GSAS Professional Experience Fellowship Opportunities page</a>. Applications are due October 20, 2020.
 
 Email [the Digital Humanities Lab](mailto:dhlab@yale.edu) with any questions.
