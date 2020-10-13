@@ -1,5 +1,5 @@
 ---
-title: "Creating a Community-Centric User Experience of the New Haven Building Archive"
+title: "Creating a Community-Centric User Experience with NHBA"
 date: September 24, 2020
 thumbnail: /assets/images/news/nhba-xiu-chen.jpg
 image: /assets/images/news/nhba-xiu-chen.jpg
