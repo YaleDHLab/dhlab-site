@@ -14,7 +14,7 @@ tags:
 teaser: >
   Many libraries, museums, and galleries worldwide are digitizing their collections and making them available for data mining via Application Programming Interfaces (APIs). Learn how to retrieve online data via APIs with this workshop.
 ---
-Learn how to retrieve online data via an Application Programming Interface (API). Many libraries, museums, and galleries worldwide are digitizing their collections and making them available for data mining via APIs. In this workshop, we’ll cover what APIs are, along with how and why you might use them.
+Learn how to retrieve online data via an Application Programming Interface (API). Many libraries, museums, and galleries worldwide are digitizing their collections and making them available for data mining via APIs. In this workshop, we’ll cover what APIs are, along with how and why you might use them to get data.
 
 This workshop is designed for participants who have taken the <a href='https://dhlab.yale.edu/events/2020-10-01-python-first-steps.html' target='_blank'>"First Steps with Python"</a> workshop or who otherwise have a general understanding of Python's syntax and data types. If you missed or want to review what was covered in "First Steps with Python," you can find the tutorial on the <a href='https://github.com/YaleDHLab/lab-workshops' target='_blank'>DHLab's GitHub repository</a> (it will be posted after 10/1).
 
