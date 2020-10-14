@@ -1,7 +1,7 @@
 ---
 title: "Python for Humanists: First Steps"
 date: 2020-10-01
-time: 3:00 p.m. - 4:30 p.m. Eastern
+time: 3:00 - 4:30 p.m. Eastern
 location: Zoom
 thumbnail: /assets/images/events/python2.jpg
 alt: Open laptop with Python logo on screen
