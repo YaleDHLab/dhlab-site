@@ -1,6 +1,5 @@
 ---
 title: Digital Atlas of Tokugawa Japan
-image: /assets/images/projects/originals/tokugawa-banner.jpg
 thumbnail: /assets/images/projects/archive-thumbs/tokugawa-thumb.jpg
 alt: Village boundaries on Izumo-no-kuni jūgun bunzu Izumo-gun 雲国十郡分図 出雲郡 (1821).
 caption: >
