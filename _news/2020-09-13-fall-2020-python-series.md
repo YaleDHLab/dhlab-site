@@ -35,7 +35,7 @@ October 15, 3:00 p.m. Eastern
 
 Learn how to retrieve online data via an Application Programming Interface (API).  Many libraries, museums, and galleries worldwide are digitizing their collections and making them available for data mining via APIs. In this workshop, we'll cover what APIs are, along with how and why you might use them. 
 
-**Parsing Data with Python**  
+<a href='https://dhlab.yale.edu/events/2020-10-22-python-parsing-data.html' target='_blank'>**Parsing Data with Python** </a> 
 October 22, 3:00 p.m. Eastern    
 
 Develop techniques for wrangling messy data with Python. Oftentimes, data retrieved online needs to be transformed or otherwise parsed before it can become usable for your research. In this workshop, we’ll walk through using Beautiful Soup, a Python library for extracting data from HTML and XML files
