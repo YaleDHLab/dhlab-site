@@ -11,13 +11,13 @@ tags:
   - Image Analysis
   - Manuscripts
 teaser: > 
-  How does reflected light from metallic objects affect the appearance of manuscript pages? What might silvering have looked like before it tarnished? Beth Fisher will explore these questions and more in a presentation on physically-based rendering (PBR) and its use for modeling medieval objects.
+  How does reflected light from metallic objects affect the appearance of manuscript pages? What might silvering have looked like before it tarnished? Beth Fisher will explore these questions and more in a presentation on physically based rendering (PBR) and its use for modeling medieval objects.
 ---
 
 ### Overview
 How does reflected light from metallic objects affect the appearance of manuscript pages? What might silvering have looked like before it tarnished? How does the legibility of chrysography change in natural and artificial lighting conditions?
 
-Dr. Beth Fisher will explore these questions and more in "Shine and Substance in the Medieval Digital Manuscript Model," a presentation on physically-based rendering (PBR) and its use for modeling medieval objects.
+Dr. Beth Fisher will explore these questions and more in "Shine and Substance in the Medieval Digital Manuscript Model," a presentation on physically based rendering (PBR) and its use for modeling medieval objects.
 
 Fischer will introduce her current digital project, an effort to model early medieval illuminated manuscripts using PBR, starting with a case study on the Gospel Book of Saint Médard de Soissons (BNF ms lat. 8850). PBR embeds details about the material makeup of an object into the digital model, so we can experiment with different kinds of lighting conditions and material finishes as the object is moved or the environment changes, similar to the way Pixar movies represent complex materials like moving water or textiles. The goal is not to create a simulacrum, but rather to create an experimental environment that considers how variations in material finishing (like burnishing) and lighting might change our interpretations of medieval objects. 
 
