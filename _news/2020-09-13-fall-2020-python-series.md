@@ -45,7 +45,7 @@ October 29, 3:00 p.m. Eastern
 
 This workshop will provide a broad overview of network analysis. After covering what networks are and how to read them, instructors will open two breakout rooms: one will teach how to generate networks using Gephi (off-the-shelf software, no programming required) and the other will walk through using NetworkX (a Python library for creating networks). Participants will have the option to choose which breakout room they will join.
 
-**Building Classifiers with Python**  
+<a href='https://dhlab.yale.edu/events/2020-11-05-classifiers.html' target='_blank'>**Building Classifiers with Python**</a>    
 November 5, 3:00 p.m. Eastern  
 
 This workshop will offer an introduction to classification techniques in machine learning. We will discuss some of the many use cases for classification techniques—including spam detection, named entity recognition, and plagiarism detection—as well as the mechanics behind popular classification algorithms. Finally, we will build our own classifier and will classify observations in a prepared dataset that will be provided to participants.
