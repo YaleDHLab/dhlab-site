@@ -1,7 +1,7 @@
 ---
 name: Joyce Wu
 role: Digital Humanities Research Intern
-image: /assets/images/about/intern_siegel.jpg
+image: /assets/images/about/intern_wu.jpg
 order: 2
 group: intern
 ---
