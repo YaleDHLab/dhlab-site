@@ -49,3 +49,8 @@ This workshop will provide a broad overview of network analysis. After covering 
 November 5, 3:00 p.m. Eastern  
 
 This workshop will offer an introduction to classification techniques in machine learning. We will discuss some of the many use cases for classification techniques—including spam detection, named entity recognition, and plagiarism detection—as well as the mechanics behind popular classification algorithms. Finally, we will build our own classifier and will classify observations in a prepared dataset that will be provided to participants.
+
+**Extracting Color with Python**   
+December 3, 3:00 p.m. Eastern  
+
+In addition to covering different methods for algorithmically extracting colors from images, we will also introduce color spaces and theories on perception. Registration for this workshop is forthcoming! 
