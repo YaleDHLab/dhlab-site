@@ -50,7 +50,11 @@ November 5, 3:00 p.m. Eastern
 
 This workshop will offer an introduction to classification techniques in machine learning. We will discuss some of the many use cases for classification techniques—including spam detection, named entity recognition, and plagiarism detection—as well as the mechanics behind popular classification algorithms. Finally, we will build our own classifier and will classify observations in a prepared dataset that will be provided to participants.
 
-**Extracting Color with Python**   
+<a href='https://dhlab.yale.edu/events/2020-12-03-color-extraction.html' target='_blank'>**Extracting Color with Python**</a>   
 December 3, 3:00 p.m. Eastern  
 
-In addition to covering different methods for algorithmically extracting colors from images, we will also introduce color spaces and theories on perception. Registration for this workshop is forthcoming! 
+Many programming workshops focus on how you can use Python for text analysis, but in fact, it is also useful for studying images at scale. In this workshop, we’ll demonstrate how we can use Python to extract color palettes from a collection of images. Along with discussing popular technical approaches, we will also introduce color spaces and theories of color perception, which will affect what algorithms we choose for specific tasks.
+
+<a href='https://dhlab.yale.edu/events/2020-12-10-image-similarity.html' target='_blank'>**Identifying Similar Images with Python**</a>
+This workshop will focus on the task of identifying similar images at scale, but we will also discuss how you can apply same techniques when working with texts as well. We will cover the process of converting cultural heritage materials into “vectors”, the basics of working with vector spaces, and the ways we can use vector spaces to identify similar images and texts.
+                                                                                       
