@@ -16,7 +16,7 @@ teaser: >
   Learn how to identify similar images and texts with Python. This workshop will focus on the task of identifying similar images, but we will also discuss how you can use the same techniques to identify similar texts in large corpora.
 ---
 ### Overview
-Learn how to identify similar images and texts with Python! This workshop will focus on the task of identifying similar images, but we will also discuss how you can use the same techniques to identify similar texts in large corpora. We will discuss the process of converting cultural heritage materials into "vectors", the basics of working with vector spaces, and the ways we can use vector spaces to identify similar images and texts. 
+Learn how to identify similar images and texts with Python! This workshop will focus on the task of identifying similar images at scale, but we will also discuss how you can apply same techniques when working with texts as well. We will cover the process of converting cultural heritage materials into "vectors", the basics of working with vector spaces, and the ways we can use vector spaces to identify similar images and texts.
 
 The seventh offering in our Python for Humanists series, this workshop is designed for participants who have taken the earlier sessions or who otherwise have a general understanding of Python’s syntax and data types. Written tutorials from the prior sessions can be found on the <a href='https://github.com/YaleDHLab/lab-workshops' target='_blank'>DHLab's workshop repository</a> on GitHub.
 
