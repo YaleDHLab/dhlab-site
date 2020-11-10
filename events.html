@@ -6,7 +6,7 @@ title: Events
 ---
 
 {% include get_future_or_past_records.liquid records=site.events type='future' %}
-{% assign future_events = records %}
+{% assign future_events = records | reverse %}
 
 {% if future_events.size > 0 %}
   {% assign class = 'future-events' %}

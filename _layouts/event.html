@@ -35,7 +35,7 @@ class: event-detail-page simple-page
   {% endif %}
 {% endfor %}
 
-{% assign bottom_items = events | limit: 3 %}
+{% assign bottom_items = events | limit: 3 | reverse %}
 
 {% include simple.html 
   page=page 
