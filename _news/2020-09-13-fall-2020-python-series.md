@@ -55,6 +55,8 @@ December 3, 3:00 p.m. Eastern
 
 Many programming workshops focus on how you can use Python for text analysis, but in fact, it is also useful for studying images at scale. In this workshop, we’ll demonstrate how we can use Python to extract color palettes from a collection of images. Along with discussing popular technical approaches, we will also introduce color spaces and theories of color perception, which will affect what algorithms we choose for specific tasks.
 
-<a href='https://dhlab.yale.edu/events/2020-12-10-image-similarity.html' target='_blank'>**Identifying Similar Images with Python**</a>
+<a href='https://dhlab.yale.edu/events/2020-12-10-image-similarity.html' target='_blank'>**Identifying Similar Images with Python**</a>  
+December 10, 3:00 p.m. Eastern  
+
 This workshop will focus on the task of identifying similar images at scale, but we will also discuss how you can apply same techniques when working with texts as well. We will cover the process of converting cultural heritage materials into “vectors”, the basics of working with vector spaces, and the ways we can use vector spaces to identify similar images and texts.
                                                                                        
