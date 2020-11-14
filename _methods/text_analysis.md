@@ -17,7 +17,7 @@ Text mining includes a number of applications, from tracking textual reuse and t
 
 ### Methods & Tools
 
-Out-of-the-box tools that don't require any custom programming include JSTOR Labs's <a href='https://www.jstor.org/analyze/analyzer/progress' target='_blank'>Text Analyzer</a>, <a href='https://voyant-tools.org/' target='_blank'>Voyant</a>, <a href='http://www.laurenceanthony.net/software/antconc/' target='_blank'>AntConc</a>, and <a href='http://www.wordle.net/create' target='_blank'>Wordle</a>.
+Out-of-the-box tools that don't require any custom programming include <a href='https://voyant-tools.org/' target='_blank'>Voyant</a>, <a href='https://databasic.io/en/' target='_blank'>DataBasic</a>, <a href='http://www.laurenceanthony.net/software/antconc/' target='_blank'>AntConc</a>, <a href='https://github.com/senderle/topic-modeling-tool' target='_blank'>Topic Modelig Tool</a>, JSTOR Labs's <a href='https://www.jstor.org/analyze/analyzer/progress' target='_blank'>Text Analyzer</a>, and <a href='http://www.wordle.net/create' target='_blank'>Wordle</a>.
 
 Tools that require minimal command line usage include Stanford's <a href='https://stanfordnlp.github.io/CoreNLP/' target='_blank'>CoreNLP</a> (which can identify people, locations, and even sentiment in unstructured text) and Andrew McCallum's <a href='http://mallet.cs.umass.edu/' target='_blank'>MALLET</a> (which generates topic models).
 
