@@ -16,6 +16,7 @@ Whether you are new to the field and would like to learn more, have an existing 
 ### Schedule
 
 Virtual drop-in Office Hours are currently held at the days/times listed below, unless otherwise noted.  
+**The DHLab will not hold Office Hours on November 24 & 25.**
 
 <table>
   <thead>
