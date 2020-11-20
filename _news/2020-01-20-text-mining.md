@@ -1,5 +1,5 @@
 ---
-<!--spotlight_bottom: true-->
+spotlight_bottom: true
 title: "Find data for text mining"
 date: January 20, 2020
 thumbnail: /assets/images/banners/franke-text-mining.jpg

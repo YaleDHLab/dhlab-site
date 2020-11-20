@@ -2,8 +2,8 @@
 spotlight_top: true
 title: "COVID-19 Updates"
 date: May 5, 2020
-thumbnail: /assets/images/banners/text-mining.jpg
-image: /assets/images/banners/text-mining.jpg
+thumbnail: /assets/images/banners/covid19.jpg
+image: /assets/images/banners/covid19-banner.jpg
 alt: A book in front of computer code
 categories:
   - Announcement
