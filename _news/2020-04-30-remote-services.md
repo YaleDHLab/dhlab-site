@@ -1,7 +1,6 @@
 ---
 spotlight_top: true
-title: COVID-19 Updates
-<!--title: "Access Yale University Library services online"-->
+title: "COVID-19 Updates"
 date: May 5, 2020
 thumbnail: /assets/images/banners/text-mining.jpg
 image: /assets/images/banners/text-mining.jpg
