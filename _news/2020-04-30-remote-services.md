@@ -1,6 +1,7 @@
 ---
 spotlight_top: true
-title: "Access Yale University Library services online"
+title: COVID-19 Updates
+<!--title: "Access Yale University Library services online"-->
 date: May 5, 2020
 thumbnail: /assets/images/banners/text-mining.jpg
 image: /assets/images/banners/text-mining.jpg
@@ -11,6 +12,8 @@ image_layout: simple
 teaser: |
   Yale University Library is committed to supporting faculty, students, and staff during the COVID-19 pandemic. Read on for links and tips for remote access to library resources and services.
 ---
+
+**Yale libraries will be closed Nov. 25 – Jan. 5. Online services and access to library materials will continue. See <a href='https://web.library.yale.edu/news/2020/03/updates-covid-19-yale-library-online' target='_blank'>COVID-19 library updates</a> for more information.**
 
 Yale University Library is committed to supporting faculty, students, and staff during the COVID-19 pandemic. Use the links and tips below for remote access to library resources and services.
 
