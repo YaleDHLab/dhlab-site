@@ -1,5 +1,5 @@
 ---
-spotlight_bottom: true
+spotlight_top: true
 title: "Enroll in S&DS 176/576: YData: Humanities Data Mining, Spring 2021"
 date: November 30, 2020
 thumbnail: /assets/images/news/ydata-mining.jpg

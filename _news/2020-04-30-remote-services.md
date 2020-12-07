@@ -1,5 +1,5 @@
 ---
-spotlight_top: true
+spotlight_bottom: true
 title: "COVID-19 Updates"
 date: May 5, 2020
 thumbnail: /assets/images/banners/covid19.jpg
