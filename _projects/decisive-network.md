@@ -26,7 +26,7 @@ Magnum Photos was founded in 1947 by five photographers, a group that included R
 
 *Inside the Decisive Network* was motivated by larger questions about the workings of photography and the press. If Magnum was so important, what exactly *was* its contribution to the industry and profession of photojournalism? How did it operate day-to-day? And how did it fit into the broader media landscape after World War II?  
 
-Based in years of research in archives around the world, this project, and the forthcoming book that it accompanies, is the first attempt to systematically examine Magnum’s early operations. It argues that Magnum’s photographers were core members of a larger, “decisive network” of professionals who helped photographers attain success. This network included editors, secretaries, and sales agents – many of them women, and many of them missing from histories of photography. 
+Based in years of research in archives around the world, this digital project—and <a href='https://www.ucpress.edu/book/9780520300354/the-decisive-network' target='_blank'>the book</a> that it accompanies—is the first attempt to systematically examine Magnum’s early operations. It argues that Magnum’s photographers were core members of a larger, “decisive network” of professionals who helped photographers attain success. This network included editors, secretaries, and sales agents – many of them women, and many of them missing from histories of photography. 
 
 Each section of the site looks at different collaborations and transactions that underpinned Magnum’s operations and the industry of photojournalism after World War II.
 
