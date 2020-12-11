@@ -16,6 +16,7 @@ tags:
   - Archives
   - Photographs
 dhlab_project: true
+project_url: http://thedecisivenetwork.com/
 permalink: '/projects/decisive-network/'
 ---
 
@@ -57,4 +58,4 @@ Early attempts to study Magnum using ready-made software such as Gephi and Carto
 
 Other components of the site, including the timeline of staff career trajectories and the country essays that describe the role of Magnum’s agents, required more data than was initially available from a close reading of the archive. Making the archive searchable became crucial so that more data could be extracted quickly. With the help of a Google product called Tesseract, Yale’s Developer Douglas Duhaime converted thousands of reproductions of archival documents (stored as jpeg and tiff files) into txt files. He then built a simple database, which implements a client-side binary tree, to allow users to search documents quickly. Mining the archive for various staff members or magazine titles became instantaneous. 
 
-The site is currently password protected. For more information, please contact the project author, [Nadya Bair](mailto:nadyabair@gmail.com). 
+For more information on the project, please contact the project author, [Nadya Bair](mailto:nadyabair@gmail.com). 
