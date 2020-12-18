@@ -5,7 +5,7 @@ url: http://dhlab.yale.edu
 future: true
 
 # minify html in production
-minify_html: false
+minify_html: true
 
 # create lunr index
 create_index: true
