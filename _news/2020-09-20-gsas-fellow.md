@@ -1,5 +1,5 @@
 ---
-<!--status: fulfilled-->
+status: fulfilled
 title: "Intern with the Yale DHLab in Spring 2021"
 date: September 20, 2020
 thumbnail: /assets/images/news/text-cleaning.jpg
