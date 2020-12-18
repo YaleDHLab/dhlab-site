@@ -9,11 +9,11 @@ categories:
   - Opportunities
 image_layout: simple
 teaser: |
-  The Digital Tokugawa Lab, a digital humanities lab that focuses on early modern Japanese history, is hiring students for two research assistant positions.
+  The Digital Tokugawa Lab—a group of scholars working on digital humanities projects with a focus on pre-modern Japan—is hiring students for two research assistant positions.
 ---
 
 ### About the Digital Tokugawa Lab
-The Digital Tokugawa Lab is a digital humanities lab focusing on early modern Japanese history. For a detailed description of their work, please visit <a href='https://dtl.macmillan.yale.edu/' target='_blank'>the lab's website</a>.
+The Digital Tokugawa Lab is a group of scholars working on digital humanities projects with a focus on pre-modern Japan. For a detailed description of their work, please visit <a href='https://dtl.macmillan.yale.edu/' target='_blank'>the lab's website</a>.
 
 
 ### Primary Investigator
