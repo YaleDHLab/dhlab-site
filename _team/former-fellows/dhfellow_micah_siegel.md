@@ -4,6 +4,7 @@ role: DH Fellow
 image: /assets/images/about/intern_siegel.jpg
 order: 2
 group: teaching_fellow
+render: false
 ---
 Micah Siegel is a Ph.D. student in the English department, where she studies the nineteenth- and twentieth-century novel. Her dissertation research examines how people thought about plot in the turn-of-the-century literary marketplace, drawing on materials like authors' manuals, self-proclaimed “novels without plots,” and Golden Age detective fiction.
 
