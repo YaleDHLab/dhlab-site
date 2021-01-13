@@ -22,18 +22,17 @@ class: hide-color-hr
       %}
 
       <strong>Digital Humanities Lab Project Assistants</strong>
-      <p>Throughout the year, the Yale Digital Humanities Lab (DHLab) funds projects that require different levels of humanities and programming expertise. If you would like to be considered for one of these positions when they open up, please <a href='mailto:dhlab@yale.edu'>email the DHLab</a> your resume/CV, along with a brief statement of interest. For any current openings, visit the "Open Calls" section at the bottom of the page.</p>
+      <p>The Yale Digital Humanities Lab (DHLab) occasionally receives inquiries from Yale-led teams looking to hire students for digital projects. These requests state different levels of humanities and programming expertise. If you would like to be referred for one of these positions when they open up, please <a href='mailto:dhlab@yale.edu'>email the DHLab</a> your resume/CV, along with a brief statement of interest. For any current openings, visit the "Open Calls" section at the bottom of the page, where you can reach out directly to the hiring Principal Investigator (PI).</p>
 
       <strong>Digital Humanities Consultants</strong>
       <p>The DHLab hires graduate students annually to join our team as consultants. Whether you use machine learning to find aesthetic patterns in 18th-century paintings or interactive data visualizations to track instances of textual reuse in Classical literature we want to hear from you.</p>
 
       <p>Specific responsibilities vary, but consultants should expect:
         <ul>
-          <li>to meet with Yale community members from the undergraduate level to the faculty level to provide guidance on research questions in a 1-on-1 or group setting</li>
-          <li>to answer common questions across various disciplines</li>
-          <li>to use your expertise on specific digital humanities or data analysis topics, and to act as a point person for related questions</li>
-          <li>to think on the fly, identify project needs, and help develop a recommendation for how patrons should proceed given their subject area, expertise, and timeline</li>
-          <li>to hone your teaching skills by developing and leading workshops on specific software applied to digital humanities and data analysis</li>
+          <li>to meet with Yale students, faculty, and staff to provide guidance on research questions in a 1-on-1 or group setting,</li>
+          <li>to answer common questions across various disciplines,</li>
+          <li>to draw on your expertise on specific digital humanities or data analysis topics, and to act as a point person for related questions,</li>
+          <li>to think on the fly, identify project needs, and help develop a recommendation for how patrons should proceed given their subject area, expertise, and timeline.</li>
         </ul>
       </p>
     </div>
