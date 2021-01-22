@@ -1,8 +1,8 @@
 ---
 title: "Spring 2021 DH classes"
 date: January 20, 2021
-thumbnail: /assets/images/events/data-circle.jpg
-alt: Multi-colored astral object against midnight blue background radiates colored beads
+thumbnail: /assets/images/news/dh-courses_web.jpg
+alt: Open laptop with the DHLab logo on it in front of a blurry Zoom background
 caption: ""
 categories:
   - Courses
