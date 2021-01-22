@@ -27,6 +27,6 @@ All are invited to attend!
 
 ### Event Details  
 USC-LACMA History of Photography Seminar  
-Wednesday, Jan. 27, 2021  
+Wednesday, January 27, 2021  
 12:30-2:00 p.m. PST  
 RSVP to [vsri@usc.edu](mailto:vsri@usc.edu) for the Zoom link
