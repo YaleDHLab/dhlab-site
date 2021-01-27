@@ -21,6 +21,12 @@ Catherine DeRose and Douglas Duhaime
 
 What new modes of inquiry become available when we transform novels into bags of words and images into pixels? What is lost in the process? This course explores how we can use computational methods to pursue questions in the humanities, while also looking at how humanistic methods can inform the work of algorithms in research and society at large. Each course week is divided into discussion and lab sessions. Discussion sessions introduce concepts and humanities-based case studies that ground the hands-on technical work done in the labs. We will survey some of the most popular methods in modern data science—classification, vectorization, and visualization—to see what kinds of questions we can ask and answer.  
 
+### AI Aesthetics  
+ARCH 1246  
+Brennan Buck  
+
+More than any other technology, Artificial Intelligence (AI) promises to transform design and architecture over the next several decades. AI’s impact is a question of economics: how will machine labor replace and alter human labor in the pursuit of greater efficiency and profitability? It is also question of aesthetics: how will machine vision and cognition alter and replace human creativity? Understanding this new machine-mediated visual culture is critical to addressing its growth, finding potentials and opportunities, and identifying avenues for critique and resistance.  
+
 ### James Baldwin's American Scene
 AFAM 228, AMST 385, ENGL 265, HUMS 241  
 Jacqueline Goldsby  
