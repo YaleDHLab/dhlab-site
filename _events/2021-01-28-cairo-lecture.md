@@ -1,12 +1,14 @@
 ---
 title: "Visualization for Communication: Design for Non-Designers"
-date: February 8, 2021
-thumbnail: /assets/images/news/alberto-cairo.jpg
-image: /assets/images/news/alberto-cairo.jpg
+date: 2021-02-08
+thumbnail: /assets/images/events/alberto-cairo.jpg
+image: /assets/images/events/alberto-cairo.jpg
 alt: Alberto Cairo
 categories:
   - Announcement
-image_layout: simple
+  - Talks
+tags:
+  - Visualization
 teaser: |
   Data visualization expert Alberto Cairo will deliver an online lecture titled, "Visualization for Communication: Design for Non-Designers."
 ---
