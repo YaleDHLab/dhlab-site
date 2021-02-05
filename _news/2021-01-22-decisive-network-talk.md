@@ -8,6 +8,7 @@ caption: >
   Nadya Bair. Photo © 2017 by Michael Marsland.
 categories:
   - Announcement
+  - Talk
 topics: 
   - Network Analysis
   - Spatial Analysis
