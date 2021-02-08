@@ -1,7 +1,7 @@
 ---
 title: "An Astronomical View of Ancient Egyptian Star Clocks"
 date: 2021-02-12
-time: 3:00 - 4:30 p.m. Eastern
+time: 12:00 - 1:00 p.m. Eastern
 location: Zoom
 thumbnail: /assets/images/events/astronomy-talk.jpg
 alt: Egyptian Sphynx at night 
