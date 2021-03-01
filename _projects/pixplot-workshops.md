@@ -41,7 +41,7 @@ The *PixPlot* for Cultural Heritage workshop in New Haven will be scheduled as f
 </table>
 
 ### Schedule & Logistics, Workshop 1
-The *PixPlot* for Natural Science Collections workshop will take place in Washington, DC in April or May 2020. Details are forthcoming.
+The *PixPlot* for Natural Science Collections workshop will take place in Washington, DC. Details are forthcoming.
 
 ### Overview
 The mass digitization of visual collections from the libraries, galleries, and museums of Yale and the Smithsonian Institution has created unprecedented opportunities for discovery and interpretation. But the very scale of these digitized images has also introduced new challenges: existing methods of search are insufficient for the scale, and ill-suited for the characteristics, of these non-textual archives.
