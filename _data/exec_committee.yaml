@@ -1,3 +1,34 @@
+2018-2019:
+  - name: Amy Hungerford (Chair)
+    affiliation: Dean of Humanities, English, American Studies
+    short_affiliation: Dean of Humanities, Bird White Housum Professor of English, Professor of American Studies
+  - name: Jennifer Frederick
+    affiliation: Poorvu Center for Teaching and Learning
+    short_affiliation: Poorvu Center for Teaching and Learning
+  - name: Alan Gerber
+    affiliation: Dean of Social Sciences, Political Science, Institute for Social and Policy Studies
+    short_affiliation: Dean of Social Sciences, Political Science, Institute for Social and Policy Studies
+  - name: Susan Gibbons
+    affiliation: University Librarian and Deputy Provost for Collections & Scholarly Communication
+    short_affiliation: University Librarian and Deputy Provost for Collections & Scholarly Communication
+  - name: Jonathan Kramnick
+    affiliation: English
+    short_affiliation: English
+  - name: Stephen Krewson
+    affiliation: English and Computer Science (Graduate student)
+    short_affiliation: English and Computer Science (Graduate student)
+  - name: Peter Leonard
+    affiliation: Yale Digital Humanities Lab
+    short_affiliation: Yale Digital Humanities Lab
+  - name: Tina Lu
+    affiliation: East Asian Languages and Literatures
+    short_affiliation: East Asian Languages and Literatures
+  - name: Anna Shechtman
+    affiliation: English and Film & Media Studies (Graduate student)
+    short_affiliation: English and Film & Media Studies (Graduate student)
+  - name: Laura Wexler
+    affiliation: Women's, Gender, and Sexuality Studies; American Studies
+    short_affiliation: Women's, Gender, and Sexuality Studies; American Studies
 2017-2018:
   - name: Amy Hugerford (Chair)
     affiliation: Dean of Humanities, English, American Studies
@@ -27,11 +58,11 @@
     affiliation: History of Art; Institute for the Preservation of Cultural Heritage
     short_affiliation: History of Art; Institute for the Preservation of Cultural Heritage
   - name: Angel Nieves
-    affiliation: Women's Gender, and Sexuality Studies
-    short_affiliation: Women's Gender, and Sexuality Studies
+    affiliation: Women's, Gender, and Sexuality Studies
+    short_affiliation: Women's, Gender, and Sexuality Studies
   - name: Anna Shechtman
-    affiliation: English (Graduate student)
-    short_affiliation: English (Graduate student)
+    affiliation: English and Film & Media Studies (Graduate student)
+    short_affiliation: English and Film & Media Studies (Graduate student)
   - name: Dragomir Radev
     affiliation: Computer Science
     short_affiliation: Computer Science
@@ -96,7 +127,7 @@
     short_affiliation: English, American Studies, Divisional Director for Humanities
   - name: Matthew Jacobson
     affiliation: American Studies, History, African American Studies
-    short_affiliation: American Studies, History, African America Studies
+    short_affiliation: American Studies, History, African American Studies
   - name: Alice Kaplan
     affiliation: French
     short_affiliation: French
