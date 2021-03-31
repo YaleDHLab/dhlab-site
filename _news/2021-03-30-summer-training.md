@@ -12,7 +12,7 @@ tags:
 spotlight: false
 image_layout: simple
 teaser: |
-  Apply for a DH Training Scholarship in 2021! The Yale Digital Humanities Lab is excited to announce a limited number of $500 scholarships to support participation in digital  humanities workshops. All Yale students and library staff are eligible to apply.
+  Learn more about the digital humanities this summer! The Yale Digital Humanities Lab is excited to announce a limited number of $500 scholarships to support participation in digital  humanities workshops. All Yale students and library staff are eligible to apply.
 ---
 
 Looking to learn more about the digital humanities this summer? Apply for a DH Training Scholarship! The Yale Digital Humanities Lab (DHLab) is excited to announce a limited number of $500 scholarships for Yale students and library staff participating in digital humanities workshops at other institutions.
