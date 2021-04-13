@@ -1,0 +1,32 @@
+---
+layout: default
+class: news-page mobile-dark-header
+bookshelf: true
+---
+
+<div class='center-column' role='main'>
+    {{ content }}
+    {% for shelf in page.shelves %}
+    <h2>{{shelf.title}}</h2>
+    {% if shelf.description %}
+      <p>{{ shelf.description }}</p>
+    {% endif %}
+    <div class="shelf-slider">
+        {% assign first_books = shelf.books | slice:0, 10 %}
+        {% for book in first_books %}
+          <div class="book-container">
+            <a title="{{book.title}}" href="{{ book.link }}">
+              <div class="book">
+                {% if book.cover %}<img class="cover" src="{{ book.cover }}"/>{% endif %}
+                {% if book.linkType == "open-access" %}
+                <div class="link-badge">
+                  <img alt="{{book.title}}" src="https://upload.wikimedia.org/wikipedia/commons/3/39/Cib-open-access_%28CoreUI_Icons_v1.0.0%29.svg" />
+                </div>
+                {% endif %}
+              </div>
+            </a>
+          </div>
+        {% endfor %}
+    </div>
+    {% endfor %}
+</div>

@@ -8,4 +8,6 @@ _site
 node_modules
 ngrok
 ghostdriver.log
-package-lock.json
+package-lock.json.prettierrc.json
+.sass-cache
+.prettierrc.json
