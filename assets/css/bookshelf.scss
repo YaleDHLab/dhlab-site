@@ -108,3 +108,39 @@ button[data-nav] {
 button[data-nav].tns-nav-active {
     background-color: lightgray;
 }
+
+.all-books-container {
+    margin-top: 86px;
+}
+
+.all-books {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+}
+
+.square-book {
+    width: 200px;
+    margin: 20px;
+}
+
+.square-book-cover {
+    width: 200px;
+    height: 200px;
+
+    background-color: #999;
+    border: 1px solid #ddd;
+
+    background-position: center;
+    background-size: cover;
+}
+
+.square-book-title {
+    font-weight: 600;
+    margin-top: 12px;
+    color: #555;
+}
+
+.square-book:hover .square-book-cover {
+    border-color: #222;
+}

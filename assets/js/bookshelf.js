@@ -42,4 +42,44 @@ import { tns } from 'tiny-slider/src/tiny-slider'
             },
         })
     })
+
+    // set up lazy loading for square books
+    let scrolling = false;
+    let timeout;
+
+    const isInView = img => {
+        return (img.offsetTop < (window.innerHeight + window.pageYOffset)) 
+    }
+
+    const checkSquareBooks = () => {
+        const squareBooks = Array.from(document.getElementsByClassName("square-book-lazy"))
+
+        squareBooks.forEach(squareBook => {
+            
+            if (!isInView(squareBook)) { return }
+            
+            const thumb = squareBook.getElementsByClassName("square-book-cover").item(0)
+            
+            const coverURL = thumb.getAttribute("data-cover")
+            thumb.style.backgroundImage = `url(${coverURL})`
+
+            squareBook.classList.remove("square-book-lazy")
+            
+        })
+    }
+
+    const handleScroll = () => {
+        clearTimeout(timeout)
+        timeout = setTimeout(checkSquareBooks, 50);
+
+    }
+
+    
+    window.onscroll = handleScroll;
+    window.onresize = handleScroll;
+    if (screen && screen.orientation){
+        screen.orientation.onchange = handleScroll;
+    }
+
+
 })()
