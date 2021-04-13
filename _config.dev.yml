@@ -16,3 +16,5 @@ compress_js: false
 # minify assets
 sass:
   style: compressed
+  load_paths: 
+    - node_modules
