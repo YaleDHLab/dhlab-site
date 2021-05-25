@@ -26,7 +26,7 @@ The database is a lexical database (a database with words from different languag
 
 ### Contributing to the Database
 
-We accept data contributions of all types relating to the languages of Australia. You can <a href='http://www.pamanyungan.net/chirila/contribute-data-to-chirila/' target_'_blank'>upload files</a> directly to our site. The more data we have in the database, the more generally useful it will be. We would like, eventually, to have a database that contains words from all the Aboriginal and Torres Strait Islander languages in Australia. There are some parts of the country where we don’t have much information at the moment. These include:
+We accept data contributions of all types relating to the languages of Australia. You can <a href='http://www.pamanyungan.net/chirila/contribute-data-to-chirila/' target='_blank'>upload files</a> directly to our site. The more data we have in the database, the more generally useful it will be. We would like, eventually, to have a database that contains words from all the Aboriginal and Torres Strait Islander languages in Australia. There are some parts of the country where we don’t have much information at the moment. These include:
 
 * Cape York Peninsula
 * Western Arnhem Land and Central Top End
