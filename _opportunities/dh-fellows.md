@@ -5,12 +5,12 @@ image: '/assets/images/banners/2018-DH-fellows.jpg'
 caption: >
   Fall 2018 Digital Humanities Teaching Fellows. Photo by Mara Lavitt.
 alt: Three Digital Humanities Teaching Fellows (fall 2018) standing in front of the Special Projects Cube in the Franke Family Digital Humanities Laboratory.
-application_text: >
-  Apply now to become one of our Fall 2021 Fellows.
+<!--application_text: >
+  Apply now to become one of our Fall 2021 Fellows.-->
 apply_button:
 application_url: >
   https://docs.google.com/forms/d/e/1FAIpQLSdXL7XBml2aGR2aprFD4KB-9Mq837aRuL0xSLpij-_YW6stlg/viewform?usp=sf_link
-deadline: Applications are considered on a rolling basis.
+deadline: Applications are under review for fall 2021.
 overview: teaching_fellows
 ---
 
@@ -26,7 +26,6 @@ overview: teaching_fellows
       %}
       <p>Learn digital humanities methods as part of a cohort of Yale Digital Humanities (DH) Teaching Fellows! No prior experience with digital humanities is required. The Fellowship is an opportunity to learn digital humanities methods—such as text mining, network analysis, and geospatial analysis—and apply them to your teaching.</p> 
       <p>Along with providing specialized technical training for DH Fellows, Digital Humanities Lab staff also work with Fellows to design digital humanities assignments and identify readings or projects of interest. Visit our <a href='{{ site.baseurl }}/about/teaching_fellows.html' target='_blank'>DH Teaching Fellows page</a> to see current and past recipients and their courses.</p>
-      <p>For the Spring 2021 semester, DH Fellow meetings and workshops will occur over Zoom.</p>
     </div>
    </div>
 
@@ -65,7 +64,7 @@ overview: teaching_fellows
   {% capture right_text_two %}
     <p>Yale graduate students in the humanities or with a teaching appointment in the humanities are eligible to apply.</p>
 
-    <p>For more information, please <a href='mailto:dhlab@yale.edu'>email the DHLab</a> or <a href='https://docs.google.com/forms/d/e/1FAIpQLSdXL7XBml2aGR2aprFD4KB-9Mq837aRuL0xSLpij-_YW6stlg/viewform?usp=sf_link' target='_blank'>submit an application.</a> Applications are currently being accepted for Fall 2021 appointments and will be reviewed on a rolling basis.</p>
+    <p>For more information, please <a href='mailto:dhlab@yale.edu'>email the DHLab</a> or <a href='https://docs.google.com/forms/d/e/1FAIpQLSdXL7XBml2aGR2aprFD4KB-9Mq837aRuL0xSLpij-_YW6stlg/viewform?usp=sf_link' target='_blank'>submit an application.</a></p>
   {% endcapture %}
 
   {% include text/color_blocks.html
