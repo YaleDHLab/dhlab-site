@@ -18,12 +18,6 @@ Whether you are new to the field and would like to learn more, have an existing 
 **Virtual drop-in Office Hours for the summer:**
 
 <table>
-  <thead>
-    <th></th>
-    <th></th>
-    <th></th>
-    <th></th>
-  </thead>
   <tbody>
     <tr>
       <td>When</td>
