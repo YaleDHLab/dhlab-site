@@ -35,7 +35,7 @@ The workshops will run from 9:00 a.m. – 12:00 p.m. Eastern (with breaks) on th
 -	Friday, June 18  
 
 #### Registration
-All Yale students, faculty, and staff are invited to register, but space is limited. To sign up, please visit the <a href='https://schedule.yale.edu/event/7904166' target='_blank'>Yale University Library Instruction Calendar</a>.
+All Yale students, faculty, and staff are invited to register, but space is limited. To sign up, please visit the <a href='https://schedule.yale.edu/event/7904166' target='_blank'>YUL Instruction Calendar</a>.
 
 #### Instructors and Helpers
 Kayleigh Bohemier, Catherine DeRose, Barbara Esty, Jake Kara, Rashelle Nagar, and Jennifer Snow  
