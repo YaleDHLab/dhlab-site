@@ -2,6 +2,7 @@
 title: "Workshop Series: Data Spreadsheets, OpenRefine, and Python"
 date: 2021-06-10
 dates:
+  - 2021-06-10
   - 2021-06-11
   - 2021-06-17
   - 2021-06-18
