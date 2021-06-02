@@ -23,7 +23,7 @@ Learn new computing and software skills this summer through our Library Carpentr
 
 Library Carpentry aims to help researchers work more efficiently and effectively by teaching them the basics of research computing. The hands-on, collaborative workshop series will cover key concepts and tools for data management, analysis, and programming, and it will encourage participants to apply these skills to their own research problems. No prior knowledge of spreadsheets, OpenRefine, or Python is required.
 
-For more information about the Carpentries, please visit <a href="https://carpentries.org/" target="_blank">the organizations's website</a>.
+For more information about the Carpentries, please visit <a href="https://carpentries.org/" target="_blank">the organization's website</a>.
 
 ### Workshop Details
 
