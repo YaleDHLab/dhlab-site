@@ -1,0 +1,15 @@
+<div class="all-books-container">    
+    <div class="all-books">
+        {% assign sorted_all_books = site.data.allbooks | sort: "title" %}
+        {% for book in sorted_all_books %}
+            <div class="square-book square-book-lazy">
+                <a href="{{ book.link }}">
+                <div class="square-book-cover" data-cover="{{ book.cover }}"></div>
+                <div class="square-book-title">
+                    {{ book.title }}
+                </div>
+                </a>
+            </div>
+        {% endfor %}
+    </div>
+</div>

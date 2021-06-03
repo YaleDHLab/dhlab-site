@@ -86,7 +86,7 @@ process: true
 }
 
 .shelf-controls button:disabled {
-    visibility: hidden;
+    // visibility: hidden;
     opacity: 0.25;
     cursor: unset;
 }
@@ -143,4 +143,10 @@ button[data-nav].tns-nav-active {
 
 .square-book:hover .square-book-cover {
     border-color: #222;
+}
+
+.cover-placeholder {
+    width: 160px;
+    height: 200px;
+    background-color: orange;
 }

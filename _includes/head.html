@@ -12,9 +12,7 @@
   {% endif %}
   <meta name='viewport' content='width=device-width'>
   <meta name='google-site-verification' content='Zw2VRjNAyfT-FjfkJqfffHmaHKcHTJ54Dy28j98IYjY' />
-  {% if page.bookshelf %}
-  <link rel='stylesheet' type='text/css'
-    href='{{ site.baseurl }}/assets/css/bookshelf.css?{{ site.time | date: "%s%N" }}'>
+  {% if page.has_bookshelf %}
   <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/tiny-slider/2.9.3/tiny-slider.css">
   {% endif %}
   <link media='(min-width: 900px)'
