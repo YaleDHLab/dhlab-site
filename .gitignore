@@ -1,0 +1,11 @@
+.ruby-version
+_site
+.jekyll-metadata
+*.DS_Store
+*.pem
+*.swp
+*.swo
+node_modules
+ngrok
+ghostdriver.log
+package-lock.json
