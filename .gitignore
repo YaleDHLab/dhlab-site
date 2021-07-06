@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 .ruby-version
 _site
 .jekyll-metadata
@@ -9,3 +10,6 @@ node_modules
 ngrok
 ghostdriver.log
 package-lock.json
+=======
+node_modules
+>>>>>>> 8f6f090a3da9efbd478cd5465f0dafbd0bf3084f
