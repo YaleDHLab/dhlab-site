@@ -4643,3 +4643,19 @@ br + .tags,
     display: none !important;
   }
 }
+
+.warning-banner {
+  background-color: #F9BE00;
+  padding: 22px;
+  text-align: center;
+  font-weight: bold;
+}
+
+.warning-banner-icon {
+  display: inline-block;
+}
+
+.warning-banner-text {
+  display: inline-block;
+  margin-left: 14px;
+}

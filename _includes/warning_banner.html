@@ -1,0 +1,8 @@
+{% if include.text %}
+<div class="warning-banner">
+    <div class="warning-banner-icon">
+        <img src='{{ site.baseurl }}/assets/images/icons/icon-caution.svg' alt='caution icon'>
+    </div>
+    <div class="warning-banner-text">{{ include.text }}</div>
+</div>
+{% endif %}
