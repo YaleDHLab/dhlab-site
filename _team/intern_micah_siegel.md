@@ -1,6 +1,6 @@
 ---
 name: Micah Siegel
-role: Outreach Strategy Fellow
+role: DH Communications Assistant
 image: /assets/images/about/intern_siegel.jpg
 order: 1
 group: intern
