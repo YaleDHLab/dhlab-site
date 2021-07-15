@@ -4651,6 +4651,10 @@ br + .tags,
   font-weight: bold;
 }
 
+.warning-banner a {
+  text-decoration: underline;
+}
+
 .warning-banner-icon {
   display: inline-block;
 }
