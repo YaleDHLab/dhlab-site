@@ -23,7 +23,7 @@ teaser: |
   Learn how to analyze texts using Constellate, ITHAKA's new tool for text and data mining. This eight-session "Introduction to Text Analytics" series will take place every Tuesday and Thursday, from July 20 through August 12.
 ---
 ### Overview
-Learn how to analyze texts using Constellate, ITHAKA's new tool for text and data mining. This eight-session "Introduction to Text Analytics" series will take place every Tuesday and Thursday, from July 20 through August 12. Throughout the series, participants will become more familiar with Constellate and text mining more generally, with workshops covering a range of subjects, from programming in Python to analyzing metadata, word frequencies, significant terms (TF-IDF), and topic models (LDA).
+Learn how to analyze texts using Constellate, ITHAKA's new tool for text and data mining. This eight-session "Introduction to Text Analytics" series will take place every Tuesday and Thursday, from July 20 through August 12. Throughout the series, participants will become more familiar with Constellate and text mining more generally, with workshops covering a range of topics, from programming in Python to analyzing metadata, word frequencies, significant terms (TF-IDF), and topic models (LDA).
 
 While participants are encouraged to take each workshop in the series, they could join midway through if they have prior experience with programming or text analysis.
 
@@ -49,6 +49,6 @@ Held on Tuesdays and Thursdays, each workshop will offer identical sessions at 1
 Instructor: Nathan Kelber, Constellate
 
 #### Registration
-All Yale students, faculty, and staff are invited to register. For more information and to sign up, please visit the <a href='https://constellate.org/docs/introduction-to' target='_blank'>official workshop page</a>.
+All Yale students, faculty, and staff are invited to participate. For more information and to sign up, please visit the <a href='https://constellate.org/docs/introduction-to' target='_blank'>official workshop page</a>.
 
 *Be among the first to know when future workshops are announced by signing up for the <a href='https://subscribe.yale.edu/browse?search=digital+humanities' target='_blank'>DHLab’s newsletter</a>.*
