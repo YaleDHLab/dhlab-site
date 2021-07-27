@@ -15,7 +15,7 @@ apply_button: hidden
 
 ### Overview
 
-Guided Research Fellowships help Yale faculty and graduate students develop the skills they need to pursue their own digital humanities projects. Intended to provide a collaborative research and learning experience, these awards provide recipients with the opportunity to deepen their knowledge of digital methods while  advancing a project of their own design. The fellowships may be used to support any stage of research, from dataset creation and cleaning to metadata enhancement and experimental analysis.
+Guided Research Fellowships help Yale graduate students develop the skills they need to pursue their own digital humanities projects. Intended to provide a collaborative research and learning experience, these awards provide recipients with the opportunity to deepen their knowledge of digital methods while  advancing a project of their own design. The fellowships may be used to support any stage of research, from dataset creation and cleaning to metadata enhancement and experimental analysis.
  
 Fellowship recipients typically meet with Digital Humanities Lab (DHLab) staff on a bi-weekly basis for research advice, hands-on tool instruction, and guidance in other areas of project development. Prior technical and programming experience is not required. Depending on their project, participants may also be interested in applying for a Rapid Prototyping Grant after completing the Guided Research process.
  
