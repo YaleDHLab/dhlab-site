@@ -3,7 +3,8 @@ title: Data Resources
 order: 4
 layout: resource
 image: '/assets/images/banners/franke-lounge.jpg'
-caption: |
+caption: caption: Photo by Mara Lavitt.
+alt: View of two people discussing a digital project in the Franke Family Digital Humanities Laboratory.
 
 ---
 
