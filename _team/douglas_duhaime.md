@@ -2,7 +2,7 @@
 name: Douglas Duhaime
 role: Digital Humanities Developer
 image: /assets/images/about/team/DD-sq.jpg
-order: 3
+order: 2
 group: core_team
 ---
 
