@@ -1,6 +1,6 @@
 ---
 title: Guided Research Fellowships
-order: 0
+order: 1
 image: '/assets/images/banners/project-planning.jpg'
 <!--caption: Photo by [name here].-->
 alt: View of three people discussing a project and looking at a laptop computer in the Franke Family Digital Humanities Laboratory.
