@@ -23,9 +23,11 @@ class: hide-color-hr
 
       <strong>Digital Humanities Lab Project Assistants</strong>
       <p>The Yale Digital Humanities Lab (DHLab) occasionally receives inquiries from Yale-led teams looking to hire students for digital projects. These requests state different levels of humanities and programming expertise. If you would like to be referred for one of these positions when they open up, please <a href='mailto:dhlab@yale.edu'>email the DHLab</a> your resume/CV, along with a brief statement of interest. For any current openings, visit the "Open Calls" section at the bottom of the page, where you can reach out directly to the hiring Principal Investigator (PI).</p>
-
+      
+      <br>
+      
       <strong>Digital Humanities Consultants</strong>
-      <p>The DHLab hires graduate students annually to join our team as consultants. Whether you use machine learning to find aesthetic patterns in 18th-century paintings or interactive data visualizations to track instances of textual reuse in Classical literature we want to hear from you.</p>
+      <p>The DHLab hires graduate students annually to join our team as consultants. Whether you use machine learning to find aesthetic patterns in 18th-century paintings or interactive data visualizations to track instances of textual reuse in Classical literature, we want to hear from you.</p>
 
       <p>Specific responsibilities vary, but consultants should expect:
         <ul>
