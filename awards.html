@@ -7,7 +7,7 @@ title: Awards
 
 <div class='center-column' role='main'>
   {% capture text %}
-    The Digital Humanities Lab supports a number of funding opportunities to help advance digital scholarship at Yale. If you study or work at the university and are interested in funding opportunities, please read more below.
+    The Digital Humanities Lab supports a number of award programs to help advance digital scholarship at Yale. If you study or work at the university and are interested in these opportunities, please read more below.
   {% endcapture %}
 
   {% include text/one-third-width/one_third_split_text_block.html
@@ -16,17 +16,31 @@ title: Awards
   %}
 
   {% include text/center_section_title.html
-    text='FUNDING'
+    text='PROGRAMS'
   %}
 
   {% capture left_text_one %}
+    <p>Each semester, the Digital Humanities Lab appoints a cohort of Digital Humanities Fellows to assist with courses that have a strong digital humanities component. These positions provide semester-long support for graduate students to engage with digital humanities methods and theories in a classroom setting.</p>
+    <p>DHLab staff work with Fellows to design digital humanities assignments, arrange access to electronic content, and provide specialized technical training. Visit the <a href='{{ site.baseurl }}/about/teaching_fellows.html' target='_blank'>DH Fellows page</a> to learn about our current recipients and their courses.</p>
+    <a href='{{ site.baseurl }}/awards/dh-fellows.html'
+      class='white-button'>Learn More</a>
+  {% endcapture %}
+
+  {% capture left_text_two %}
+    <p>Guided Research Fellowships help Yale graduate students develop the skills they need to pursue their own digital humanities projects. Intended to provide a collaborative research and learning experience, these awards offer recipients the opportunity to deepen their knowledge of digital methods while advancing a project of their own design.</p>
+    <p>Fellowship recipients typically meet with DHLab staff on a bi-weekly basis for research advice, hands-on tool instruction, and guidance in other areas of project development. The fellowships may be used to support any stage of research, from dataset creation to analysis.</p>
+    <a href='{{ site.baseurl }}/awards/guided-research.html'
+      class='white-button'>Learn More</a>
+  {% endcapture %}
+
+  {% capture left_text_three %}
     <p>Rapid Prototyping Grants are for focused design and development interventions to help a project get started or to add an innovative feature to an existing project. The grant may involve up to one week of project consulting, application design, and software development.</p>
     <a href='{{ site.baseurl }}/awards/rapid-prototyping.html'
       class='white-button'>Learn More</a>
   {% endcapture %}
 
-  {% capture left_text_two %}
-    <p>The Digital Humanities Lab is pleased to announce a limited number of $500 Digital Humanities Training Scholarships. Yale graduate students, undergraduates, and library staff are eligible to apply. These scholarships support participation in week-long digital humanities workshops such as:
+  {% capture right_text_one %}
+    <p>The Digital Humanities Lab is pleased to offer a limited number of $500 Digital Humanities Training Scholarships. Yale graduate students, undergraduates, and library staff are eligible to apply. These scholarships support participation in week-long digital humanities workshops such as:
       <ul>
         <li><a href='http://www.dhsi.org/' target='_blank'>Digital Humanities Summer Institute (DHSI)</a></li>
 
@@ -41,13 +55,13 @@ title: Awards
       class='white-button'>Learn More</a>
   {% endcapture %}
 
-  {% capture right_text_one %}
+  {% capture right_text_two %}
     <p>Workshop Grants support digital humanities discussions and training opportunities on campus. Funds might be applied toward food, honoraria, and travel expenses for non-Yale participants.</p>
     <a href='{{ site.baseurl }}/awards/workshop-grant.html'
       class='white-button'>Learn More</a>
   {% endcapture %}
 
-  {% capture right_text_two %}
+  {% capture right_text_three %}
     <p>In addition to the funding opportunities supported by the Digital Humanities Lab, there are a number of national and international funding sources that may be of interest to those working on digital humanities projects. The following list contains a short overview of these opportunities:
       <ul>
         <li><a href='https://www.neh.gov/divisions/odh' target='_blank'>NEH Office of Digital Humanities</a></li>
@@ -66,17 +80,23 @@ title: Awards
   {% endcapture %}
 
   {% include text/color_blocks.html
-    left_title_one='Rapid Prototyping Grants'
+    left_title_one='DH Teaching Fellowships'
     left_text_one=left_text_one
 
-    left_title_two='DH Training Scholarships'
+    left_title_two='Guided Research Fellowships'
     left_text_two=left_text_two
 
-    right_title_one='Workshop Grants'
+    left_title_three='Rapid Prototyping Grants'
+    left_text_three=left_text_three
+
+    right_title_one='DH Training Scholarships'
     right_text_one=right_text_one
 
-    right_title_two='Additional Funding'
+    right_title_two='Workshop Grants'
     right_text_two=right_text_two
+
+    right_title_three='Additional Funding'
+    right_text_three=right_text_three
   %}
 
   {% include awards/funded_projects.html %}
