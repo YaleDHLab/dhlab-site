@@ -9,7 +9,7 @@ categories:
 spotlight: false
 image_layout: simple
 teaser: |
-  Looking for classes to take this fall? Here are a few that will help you earn about digital mapping and design, examine the social implications of new technologies, gain proficiency in a programming language, and more. Course offerings range from theoretical considerations of technology and big data to hands-on practice with digital tools and methods.
+  Looking for classes to take this fall? Here are a few that will help you learn about digital mapping and design, examine the social implications of new technologies, gain proficiency in a programming language, and more. Course offerings range from theoretical considerations of technology and big data to hands-on practice with digital tools and methods.
 ---
 Looking for classes to take this fall? Here are a few that will help you learn about digital mapping and design, examine the social implications of new technologies, gain proficiency in a programming language, and more. Course offerings range from theoretical considerations of technology and big data to hands-on practice with digital tools and methods. For more detailed information about prerequisites and enrollment, please see the full course descriptions at <a href='https://courses.yale.edu/' target='_blank'>courses.yale.edu</a>.
 
