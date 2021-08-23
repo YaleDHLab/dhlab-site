@@ -1,7 +1,7 @@
 ---
 title: "Fall 2021 DH Classes"
 date: August 23, 2021
-thumbnail: /assets/images/news/fall-2021-courses.jpg
+thumbnail: /assets/images/news/fall-2021-classes.jpg
 alt: Photo of an open laptop on a table, with network graphics and numbers in the foreground
 caption: ""
 categories:
