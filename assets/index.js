@@ -9,7 +9,6 @@ import './js/parallax-scroll.js';
 import './js/search/search.js';
 import './js/scrollto.js';
 import './js/social-media-icons.js';
-import './js/header-animation.js';
 import './js/four-oh-four.js';
 import './js/google-tag-manager.js';
 import './js/accessibility.js';

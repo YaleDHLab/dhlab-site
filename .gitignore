@@ -1,13 +1,12 @@
 _site
 .jekyll-metadata
-.ruby-version
 *.DS_Store
 *.pem
 *.swp
 *.swo
+package-lock.json
 node_modules
 ngrok
 ghostdriver.log
-package-lock.json.prettierrc.json
+package-lock.json.sass-cache
 .sass-cache
-.prettierrc.json

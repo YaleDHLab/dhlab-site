@@ -1,6 +1,6 @@
 ---
 title: Workshop Grants
-order: 1
+order: 3
 image: '/assets/images/banners/franke-workshop-basu2.jpg'
 caption: Text analysis workshop with guest lecturer Anupam Basu. Photo by Monica Ong Reed.
 deadline: Awards will be granted on a rolling basis until funds are exhausted.

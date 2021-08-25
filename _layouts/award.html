@@ -21,7 +21,9 @@ class: award-detail-page
     </div>
   </div>
 
-  {% if page.overview == 'rapid_prototyping_grant' %}
+  {% if page.overview == 'teaching_fellows' %}
+    {% include awards/teaching_fellows_overview.html page=page %}
+  {% elsif page.overview == 'rapid_prototyping_grant' %}
     {% include awards/rapid_prototyping_grant_overview.html page=page %}
   {% elsif page.overview == 'workshop_grant' %}
     {% include awards/workshop_grant_overview.html page=page %}

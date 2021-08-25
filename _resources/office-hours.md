@@ -15,19 +15,13 @@ Whether you are new to the field and would like to learn more, have an existing 
 
 ### Schedule
 
-**Virtual drop-in Office Hours will resume on January 12, 2021.**
+**Virtual drop-in Office Hours for the summer:**
 
 <table>
-  <thead>
-    <th></th>
-    <th></th>
-    <th></th>
-    <th></th>
-  </thead>
   <tbody>
     <tr>
       <td>When</td>
-      <td>Tuesdays and Wednesdays</td>
+      <td>Tuesdays</td>
       <td style="white-space:nowrap">9:00 - 10:00 a.m. EDT</td>
       <td>&</td>
       <td style="white-space:nowrap">2:00 - 4:00 p.m. EDT</td>

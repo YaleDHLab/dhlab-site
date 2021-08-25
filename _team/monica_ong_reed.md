@@ -2,7 +2,7 @@
 name: Monica Ong Reed
 role: User Experience Designer
 image: /assets/images/about/team/MO-sq.jpg
-order: 6
+order: 4
 group: core_team
 ---
 

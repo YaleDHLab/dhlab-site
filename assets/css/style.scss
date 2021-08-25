@@ -240,6 +240,23 @@ pre {
 }
 
 /**
+* Flex Helpers
+**/
+
+.row {
+  display: flex;
+  flex-direction: row;
+}
+
+.justify-center {
+  justify-content: center;
+}
+
+.align-center {
+  align-items: center;
+}
+
+/**
 * Text Helpers
 **/
 
@@ -325,6 +342,20 @@ pre {
   padding: 100px 60px 40px;
 }
 
+.hero.background-image {
+  position: relative;
+}
+
+.hero.background-image::after {
+  content: '';
+  position: absolute;
+  bottom: 0;
+  left: 0;
+  right: 0;
+  height: 100px;
+  background: linear-gradient(transparent, #000);
+}
+
 .hero-text-container {
   padding-top: 0;
   padding-bottom: 0;
@@ -333,7 +364,7 @@ pre {
   background: none;
   background-size: 285px 100%;
   background-position: 60px -80px;
-  z-index: -1;
+  z-index: 1;
   overflow: visible;
   left: 65px;
 }
@@ -700,13 +731,16 @@ header {
   width: 100%;
 }
 
-.site-brand {
+/**
+* Cube
+**/
+
+#cube-container {
   overflow: hidden;
   height: 85px;
   width: 180px;
   margin-top: -6px;
   display: inline-block;
-  margin-left: 60px;
   margin-left: calc((100% - 1080px)/2);
   text-decoration: none;
   padding: 5px 0px;
@@ -714,117 +748,71 @@ header {
   position: relative;
   box-shadow: 0px 3px 6px rgba(0, 0, 0, 0.05);
   text-align: center;
-  -webkit-perspective: 1000px;
-     -moz-perspective: 1000px;
-      -ms-perspective: 1000px;
-       -o-perspective: 1000px;
-          perspective: 1000px;
+  -webkit-perspective: 600px;
+     -moz-perspective: 600px;
+      -ms-perspective: 600px;
+       -o-perspective: 600px;
+          perspective: 600px;
 }
 
-.site-brand a {
-  height: auto;
-  display: block;
+#cube-container #cube {
+  transform: translateZ(-100px);
+  backface-visibility: hidden;
+  transform-style: preserve-3d;
+  transition: transform 1s;
+  position: relative;
+  animation-name: rotate-cube;
+  animation-duration: 1s;
+  animation-timing-function: ease-in-out;
+  animation-delay: 3s;
+  animation-fill-mode: forwards;
+  animation-iteration-count: 1;
 }
 
-.site-brand object {
-  pointer-events: none;
+@keyframes rotate-cube {
+  0% {
+    transform: translateZ(-100px);
+  }
+  100% {
+    transform: translateZ(-100px) rotateY(90deg);
+  }
 }
 
-.site-brand #rotating-block {
-  margin-left: -1px;
-
-  -webkit-transform: translateZ( -100px );
-     -moz-transform: translateZ( -100px );
-      -ms-transform: translateZ( -100px );
-       -o-transform: translateZ( -100px );
-          transform: translateZ( -100px );
-
-  -webkit-backface-visibility: hidden;
-     -moz-backface-visibility: hidden;
-      -ms-backface-visibility: hidden;
-       -o-backface-visibility: hidden;
-          backface-visibility: hidden;
-
-  -webkit-transform-style: preserve-3d;
-     -moz-transform-style: preserve-3d;
-      -ms-transform-style: preserve-3d;
-       -o-transform-style: preserve-3d;
-          transform-style: preserve-3d;
-
-  -webkit-transition: -webkit-transform 1s;
-     -moz-transition: -moz-transform 1s;
-      -ms-transition: -ms-transform 1s;
-       -o-transition: -o-transform 1s;
-          transition: transform 1s;
-}
-
-
-.site-brand object {
-  position: absolute;
-  top: 0;
-  left: 0;
-  box-sizing: content-box;
+#cube-container #cube div {
   background: $color;
+  position: absolute;
+  width: 180px;
+  height: 85px;
+  font-size: 20px;
+  padding: 25px;
 }
 
-.site-brand #yale-mark {
-  width: 56%;
-  padding: 16px 46px 20px 38px;
-  -webkit-transform: translateZ( 88px );
-     -moz-transform: translateZ( 88px );
-      -ms-transform: translateZ( 88px );
-       -o-transform: translateZ( 88px );
-          transform: translateZ( 88px );
+#cube-container #cube div img {
+  height: 100%;
 }
 
-.site-brand #dhlab-mark {
-  width: 70%;
-  padding: 21px 27px;
-  -webkit-transform: rotateY( 90deg ) translateZ( 88px );
-     -moz-transform: rotateY( 90deg ) translateZ( 88px );
-      -ms-transform: rotateY( 90deg ) translateZ( 88px );
-       -o-transform: rotateY( 90deg ) translateZ( 88px );
-          transform: rotateY( 90deg ) translateZ( 88px );
+#cube-container #cube #cube-face-a {
+  transform: rotateY(0deg) translateZ(88px);
 }
 
-.site-brand #rotating-block.rotated {
-  -webkit-transform: translateZ( -100px ) rotateY( -90deg );
-     -moz-transform: translateZ( -100px ) rotateY( -90deg );
-      -ms-transform: translateZ( -100px ) rotateY( -90deg );
-       -o-transform: translateZ( -100px ) rotateY( -90deg );
-          transform: translateZ( -100px ) rotateY( -90deg );
-}
-
-.site-brand #rotating-block.rotated #yale-mark {
-  -webkit-transform: translateZ( 88px );
-     -moz-transform: translateZ( 88px );
-      -ms-transform: translateZ( 88px );
-       -o-transform: translateZ( 88px );
-          transform: translateZ( 88px );
-}
-
-.site-brand #rotating-block.rotated #dhlab-mark {
-  -webkit-transform: rotateY( 90deg ) translateZ( 88px );
-     -moz-transform: rotateY( 90deg ) translateZ( 88px );
-      -ms-transform: rotateY( 90deg ) translateZ( 88px );
-       -o-transform: rotateY( 90deg ) translateZ( 88px );
-          transform: rotateY( 90deg ) translateZ( 88px );
+#cube #cube-face-b {
+  transform: rotateY(-90deg) translateZ(88px);
 }
 
 @media (min-width: 1000px) and (max-width: 1210px) {
-  .site-brand {
+  #cube-container {
     margin-left: 60px;
   }
 }
 
 @media (max-width: $desktop_breakpoint) {
-  .site-brand {
+  #cube-container {
     margin-left: 30px;
   }
 }
 
 @media (max-width: $mobile_breakpoint) {
-  .site-brand {
+  #cube-container {
     margin-left: 25px;
   }
 }
@@ -4575,20 +4563,18 @@ br + .tags,
   }
 }
 
-
 /**
 * Privacy Policy & Terms of Use
 **/
 
-.privacy-policy,
-.terms-of-use {
-  h2 {
-    padding-top: 40px;
-  }
+.privacy-policy h2,
+.terms-of-use h2 {
+  padding-top: 40px;
+}
 
-  hr {
-    padding-bottom: 10px;
-  }
+.privacy-policy hr,
+.terms-of-use hr {
+  padding-bottom: 10px;
 }
 
 /**
@@ -4607,7 +4593,7 @@ br + .tags,
   fill: #3BA2DB;
 }
 
-.four-oh-four .home-link {
+.four-oh-four #cube-container {
   display: block;
   text-align: center;
   color: #fff;
@@ -4615,7 +4601,7 @@ br + .tags,
   margin-bottom: 40px;
 }
 
-.four-oh-four .home-link a {
+.four-oh-four #cube-container a {
   padding: 10px 20px;
   background: $color;
 }
@@ -4644,4 +4630,24 @@ br + .tags,
   .hide-mobile {
     display: none !important;
   }
+}
+
+.warning-banner {
+  background-color: #F9BE00;
+  padding: 22px;
+  text-align: center;
+  font-weight: bold;
+}
+
+.warning-banner a {
+  text-decoration: underline;
+}
+
+.warning-banner-icon {
+  display: inline-block;
+}
+
+.warning-banner-text {
+  display: inline-block;
+  margin-left: 14px;
 }

@@ -1,6 +1,6 @@
 ---
 title: DH Training Scholarships
-order: 2
+order: 4
 image: '/assets/images/banners/campus.jpg'
 caption: Photo by Michael Marsland.
 overview: training_scholarship
