@@ -11,31 +11,28 @@
             <button>&gt;&gt;</button>
         </div>
         <div class="shelf-slider">
-            {% assign book_list = include.books | split: ", " %}
-            {% assign first_books = book_list | slice:0, 10 %} 
-            {% for isbn in first_books %}
-            {% assign matching_book = site.data.allbooks | where: "isbn", (isbn) | first %}
-            {% assign book = matching_book %}
-            
-            {% if book.cover %}
-            <div class="book-container">
-                <a title="{{book.title}}" href="{{ book.link }}">
-                    <div class="book">
-                        
-                        <img class="cover tns-lazy-img" data-src="{{ book.cover }}" width="{{book.width | default: 160}}" />
-                        <!-- -->
-                        {% if book.linkType ==  "open-access" %}
-                        <div class="link-badge">
-                            <img
-                                alt="'{{book.title}}' book cover"
-                                src="https://upload.wikimedia.org/wikipedia/commons/3/39/Cib-open-access_%28CoreUI_Icons_v1.0.0%29.svg"
-                            />
+            {% assign book_list = include.books | split: ", " %}            
+            {% for isbn in book_list %}
+                {% for book in site.data.allbooks %}
+                    {% if book.isbn == isbn %}
+                        <div class="book-container">
+                            <a title="{{book.title}}" data-isbn="{{isbn}}" href="{{ book.link }}">
+                                <div class="book">
+                                    <img class="cover tns-lazy-img" data-src="{{ book.cover }}" width="{{book.width | default: 160}}" />
+                                    {% if book.linkType ==  "open-access" %}
+                                    <div class="link-badge">
+                                        <img
+                                            alt="'{{book.title}}' book cover"
+                                            src="https://upload.wikimedia.org/wikipedia/commons/3/39/Cib-open-access_%28CoreUI_Icons_v1.0.0%29.svg"
+                                        />
+                                    </div>
+                                    {% endif %}
+                                </div>
+                            </a>
                         </div>
-                        {% endif %}
-                    </div>
-                </a>
-            </div>
-            {% endif %} 
+                        {% break %}
+                    {% endif %}
+                {% endfor %}
             {% endfor %}
         </div>
     </div>
