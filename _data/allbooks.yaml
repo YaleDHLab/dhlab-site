@@ -1,0 +1,714 @@
+- cover: https://lab-apps.s3-us-west-2.amazonaws.com/book-covers/178815555.jpg
+  isbn: '1472443241'
+  link: https://search.library.yale.edu/catalog/13885107
+  title: 'The Shape of Data in Digital Humanities: Modeling Texts and Text-based Resources'
+  width: 134
+- cover: https://lab-apps.s3-us-west-2.amazonaws.com/book-covers/177664386.jpg
+  isbn: '1617295566'
+  link: 'https://go.oreilly.com/yale-university/library/view/-/9781617295560/?ar '
+  title: 'GANs in Action: Deep Learning with Generative Adversarial Networks'
+  width: 159
+- cover: https://lab-apps.s3-us-west-2.amazonaws.com/book-covers/177664383.jpg
+  isbn: '1324001569'
+  link: https://search.library.yale.edu/catalog/14712587
+  title: 'How Charts Lie: Getting Smarter about Visual Information'
+  width: 132
+- cover: https://lab-apps.s3-us-west-2.amazonaws.com/book-covers/177664377.jpg
+  isbn: '3836567679'
+  link: https://search.library.yale.edu/catalog/14528769
+  title: History of Information Graphics
+  width: 139
+- cover: https://lab-apps.s3-us-west-2.amazonaws.com/book-covers/173014041.jpg
+  isbn: '1617293709'
+  link: https://search.library.yale.edu/catalog/14850040
+  title: Grokking Deep Learning
+  width: 165
+- cover: https://lab-apps.s3-us-west-2.amazonaws.com/book-covers/171276095.jpg
+  isbn: '1522571957'
+  link: https://search.library.yale.edu/catalog/14495404
+  title: Digital Humanities and Scholarly Research Trends in the Asia-Pacific
+  width: 132
+- cover: https://lab-apps.s3-us-west-2.amazonaws.com/book-covers/171276088.jpg
+  isbn: 199957950X
+  link: https://search.library.yale.edu/catalog/14495218
+  title: The Hundred-Page Machine Learning Book
+  width: 162
+- cover: https://lab-apps.s3-us-west-2.amazonaws.com/book-covers/171276022.jpg
+  isbn: 0252084047
+  link: https://search.library.yale.edu/catalog/14558516
+  title: 'Critical Digital Humanities: The Search for a Methodology'
+  width: 133
+- cover: https://lab-apps.s3-us-west-2.amazonaws.com/book-covers/167552716.jpg
+  isbn: 0252083989
+  link: https://search.library.yale.edu/catalog/13884158
+  title: 'Teaching with Digital Humanities: Tools and Methods for Nineteenth-Century
+    American Literature'
+  width: 132
+- cover: https://lab-apps.s3-us-west-2.amazonaws.com/book-covers/166654093.jpg
+  isbn: 022661283X
+  link: https://search.library.yale.edu/catalog/14581523
+  title: 'Distant Horizons: Digital Evidence and Literary Change'
+  width: 129
+- cover: https://lab-apps.s3-us-west-2.amazonaws.com/book-covers/164890024.jpg
+  isbn: 0810138859
+  link: https://search.library.yale.edu/catalog/13884175
+  title: 'New Digital Worlds: Postcolonial Digital Humanities in Theory, Praxis, and
+    Pedagogy'
+  width: 133
+- cover: https://lab-apps.s3-us-west-2.amazonaws.com/book-covers/129857890.jpg
+  isbn: '1783555130'
+  link: https://search.library.yale.edu/catalog/14850006
+  title: 'Python Machine Learning Blueprints: Put Your Machine Learning Concepts to
+    the Test by Developing Real-World Smart Projects (2nd edn)'
+  width: 162
+- cover: https://lab-apps.s3-us-west-2.amazonaws.com/book-covers/138637804.jpg
+  isbn: '1473912148'
+  link: https://search.library.yale.edu/catalog/14784999
+  title: 'Data Visualisation: A Handbook for Data Driven Design (2nd edn)'
+  width: 153
+- cover: https://lab-apps.s3-us-west-2.amazonaws.com/book-covers/129857890.jpg
+  isbn: '1783555130'
+  link: https://search.library.yale.edu/catalog/15657710, https://search.library.yale.edu/catalog/15530132
+  title: Python Machine Learning (3rd edn)
+  width: 162
+- cover: https://lab-apps.s3-us-west-2.amazonaws.com/book-covers/174793365.jpg
+  isbn: '3030028631'
+  link: https://search.library.yale.edu/catalog/13901425
+  title: 'Digital Humanities and Film Studies: Visualising Dziga Vertov''s Work'
+  width: 126
+- cover: https://lab-apps.s3-us-west-2.amazonaws.com/book-covers/173014034.jpg
+  isbn: '1250074312'
+  link: https://search.library.yale.edu/catalog/b1569066
+  title: 'Automating Inequality: How High-Tech Tools Profile, Police, and Punish the
+    Poor'
+  width: 130
+- cover: https://lab-apps.s3-us-west-2.amazonaws.com/book-covers/171276127.jpg
+  isbn: 0998547743
+  link: https://search.library.yale.edu/catalog/14495243
+  title: QGIS Map Design (2nd edn)
+  width: 154
+- cover: https://lab-apps.s3-us-west-2.amazonaws.com/book-covers/171276028.jpg
+  isbn: '1789131510'
+  link: https://search.library.yale.edu/catalog/14849585
+  title: 'Architects of Intelligence: The Truth About AI from the People Building
+    It'
+  width: 133
+- cover: https://lab-apps.s3-us-west-2.amazonaws.com/book-covers/166182127.jpg
+  isbn: 0822370603
+  link: https://search.library.yale.edu/catalog/14634237
+  title: Digital Sound Studies
+  width: 133
+- cover: https://lab-apps.s3-us-west-2.amazonaws.com/book-covers/164890023.jpg
+  isbn: '1479837245'
+  link: https://search.library.yale.edu/catalog/13535732, https://search.library.yale.edu/catalog/14860587,
+    https://search.library.yale.edu/catalog/13551377
+  title: 'Algorithms of Oppression: How Search Engines Reinforce Racism'
+  width: 133
+- cover: https://lab-apps.s3-us-west-2.amazonaws.com/book-covers/161493838.jpg
+  isbn: 0472130854
+  link: https://www.fulcrum.org/concern/monographs/5q47rp73f, https://muse.jhu.edu/book/59018
+  title: 'A World of Fiction: Digital Collections and the Future of Literary History'
+  width: 133
+- cover: https://lab-apps.s3-us-west-2.amazonaws.com/book-covers/159083977.jpg
+  isbn: 0596527330
+  link: https://search.library.yale.edu/catalog/14846409
+  title: 'CSS: The Definitive Guide (4th edn)'
+  width: 155
+- cover: https://lab-apps.s3-us-west-2.amazonaws.com/book-covers/159083366.jpg
+  isbn: 161729554X
+  link: https://search.library.yale.edu/catalog/14847511
+  title: Deep Learning with R
+  width: 159
+- cover: https://lab-apps.s3-us-west-2.amazonaws.com/book-covers/158649457.jpg
+  isbn: 147676669X
+  link: https://search.library.yale.edu/catalog/13252839
+  title: 'A Mind at Play: How Claude Shannon Invented the Information Age'
+  width: 131
+- cover: https://lab-apps.s3-us-west-2.amazonaws.com/book-covers/156772732.jpg
+  isbn: '1517902851'
+  link: https://dhdebates.gc.cuny.edu/projects/making-things-and-drawing-boundaries
+  title: 'Making Things and Drawing Boundaries: Experiments in the Digital Humanities'
+  width: 140
+- cover: https://lab-apps.s3-us-west-2.amazonaws.com/book-covers/174793380.jpg
+  isbn: '1501105396'
+  link: https://search.library.yale.edu/catalog/13145336
+  title: 'Nabokov''s Favorite Word is Mauve: What the Numbers Reveal About the Classics,
+    Bestsellers, and Our Own Writing'
+  width: 130
+- cover: https://lab-apps.s3-us-west-2.amazonaws.com/book-covers/171276074.jpg
+  isbn: '1491981652'
+  link: https://www.tidytextmining.com/index.html
+  title: 'Text Mining with R: A Tidy Approach'
+  width: 152
+- cover: https://lab-apps.s3-us-west-2.amazonaws.com/book-covers/171276034.jpg
+  isbn: '1491910399'
+  link: https://r4ds.had.co.nz/
+  title: 'R for Data Science: Import, Tidy, Transform, Visualize, and Model Data'
+  width: 133
+- cover: https://lab-apps.s3-us-west-2.amazonaws.com/book-covers/171276015.jpg
+  isbn: '1609621115'
+  link: https://digitalcommons.unl.edu/zeabook/55/
+  title: 'Six Septembers: Mathematics for the Humanist'
+  width: 133
+- cover: https://lab-apps.s3-us-west-2.amazonaws.com/book-covers/159083097.jpg
+  isbn: '1250088755'
+  link: https://search.library.yale.edu/catalog/13075630
+  title: 'The Bestseller Code: Anatomy of the Blockbuster Novel'
+  width: 130
+- cover: https://lab-apps.s3-us-west-2.amazonaws.com/book-covers/158649467.jpg
+  isbn: 194230319X
+  link: https://search.library.yale.edu/catalog/13385588
+  title: Design Is Storytelling
+  width: 153
+- cover: https://lab-apps.s3-us-west-2.amazonaws.com/book-covers/156772728.jpg
+  isbn: '1350029742'
+  link: https://search.library.yale.edu/catalog/13695378
+  title: 'Using Digital Humanities in the Classroom: A Practical Introduction for
+    Teachers, Lecturers, and Students'
+  width: 133
+- cover: https://lab-apps.s3-us-west-2.amazonaws.com/book-covers/148248852.jpg
+  isbn: '1617293822'
+  link: https://search.library.yale.edu/catalog/14845528
+  title: 'Serverless Architectures on AWS: With Examples Using AWS Lambda'
+  width: 159
+- cover: https://lab-apps.s3-us-west-2.amazonaws.com/book-covers/148248850.jpg
+  isbn: '1119282713'
+  link: https://search.library.yale.edu/catalog/13659237, https://search.library.yale.edu/catalog/13725047
+  title: 'The Big Book of Dashboards: Visualizing Your Data Using Real-World Business
+    Scenarios'
+  width: 200
+- cover: https://lab-apps.s3-us-west-2.amazonaws.com/book-covers/138638244.jpg
+  isbn: 0415748828
+  link: https://search.library.yale.edu/catalog/13695140
+  title: 'The Big Humanities: Digital Humanities/Digital Laboratories'
+  width: 129
+- cover: https://lab-apps.s3-us-west-2.amazonaws.com/book-covers/130215399.jpg
+  isbn: '1680501267'
+  link: https://search.library.yale.edu/catalog/14845934
+  title: 'Rails, Angular, Postgres, and Bootstrap: Powerful, Effective, and Efficient
+    Full-Stack Web Development (2nd edn)'
+  width: 166
+- cover: https://lab-apps.s3-us-west-2.amazonaws.com/book-covers/161493847.jpg
+  isbn: '1593276036'
+  link: https://search.library.yale.edu/catalog/14850255, https://search.library.yale.edu/catalog/14841211
+  title: 'Python Crash Course: A Hands-On, Project-Based Introduction to Programming'
+  width: 151
+- cover: https://lab-apps.s3-us-west-2.amazonaws.com/book-covers/159083933.jpg
+  isbn: '1491940468'
+  link: https://search.library.yale.edu/catalog/14841809
+  title: 'Going GAS: From VBA to Google Apps Script'
+  width: 152
+- cover: https://lab-apps.s3-us-west-2.amazonaws.com/book-covers/159083904.jpg
+  isbn: '1617292826'
+  link: https://search.library.yale.edu/catalog/14843383
+  title: Functional Programming in JavaScript
+  width: 159
+- cover: https://lab-apps.s3-us-west-2.amazonaws.com/book-covers/159083244.jpg
+  isbn: '1138186775'
+  link: https://search.library.yale.edu/catalog/12805072
+  title: 'Roberto Busa, S. J., and the Emergence of Humanities Computing: The Priest
+    and the Punched Cards'
+  width: 133
+- cover: https://lab-apps.s3-us-west-2.amazonaws.com/book-covers/154389137.jpg
+  isbn: 113892184X
+  link: https://search.library.yale.edu/catalog/13695177
+  title: An Introduction to HTML5 Game Development with Phaser.js
+  width: 141
+- cover: https://lab-apps.s3-us-west-2.amazonaws.com/book-covers/142394444.jpg
+  isbn: '1491935111'
+  link: https://search.library.yale.edu/catalog/14841538
+  title: 'Client-Side Data Storage: Keeping It Local'
+  width: 152
+- cover: https://lab-apps.s3-us-west-2.amazonaws.com/book-covers/142394425.jpg
+  isbn: '1491948817'
+  link: https://search.library.yale.edu/catalog/14841704
+  title: 'Data Wrangling with Python: Tips and Tools to Make Your Life Easier'
+  width: 152
+- cover: https://lab-apps.s3-us-west-2.amazonaws.com/book-covers/142394400.jpg
+  isbn: '1491920513'
+  link: https://search.library.yale.edu/catalog/14843265
+  title: 'Data Visualization with Python and JavaScript: Scrape, Clean, Explore &
+    Transform Your Data'
+  width: 133
+- cover: https://lab-apps.s3-us-west-2.amazonaws.com/book-covers/140074432.jpg
+  isbn: '1939902452'
+  link: https://search.library.yale.edu/catalog/13748653
+  title: 'TensorFlow for Machine Intelligence: A Hands-On Introduction to Learning
+    Algorithms'
+  width: 151
+- cover: https://lab-apps.s3-us-west-2.amazonaws.com/book-covers/140074418.jpg
+  isbn: '1491912057'
+  link: https://jakevdp.github.io/PythonDataScienceHandbook/
+  title: 'Python Data Science Handbook: Essential Tools for Working with Data'
+  width: 152
+- cover: https://lab-apps.s3-us-west-2.amazonaws.com/book-covers/140074393.jpg
+  isbn: '0262034352'
+  link: https://search.library.yale.edu/catalog/13695740
+  title: 'Hermeneutica: Computer-Assisted Interpretation in the Humanities'
+  width: 135
+- cover: https://lab-apps.s3-us-west-2.amazonaws.com/book-covers/138637776.jpg
+  isbn: 0544556380
+  link: https://search.library.yale.edu/catalog/13696367
+  title: The Best American Infographics 2016
+  width: 152
+- cover: https://lab-apps.s3-us-west-2.amazonaws.com/book-covers/133636127.jpg
+  isbn: '1138899445'
+  link: https://search.library.yale.edu/catalog/13266663
+  title: 'Doing Digital Humanities: Practice, Training, Research'
+  width: 141
+- cover: https://lab-apps.s3-us-west-2.amazonaws.com/book-covers/130215420.jpg
+  isbn: '0262034204'
+  link: https://search.library.yale.edu/catalog/12773642
+  title: Exploratory Programming for the Arts and Humanities
+  width: 156
+- cover: https://lab-apps.s3-us-west-2.amazonaws.com/book-covers/129857874.jpg
+  isbn: 0321934075
+  link: https://search.library.yale.edu/catalog/14841802
+  title: 'The Truthful Art: Data, Charts, and Maps for Communication'
+  width: 155
+- cover: https://lab-apps.s3-us-west-2.amazonaws.com/book-covers/126116910.jpg
+  isbn: '1118680642'
+  link: https://search.library.yale.edu/catalog/13683961, https://search.library.yale.edu/catalog/14477297
+  title: A New Companion to Digital Humanities
+  width: 139
+- cover: https://lab-apps.s3-us-west-2.amazonaws.com/book-covers/167928686.jpg
+  isbn: 0838987672
+  link: http://www.ala.org/acrl/sites/ala.org.acrl/files/content/publications/booksanddigitalresources/digital/9780838987681_humanities_OA.pdf
+  title: 'Digital Humanities in the Library: Challenges and Opportunities for Subject
+    Specialists'
+  width: 133
+- cover: https://lab-apps.s3-us-west-2.amazonaws.com/book-covers/163447922.jpg
+  isbn: '1449373216'
+  link: https://search.library.yale.edu/catalog/14839516
+  title: 'JavaScript with Promises: Managing Asynchronous Code'
+  width: 152
+- cover: https://lab-apps.s3-us-west-2.amazonaws.com/book-covers/159083603.jpg
+  isbn: 0262528517
+  link: https://search.library.yale.edu/catalog/13016676, https://search.library.yale.edu/catalog/13724637
+  title: Metadata
+  width: 141
+- cover: https://lab-apps.s3-us-west-2.amazonaws.com/book-covers/156772721.jpg
+  isbn: 022617669X
+  link: https://search.library.yale.edu/catalog/13695574
+  title: Rhetoric and the Digital Humanities
+  width: 133
+- cover: https://lab-apps.s3-us-west-2.amazonaws.com/book-covers/142394441.jpg
+  isbn: '1491950358'
+  link: https://search.library.yale.edu/catalog/14838184
+  title: 'Building Microservices: Designing Fine-Grained Systems'
+  width: 152
+- cover: https://lab-apps.s3-us-west-2.amazonaws.com/book-covers/142394428.jpg
+  isbn: 0804795266
+  link: https://search.library.yale.edu/catalog/11684876
+  title: 'Why Literary Periods Mattered: Historical Contrast and the Prestige of English
+    Studies'
+  width: 133
+- cover: https://lab-apps.s3-us-west-2.amazonaws.com/book-covers/142394424.jpg
+  isbn: 0472052780
+  link: http://dx.doi.org/10.3998/etlc.13455322.0001.001
+  title: 'Traces of the Old, Uses of the New: The Emergence of Digital Literary Studies'
+  width: 133
+- cover: https://lab-apps.s3-us-west-2.amazonaws.com/book-covers/142394405.jpg
+  isbn: '1119002257'
+  link: https://search.library.yale.edu/catalog/13015230, https://search.library.yale.edu/catalog/14840495
+  title: 'Storytelling with Data: A Data Visualization Guide for Business Professionals'
+  width: 160
+- cover: https://lab-apps.s3-us-west-2.amazonaws.com/book-covers/138638058.jpg
+  isbn: '0544542703'
+  link: https://search.library.yale.edu/catalog/12601252
+  title: The Best American Infographics 2015
+  width: 151
+- cover: https://lab-apps.s3-us-west-2.amazonaws.com/book-covers/129642442.jpg
+  isbn: 0262028816
+  link: https://search.library.yale.edu/catalog/12944348
+  title: 'Atlas of Knowledge: Anyone Can Map'
+  width: 235
+- cover: https://lab-apps.s3-us-west-2.amazonaws.com/book-covers/125066266.jpg
+  isbn: 0816697027
+  link: https://search.library.yale.edu/catalog/12688829, https://search.library.yale.edu/catalog/13015830
+  title: Computing as Writing
+  width: 129
+- cover: https://lab-apps.s3-us-west-2.amazonaws.com/book-covers/123186839.jpg
+  isbn: 0262029510
+  link: https://search.library.yale.edu/catalog/12564512, https://search.library.yale.edu/catalog/12944651
+  title: A Prehistory of the Cloud
+  width: 135
+- cover: https://lab-apps.s3-us-west-2.amazonaws.com/book-covers/123186820.jpg
+  isbn: '3319207016'
+  link: https://search.library.yale.edu/catalog/12637889, https://search.library.yale.edu/catalog/b1461633
+  title: 'Humanities Data in R: Exploring Networks, Geospatial Data, Images, and Text'
+  width: 132
+- cover: https://lab-apps.s3-us-west-2.amazonaws.com/book-covers/123186818.jpg
+  isbn: 0465065708
+  link: https://search.library.yale.edu/catalog/15316381
+  title: 'The Master Algorithm: How the Quest for the Ultimate Learning Machine Will
+    Remake Our World'
+  width: 132
+- cover: https://lab-apps.s3-us-west-2.amazonaws.com/book-covers/122868948.jpg
+  isbn: '1589483685'
+  link: https://search.library.yale.edu/catalog/12762052
+  title: 'Abstract Machine: Humanities GIS'
+  width: 160
+- cover: https://lab-apps.s3-us-west-2.amazonaws.com/book-covers/122868934.jpg
+  isbn: '1783555211'
+  link: https://search.library.yale.edu/catalog/14839003
+  title: Learning Apache Mahout
+  width: 162
+- cover: https://lab-apps.s3-us-west-2.amazonaws.com/book-covers/122868915.jpg
+  isbn: '1589484258'
+  link: https://media.esri.com/mapbook/volume30.pdf
+  title: Esri Map Book, Volume 30
+  width: 182
+- cover: https://lab-apps.s3-us-west-2.amazonaws.com/book-covers/122868633.jpg
+  isbn: 0262028689
+  link: https://search.library.yale.edu/catalog/12606213
+  title: Between Humanities and the Digital
+  width: 156
+- cover: https://lab-apps.s3-us-west-2.amazonaws.com/book-covers/159083986.jpg
+  isbn: 0133980502
+  link: https://search.library.yale.edu/catalog/14837145
+  title: CSS Animations and Transitions for the Modern Web
+  width: 155
+- cover: https://lab-apps.s3-us-west-2.amazonaws.com/book-covers/159083592.jpg
+  isbn: '1491904909'
+  link: https://search.library.yale.edu/catalog/14836553
+  title: User Story Mapping
+  width: 133
+- cover: https://lab-apps.s3-us-west-2.amazonaws.com/book-covers/142394411.jpg
+  isbn: '1449372023'
+  link: https://search.library.yale.edu/catalog/14835774
+  title: 'Communicating Data with Tableau: Designing, Developing, and Delivering Data
+    Visualizations'
+  width: 133
+- cover: https://lab-apps.s3-us-west-2.amazonaws.com/book-covers/140074386.jpg
+  isbn: '1138706175'
+  link: https://search.library.yale.edu/catalog/12326404
+  title: Crowdsourcing Our Cultural Heritage
+  width: 133
+- cover: https://lab-apps.s3-us-west-2.amazonaws.com/book-covers/138638050.jpg
+  isbn: 0547974515
+  link: https://search.library.yale.edu/catalog/12297930
+  title: The Best American Infographics 2014
+  width: 152
+- cover: https://lab-apps.s3-us-west-2.amazonaws.com/book-covers/138637973.jpg
+  isbn: 158948312X
+  link: https://search.library.yale.edu/catalog/12489954
+  title: 'Mapping Time: Illustrated by Minard''s Map of Napoleon''s Russian Campaign
+    of 1812'
+  width: 200
+- cover: https://lab-apps.s3-us-west-2.amazonaws.com/book-covers/130215411.jpg
+  isbn: '1491901942'
+  link: https://search.library.yale.edu/catalog/14836536
+  title: 'AngularJS: Up and Running: Enhanced Productivity with Structured Web Apps'
+  width: 152
+- cover: https://lab-apps.s3-us-west-2.amazonaws.com/book-covers/129857880.jpg
+  isbn: 0262526190
+  link: https://search.library.yale.edu/catalog/13747087
+  title: 'Visual Insights: A Practical Guide to Making Sense of Data'
+  width: 166
+- cover: https://lab-apps.s3-us-west-2.amazonaws.com/book-covers/129857861.jpg
+  isbn: 0007427921
+  link: https://search.library.yale.edu/catalog/13696424
+  title: Knowledge is Beautiful
+  width: 155
+- cover: https://lab-apps.s3-us-west-2.amazonaws.com/book-covers/124277784.jpg
+  isbn: 0838912516
+  link: https://search.library.yale.edu/catalog/12250913
+  title: 'Linked Data for Libraries, Archives and Museums: How to Clean, Link and
+    Publish Your Metadata'
+  width: 134
+- cover: https://lab-apps.s3-us-west-2.amazonaws.com/book-covers/123186837.jpg
+  isbn: '1137337001'
+  link: https://search.library.yale.edu/catalog/13692266
+  title: 'Advancing Digital Humanities: Research, Methods, Theories'
+  width: 133
+- cover: https://lab-apps.s3-us-west-2.amazonaws.com/book-covers/122868650.jpg
+  isbn: '1617291021'
+  link: https://search.library.yale.edu/catalog/14835391
+  title: Solr in Action
+  width: 159
+- cover: https://lab-apps.s3-us-west-2.amazonaws.com/book-covers/171276164.jpg
+  isbn: 0262518287
+  link: https://search.library.yale.edu/catalog/11269444
+  title: '"Raw Data" Is an Oxymoron'
+  width: 156
+- cover: https://lab-apps.s3-us-west-2.amazonaws.com/book-covers/167851580.jpg
+  isbn: 0199826161
+  link: https://search.library.yale.edu/catalog/12985715
+  title: The Oxford Handbook of Virtuality
+  width: 137
+- cover: https://lab-apps.s3-us-west-2.amazonaws.com/book-covers/159083888.jpg
+  isbn: '1617290149'
+  link: https://search.library.yale.edu/catalog/14829827
+  title: Sass and Compass in Action
+  width: 159
+- cover: https://lab-apps.s3-us-west-2.amazonaws.com/book-covers/159083875.jpg
+  isbn: 144934139X
+  link: https://search.library.yale.edu/catalog/14833203
+  title: 'Heroku: Up and Running'
+  width: 152
+- cover: https://lab-apps.s3-us-west-2.amazonaws.com/book-covers/159082736.jpg
+  isbn: '1440323968'
+  link: https://search.library.yale.edu/catalog/13692892
+  title: 'The Web Designer''s Idea Book, Volume 3: Inspiration from Today''s Best
+    Web Design Trends, Themes and Styles'
+  width: 200
+- cover: https://lab-apps.s3-us-west-2.amazonaws.com/book-covers/158649471.jpg
+  isbn: 111846219X
+  link: https://search.library.yale.edu/catalog/11835041, https://search.library.yale.edu/catalog/13745498,
+    https://search.library.yale.edu/catalog/14827872
+  title: 'Data Points: Visualization That Means Something'
+  width: 183
+- cover: https://lab-apps.s3-us-west-2.amazonaws.com/book-covers/151088502.jpg
+  isbn: '0520274040'
+  link: https://search.library.yale.edu/catalog/11919772
+  title: 'Unfathomable City: A New Orleans Atlas'
+  width: 116
+- cover: https://lab-apps.s3-us-west-2.amazonaws.com/book-covers/150882594.jpg
+  isbn: '1938377001'
+  link: https://search.library.yale.edu/catalog/11796227
+  title: 'Information Dashboard Design: Displaying Data for At-a-Glance Monitoring
+    (2nd edn)'
+  width: 154
+- cover: https://lab-apps.s3-us-west-2.amazonaws.com/book-covers/142394458.jpg
+  isbn: 0321902920
+  link: https://search.library.yale.edu/catalog/14829584
+  title: 'WebGL Programming Guide: Interactive 3D Graphics Programming with WebGL'
+  width: 155
+- cover: https://lab-apps.s3-us-west-2.amazonaws.com/book-covers/142394439.jpg
+  isbn: '1449367836'
+  link: https://search.library.yale.edu/catalog/14833529
+  title: 'Python and HDF5: Unlocking Scientific Data'
+  width: 152
+- cover: https://lab-apps.s3-us-west-2.amazonaws.com/book-covers/142394419.jpg
+  isbn: '1592538061'
+  link: https://search.library.yale.edu/catalog/12757228
+  title: 'Design for Information: An Introduction to the Histories, Theories, and
+    Best Practices Behind Effective Information Visualizations'
+  width: 159
+- cover: https://lab-apps.s3-us-west-2.amazonaws.com/book-covers/138638031.jpg
+  isbn: 0547973373
+  link: https://search.library.yale.edu/catalog/11728249
+  title: The Best American Infographics 2013
+  width: 152
+- cover: https://lab-apps.s3-us-west-2.amazonaws.com/book-covers/122869953.jpg
+  isbn: '1449339735'
+  link: https://search.library.yale.edu/catalog/15527382
+  title: Interactive Data Visualization for the Web (1st edn)
+  width: 152
+- cover: https://lab-apps.s3-us-west-2.amazonaws.com/book-covers/122868932.jpg
+  isbn: 0472051989
+  link: http://dx.doi.org/10.3998/dh.12172434.0001.001
+  title: 'Hacking the Academy: New Approaches to Scholarship and Teaching from Digital
+    Humanities'
+  width: 132
+- cover: https://lab-apps.s3-us-west-2.amazonaws.com/book-covers/122868920.jpg
+  isbn: '1781680841'
+  link: https://search.library.yale.edu/catalog/11730284
+  title: Distant Reading
+  width: 133
+- cover: https://lab-apps.s3-us-west-2.amazonaws.com/book-covers/122868657.jpg
+  isbn: '1409469638'
+  link: https://search.library.yale.edu/catalog/12354336, https://search.library.yale.edu/catalog/13442087
+  title: 'Defining Digital Humanities: A Reader'
+  width: 133
+- cover: https://lab-apps.s3-us-west-2.amazonaws.com/book-covers/159083281.jpg
+  isbn: '1592537561'
+  link: https://search.library.yale.edu/catalog/12943212, https://search.library.yale.edu/catalog/14825244
+  title: 'Universal Methods of Design: 100 Ways to Research Complex Problems, Develop
+    Innovative Ideas, and Design Effective Solutions'
+  width: 169
+- cover: https://lab-apps.s3-us-west-2.amazonaws.com/book-covers/156606349.jpg
+  isbn: '1589483332'
+  link: https://search.library.yale.edu/catalog/h012441155
+  title: 'A Framework for Geodesign: Changing Geography by Design'
+  width: 164
+- cover: https://lab-apps.s3-us-west-2.amazonaws.com/book-covers/142394490.jpg
+  isbn: '1856047660'
+  link: https://search.library.yale.edu/catalog/13695146
+  title: Digital Humanities in Practice
+  width: 133
+- cover: https://lab-apps.s3-us-west-2.amazonaws.com/book-covers/142394451.jpg
+  isbn: 144932357X
+  link: https://search.library.yale.edu/catalog/14825254
+  title: 'WebGL: Up and Running: Building 3D Graphics for the Web'
+  width: 153
+- cover: https://lab-apps.s3-us-west-2.amazonaws.com/book-covers/142394449.jpg
+  isbn: '0132761610'
+  link: https://search.library.yale.edu/catalog/14824390
+  title: 'Core HTML5 Canvas: Graphics, Animation, and Game Development'
+  width: 152
+- cover: https://lab-apps.s3-us-west-2.amazonaws.com/book-covers/123186854.jpg
+  isbn: 0262018470
+  link: https://mitpress.mit.edu/books/digitalhumanities
+  title: Digital_Humanities
+  width: 156
+- cover: https://lab-apps.s3-us-west-2.amazonaws.com/book-covers/123186823.jpg
+  isbn: 0230292658
+  link: https://search.library.yale.edu/catalog/10208545
+  title: Understanding Digital Humanities
+  width: 133
+- cover: https://lab-apps.s3-us-west-2.amazonaws.com/book-covers/122868937.jpg
+  isbn: 193398838X
+  link: https://search.library.yale.edu/catalog/14827020
+  title: 'Taming Text: How to Find, Organize, and Manipulate It'
+  width: 159
+- cover: https://lab-apps.s3-us-west-2.amazonaws.com/book-covers/122868646.jpg
+  isbn: '1449316549'
+  link: http://programmingcomputervision.com/
+  title: Programming Computer Vision with Python
+  width: 152
+- cover: https://lab-apps.s3-us-west-2.amazonaws.com/book-covers/122868558.jpg
+  isbn: '1439835527'
+  link: https://search.library.yale.edu/catalog/14822042, https://search.library.yale.edu/catalog/14592015
+  title: Music Data Mining
+  width: 126
+- cover: https://lab-apps.s3-us-west-2.amazonaws.com/book-covers/158649473.jpg
+  isbn: 0470944889
+  link: https://search.library.yale.edu/catalog/14821658, https://search.library.yale.edu/catalog/13744308,
+    https://search.library.yale.edu/catalog/10569357
+  title: 'Visualize This: The FlowingData Guide to Design, Visualization, and Statistics'
+  width: 168
+- cover: https://lab-apps.s3-us-west-2.amazonaws.com/book-covers/129642480.jpg
+  isbn: '1568989369'
+  link: https://search.library.yale.edu/catalog/11044851
+  title: 'Visual Complexity: Mapping Patterns of Information'
+  width: 161
+- cover: https://lab-apps.s3-us-west-2.amazonaws.com/book-covers/159083740.jpg
+  isbn: 0521195330
+  link: http://www.cs.cornell.edu/home/kleinber/networks-book/
+  title: 'Networks, Crowds, and Markets: Reasoning about a Highly Connected World'
+  width: 132
+- cover: https://lab-apps.s3-us-west-2.amazonaws.com/book-covers/158649480.jpg
+  isbn: '1616890584'
+  link: https://search.library.yale.edu/catalog/10157646
+  title: 'Cartographies of Time: A History of the Timeline'
+  width: 163
+- cover: https://lab-apps.s3-us-west-2.amazonaws.com/book-covers/156606344.jpg
+  isbn: '1589482611'
+  link: https://search.library.yale.edu/catalog/h000782378
+  title: 'Semiology of Graphics: Diagrams, Networks, Maps'
+  width: 160
+- cover: https://lab-apps.s3-us-west-2.amazonaws.com/book-covers/156606337.jpg
+  isbn: 158948245X
+  link: https://search.library.yale.edu/catalog/13695237
+  title: 'Web GIS: Principles and Applications'
+  width: 166
+- cover: https://lab-apps.s3-us-west-2.amazonaws.com/book-covers/142394422.jpg
+  isbn: 0393347281
+  link: https://search.library.yale.edu/catalog/15300156
+  title: 'The Wall Street Journal Guide to Information Graphics: The Dos and Don''ts
+    of Presenting Data, Facts, and Figures'
+  width: 151
+- cover: https://lab-apps.s3-us-west-2.amazonaws.com/book-covers/138638161.jpg
+  isbn: 0131387685
+  link: https://search.library.yale.edu/catalog/14821148
+  title: 'CUDA by Example: An Introduction to General-Purpose GPU Programming'
+  width: 161
+- cover: https://lab-apps.s3-us-west-2.amazonaws.com/book-covers/129642455.jpg
+  isbn: 0262014459
+  link: https://search.library.yale.edu/catalog/11894350
+  title: 'Atlas of Science: Visualizing What We Know'
+  width: 236
+- cover: https://lab-apps.s3-us-west-2.amazonaws.com/book-covers/122869830.jpg
+  isbn: '0253222176'
+  link: https://search.library.yale.edu/catalog/11839171, https://search.library.yale.edu/catalog/12373419
+  title: 'The Spatial Humanities: GIS and the Future of Humanities Scholarship'
+  width: 133
+- cover: https://lab-apps.s3-us-west-2.amazonaws.com/book-covers/154389139.jpg
+  isbn: '1593271921'
+  link: https://search.library.yale.edu/catalog/14816959, https://search.library.yale.edu/catalog/13368455,
+    https://search.library.yale.edu/catalog/13742044
+  title: 'Gray Hat Python: Python Programming for Hackers and Reverse Engineers'
+  width: 151
+- cover: https://lab-apps.s3-us-west-2.amazonaws.com/book-covers/150215039.jpg
+  isbn: 0596522304
+  link: https://search.library.yale.edu/catalog/14816075
+  title: 'Even Faster Web Sites: Performance Best Practices for Web Developers'
+  width: 154
+- cover: https://lab-apps.s3-us-west-2.amazonaws.com/book-covers/122868597.jpg
+  isbn: '0252076257'
+  link: https://search.library.yale.edu/catalog/8787093
+  title: 'From Papyrus to Hypertext: Toward the Universal Digital Library'
+  width: 133
+- cover: https://lab-apps.s3-us-west-2.amazonaws.com/book-covers/123186842.jpg
+  isbn: 0691148201
+  link: https://search.library.yale.edu/catalog/8476535
+  title: Social and Economic Networks
+  width: 140
+- cover: https://lab-apps.s3-us-west-2.amazonaws.com/book-covers/122869942.jpg
+  isbn: 0596517742
+  link: https://search.library.yale.edu/catalog/14814528
+  title: 'JavaScript: The Good Parts'
+  width: 153
+- cover: https://lab-apps.s3-us-west-2.amazonaws.com/book-covers/122868611.jpg
+  isbn: 0415762219
+  link: https://search.library.yale.edu/catalog/11734103
+  title: 'The Spatial Turn: Interdisciplinary Perspectives'
+  width: 150
+- cover: https://lab-apps.s3-us-west-2.amazonaws.com/book-covers/150215038.jpg
+  isbn: 0596529309
+  link: https://search.library.yale.edu/catalog/14813528
+  title: 'High Performance Web Sites: Essential Knowledge for Front-End Engineers'
+  width: 152
+- cover: https://lab-apps.s3-us-west-2.amazonaws.com/book-covers/123186833.jpg
+  isbn: 0262513196
+  link: https://search.library.yale.edu/catalog/8778090
+  title: 'Wired Shut: Copyright and the Shape of Digital Culture'
+  width: 131
+- cover: https://lab-apps.s3-us-west-2.amazonaws.com/book-covers/178803493.jpg
+  isbn: 0262572478
+  link: https://search.library.yale.edu/catalog/8021091
+  title: 'Always Already New: Media, History, and the Data of Culture'
+  width: 157
+- cover: https://lab-apps.s3-us-west-2.amazonaws.com/book-covers/155782058.jpg
+  isbn: 0961392177
+  link: https://search.library.yale.edu/catalog/7674544
+  title: Beautiful Evidence
+  width: 164
+- cover: https://lab-apps.s3-us-west-2.amazonaws.com/book-covers/143841487.jpg
+  isbn: '1589481186'
+  link: https://search.library.yale.edu/catalog/h005286031
+  title: 'Charting the Unknown: How Computer Mapping at Harvard Became GIS'
+  width: 166
+- cover: https://lab-apps.s3-us-west-2.amazonaws.com/book-covers/177664381.jpg
+  isbn: 0199256055
+  link: https://search.library.yale.edu/catalog/8924969, https://search.library.yale.edu/catalog/15556410
+  title: 'Reassembling the Social: An Introduction to Actor-Network-Theory'
+  width: 131
+- cover: https://lab-apps.s3-us-west-2.amazonaws.com/book-covers/123186799.jpg
+  isbn: '1137440422'
+  link: https://search.library.yale.edu/catalog/13695615
+  title: Humanities Computing
+  width: 129
+- cover: https://lab-apps.s3-us-west-2.amazonaws.com/book-covers/122868639.jpg
+  isbn: '1844670260'
+  link: https://search.library.yale.edu/catalog/15555615
+  title: 'Graphs, Maps, Trees: Abstract Models for a Literary History'
+  width: 142
+- cover: https://lab-apps.s3-us-west-2.amazonaws.com/book-covers/155782055.jpg
+  isbn: 0970601999
+  link: https://search.library.yale.edu/catalog/9126414
+  title: 'Show Me the Numbers: Designing Tables and Graphs to Enlighten'
+  width: 154
+- cover: https://lab-apps.s3-us-west-2.amazonaws.com/book-covers/122869854.jpg
+  isbn: '1405168064'
+  link: http://www.digitalhumanities.org/companion/
+  title: A Companion to Digital Humanities
+  width: 139
+- cover: https://lab-apps.s3-us-west-2.amazonaws.com/book-covers/159083490.jpg
+  isbn: 0691115311
+  link: https://search.library.yale.edu/catalog/6252222, https://search.library.yale.edu/catalog/11340782,
+    https://search.library.yale.edu/catalog/12376051
+  title: 'JSTOR: A History'
+  width: 134
+- cover: https://lab-apps.s3-us-west-2.amazonaws.com/book-covers/124277779.jpg
+  isbn: 0961392118
+  link: https://search.library.yale.edu/catalog/15325447, https://search.library.yale.edu/catalog/h002216646
+  title: Envisioning Information
+  width: 159
+- cover: https://lab-apps.s3-us-west-2.amazonaws.com/book-covers/167603883.jpg
+  isbn: '1472441303'
+  link: https://search.library.yale.edu/catalog/12877057
+  title: Literary Mapping in the Digital Age
+  width: 133

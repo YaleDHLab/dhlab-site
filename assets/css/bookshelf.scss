@@ -1,0 +1,152 @@
+---
+process: true
+---
+
+.tns-outer {
+    position: relative;
+}
+
+.book {
+    position: relative;
+}
+
+.book img.cover {
+    max-width: 100%;
+    height: 200px;
+    border: 1px solid #ddd;
+    background-color: #ddd;
+}
+
+.book:hover .link-badge {
+    opacity: 1;
+}
+
+.book:hover img.cover {
+    border-color: #222;
+}
+
+.book .link-badge {
+    position: absolute;
+    z-index: 9;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    height: 22px;
+    width: 22px;
+    background-color: #ddd;
+    border-radius: 2px;
+    box-shadow: 0px 0px 10px #555;
+}
+
+.book .link-badge img {
+    padding: 2px;
+}
+
+.tns-nav {
+    display: flex;
+    justify-content: center;
+    padding: 3px 0px;
+}
+
+.shelf {
+    position: relative;
+}
+
+.shelf-content {
+    position: relative;
+}
+
+.shelf-controls {
+    display: flex;
+    justify-content: space-between;
+    position: absolute;
+    left: 0;
+    right: 0;
+    top: calc(50% - 20px);
+    z-index: 9;
+
+    pointer-events: none;
+}
+
+.shelf-controls button {
+    width: 40px;
+    height: 40px;
+    border-radius: 50%;
+    border: none;
+    background-color: #dedede;
+    color: #999;
+    box-shadow: 0px 0px 10px black;
+
+    pointer-events: auto;
+}
+
+.shelf-controls button:hover {
+    background-color: #555;
+    cursor: pointer;
+}
+
+.shelf-controls button:disabled {
+    // visibility: hidden;
+    opacity: 0.25;
+    cursor: unset;
+}
+
+.shelf-controls button:disabled:hover {
+    background-color: #dedede;
+}
+
+button[data-nav] {
+    background-color: white;
+    border: 1px solid lightgray;
+    margin: 2px;
+    outline: none;
+    width: 10px;
+    height: 10px;
+    border-radius: 50%;
+}
+
+button[data-nav].tns-nav-active {
+    background-color: lightgray;
+}
+
+.all-books-container {
+    margin-top: 86px;
+}
+
+.all-books {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+}
+
+.square-book {
+    width: 200px;
+    margin: 20px;
+}
+
+.square-book-cover {
+    width: 200px;
+    height: 200px;
+
+    background-color: #999;
+    border: 1px solid #ddd;
+
+    background-position: center;
+    background-size: cover;
+}
+
+.square-book-title {
+    font-weight: 600;
+    margin-top: 12px;
+    color: #555;
+}
+
+.square-book:hover .square-book-cover {
+    border-color: #222;
+}
+
+.cover-placeholder {
+    width: 160px;
+    height: 200px;
+    background-color: orange;
+}

@@ -19,6 +19,8 @@ compress_js: true
 # minify assets
 sass:
   style: compressed
+  load_paths: 
+    - node_modules
 
 # render collections
 collections:

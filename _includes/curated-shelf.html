@@ -1,0 +1,39 @@
+<div class="shelf">
+    <div class="shelf-meta">
+        <h2>{{include.title}}</h2>
+        {% if include.description %}
+        <p>{{ include.description }}</p>
+        {% endif %}
+    </div>
+    <div class="shelf-content">
+        <div class="shelf-controls">
+            <button>&lt;&lt;</button>
+            <button>&gt;&gt;</button>
+        </div>
+        <div class="shelf-slider">
+            {% assign book_list = include.books | split: ", " %}            
+            {% for isbn in book_list %}
+                {% for book in site.data.allbooks %}
+                    {% if book.isbn == isbn %}
+                        <div class="book-container">
+                            <a title="{{book.title}}" data-isbn="{{isbn}}" href="{{ book.link }}">
+                                <div class="book">
+                                    <img class="cover tns-lazy-img" data-src="{{ book.cover }}" width="{{book.width | default: 160}}" />
+                                    {% if book.linkType ==  "open-access" %}
+                                    <div class="link-badge">
+                                        <img
+                                            alt="'{{book.title}}' book cover"
+                                            src="https://upload.wikimedia.org/wikipedia/commons/3/39/Cib-open-access_%28CoreUI_Icons_v1.0.0%29.svg"
+                                        />
+                                    </div>
+                                    {% endif %}
+                                </div>
+                            </a>
+                        </div>
+                        {% break %}
+                    {% endif %}
+                {% endfor %}
+            {% endfor %}
+        </div>
+    </div>
+</div>
