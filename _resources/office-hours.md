@@ -15,25 +15,18 @@ Whether you are new to the field and would like to learn more, have an existing 
 
 ### Schedule
 
-**Virtual drop-in Office Hours for the summer:**
+**In-person drop-in Office Hours for Fall 2021:**
 
 <table>
   <tbody>
     <tr>
-      <td>When</td>
-      <td>Tuesdays</td>
-      <td style="white-space:nowrap">9:00 - 10:00 a.m. EDT</td>
-      <td>&</td>
-      <td style="white-space:nowrap">2:00 - 4:00 p.m. EDT</td>
+      <td>When:</td>
+      <td>Mondays through Thursdays, 2-3 p.m. EDT</td>
     </tr>
     <tr>
-      <td>Where</td>
-      <td>Zoom</td>
+      <td>Where:</td>
+      <td>Front desk of the Franke Family Digital Humanities Laboratory, Sterling Memorial Library</td>
     </tr>
-    <tr>
-      <td>How</td>
-      <td colspan="4">To access the Zoom link, visit the <a href='https://web.library.yale.edu/dhlab/virtual-office-hours' target='_blank'>virtual Office Hours webpage</a> and log in with your Yale NetID. If you have trouble accessing the link, email the <a href='mailto:dhlab@yale.edu'>DHLab.</a></td>
-    </tr>  
   </tbody>
 </table>
 
