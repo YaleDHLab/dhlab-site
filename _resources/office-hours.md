@@ -21,8 +21,7 @@ Whether you are new to the field and would like to learn more, have an existing 
   <tbody>
     <tr>
       <td>When:</td>
-      <td>Mondays through Thursdays</td>
-      <td style="white-space:nowrap">2-3 p.m. EDT</td>
+      <td>Mondays through Thursdays, 2-3 p.m. EDT</td>
     </tr>
     <tr>
       <td>Where:</td>
