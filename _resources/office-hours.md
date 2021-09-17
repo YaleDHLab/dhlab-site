@@ -31,3 +31,28 @@ Whether you are new to the field and would like to learn more, have an existing 
 </table>
 
 To arrange an appointment outside of Office Hours, please submit a <a href='https://docs.google.com/forms/d/e/1FAIpQLSe4Lyo8EEdoiTLosfnmOUNEsZZToCD_n7dZ10ypCerw4diJGA/viewform' target='_blank'>DH consultation request</a>.
+
+### Staff
+
+Office Hours are staffed by members of the DHLab team and by our graduate student DH Consultants. With a variety of academic backgrounds and areas of expertise, we can provide guidance on a wide range of DH-related topics.
+
+<table>
+  <tbody>
+    <tr>
+	     <td><img src='assets/images/about/consultant_cosme.jpg' alt='DH Consultant Nicole Cosme'></td>
+	     <td><b>Nicole Cosme</b> (PhD ’26, Music) studies deep learning approaches to music analysis and composition.</td>
+	   </tr>
+	   <tr>
+	     <td><img src='assets/images/about/consultant_feng.jpg' alt='DH Consultant Aida Feng'></td>
+	     <td><b>Aida Feng</b> (PhD ’25, Germanic Languages and Literatures) works on forms of the literary fragment in modern and contemporary texts.</td>
+	   </tr>
+	   <tr>
+	     <td><img src='assets/images/about/team/PL-sq.jpg' alt='DHLab Director Peter Leonard'></td>
+	     <td><b>Peter Leonard</b> is Director of the DHLab.</td>
+	   </tr>
+	   <tr>
+	     <td><img src='assets/images/about/consultant_zagorac.jpg' alt='DH Consultant Luna Zagorac'></td>
+	     <td><b>Luna Zagorac</b> (PhD ’22, Physics) is a cosmologist working on HPC simulations of dark matter. In her spare time, she works on modeling ancient Egyptian constellations.</td>
+	   </tr>
+  </tbody>
+</table>
