@@ -13,6 +13,7 @@ Office Hours provide a weekly opportunity to exchange ideas, discuss methods, an
  
 Whether you are new to the field and would like to learn more, have an existing project and seek a communal workspace, or are somewhere in between, we invite you to reach out! 
 <br>
+<br>
  
 ### Schedule
 
