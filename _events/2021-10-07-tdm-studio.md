@@ -26,19 +26,25 @@ TDM Studio is a data mining platform that offers researchers the ability to mine
 
 ### Workshop Details and Registration Links
 Both workshops will be held online; all Yale students, faculty, and staff are invited to participate, though space is limited. If you have additional questions, please contact [Barbara Esty](mailto:barbara.esty@yale.edu), Data Librarian at the Marx Science and Social Science Library.
+<br>
+<br>
 
 #### The Workbench Workshop: Tuesday, Oct. 12, 2021, at 3 p.m. Eastern
 This workshop for experienced R or Python programmers will explore TDM Studio’s Workbench interface. Participants will learn how to create a dataset and perform text mining on ProQuest documents in a Jupyter Notebook development environment, saving significant time on their analysis.
 
-Prerequisites: knowledge of R or Python coding required.
+**Prerequisites:** knowledge of R or Python coding required.
 
-Registration: please sign up on <a href="https://schedule.yale.edu/event/8395153" target="_blank">the official Workbench workshop page</a>.
+**Registration:** please sign up on <a href="https://schedule.yale.edu/event/8395153" target="_blank">the official Workbench workshop page</a>.
+<br>
+<br>
 
 #### The Visualization Workshop: Wednesday, Oct. 13, 2021, at 3 p.m. Eastern
 Open to users of all programming skill levels, this workshop will offer an introduction to TDM Studio’s Visualization interface. Participants will use TDM Studio’s various visualization features to quickly spot trends in their data, and to generate insights with topic modeling, geographic analysis, and sentiment analysis.
 
-Prerequisites: none.
+**Prerequisites:** none.
 
-Registration: please sign up on <a href="https://schedule.yale.edu/event/8395188" target="_blank">the official Visualization workshop page</a>.
+**Registration:** please sign up on <a href="https://schedule.yale.edu/event/8395188" target="_blank">the official Visualization workshop page</a>.
+<br>
+<br>
 
 *Be among the first to know when future workshops are announced by signing up for the <a href='https://subscribe.yale.edu/browse?search=digital+humanities' target='_blank'>DHLab’s newsletter</a>.*
