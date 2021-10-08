@@ -1,6 +1,6 @@
 ---
-title: "Workshops: ProQuest TDM Studio"
-date: 2021-10-07
+title: "Workshop Series: ProQuest TDM Studio"
+date: 2021-10-12
 dates:
   - 2021-10-12
   - 2021-10-13
