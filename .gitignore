@@ -8,5 +8,7 @@ package-lock.json
 node_modules
 ngrok
 ghostdriver.log
-package-lock.json.sass-cache
+package-lock.json
 .sass-cache
+.jekyll-cache
+.ruby-version
