@@ -12,11 +12,11 @@
         </div>
         <div class="shelf-slider">
             {% assign book_list = include.books | split: ", " %}            
-            {% for isbn in book_list %}
+            {% for id in book_list %}
                 {% for book in site.data.allbooks %}
-                    {% if book.isbn == isbn %}
+                    {% if book.id == id %}
                         <div class="book-container">
-                            <a title="{{book.title}}" data-isbn="{{isbn}}" href="{{ book.link }}">
+                            <a title="{{book.title}}" data-id="{{id}}" href="{{ book.link }}">
                                 <div class="book">
                                     <img class="cover tns-lazy-img" data-src="{{ book.cover }}" width="{{book.width | default: 160}}" />
                                     {% if book.linkType ==  "open-access" %}
