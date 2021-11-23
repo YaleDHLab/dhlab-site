@@ -27,7 +27,8 @@ Students enrolled in “James Baldwin’s American Scene” engage with a wide v
 <br />
 
 ### Student Work
-#### <a href='https://www.arcgis.com/apps/Cascade/index.html?appid=e780159fad0142e995eabce6a73949fe' target='_blank'>“James Baldwin in the South,”</a> by Kate Kushner ’21
+
+**<a href='https://www.arcgis.com/apps/Cascade/index.html?appid=e780159fad0142e995eabce6a73949fe' target='_blank'>“James Baldwin in the South,”</a> by Kate Kushner ’21**
 
 James Baldwin’s participation in the modern civil rights movement occurred both on and off the page over many years of his career, and Baldwin used several of his writings to articulate his own vision of the artist’s role in the Black freedom struggle. The StoryMap “James Baldwin in the South” tracks Baldwin’s engagement with the 1960-1965 phase of the southern civil rights movement, combining maps, photographs, music, recorded interviews, quotes from Black newspapers, and excerpts from Baldwin’s writings to investigate how Baldwin went about implementing this vision in practice. While crafting a narrative out of these sources, this StoryMap also considers Baldwin’s ambivalence towards both the civil rights movement and the South.
 <br />
