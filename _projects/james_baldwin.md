@@ -5,8 +5,8 @@ alt: Screenshot of photograph and accompanying text from the StoryMap "James Bal
 layout: archive
 funded: false
 team:
-  - name: ''
-    position: From the StoryMap "James Baldwin in the South," by Kate Kushner '21
+  - name: From the StoryMap "James Baldwin in the South"
+    position: by Kate Kushner '21
   - name: Jacqueline Goldsby
     position: Professor of English, African American Studies, and American Studies
 categories:
