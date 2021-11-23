@@ -1,5 +1,5 @@
 ---
-title: 'James Baldwin's American Scene'
+title: James Baldwin's American Scene
 thumbnail: /assets/images/projects/archive-thumbs/baldwin-thumb.jpg
 alt: Screenshot of photograph and accompanying text from the StoryMap "James Baldwin in the South," by Kate Kushner '21
 layout: archive
