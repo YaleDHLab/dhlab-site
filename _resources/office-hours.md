@@ -17,6 +17,8 @@ Whether you are new to the field and would like to learn more, have an existing 
  
 ### Schedule
 
+*Please note: Office Hours will be on a brief break Monday, Nov. 29, and Tuesday, Nov. 30; they will resume on Wednesday, Dec. 1.*
+
 **In-person drop-in Office Hours for Fall 2021:**
 
 <table>
