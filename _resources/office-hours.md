@@ -17,7 +17,7 @@ Whether you are new to the field and would like to learn more, have an existing 
  
 ### Schedule
 
-*Please note: Office Hours will be on break from Friday, Dec. 17 through Monday, Jan. 17. They will resume the first day of the Spring 2022 semester (Tuesday, Jan. 18).*
+*Please note: Office Hours will be on winter break beginning Monday, Dec. 20. They will resume the first day of the Spring 2022 semester (Tuesday, Jan. 18).*
 
 **In-person drop-in Office Hours for Spring 2022:**
 
