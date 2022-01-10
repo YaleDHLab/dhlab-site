@@ -1,4 +1,8 @@
 left:
+  2021-2022 PROJECT ASSISTANTS:
+   - name: Micah Siegel
+     affiliation: English     
+
   2018-2019 PROJECT ASSISTANTS:
    - name: Pei Hua Chen
      affiliation: Statistics & Data Science
@@ -28,7 +32,16 @@ left:
       affiliation: Computer Science and the Arts
     - name: Abhishek Nayar
       affiliation: Computer Science and Economics
+      
 right:
+  2021-2022 DIGITAL HUMANITIES CONSULTANTS:
+    - name: Nicole Cosme
+      affiliation: Music
+    - name: Aida Feng
+      affiliation: German
+    - name: Luna Zagorac
+      affiliation: Physics
+
   2019-2020 DIGITAL HUMANITIES CONSULTANTS:
     - name: Kevin Anderson
       affiliation: Psychology
