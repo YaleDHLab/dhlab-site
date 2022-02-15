@@ -31,6 +31,9 @@ Whether you are new to the field and would like to learn more, have an existing 
     </tr>
   </tbody>
 </table>
+
+Please note: no appointments are necessary for Office Hours, but if you would prefer to schedule a meeting in advance, please <a href='https://schedule.yale.edu/appointments/peterleonard' target='_blank'>book an appointment with Peter Leonard</a>.
+ 
  
 ### Staff
 
