@@ -31,9 +31,6 @@ Whether you are new to the field and would like to learn more, have an existing 
     </tr>
   </tbody>
 </table>
-
-To arrange an appointment outside of Office Hours, please submit a <a href='https://docs.google.com/forms/d/e/1FAIpQLSe4Lyo8EEdoiTLosfnmOUNEsZZToCD_n7dZ10ypCerw4diJGA/viewform' target='_blank'>DH consultation request</a>. 
- 
  
 ### Staff
 
