@@ -13,20 +13,29 @@ git clone https://github.com/YaleDHLab/dhlab-site
 cd dhlab-site
 ```
 
-Then install a Ruby version manager and install ruby 2.4.1:
-
+### Mac Users
+Follow [https://www.moncefbelyamani.com/how-to-install-xcode-homebrew-git-rvm-ruby-on-mac/#start-here-if-you-choose-the-long-and-manual-route](these instructions) to ensure modern, non-System ruby on recent versions of OS X, especially on Apple Silicon (M1 chips).
 ```
-brew install rbenv
-rbenv install 2.4.1
-rbenv local 2.4.1
+brew install chruby ruby-install
+ruby-install ruby-2.7.2
+echo "source /opt/homebrew/opt/chruby/share/chruby/chruby.sh" >> ~/.zshrc
+echo "source /opt/homebrew/opt/chruby/share/chruby/auto.sh" >> ~/.zshrc
+echo "chruby ruby-2.7.2" >> ~/.zshrc
 ```
-
+Important: close and reopen the Terminal.app (all windows, not just your current one).
+Verify you're on the right version of Ruby:
+```
+ruby -v
+```
 Then install the Ruby dependencies:
 
 ```
 bundle install
 ```
-
+On the Mac, use homebrew to install Node:
+```
+brew install node
+```
 Then install yarn and install the JavaScript dependencies:
 
 ```
