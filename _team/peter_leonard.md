@@ -1,6 +1,6 @@
 ---
 name: Peter Leonard
-role: DHLab Director
+role: DHLab Director<br>Lecturer, Statistics & Data Science
 image: /assets/images/about/team/PL-sq.jpg
 order: 1
 group: core_team
