@@ -15,6 +15,10 @@ cd dhlab-site
 
 ### Mac Users
 Follow [these instructions](https://www.moncefbelyamani.com/how-to-install-xcode-homebrew-git-rvm-ruby-on-mac/#start-here-if-you-choose-the-long-and-manual-route) to ensure modern, non-System ruby on recent versions of OS X, especially on Apple Silicon (M1 chips).
+
+Pay special attention to the section where you [detect, and if neccessary remove](https://www.moncefbelyamani.com/how-to-install-xcode-homebrew-git-rvm-ruby-on-mac/#start-here-if-you-choose-the-long-and-manual-route), previous ruby virtual environments such as rvm, rbenv, and asdf.
+
+Then:
 ```
 brew install chruby ruby-install
 ruby-install ruby-2.7.2
