@@ -22,8 +22,8 @@ Then:
 ```
 brew install chruby ruby-install
 ruby-install ruby-2.7.2
-echo "source /opt/homebrew/opt/chruby/share/chruby/chruby.sh" >> ~/.zshrc
-echo "source /opt/homebrew/opt/chruby/share/chruby/auto.sh" >> ~/.zshrc
+echo ". /usr/local/opt/chruby/share/chruby/chruby.sh" >> ~/.zshrc
+echo ". /usr/local/opt/chruby/share/chruby/auto.sh" >> ~/.zshrc
 echo "chruby ruby-2.7.2" >> ~/.zshrc
 ```
 Important: close and reopen the Terminal.app (all windows, not just your current one).
