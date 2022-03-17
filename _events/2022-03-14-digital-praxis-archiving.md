@@ -28,4 +28,4 @@ All Yale students, faculty, and staff are invited to attend; please note that re
 <br>
 <br>
 
-*Be among the first to know when future workshops are announced by signing up for the <a href='https://subscribe.yale.edu/browse?search=digital+humanities' target='_blank'>DHLab’s newsletter</a>.*
+*Be among the first to know when future events are announced by signing up for the <a href='https://subscribe.yale.edu/browse?search=digital+humanities' target='_blank'>DHLab’s newsletter</a>.*
