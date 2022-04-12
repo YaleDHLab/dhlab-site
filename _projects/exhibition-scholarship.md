@@ -1,5 +1,5 @@
 ---
-title: Enriching Exhibition Scholarship: Reconciling Knowledge Graphs and Social Media from Newspaper Articles to Twitter
+title: 'Enriching Exhibition Scholarship: Reconciling Knowledge Graphs and Social Media from Newspaper Articles to Twitter'
 image: /assets/images/projects/originals/exhibition-scholarship-banner.jpg
 thumbnail: /assets/images/projects/thumbs/exhibition-scholarship-thumb.jpg
 alt: Photos of objects in museums, and of people looking at art in galleries, against a purple background, with a diagonal banner reading "Enriching the Exhibition Experience" 
