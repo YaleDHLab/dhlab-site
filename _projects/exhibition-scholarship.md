@@ -39,7 +39,7 @@ Led by researchers from Yale, the University of Edinburgh, and Oxford University
 
 - <a href='https://news.yale.edu/2022/01/24/travel-log-new-digital-afterlife-museum-exhibitions' target='_blank'>"Travel log: A new digital afterlife for museum exhibitions,"</a> Yale University (Jan. 24, 2022)  
 
-- <a href='https://www.ukri.org/news/uk-us-projects-pioneer-digital-innovations-for-cultural-collections/' target='_blank'>"UK-US projects pioneer digital innovations for cultural collections,"</a> UK Research and Innovation (UKRI) (Jan. 12, 2022)  
+- <a href='https://www.ukri.org/news/uk-us-projects-pioneer-digital-innovations-for-cultural-collections/' target='_blank'>"UK-US projects pioneer digital innovations for cultural collections,"</a> UK Research and Innovation (Jan. 12, 2022)  
 
 
 *This project is partly funded by a NEH/AHRC New Directions for Digital Scholarship in Cultural Institutions grant, jointly awarded by the National Endowment for the Humanities (NEH) and UK Research and Innovation's Arts and Humanities Research Council (AHRC).*
