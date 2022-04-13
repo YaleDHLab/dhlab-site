@@ -13,7 +13,6 @@ team:
   - name: Rob Sanderson
     position: Director for Cultural Heritage Metadata, Yale University
 categories:
-  - Network Analysis
   - Text Analysis
   - Web Application
 tags:
