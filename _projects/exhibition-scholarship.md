@@ -1,5 +1,5 @@
 ---
-title: 'Enriching Exhibition Scholarship: Reconciling Knowledge Graphs and Social Media from Newspaper Articles to Twitter'
+title: 'Enriching Exhibition Scholarship'
 image: /assets/images/projects/originals/exhibition-scholarship-banner.jpg
 thumbnail: /assets/images/projects/thumbs/exhibition-scholarship-thumb.jpg
 alt: Photos of objects in museums, and of people looking at art in galleries, against a purple background, with a diagonal banner reading "Enriching the Exhibition Experience" 
@@ -24,7 +24,7 @@ permalink: '/projects/exhibition-scholarship/'
 
 ---
 
-### Overview
+### Enriching Exhibition Scholarship: Reconciling Knowledge Graphs and Social Media from Newspaper Articles to Twitter
 
 As art and cultural heritage objects circulate among museum exhibitions, they spark a wide array of written responses: museum catalogs, gallery labels, social media posts, reviews in magazines and newspapers, and more. Such texts offer invaluable insight into the reception of these objects, revealing how critics and members of the public have viewed them over time and in different contexts. At present, however, we lack a means of accessing all of this information in one place.  
 
