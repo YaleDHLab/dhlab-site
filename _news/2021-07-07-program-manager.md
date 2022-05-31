@@ -1,5 +1,5 @@
 ---
-spotlight_top: true
+spotlight_top: false
 title: "Join the DHLab Team as DH Program Manager"
 date: July 7, 2021
 thumbnail: /assets/images/news/dh-lab.jpg
@@ -13,6 +13,8 @@ image_layout: simple
 teaser: |
   Join the Yale Digital Humanities Lab (DHLab) team as the Digital Humanities Program Manager! This full-time position is located within Sterling Memorial Library.
 ---
+
+*UPDATE: Please note that this position has been filled; the DHLab is excited to welcome Kayla Shipp as our new Program Manager in August 2022.*
 
 Join the Yale Digital Humanities Lab (DHLab) team as the Digital Humanities Program Manager!
 
