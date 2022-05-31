@@ -6,7 +6,7 @@ thumbnail: /assets/images/about/team/KS-sq.jpg
 image: /assets/images/banners/franke-cube.jpg
 alt: photograph of new DHLab program manager Kayla Shipp
 categories:
-  - Announcements
+  - Announcement
 tags:
   - Team Members
 image_layout: simple
