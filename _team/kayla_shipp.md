@@ -1,8 +1,8 @@
 ---
 name: Kayla Shipp
-role: Program Manager (starting Summer 2022)
+role: Program Manager
 image: /assets/images/about/team/KS-sq.jpg
-order: 3
+order: 2
 group: core_team
 ---
 
