@@ -2,7 +2,7 @@
 name: Douglas Duhaime
 role: Open Source Development Consultant
 image: /assets/images/about/team/DD-sq.jpg
-order: 4
+order: 3
 group: core_team
 ---
 
