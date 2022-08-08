@@ -43,7 +43,6 @@ Open to users of all programming skill levels, this workshop will offer an intro
 
 **Prerequisites:** none.
 
-<<<<<<< Updated upstream
 **Registration:** please sign up on <a href="https://schedule.yale.edu/event/8395188" target="_blank">the official Visualization workshop page</a>.
 <br>
 
