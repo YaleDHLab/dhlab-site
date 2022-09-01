@@ -1,5 +1,5 @@
 ---
-title: "Fall 2022 DH classes"
+title: "Fall 2022 DH Classes"
 date: September 1, 2022
 thumbnail: /assets/images/news/fall-22-classes.jpg
 alt: Open laptop on a desk, with overlaid graphic of network nodes and edges
