@@ -2,17 +2,16 @@
 title: "Fall 2022 DH Classes"
 date: September 1, 2022
 thumbnail: /assets/images/news/fall-22-classes.jpg
-image: /assets/images/banners/franke-cube.jpg
+image: /assets/images/banners/text-mining.jpg
 alt: Open laptop on a desk, with overlaid graphic of network nodes and edges
 caption: ""
 categories:
   - Courses
-spotlight: false
 image_layout: simple
 teaser: |
-  Looking for classes to take this fall? Here are a few that will help you explore digital tools for Egyptian archaeology, consider how race and gender shape new technologies, learn about digital mapping in the context of public health, and more. Course offerings range from theoretical considerations of technology and the digital humanities to hands-on practice with digital methods.
+  Looking for classes to take this fall? Here are a few that will help you explore digital tools for Egyptian archaeology, consider how race and gender shape new technologies, learn about digital mapping in the context of public health, and more. Course offerings range from theoretical considerations of the digital humanities to hands-on practice with digital tools and methods.
 ---
-Looking for classes to take this fall? Here are a few that will help you explore digital tools for Egyptian archaeology, consider how race and gender shape new technologies, learn about digital mapping in the context of public health, and more. Course offerings range from theoretical considerations of technology and the digital humanities to hands-on practice with digital methods.
+Looking for classes to take this fall? Here are a few that will help you explore digital tools for Egyptian archaeology, consider how race and gender shape new technologies, learn about digital mapping in the context of public health, and more. Course offerings range from theoretical considerations of the digital humanities to hands-on practice with digital tools and methods.
 
 *If you are teaching a course connected to DH and would like it included in the list below, or if you would like someone from the Yale Digital Humanities Lab to speak with your class, please [email the DHLab](mailto:dhlab@yale.edu).*
 
