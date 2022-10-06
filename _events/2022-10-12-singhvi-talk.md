@@ -18,7 +18,7 @@ teaser: |
 
 ### Overview
 
-Join the Yale Digital Humanities Lab (DHLab) and the Department of Computer Science for a talk by *New York Times* reporter and graphics editor Anjali Singhvi, who will describe how her team produced three visual investigations by combining visual reporting with new technologies. She also will discuss the tools and techniques used for data verification and forensic 3D reconstructions.  
+Join the Yale Digital Humanities Lab (DHLab) and the Department of Computer Science for a talk by *New York Times* reporter and graphics editor Anjali Singhvi, who will describe how her team produced three visual investigations by combining visual reporting with new technologies. She also will discuss the tools and techniques used for data verification and forensic 3-D reconstructions.  
 
 Featured projects will include:  
 - <a href='https://www.nytimes.com/interactive/2021/05/24/us/tulsa-race-massacre.html' target='_blank'>"What the 1921 Tulsa Race Massacre Destroyed"</a>  
