@@ -5,7 +5,7 @@ time: 4-5 p.m. EDT
 location: Franke Family Digital Humanities Laboratory
 thumbnail: /assets/images/events/nyt-tulsa.jpg
 image: /assets/images/events/nyt-tulsa.jpg
-alt: A 3-D rendering of Tulsa in 1921, published in the 'New York Times' in a visual investigation of the Tulsa Race Massacre.
+alt: A 3-D rendering of Tulsa in 1921, published in 'New York Times' visual reporting on the Tulsa Race Massacre.
 registerurl: https://www.eventbrite.com/e/visual-investigations-and-spatial-techniques-at-the-new-york-times-tickets-432117654537
 categories:
   - Talks
@@ -21,9 +21,9 @@ teaser: |
 Join the Yale Digital Humanities Lab (DHLab) and the Department of Computer Science for a talk by *New York Times* reporter and graphics editor Anjali Singhvi, who will describe how her team produced three visual investigations by combining visual reporting with new technologies. She also will discuss the tools and techniques used for data verification and forensic 3D reconstructions.  
 
 Featured projects will include:  
-- <a href='https://www.nytimes.com/interactive/2021/05/24/us/tulsa-race-massacre.html' target='_blank'>What the 1921 Tulsa Race Massacre Destroyed"</a>  
+- <a href='https://www.nytimes.com/interactive/2021/05/24/us/tulsa-race-massacre.html' target='_blank'>"What the 1921 Tulsa Race Massacre Destroyed"</a>  
 - <a href='https://www.nytimes.com/interactive/2022/04/02/world/europe/kyiv-invasion-disaster.html' target='_blank'>"How Kyiv Has Withstood Russia's Attacks"</a>  
-- <a href='https://www.nytimes.com/video/us/100000007348445/breonna-taylor-death-cops.html?action=click&gtype=vhs&version=vhs-heading&module=vhs&region=title-area&cview=true&t=0' target='_blank'>"How the Police Killed Breonna Taylor"</a>  
+- <a href='https://www.nytimes.com/video/us/100000007348445/breonna-taylor-death-cops.html' target='_blank'>"How the Police Killed Breonna Taylor"</a>  
 
 ### About the Speaker
 
@@ -44,6 +44,6 @@ Sterling Memorial Library
 
 ### Registration
 
-The talk is free and open to the public, but registration is required. To sign up, please visit the <a href='https://www.eventbrite.com/e/visual-investigations-and-spatial-techniques-at-the-new-york-times-tickets-432117654537' target='_blank'>Eventbrite page</a> for the talk.
+This event is free and open to the public, but registration is required. To sign up, please visit the <a href='https://www.eventbrite.com/e/visual-investigations-and-spatial-techniques-at-the-new-york-times-tickets-432117654537' target='_blank'>Eventbrite page</a> for the talk.
 
 *Be among the first to know when future workshops and talks are announced by signing up for the <a href='https://subscribe.yale.edu/browse?search=digital+humanities' target='_blank'>DHLab’s newsletter</a>.*
