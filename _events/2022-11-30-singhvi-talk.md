@@ -1,7 +1,7 @@
 ---
 title: "Visual Investigations and Spatial Techniques at the 'New York Times'"
 date: 2022-11-30
-time: 4-5 p.m. EDT
+time: 4-5 p.m. EST
 location: Franke Family Digital Humanities Laboratory
 thumbnail: /assets/images/events/nyt-tulsa.jpg
 image: /assets/images/events/nyt-tulsa.jpg
