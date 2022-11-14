@@ -1,7 +1,7 @@
 ---
 spotlight: true
 title: "Welcoming Gavi Levy Haskell, Our New Developer"
-date: November 10, 2022
+date: November 14, 2022
 thumbnail: /assets/images/about/team/GLH-sq.jpg
 image: /assets/images/banners/franke-cube.jpg
 alt: photograph of new Digital Humanities Developer, Gavi Levy Haskell
