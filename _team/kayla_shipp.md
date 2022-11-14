@@ -2,7 +2,7 @@
 name: Kayla Shipp
 role: Program Manager
 image: /assets/images/about/team/KS-sq.jpg
-order: 1
+order: 2
 group: core_team
 ---
 
