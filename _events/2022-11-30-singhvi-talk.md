@@ -35,7 +35,7 @@ Her stories at the *Times* have won multiple awards, including several News and 
 
 **Time:**  
 Weds., Nov. 30, 2022  
-3-4 p.m. EDT  
+3-4 p.m. EST  
 
 **Location:**  
 Franke Family Digital Humanities Laboratory  
