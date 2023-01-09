@@ -4,6 +4,7 @@ date: January 9, 2023
 thumbnail: /assets/images/events/text-mining.jpg
 alt: An opened book on a table, with lines of computer code in the background
 caption: ""
+image: /assets/images/banners/text-mining.jpg
 categories:
   - Courses
 spotlight: false
