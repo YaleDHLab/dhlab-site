@@ -33,6 +33,6 @@ Sterling Memorial Library
 120 High Street, New Haven, CT 06511  
 
 ### Registration
-This event is open to all, though registration is required. To register, visit the <a href='https://schedule.yale.edu/event/7276442' target='_blank'>official Eventbrite page for the workshop</a>.  
+This event is open to all, though registration is required. To register, visit the <a href='https://www.eventbrite.com/e/workshop-computational-analysis-of-catalog-data-tickets-492740629487?aff=erelpanelorg' target='_blank'>Eventbrite page for the workshop</a>.  
 
 *Be among the first to know when future workshops are announced by signing up for the <a href='https://subscribe.yale.edu/browse?search=digital+humanities' target='_blank'>DHLab’s newsletter</a>.*
