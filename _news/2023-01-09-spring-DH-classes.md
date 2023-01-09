@@ -14,6 +14,8 @@ teaser: |
 ---
 Looking for classes to take this spring? Yale will be offering more DH-related courses than ever. Here are some options that will help you learn Python and GIS, discover new computational tools for archaeology, explore ethical questions involving big data and public health, and much more. Courses range from theoretical considerations of technology and the digital humanities to hands-on practice with digital methods.  
 
+For more detailed information about prerequisites and enrollment, please see the full course descriptions at <a href='https://courses.yale.edu/' target='_blank'>courses.yale.edu</a>.  
+
 *If you are teaching a course connected to DH and would like it included in the list below, or if you would like someone from the Yale Digital Humanities Lab to speak with your class, please [email the DHLab](mailto:dhlab@yale.edu).*  
   <br>
   
