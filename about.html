@@ -70,29 +70,22 @@ title: About
   </div>
 
   {% capture left_text %}
-    <p>Project Assistants collaborate on digital humanities research undertaken by Yale faculty and students.</p>
-    {% include about/personnel_list.html items=site.data.assistants.left %}
+    <p>Digital Humanities Consultants provide a variety of DH project support, and offer research guidance to Yale faculty, staff, and students during Office Hours.</p>
+    {% include about/personnel_list.html items=site.data.consultants.left %}
   {% endcapture %}
 
   {% capture right_text %}
-    <p>Consultants meet with Yale scholars who are working with quantitative or computational methods.</p>
-    {% include about/personnel_list.html items=site.data.assistants.right %}
-    <br/>
-    <h2>Work With Us</h2>
     <p>Are you a Yale graduate student interested in humanistic questions and in building professional experience and expertise on digital humanities projects in a client-facing role? Starting in Spring 2023, the Yale DHLab welcomes applicants to our DH Consultant positions.</p>
   {% endcapture %}
 
-  {% assign left_button_url = '/projects.html' | prepend: site.baseurl %}
   {% assign right_button_url = '/opportunities/student-jobs.html' | prepend: site.baseurl %}
 
   <div class='tablet-center'>
     {% include text/half-width/two_column_text.html
-      left_title = 'Project Assistants'
+      left_title = 'Digital Humanities Consultants'
       left_text = left_text
-      left_button_url = left_button_url
-      left_button_label = 'View Projects'
 
-      right_title = 'Consultants'
+      right_title = 'Work With Us'
       right_text = right_text
       right_button_url = right_button_url
       right_button_label = 'Student Jobs'
