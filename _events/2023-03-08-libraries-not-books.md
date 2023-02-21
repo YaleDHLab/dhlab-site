@@ -14,7 +14,7 @@ tags:
   - Visualization
   - Text Analysis
 teaser: >
-  Ever wondered about all the objects museums don’t have on view? Curious about which people in an archive are sending letters to each other? Want to think about collections, not just objects? Metadata might be a place to start! This online workshop will help you understand this kind of data, and get you started on learning how to find and use it.
+  Ever wondered about all the objects museums don’t have on view? Want to think about collections, not just objects? Metadata might be a place to start! This online workshop will help you understand this kind of data, and get you started on learning how to find and use it.
 ---
 
 ### Overview
