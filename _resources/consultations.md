@@ -10,7 +10,9 @@ alt: Faculty in consultation with digital scholarship staff at DH workstation in
 
 ### Digital Humanities Lab
 
-A unit of Yale University Library, the Digital Humanities Lab (DHLab) offers individual and group consultations for Yale students, faculty, and staff working on digital humanities projects at any stage of development. DHLab staff can address questions related to best practices for corpus creation, data visualization and analysis, digital tools, and more. In addition to scheduled meetings, the DHLab also offers weekly drop-in [Office Hours](http://dhlab.yale.edu/resources/office-hours.html) (Monday through Thursday) as another opportunity to discuss projects and the digital humanities more generally. <br/>
+A unit of Yale University Library, the Digital Humanities Lab (DHLab) offers individual and group consultations for digital humanities projects at any stage of development, from conceptualization through implementation. Staff can address questions related to project scope, planning, best practices, data management, tool selection, and more. In addition to scheduled individual meetings, the DHLab also offers weekly [Office Hours](http://dhlab.yale.edu/resources/office-hours.html) as another opportunity to discuss projects or general digital humanities brainstorming.  
+
+To schedule an appointment with a member of the DHLab's staff, please use our [bookings form](https://outlook.office365.com/owa/calendar/DHLabBookings@yale.edu/bookings/).  <br/>
 
 ### Data, GIS, and Statistical Support Services at Marx Library
 
