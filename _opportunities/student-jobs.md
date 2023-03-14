@@ -4,46 +4,39 @@ order: 1
 image: '/assets/images/banners/sterling-nave.jpg'
 caption: >
   The Nave in Sterling Memorial Library.
-application_text: >
-  Apply to join us as one of our student programmers or designers.
-deadline: Project dependent
-application_url: mailto:dhlab@yale.edu
+<!-- >application_text: >
+  Apply to join us as a DH Generalist Consultant or DH Specialist Consultant. Application links will be available in late spring 2023.</-->
+<!-- >deadline: Project dependent</-->
+<!-- >application_url: mailto:dhlab@yale.edu</-->
 class: hide-color-hr
 ---
 <div class='center-column'>
   <div class='two-column-container one-third-width top-text'>
     <div class='left-column'>
-      {% include sidebars/opportunities_left_sidebar.html page=page %}
     </div>
     <div class='right-column'>
       {% include text/mobile_section_title.html
         category='Opportunities'
         title=page.title
       %}
+      <p>Are you a Yale graduate student interested in humanistic questions and in building professional experience and expertise on digital humanities projects in a client-facing role? The Yale DHLab welcomes applicants to our DH Consultant positions. No prior DH experience is necessary for some positions, but applicants must have completed <a href='https://dhlab.yale.edu/resources/workshops.html' target='_blank'>the DH Foundations workshop series</a> (offered through the DHLab twice per semester) prior to applying.  </p>
 
-      <strong>Digital Humanities Lab Project Assistants</strong>
-      <p>The Yale Digital Humanities Lab (DHLab) occasionally receives inquiries from Yale-led teams looking to hire students for digital projects. These requests state different levels of humanities and programming expertise. If you would like to be referred for one of these positions when they open up, please <a href='mailto:dhlab@yale.edu'>email the DHLab</a> your resume/CV, along with a brief statement of interest. For any current openings, visit the "Open Calls" section at the bottom of the page, where you can reach out directly to the hiring Principal Investigator (PI).</p>
+      <p>DH Consultants will commit to holding office hours in the DHLab space for a minimum of two hours per week. On top of this, consultants may elect, in conversation with the DHLab, to work for up to eight additional paid hours completing their own digital projects or training in particular DH project roles (project management, technical writing, etc.) or methodologies. Consultants will have access to DHLab space, equipment, and staff mentorship for completing this work and training.  </p>
+
+      <p>Please check back in late spring 2023 for links to apply.  </p>
+
+      <br>
+
+      <strong>DH Generalist Consultants</strong>
+
+      <p>DH Generalist Consultants bring a general interest in developing DH competencies and perform a number of roles, including (but not limited to) holding open office hours in the DHLab to help researchers identify and manage DH project needs, joining current DHLab projects to gain hands-on experience, and participating in secondments to other library units.  </p>
       
       <br>
-      
-      <strong>Digital Humanities Consultants</strong>
-      <p>The DHLab hires graduate students annually to join our team as consultants. Whether you use machine learning to find aesthetic patterns in 18th-century paintings or interactive data visualizations to track instances of textual reuse in Classical literature, we want to hear from you.</p>
 
-      <p>Specific responsibilities vary, but consultants should expect:
-        <ul>
-          <li>to meet with Yale students, faculty, and staff to provide guidance on research questions in a 1-on-1 or group setting,</li>
-          <li>to answer common questions across various disciplines,</li>
-          <li>to draw on your expertise on specific digital humanities or data analysis topics, and to act as a point person for related questions,</li>
-          <li>to think on the fly, identify project needs, and help develop a recommendation for how patrons should proceed given their subject area, expertise, and timeline.</li>
-        </ul>
-      </p>
+      <strong>DH Specialist Consultants</strong>
+
+      <p>Digital Humanities Specialist Consultants perform the same roles as the Generalist Consultants, but bring an existing area of expertise in the digital humanities and may offer workshops in their area of knowledge.  </p>
+
     </div>
   </div>
-  {% assign items = site.news | where: 'categories', 'Student Jobs' | sort: 'date' | reverse | limit: 3 %}
-  {% if items.size > 0 %}
-    {% include text/three_text_blocks.html
-      items=items
-      label='OPEN CALLS'
-    %}
-  {% endif %}
 </div>
