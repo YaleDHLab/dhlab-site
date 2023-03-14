@@ -13,7 +13,6 @@ class: hide-color-hr
 <div class='center-column'>
   <div class='two-column-container one-third-width top-text'>
     <div class='left-column'>
-      {% include sidebars/opportunities_left_sidebar.html page=page %}
     </div>
     <div class='right-column'>
       {% include text/mobile_section_title.html
