@@ -4,8 +4,8 @@ order: 1
 image: '/assets/images/banners/sterling-nave.jpg'
 caption: >
   The Nave in Sterling Memorial Library.
-application_text: >
-  Apply to join us as a DH Generalist Consultant or DH Specialist Consultant. Application links will be available in late spring 2023.
+<!-- >application_text: >
+  Apply to join us as a DH Generalist Consultant or DH Specialist Consultant. Application links will be available in late spring 2023.</-->
 <!-- >deadline: Project dependent</-->
 <!-- >application_url: mailto:dhlab@yale.edu</-->
 class: hide-color-hr
