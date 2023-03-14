@@ -17,6 +17,7 @@ Whenever possible, the Yale University Library works with database vendors to in
 
 - To find all datasets—including text, geospatial, numeric, and image data—use <a href='https://search.library.yale.edu/catalog?q=yuldset&search_field=all_fields&commit=Search' target='_blank'>‘yuldset’</a>.
 
-For additional information on licensed data, please visit the <a href='https://guides.library.yale.edu/tdm' target='_blank'>Text and Data Mining LibGuide</a>.
 
-What about material that hasn't been digitized yet? The Digital Humanities Lab can provide tools for the creation of digital corpora for text and data mining purposes (rather than for preservation or personal archives) to researchers with current DHLab awards. For longer duration or all-purpose scanning, researchers should use the machines in the lower level of Bass Library. 
+For additional information on licensed data, please visit the <a href='https://guides.library.yale.edu/tdm' target='_blank'>Text and Data Mining LibGuide</a>. For support finding, using, and managing your research data, please visit our partners in <a href='https://marx.library.yale.edu/data-gis-and-statlab-services-marx-library' target='_blank'>Data, GIS, and StatLab Services at Marx Library</a>.  
+
+What about material that hasn't been digitized yet? The Digital Humanities Lab <a href='https://dhlab.yale.edu/resources/space.html' target='_blank'>Special Projects Cube</a> can provide tools for the creation of digital corpora for text and data mining purposes (rather than for preservation or personal archives) to researchers. For longer duration or all-purpose scanning, researchers should use the machines in the lower level of Bass Library.  
