@@ -1,5 +1,5 @@
 ---
-title: "The Line Graph and the Slave Shp: Rethinking the Origins of Data Viz"
+title: "The Line Graph and the Slave Ship: Rethinking the Origins of Data Viz"
 date: 2023-03-30
 time: 3-4 p.m. EDT
 location: Franke Family Digital Humanities Lab
