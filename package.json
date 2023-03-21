@@ -37,7 +37,8 @@
     "lodash": "^4.17.15",
     "lunr": "^2.3.6",
     "moment": "^2.24.0",
-    "tiny-slider": "^2.9.3"
+    "tiny-slider": "^2.9.3",
+    "yarn": "^1.22.19"
   },
   "devDependencies": {
     "@babel/core": "^7.5.5",
