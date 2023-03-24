@@ -30,7 +30,7 @@ Klein works at the intersection of digital humanities, data science, and early A
 
 She is the author of *An Archive of Taste: Race and Eating in the Early United States* (University of Minnesota Press, 2020) and, with Catherine D’Ignazio, *Data Feminism* (MIT Press, 2020). With Matthew K. Gold, she edits *Debates in the Digital Humanities*, a hybrid print-digital publication stream that explores debates in the field as they emerge. Her current project, *Data by Design: An Interactive History of Data Visualization, 1786-1900*, was recently funded by an NEH Digital Humanities Advancement Grant.  
 
-**Tanvi Sharma** is a product designer and graduate student at NYU’s Tandon School of Engineering, where she helps develop products for the Center for Responsible AI. She also serves as the lead product designer on *Data by Design*, a born-digital book on the history of data visualization. As both an academic and practitioner, Tanvi's interests span from understanding to enhancing the convergence of social experience, aesthetics, and language (in addition to nurturing native plants on the side).  
+**Tanvi Sharma** is a product designer and graduate student at NYU’s Tandon School of Engineering, where she helps develop products for the Center for Responsible AI. She also serves as the lead product designer on *Data by Design*, a born-digital book on the history of data visualization. As both an academic and a practitioner, Tanvi's interests span from understanding to enhancing the convergence of social experience, aesthetics, and language (in addition to nurturing native plants on the side).  
 
 ### Event Details
 **Time:**  
@@ -43,7 +43,7 @@ Sterling Memorial Library
 120 High Street, New Haven, CT 06511  
 
 ### Registration
-The talk is open to all, though registration is required. To register, visit the <a href='https://www.eventbrite.com/e/the-line-graph-and-the-slave-ship-rethinking-the-origins-of-data-viz-tickets-570769746677' target='_blank'>Eventbrite page for the talk</a>. Please note that due to technical constraints, this event will be held in-person only and will not be streamed.
+This event is open to all, though registration is required. To register, visit the <a href='https://www.eventbrite.com/e/the-line-graph-and-the-slave-ship-rethinking-the-origins-of-data-viz-tickets-570769746677' target='_blank'>Eventbrite page for the talk</a>. Please note that due to technical constraints, the talk will be held in-person only and will not be streamed.
 
 *This event is co-sponsored by the DHLab, the Cushing/Whitney Medical Library, and the Department of Computer Science.*  
 
