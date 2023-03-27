@@ -2770,10 +2770,7 @@ section {
 
   .personnel-list .person {
     font-weight: 300;
-  }
-
-  .personnel-list b {
-    display: block;
+    display: inline;
   }
 
   .personnel-list div {
@@ -4202,7 +4199,7 @@ br + .tags,
 /**
 * Projects Landing Page
 **/
-
+/*
 .projects-page .center-column {
   padding: 40px 60px;
 }
@@ -4308,8 +4305,8 @@ br + .tags,
   .projects-page .center-column {
     padding: 0 !important;
   }
-
-  /* Toggle desktop mobile project views */
+*/
+  /* Toggle desktop mobile project views *//*
   .desktop-project {
     display: none;
   }
@@ -4385,7 +4382,7 @@ br + .tags,
     font-size: 16px;
   }
 }
-
+*/
 /**
 * Projects Detail Page
 **/

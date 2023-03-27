@@ -1,65 +1,21 @@
 ---
 layout: default
-class: projects-page mobile-dark-header
-title: Projects
+class: projects-page full-width-mobile
+header_color: gray
+title: Propose a Project
 ---
 
-{% for project in site.projects %}
-  {% unless project.browsable == false %}
-    {% if project.featured %}
-      {% assign featured_project = project %}
-    {% endif %}
-  {% endunless %}
-{% endfor %}
+<div class='center-column' role='main'>
+  {% capture text %}
+  <p>The Digital Humanities Lab supports DH research at every stage of development, depending on the unique needs of each project.</p>
 
-{% assign image_url = featured_project.image | prepend: site.baseurl %}
-{% include heroes/captioned_hero.html
-  label = 'Feature'
-  title = featured_project.title
-  image = image_url
-  caption = featured_project.caption
-  url = featured_project.url
-  alt = featured_project.alt
-%}
+  <p>If you are a student, staff, or a faculty member and your DH project is in its earliest stages of development (even if it is still just an idea) or if you are looking for hands-on guidance for development that is already underway, please <a href="https://dhlab.yale.edu/resources/consultations.html">schedule a consultation</a> with a member of our team to brainstorm possible directions for your work. You can also come by <a href="https://dhlab.yale.edu/resources/office-hours.html">office hours</a> to get help with an ongoing project from our graduate student consultants.</p>
 
-{% assign projects = '' | split: '' %}
-{% assign n_projects = 0 %}
-{% assign all_projects = site.projects | sort: 'title' %}
-{% for project in all_projects %}
-  {% unless project.funded or project.layout == 'archive' or project.browsable == false %}
-    {% assign n_projects = n_projects | plus: 1 %}
-    {% assign projects = projects | push: project %}
-  {% endunless %}
-{% endfor %}
+  <p>The DHLab is also thrilled to partner with Yale staff, faculty, and collections to collaboratively develop user-centered DH products from scratch. If you have an idea for a possible DH project (this could be anything from digital exhibits, interactive databases, and network graphs, to tools to visualize metadata and tell important stories), please fill out our <a href="https://forms.office.com/pages/designpagev2.aspx?lang=en-US&origin=OfficeDotCom&route=Start&subpage=design&id=u76M3Tkh-E20EU4-h6vrXKKCBUYgw3tCqyXz86yveTdUNFBHS0JQRk9KVTBOT0VJTFVHNEtCRUdXVS4u">project proposal form</a> and a member of our staff will reach out to schedule a discussion about ways we could work together.</p>
+  {% endcapture %}
 
-<script>
-  var projects = [
-    {%- for item in projects %}
-      {% include json/jsonify_item.html item=item %}
-    {%- endfor %}
-  ];
-</script>
-
-<div class='center-column'>
-
-  <div class='project-filters'>
-    <select id='categories' aria-label='filter categories'>
-      <option value='ALL'>All Types</option>
-    </select>
-    <select id='tags' aria-label='filter tags'>
-      <option value='ALL'>All Topics</option>
-    </select>
-  </div>
-
-  <div class='projects-container' role='main' id='dhlab-projects'></div>
-  {% assign items = site.projects | where: 'layout', 'archive' %}
-
-  <h3>Digital Projects @ Yale</h3>
-  <hr>
-
-  {% include grids/archive_grid.html
-    items = items
-    render = 'json'
-    filters = false
+  {% include text/one-third-width/one_third_split_text_block.html
+    title='Propose a Project'
+    text=text
   %}
 </div>

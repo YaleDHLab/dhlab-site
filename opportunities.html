@@ -7,7 +7,11 @@ title: Opportunities
 
 <div class='center-column' role='main'>
   {% capture text %}
-    The Digital Humanities Lab (DHLab) works on a wide range of projects with researchers, designers, and programmers within the Yale campus and beyond. Read below to learn more about the ways you can partner with the Lab on your next digital project!
+  <p>The Digital Humanities Lab (DHLab) works on a wide range of projects with staff, student, and faculty researchers within the Yale campus and beyond, and is uniquely positioned to support graduate student professional development through existing project partnerships.</p>
+
+  <p>To explore how the DHLab could support your research, please visit our <a href='{{ site.baseurl }}/propose-a-project.html'>project proposal page</a>.</p>
+  
+  <p>To learn more about our graduate student development programs, please read below.</p>
   {% endcapture %}
 
   {% include text/one-third-width/one_third_split_text_block.html
@@ -20,19 +24,19 @@ title: Opportunities
   %}
 
   {% capture left_text_one %}
-    <p>The DHLab occasionally receives inquiries from Yale-led teams looking to hire students for digital projects. These requests state different levels of humanities and programming expertise. If you would like to be referred for one of these positions when they open up, please <a href='mailto:dhlab@yale.edu'>email the DHLab</a> your resume/CV, along with a brief statement of interest.</p>
-    <a href='{{ site.baseurl }}/opportunities/student-jobs.html'
+    <p>The DHLab invites graduate students to join our Digital Humanities Certificate program to learn how to demonstrate digital humanities competencies across three possible themes. We also invite applicants to our Digital Dissertation Fellowship program, a one-year fellowship that will provide a stipend, space, community, mentorship, and mini-grant funding for relevant training and development costs for students building a digital dissertation component.</p>
+    <a href='{{ site.baseurl }}/awards.html'
       class='white-button'>Learn More</a>
   {% endcapture %}
   
   {% capture right_text_one %}
-    <p>The DHLab hires graduate students annually to join our team as consultants. Whether you use machine learning to find aesthetic patterns in 18th-century paintings or interactive data visualizations to track instances of textual reuse in Classical literature, we want to hear from you.</p>
-    <a href='{{ site.baseurl }}/opportunities/student-jobs.html'
+    <p>Are you a Yale graduate student interested in humanistic questions and in building professional experience and expertise on digital humanities projects in a client-facing role? The Yale DHLab welcomes applicants to our DH Consultant positions. No prior DH experience is necessary for some positions, but applicants must have completed the DH Foundations workshop series (offered through the DHLab twice per semester) prior to applying.</p>
+    <a href='{{ site.baseurl }}/awards/student-jobs.html'
       class='white-button'>Learn More</a>
   {% endcapture %}
 
   {% include text/color_blocks.html
-    left_title_one='Project Assistants'
+    left_title_one='Programs'
     left_text_one=left_text_one
 
     right_title_one='Digital Humanities Consultants'
@@ -40,9 +44,4 @@ title: Opportunities
 
   %}
 
-  {% assign items = site.projects | limit: 3 | where: 'funded', 'true' %}
-  {% include grids/three_spaced_squares.html
-    items=items
-    label='FUNDED PROJECTS'
-  %}
 </div>

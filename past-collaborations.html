@@ -1,0 +1,65 @@
+---
+layout: default
+class: projects-page mobile-dark-header
+title: Projects
+---
+
+{% for project in site.projects %}
+  {% unless project.browsable == false %}
+    {% if project.featured %}
+      {% assign featured_project = project %}
+    {% endif %}
+  {% endunless %}
+{% endfor %}
+
+{% assign image_url = featured_project.image | prepend: site.baseurl %}
+{% include heroes/captioned_hero.html
+  label = 'Feature'
+  title = featured_project.title
+  image = image_url
+  caption = featured_project.caption
+  url = featured_project.url
+  alt = featured_project.alt
+%}
+
+{% assign projects = '' | split: '' %}
+{% assign n_projects = 0 %}
+{% assign all_projects = site.projects | sort: 'title' %}
+{% for project in all_projects %}
+  {% unless project.funded or project.layout == 'archive' or project.browsable == false %}
+    {% assign n_projects = n_projects | plus: 1 %}
+    {% assign projects = projects | push: project %}
+  {% endunless %}
+{% endfor %}
+
+<script>
+  var projects = [
+    {%- for item in projects %}
+      {% include json/jsonify_item.html item=item %}
+    {%- endfor %}
+  ];
+</script>
+
+<div class='center-column'>
+
+  <div class='project-filters'>
+    <select id='categories' aria-label='filter categories'>
+      <option value='ALL'>All Types</option>
+    </select>
+    <select id='tags' aria-label='filter tags'>
+      <option value='ALL'>All Topics</option>
+    </select>
+  </div>
+
+  <div class='projects-container' role='main' id='dhlab-projects'></div>
+  {% assign items = site.projects | where: 'layout', 'archive' %}
+
+  <h3>Digital Projects @ Yale</h3>
+  <hr>
+
+  {% include grids/archive_grid.html
+    items = items
+    render = 'json'
+    filters = false
+  %}
+</div>

@@ -18,15 +18,15 @@ title: Methods
   {% include text/center_section_title.html text='START HERE' %}
 
   {% capture left_text_one %}
-    <p>Leveraging a wide range of techniques from neural networks to 3D-immersive realities, digital humanities projects at Yale bring innovative technologies to bear on long-standing historical and cultural questions.</p>
+  <p>Leveraging a wide range of techniques from analyzing or generating materials with neural networks to immersing users in 3D virtual realities, digital humanities projects at Yale think creatively about the ways that digital materialities and methods introduce new engagements with long-standing historical and cultural questions.</p>
 
-    <p>As both a technical and theoretical enterprise, digital humanities touches on a wide range of scholarly techniques, bringing different discplines into conversation with one another. From English and History to Computer Science and Statistics, the range of scholarly disciplines that inform digital humanities research continues to grow.</p>
+  <p>As a theoretical field concerned with the ways human knowledge is created, disseminated, and experienced, DH incorporates a wide range of scholarly backgrounds (from English and History to Computer Science and Statistics) and technical methodologies (from structuralist critique and visual analysis, to data mining and network analysis).</p>
   {% endcapture %}
 
   {% capture right_text_one %}
-    <p>When beginning a digital humanities project, first articulate your research question(s) and then decide how and what technology can best help you answer that question.</p>
-
-    <p>To scope out your research question and determine whether algorithmic approaches would be meaningful, stop by the Digital Humanities Lab during <a href='{{ site.baseurl }}/resources/office-hours.html' target='_blank'>Office Hours</a>. We will be happy to discuss your project and some of the methods and tools that might be appropriate.</p>
+  <p>To scope out your research question and brainstorm whether a DH lens could be useful to developing or presenting your work, or for other questions or help, <a href="https://dhlab.yale.edu/resources/consultations.html">book a consultation</a> with one of our staff members.</p> 
+  
+  <p>For on-the-spot support with a project, stop by the Digital Humanities Lab during <a href="https://dhlab.yale.edu/resources/office-hours.html">office hours</a>.</p>
   {% endcapture %}
 
   {% include text/color_blocks.html
@@ -38,28 +38,12 @@ title: Methods
   %}
 
   {% capture text %}
-    Digital humanities projects use a wide range of methods and appear in a variety of forms. Whether you want to create a graph for a course paper, build an interactive website, or develop custom software, the guides below outline some of the popular techniques used in digital humanities research.
+  Whether you want to create a graph for a course paper, build an interactive website, or develop a digital edition for your research, DH as a field contains years of collective experience to inspire your own project. The DHLab supports DH projects of all shapes and sizes, including but not limited to: creating digital text editions, building virtual exhibitions, performing analysis of all kinds (text, network, spatial), data visualization, metadata transformation, creating StoryMaps for humanists, developing machine learning algorithms, and more.
   {% endcapture %}
 
   {% include text/one-third-width/one_third_split_text_block.html
     title='What do DH projects look like?'
     text=text
-  %}
-
-  {% include text/center_section_title.html
-    text='DH METHODS'
-  %}
-
-  {% assign top_left = site.methods | where: 'order', 0 | first %}
-  {% assign top_right = site.methods | where: 'order', 1 | first %}
-  {% assign bottom_left = site.methods | where: 'order', 2 | first %}
-  {% assign bottom_right = site.methods | where: 'order', 3 | first %}
-
-  {% include grids/four_rectangle_image_grid.html  
-    top_left=top_left
-    top_right=top_right
-    bottom_left=bottom_left
-    bottom_right=bottom_right
   %}
 
   {% include text/methods_guides_bottom.html %}

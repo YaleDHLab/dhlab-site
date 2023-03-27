@@ -1,0 +1,73 @@
+---
+title: Past Associates
+layout: about
+order: 1
+image: /assets/images/banners/2018-DH-fellows-convo.jpg
+caption: Fall 2018 Digital Humanities Teaching Fellows. Photo by Mara Lavitt.
+alt: The three fall 2018 Digital Humanities Teaching Fellows discussing a project by digital screen in the newly renovated Franke Family Digital Humanities Laboratory. 
+class: personnel about-page
+---
+
+<div class='center-column'>
+  {% capture text %}
+  <p>From 2015–2021, the Yale Digital Humanities Lab appointed cohorts of Digital Humanities Teaching Fellows who learned how to introduce digital humanities theories and methods into their classrooms. Fellows were selected from humanities departments across campus.</p>
+
+  <p>DH Fellows worked closely with each other and DHLab staff to design and integrate digital humanities assignments and demonstrations into their teaching. Class projects included a network graph of course syllabi, an Omeka exhibit on Latin American History, and a Story Map highlighting Pauli Murray's life.</p>
+
+  <p>For ongoing support for digital pedagogy, please visit our partners at the <a href="https://poorvucenter.yale.edu/">Poorvu Center</a>.</p>
+  {% endcapture %}
+
+
+  {% include about/personnel_archive.html
+    data = site.data.teaching_fellows
+    title = 'Former Teaching Fellows'
+    byyear = "false"
+    description = text
+  %}
+
+  <br />
+
+  {% capture text %}
+  <p>From 2018–2022, the Yale Digital Humanities Lab awarded internships to undergraduate and graduate students to collaborate with our team on digital humanities initiatives at and beyond Yale. These internships were funded through partnerships with other Yale units, affiliated universities, and cultural heritage institutions to provide students with digital humanities mentorship and project-based training.</p>
+
+  <p>For current graduate student mentorship and project-based training, please visit our student jobs page to learn more about our <a href="https://dhlab.yale.edu/opportunities/student-jobs.html">DH Consultants program</a>.</p>
+  {% endcapture %}
+
+  {% include about/personnel_archive.html
+    data = site.data.interns
+    title = 'Former Research Interns'
+    byyear = "false"
+    description = text
+  %}
+
+  <br />
+
+  {% capture text %}
+  <p>From 2015–2018, the Yale University Digital Humanities Laboratory partnered with academic departments on campus to support 2–3 postdoctoral associates each year. During their appointments, postdocs both participated in the intellectual life of the lab and also pursued independent digital humanities research that was relevant to their discipline.</p>
+
+  <p>Along with receiving dedicated workspace in the Digital Humanities Lab, postdoctoral associates also had the opportunity to collaborate with a faculty mentor from their home department, as well as technical staff, including a Digital Humanities Developer and User Experience Designer.</p>
+  {% endcapture %}
+
+  {% include about/personnel_archive.html
+    data = site.data.postdoctoral_associates
+    title = 'Former Postdoctoral Associates'
+    byyear = "false"
+    description = text
+  %}
+
+  <br />
+
+  {% capture text %}
+  <p>During its early years, the Yale Digital Humanities Laboratory (DHLab) worked in partnership with a Digital Humanities Executive Committee. The committee focused on advancing digital humanities broadly at Yale and served as the advisory board for the DHLab. It played an integral role in furthering the DHLab’s work and shaping its future direction.</p>
+
+  <p>The committee’s membership included Yale faculty, staff, and graduate students from across the University, with representatives from the humanities, the social sciences, Yale Library, and the Poorvu Center for Teaching and Learning.</p>
+  
+  {% endcapture %}
+
+  {% include about/personnel_archive.html
+    data = site.data.exec_committee
+    title = 'Former Executive Committees'
+    byyear = "true"
+    description = text
+  %}
+</div>

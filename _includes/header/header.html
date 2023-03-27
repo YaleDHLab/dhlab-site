@@ -27,10 +27,8 @@
         <button class='hidden link-expand-button' id='expand-opportunities'>Show opportunities submenu</button>
         <a href='{{ site.baseurl }}/opportunities.html' role='menuitem' aria-label='opportunities'>Opportunities</a>
         <div class='opportunities-links sublinks'>
-          <a class='subheader' href='{{ site.baseurl }}/awards.html' role='menuitem' aria-label='awards'>Awards</a>
+          <a class='subheader' href='{{ site.baseurl }}/awards.html' role='menuitem' aria-label='awards'>Programs</a>
           {% include header/header_links.html items=site.awards %}
-          <a class='subheader' href='{{ site.baseurl }}/opportunities.html' role='menuitem' aria-label='employment'>Employment</a>
-          {% include header/header_links.html items=site.opportunities %}
         </div>
       </div>
       <div class='link events' role='menu' aria-label='events-dropdown' aria-haspopup='true' aria-expanded='false' data-toggle='dropdown'>
@@ -50,9 +48,7 @@
         <a href='{{ site.baseurl }}/methods.html' role='menuitem' aria-label='get started'>Get Started</a>
         <div class='guide-links sublinks'>
           <a class='subheader' href='{{ site.baseurl }}/methods.html' role='menuitem' aria-label='methods'>What Is DH?</a>
-          {% include header/header_links.html items=site.methods %}
           <a class='subheader' href='{{ site.baseurl }}/guides.html' role='menuitem' aria-label='guides'>How to Get Started</a>
-          {% include header/header_links.html items=site.guides %}
           <a class='subheader' href='{{ site.baseurl }}/contact.html' role='menuitem' aria-label='contact us'>Contact Us</a>
         </div>
       </div>

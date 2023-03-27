@@ -1,20 +1,23 @@
 <div class='two-column-container one-third-width personnel-archive'>
   <div class='left-column'>
     <h2>{{ include.title }}</h2>
-    <br/>
-    {% for year in include.data %}
-      <a href='#personnel-{{ year[0] }}'>{{ year[0] }}</a>
-    {% endfor %}
+    <br />
+    {% if include.byyear == "true" %}
+      {% for year in include.data %}
+        <a href='#personnel-{{ year[0] }}'>{{ year[0] }}</a>
+      {% endfor %}
+    {% endif %}
   </div>
   <div class='right-column'>
+    {{ include.description }}
+    <br />
     {% for year in include.data %}
-      <h3 id='personnel-{{ year[0] }}'>{{ year[0] }}</h3>
+      {% if include.byyear == "true" %}
+        <h3 id='personnel-{{ year[0] }}'>{{ year[0] }}</h3>
+      {% endif %}
       {% for person in year[1] %}
-        <div class='person'>
-          <b>{{ person.name }}</b>,
-          <span class='dept'>{{ person.short_affiliation }}</span>.
-          <span>{{ person.bio }}</span>
-        </div>
+        <b>{{ person.name }}</b>,
+        <span class='dept'>{{ person.short_affiliation }}</span>.
       {% endfor %}
     {% endfor %}
   </div>
