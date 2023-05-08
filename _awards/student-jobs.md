@@ -9,7 +9,7 @@ Are you a Yale graduate student interested in humanistic questions and in buildi
 
 DH Consultants will commit to holding office hours in the DHLab space for a minimum of two hours per week. On top of this, consultants may elect, in conversation with the DHLab, to work for up to eight additional paid hours completing their own digital projects or training in particular DH project roles (project management, technical writing, etc.) or methodologies. Consultants will have access to DHLab space, equipment, and staff mentorship for completing this work and training.
 
-Please check back in late spring 2023 for links to apply.  
+Please check back in late fall 2023 for links to apply.  
 
 ---
 

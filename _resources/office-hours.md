@@ -17,7 +17,7 @@ Whether you are new to the field and would like to learn more, have an existing 
  
 ### Schedule
 
-**In-person Office Hours:** returning late spring 2023  
+**In-person Office Hours:** returning fall 2023  
 
 **Individual meetings with DHLab staff:** [book here](https://outlook.office365.com/owa/calendar/DHLabBookings@yale.edu/bookings/)  
 <br>
