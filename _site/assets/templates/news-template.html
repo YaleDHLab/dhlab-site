@@ -1,0 +1,22 @@
+<% _.forEach(items, function(item) { %>
+  <div class='horizontal-card'>
+    <a href='<%= baseurl %><%= item.url %>'>
+      <div class='stripe'></div>
+      <div class='image-container'>
+        <div class='image background-image event-date-container'
+          alt='<%= item.alt %>' style='background-image: url(<%= baseurl %><%= item.thumbnail %>)'></div>
+      </div>
+      <div class='text'>
+        <div class='small-uppercase'><%= item.categories[0] || 'Announcements' %></div>
+        <h2><%= item.title %></h2>
+        <br/>
+        <div class='teaser'>
+          <%= item.teaser %>
+        </div>
+        <div class='news-mobile-text'>
+          <div class='news-date'><%= item.formatted_date %></div>
+        </div>
+      </div>
+    </a>
+  </div>
+<% }); %>

@@ -1,0 +1,42 @@
+<div class='mobile section-title'>LAB PROJECTS</div>
+  <% _.forEach(items, function(item, idx) { %>
+    <% var mod = idx % 2; %>
+    <% if (mod === 0) { %>
+      <div class='two-column-container half-width'>
+        <div class='left-column'>
+    <% } else { %>
+        <div class='right-column'>
+    <% }; %>
+          <div class='project-image-container desktop-project'>
+            <a href='<%- baseurl %><%- item.url %>'>
+              <div class='background-image blur-container'
+              style='background-image: url("<%- baseurl %><%- item.thumbnail %>")' alt='<%- item.alt %>'>
+                <div class='card-title-container'>
+                  <div class='card-title-blur'></div>
+                  <div class='card-title-text'>
+                    <div class='small-uppercase'><%- _.unescape(item.categories[0]) %></div>
+                    <div class='card-title'><b><%- _.unescape(item.title) %></b></div>
+                  </div>
+                </div>
+              </div>
+            </a>
+          </div>
+          <a href='<%- baseurl %><%- item.url %>' tabindex='-1'>
+            <div class='mobile-project'>
+              <div class='background-image'
+                  style='background-image: url("<%- baseurl %><%- item.thumbnail %>")' alt='<%- item.alt %>'></div>
+              <div class='mobile-project-text'>
+                <div class='small-uppercase'><%- _.unescape(item.categories[0]) %></div>
+                <div class='project-title'><%- _.unescape(item.title) %></div>
+              </div>
+            </div>
+          </a>
+        </div>
+      <% if (idx%2 == 0 && idx+1 === items.length) { %>
+        <div class='right-column'></div>
+      <% }; %>
+    <% if (idx%2 == 1) { %>
+      </div>
+    <% }; %>
+  <% }); %>
+</div>
