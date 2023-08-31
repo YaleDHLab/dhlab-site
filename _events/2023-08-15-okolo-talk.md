@@ -9,8 +9,8 @@ registerurl: https://www.eventbrite.com/e/matching-metadata-text-for-the-enrichi
 categories:
   - Talk
 tags:
-  - Data Management
-  - Text Analysis
+  - Accessibility
+  - Artificial Intelligence
 teaser: >
   In this virtual presentation, Dr. Chinasa T. Okolo will discuss her research on developing an inclusive artificial intelligence praxis for technology users in the Global South. Focusing on low-resource healthcare settings in rural India, Dr. Okolo will explore how these frontline community health workers use and value AI, and will examine how to construct AI tools with these users in mind.
 ---
