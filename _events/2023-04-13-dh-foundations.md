@@ -28,17 +28,17 @@ Participants will work together to identify qualities essential to any effective
 
 ### About the Workshop Leaders
 
-<em>Gavi Levy Haskell</em> is the DH Developer in the DHLab. Gavi is also a Ph.D. candidate in Yale’s History of Art Department, where they are finishing their dissertation on visual narrative. Their B.A. is in art history and computer science from Smith College, in Northampton, MA, and they hold an M.A. in the history of art from the Courtauld Institute of Art in London.  
+**Gavi Levy Haskell** is the DH Developer in the DHLab. Gavi is also a Ph.D. candidate in Yale’s History of Art Department, where they are finishing their dissertation on visual narrative. Their B.A. is in art history and computer science from Smith College, in Northampton, MA, and they hold an M.A. in the history of art from the Courtauld Institute of Art in London.  
 
-<em>Kayla Shipp</em> is the DH Program Manager in the DHLab. With a background in English, computer science, and nonprofit development, Kayla earned an M.A. in Digital Humanities at King’s College London and a Ph.D. in English at Emory University. Kayla’s research explores the poetics of code and virtual space, focusing on the intersection of material culture and technology.  
+**Kayla Shipp** is the DH Program Manager in the DHLab. With a background in English, computer science, and nonprofit development, Kayla earned an M.A. in Digital Humanities at King’s College London and a Ph.D. in English at Emory University. Kayla’s research explores the poetics of code and virtual space, focusing on the intersection of material culture and technology.  
 
 ### Event Details
 
-<em>Dates and Times:</em>  
+**Dates and Times:**   
 April 13, 20, and 27, 2023  
 12-1 p.m. EST  
   
-<em>Location:</em>  
+**Location:**  
 Online  
   
 ### Registration
