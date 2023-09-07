@@ -13,7 +13,7 @@ teaser: |
   Looking for classes to take this fall? Here are some options that will help you explore lyric poetry with digital tools, use data visualizations to address environmental problems, study the intersection of “big data” and societal power dynamics, and more. Course offerings range from theoretical considerations of technology and DH to hands-on practice with digital methods.
 ---
 Looking for classes to take this fall? Here are some that will help you explore lyric poetry with digital tools, use data visualizations to address environmental problems, study the intersection of “big data” and societal power dynamics, and more. Course offerings range from theoretical considerations of technology and DH to hands-on practice with digital methods.  
-
+  
 For more detailed information about prerequisites and enrollment, please see the full course descriptions at <a href='https://courses.yale.edu/' target='_blank'>courses.yale.edu</a>.  
 
 *If you are teaching a course connected to DH and would like it included in the list below, or if you would like someone from the Yale Digital Humanities Lab to speak with your class, please [email the DHLab](mailto:dhlab@yale.edu).*  
@@ -84,7 +84,7 @@ Data visualizations are an essential communication tool for researchers and poli
   <br>
   
 **Modeling Geographic Objects**  
-ENV 756   
+ENV 756  
 Charles Tomlin  
   
 This course offers an introduction to drawing-based (vector) geographic information systems (GIS) for the preparation, interpretation, and presentation of digital cartographic data. The course is oriented more toward discrete objects in geographical space (e.g., water bodies, land parcels, or structures) than the qualities of that space itself (e.g., proximity, density, or interspersion). Previous experience not required.  
@@ -112,7 +112,7 @@ This class explores how humanists and their associates from computational discip
   <br>
 
 **Seminar in Digital and Computational Methods in the Humanities**  
-HUMS 500   
+HUMS 500  
   
 This interdisciplinary seminar examines the capabilities and limitations of computational tools for the humanities, especially textual interpretation and literary studies. The class will acquaint participants with methodological and epistemological issues and case studies in the digital humanities, considering how digital methods can supplement (not replace) humanistic modes of inquiry. Participants from both humanities and non-humanities disciplines are welcome. Prior experience with computation is not necessary.  
   <br>
