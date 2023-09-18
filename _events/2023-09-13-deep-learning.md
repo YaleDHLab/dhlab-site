@@ -14,7 +14,7 @@ categories:
 tags:
   - Artificial Intelligence
   - Training
-teaser: |
+teaser: >
   Learn about the possibilities and ethical pitfalls of using artificial intelligence methods for humanities research in this interactive, two-part virtual workshop, led by Nicole Cosme-Clifford.
 ---
 ### Overview

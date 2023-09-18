@@ -7,7 +7,7 @@ dates:
   - 2023-04-27
 time: 11 a.m.-12:30 p.m. EST
 location: Online
-thumbnail: /assets/images/events/dh-foumdations.jpg
+thumbnail: /assets/images/events/dh-foundations.jpg
 alt: Painting of two people rowing a boat
 registerurl: https://schedule.yale.edu/event/10576429
 categories:
