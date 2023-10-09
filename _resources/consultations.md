@@ -10,7 +10,7 @@ alt: Faculty in consultation with digital scholarship staff at DH workstation in
 
 ### Digital Humanities Lab
 
-A unit of Yale University Library, the Digital Humanities Lab (DHLab) offers individual and group consultations for digital humanities projects at any stage of development, from conceptualization through implementation. Staff can address questions related to project scope, planning, best practices, data management, tool selection, and more. In addition to scheduled individual meetings, the DHLab also offers weekly [Office Hours](http://dhlab.yale.edu/resources/office-hours.html) as another opportunity to discuss projects or general digital humanities brainstorming.  
+A unit of Yale University Library, the Digital Humanities Lab (DHLab) offers individual and group consultations for digital humanities projects at any stage of development, from conceptualization through implementation. Consultations are held by members of the DHLab staff and by our graduate student DH Consultants. With a variety of academic backgrounds and areas of expertise, we can provide guidance on a wide range of DH-related topics and can address questions related to project scope, planning, best practices, data management, tool selection, and more.    
 
 To schedule an appointment with a member of the DHLab's staff, please use our [bookings form](https://outlook.office365.com/owa/calendar/DHLabBookings@yale.edu/bookings/).  <br/>
 
