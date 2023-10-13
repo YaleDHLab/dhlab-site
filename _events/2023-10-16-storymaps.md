@@ -17,7 +17,7 @@ teaser: >
 ---
 
 ### ArcGIS StoryMaps: Tell the Story of Your Research with Place-Based Multimedia Narratives
-<a href='https://storymaps.arcgis.com/en/' target='blank'>ArcGIS StoryMaps</a>, which combine maps and multimedia content to enable web-based storytelling, have become a popular tool for researchers. They’re being used to communicate complicated analyses, present final projects, and even provide visual resumes. In this session, you will learn the ABCs of StoryMaps, including what they are and how their builder functions make it possible to easily create rich multimedia narratives. In addition to describing new and upcoming features of StoryMaps, the workshop will  include a lecture on copyright considerations when building a StoryMap and a lightning talk to showcase a Yale StoryMap Gallery from Dr. Maria Moreno's courses.  
+<a href='https://storymaps.arcgis.com/en/' target='_blank'>ArcGIS StoryMaps</a>, which combine maps and multimedia content to enable web-based storytelling, have become a popular tool for researchers. They’re being used to communicate complicated analyses, present final projects, and even provide visual resumes. In this session, you will learn the ABCs of StoryMaps, including what they are and how their builder functions make it possible to easily create rich multimedia narratives. In addition to describing new and upcoming features of StoryMaps, the workshop will  include a lecture on copyright considerations when building a StoryMap and a lightning talk to showcase a Yale StoryMap Gallery from Dr. Maria Moreno's courses.  
 
 ### Program
 What Are ArcGIS StoryMaps?  
