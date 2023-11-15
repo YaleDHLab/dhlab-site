@@ -18,7 +18,7 @@ teaser: >
 ### Overview
 Are you having a hard time finding data for your project? Have you been thinking about turning to manual data collection (such as archival visits, surveys, and health record transcription) or web scraping to get the data you need?  
 
-In this virtual workshop, co-hosted by staff from the Whitney/Cushing Medical Library and the Digital Humanities Lab (DHLab), participants will learn about four advanced data collection methods: manual data collection, web scraping, data requests, and application programming interfaces (APIs). In considering the benefits and drawbacks of these methods, participants also will learn how to select the best method of data collection for their own project goals.  
+In this virtual workshop, co-hosted by staff from the Harvey Cushing/John Hay Whitney Medical Library and the Digital Humanities Lab (DHLab), participants will learn about four advanced data collection methods: manual data collection, web scraping, data requests, and application programming interfaces (APIs). In considering the benefits and drawbacks of these methods, participants also will learn how to select the best method of data collection for their own project goals.  
 
 ### About the Workshop Leaders
 **Kaitlin Throgmorton** is the Data Librarian for the Health Sciences at the Harvey Cushing/John Hay Whitney Medical Library.
