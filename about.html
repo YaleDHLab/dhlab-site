@@ -59,7 +59,7 @@ title: About
   </div>
 
   {% include text/center_section_title.html
-    text='OUR TEAM'
+    text='OUR CORE TEAM'
     id='team'
   %}
 
@@ -71,8 +71,7 @@ title: About
   </div>
 
   {% capture left_text %}
-    <p>Digital Humanities Consultants provide a variety of DH project support, and offer research guidance to Yale faculty, staff, and students.</p>
-    {% include about/personnel_list.html items=site.data.consultants.left %}
+    <p>Digital Humanities Consultants provide a variety of DH project support, and offer research guidance to Yale faculty, staff, and students during Office Hours.</p>
   {% endcapture %}
 
   {% capture right_text %}
@@ -91,5 +90,29 @@ title: About
       right_button_url = right_button_url
       right_button_label = 'Student Jobs'
     %}
+  </div>
+
+  {% include text/center_section_title.html
+    text='OUR GENERALIST CONSULTANTS'
+    id='generalists'
+  %}
+
+  <div class='color-background circle-caret'>
+    {% assign team_members = site.team | where:'group','generalist_consultants' | sort: 'order' %}
+    {% for team_member in team_members %}
+      {% include about/team_member.html team_member=team_member %}
+    {% endfor %}
+  </div>
+
+  {% include text/center_section_title.html
+    text='OUR SPECIALIST CONSULTANTS'
+    id='specialists'
+  %}
+
+  <div class='color-background circle-caret'>
+    {% assign team_members = site.team | where:'group','specialist_consultants' | sort: 'order' %}
+    {% for team_member in team_members %}
+      {% include about/team_member.html team_member=team_member %}
+    {% endfor %}
   </div>
 </div>
