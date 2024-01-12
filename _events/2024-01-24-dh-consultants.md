@@ -45,6 +45,6 @@ Sterling Memorial Library
 120 High Street, New Haven, CT 06511  
   
 ### Registration  
-All are invited to attend! To register, please visit <a href='https://forms.gle/qBoBnbAxKkEq28vs9' target='_blank'>the Eventbrite page for this event</a>.  
+All are invited to attend! To register, please visit <a href='https://www.eventbrite.com/e/meet-the-consultants-in-the-dhlab-tickets-790301622427?aff=oddtdtcreator' target='_blank'>the Eventbrite page for this event</a>.  
 
 *Be among the first to know when future events are announced by signing up for the <a href='https://subscribe.yale.edu/browse?search=digital+humanities' target='_blank'>DHLab’s newsletter</a>.*
