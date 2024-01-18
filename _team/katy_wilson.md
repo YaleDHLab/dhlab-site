@@ -1,5 +1,5 @@
 ---
-name: Kimberly Lifton
+name: Katy Wilson
 role: DH Generalist Consultant
 image: /assets/images/about/team/KW-sq.jpg
 order: 3
