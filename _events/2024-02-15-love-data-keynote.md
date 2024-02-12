@@ -1,5 +1,5 @@
 ---
-title: '"That's My Kind of Data": The Love Data Week Keynote'
+title: "\"That's My Kind of Data\": The Love Data Week Keynote"
 date: 2024-02-15
 time: 4-5 p.m. EST
 location: Online
