@@ -9,7 +9,7 @@ funded: false
 team:
   - name: Fabian Drixler
     position: Professor of History
-  - name: Henry Barnes
+  - name: Ingrid Barnes
     position: Visiting Assistant in Research
   - name: Yuki Hoshino
     position: Postgraduate Associate
