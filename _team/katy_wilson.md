@@ -2,7 +2,7 @@
 name: Katy Wilson
 role: DH Generalist Consultant
 image: /assets/images/about/team/KW-sq.jpg
-order: 2
+order: 3
 group: generalist_consultants
 ---
 
