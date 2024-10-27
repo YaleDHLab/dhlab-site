@@ -38,6 +38,6 @@ Wednesday, November 13, 2024
 Online  
 
 ### Registration
-All are welcome to attend! Please note that registration is required; to sign up, please visit <a href='https://schedule.yale.edu/event/13220903' target='_blank'>the registration page for the workshop</a>.  
+All Yale students, faculty, and staff are welcome to attend! Please note that registration is required; to sign up, please visit <a href='https://schedule.yale.edu/event/13220903' target='_blank'>the registration page for the workshop</a>.  
   
 *Be among the first to know when future workshops are announced by signing up for the <a href='https://subscribe.yale.edu/browse?search=digital+humanities' target='_blank'>DHLab’s newsletter</a>.*
