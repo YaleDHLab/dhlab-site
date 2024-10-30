@@ -2,7 +2,7 @@
 name: Kimberly Lifton
 role: DH Generalist Consultant
 image: /assets/images/about/team/KL-sq.jpg
-order: 1
+order: 2
 group: generalist_consultants
 ---
 

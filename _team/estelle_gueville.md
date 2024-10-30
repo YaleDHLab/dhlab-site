@@ -2,7 +2,7 @@
 name: Estelle Guéville
 role: DH Generalist Consultant
 image: /assets/images/about/team/EG-sq.jpg
-order: 0
+order: 1
 group: generalist_consultants
 ---
 
