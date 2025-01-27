@@ -4,7 +4,8 @@ thumbnail: /assets/images/events/sterling-library.jpg
 alt: Photograph of the nave in Sterling Memorial Library, with people carrying books and walking.
 caption: ""
 
-title: "Spring 2025 DH Classes"image: /assets/images/banners/campus.jpg
+title: "Spring 2025 DH Classes"
+image: /assets/images/banners/campus.jpg
 categories:
   - Courses
 spotlight: false
