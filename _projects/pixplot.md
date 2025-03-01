@@ -18,7 +18,7 @@ permalink: '/projects/pixplot/'
 
 ### Overview
 
-*PixPlot* facilitates the dynamic exploration of tens of thousands of images. Inspired by Benoît Seguin et al.’s paper at DH Krakow (2016), *PixPlot* uses the penultimate layer of a pre-trained convolutional neural network for image captioning to derive a robost featurization space in 2,048 dimensions.
+*PixPlot* facilitates the dynamic exploration of tens of thousands of images. Inspired by Benoît Seguin et al.’s paper at DH Krakow (2016), *PixPlot* uses the penultimate layer of a pre-trained convolutional neural network for image captioning to derive a robust featurization space in 2,048 dimensions.
 
 Initial projects at Yale have used the software to visualize cultural heritage images held in the Beinecke Rare Book & Manuscript Library, Yale Center for British Art, and the Medical Historical Library.
 
