@@ -1,3 +1,6 @@
+# Note: This repository has been archived
+This website was developed under a previous phase of the Yale Digital Humanities Lab. Now a part of Yale Library’s Data and Research Innovation department, the Lab now has an incorporated page as part of the Yale Library website. As such, it will receive no further updates.
+
 # Yale DHLAB Website
 
 [![Build Status](https://travis-ci.org/YaleDHLab/dhlab-site.svg?branch=master)](https://travis-ci.org/YaleDHLab/dhlab-site)
